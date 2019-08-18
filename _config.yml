@@ -13,20 +13,32 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Umut D. | Kişisel Web Sitesi
+email: batu2k@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Bolca programlama, kod ve video eğitim içeren bir teknoloji sitesi. Sade, temiz, minimalist, açık kaynak kodlu ve reklamsız.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.umutd.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 111 #TODO DEĞİŞTİRECEK
+github_username: umut-d
+
+# Plainwite ayarları
+plainwhite:
+  name: Umut D.
+  tagline: Programmer, Developer
+  date_format: "%b %-d. %Y"
+  analytics_id: '' #TODO DEĞİŞTİRECEK
+  sitemap: true
+  show_excerpts: true
+
+  social_links:
+    twitter: umut-d-123
+    github:  umut-d
+    linkedIn: in/umut-d # format: locale/username
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: plainwhite
 plugins:
   - jekyll-feed
 
