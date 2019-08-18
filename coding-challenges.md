@@ -3,7 +3,7 @@ layout: page
 title: Coding Challenges
 ---
 {: style="text-align:center"}
-![Karikatür](/images/karikatur-cc.jpg)
+![Karikatür](/images/nice-try.jpg)
 
 Uzun zamandır aklımda olan bir şeydi Coding Challenges. Nam-ı değer Kodlama Mücadeleleri.
 
