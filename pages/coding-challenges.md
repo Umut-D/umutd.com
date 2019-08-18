@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Coding Challenges
+permalink: coding-challenges
 ---
 {: style="text-align:center"}
 ![Karikatür](/images/nice-try.png)
