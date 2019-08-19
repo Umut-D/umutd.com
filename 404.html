@@ -1,16 +1,8 @@
 ---
-layout: default
+layout: error
 ---
 
 <style type="text/css" media="screen">
-  main .about {
-    display: none;
-  }
-
-  main .content {
-    margin-left: 0px;
-  }
-
   .container {
     margin: 10px auto;
     max-width: 600px;
@@ -35,7 +27,11 @@ layout: default
 
   a:hover {
     text-decoration: underline;
+  }
 
+  .bilgi-404{
+    margin-top: 30px;
+    font-weight: 700;
   }
 </style>
 
@@ -43,8 +39,8 @@ layout: default
   <h1>404</h1>
   <hr>
   <h3><strong>Aradığınız Sayfa Bulunamadı Nedense :(</strong></h3>
-  <p>Lütfen kusura bakmayın. Aradığınız sayfa silinmiş, değiştirilmiş, hatta başını alıp bir yerlere gitmiş olabilir.
-    <br> <br>Fakat sayfa önceden vardı ve şimdi yoksa sitede tuhaf şeyler dönüyordur. Siz yine de kimseye çaktırmayın.
+  <p>Aradığınız sayfa belki hiç olmadı. Fakat sayfa önceden vardı ve şimdi yoksa sitede tuhaf şeyler
+    dönüyordur. Siz yine de kimseye çaktırmayın.
   </p>
-  <p><b><a onclick="window.history.back()">E o zaman geri gidin ne bileyim</a></b></p>
+  <p class="bilgi-404"><a onclick="window.history.back()">E o zaman geri gidin ne bileyim</a></p>
 </div>
