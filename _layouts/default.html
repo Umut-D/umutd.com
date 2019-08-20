@@ -8,19 +8,25 @@
 		<section class="about">
 			<img src="{{ "/assets/umut-d.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
 			<h2>{{ site.plainwhite.name }}</h2>
-			<!-- Menü için çözüm üret -->
-			<p class="tagline"><a href="/">Ana Sayfa</a></p>
-			<p class="tagline"><a href="/coding-challenges">Coding Challenges</p>
-			<p class="tagline"><a href="/programlar">Programlar</p>
-			<p class="tagline"><a href="/video-dersler">Video Dersler</p>
-			<p class="tagline"><a href="/ben">Ben</p>
-			<p class="tagline"><a href="/iletisim">İletişim</p>
-			<ul class="social">
-				<a href="https://github.com/{{ site.plainwhite.social_links.github }}"><li><i class="icon-github-circled"></i></li></a>
-				<a href="https://linkedin.com/{{ site.plainwhite.social_links.linkedIn }}"><li><i class="icon-linkedin-squared"></i></li></a>
-				<a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}"><li><i class="icon-twitter-squared"></i></li></a>
+			<ul id="menu">
+				<li><a href="/">Ana Sayfa</a></li>
+				<li><a href="/coding-challenges">Coding Challenges</a></li>
+				<li><a href="/programlar">Programlar</a></li>
+				<li><a href="/video-dersler">Video Dersler</a></li>
+				<li><a href="/ben">Ben</a></li>
 			</ul>
-			<p class="altbilgi">Powered by Jekyll + Github</p>
+			<ul class="social">
+				<a href="https://github.com/{{ site.plainwhite.social_links.github }}">
+					<li><i class="icon-github-circled"></i></li>
+				</a>
+				<a href="https://linkedin.com/{{ site.plainwhite.social_links.linkedIn }}">
+					<li><i class="icon-linkedin-squared"></i></li>
+				</a>
+				<a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}">
+					<li><i class="icon-twitter-squared"></i></li>
+				</a>
+			</ul>
+			<p class="altbilgi">Powered by <strong>Jekyll</strong> & <strong>Github</strong></p>
 		</section>
 		<section class="content">
 			{{ content }}
