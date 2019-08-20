@@ -28,7 +28,7 @@ plainwhite:
   name: Umut D.
   tagline: Programmer, Developer
   date_format: "%b %-d. %Y"
-  analytics_id: '' #TODO DEĞİŞTİRECEK
+  analytics_id: 'UA-39578410-1'
   sitemap: true
   show_excerpts: true
 

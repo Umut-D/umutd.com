@@ -15,7 +15,7 @@ Bir web sitesi, 3 farklı şehirden **(a, b, c)** benzersiz ziyaretçiler almakt
 | a: 200, b: 100, c: 450 | 100 200 450 |
 
 ### Çözüm - C#
-{% highlight csharp %}
+```csharp
 using System;
 using System.Collections;
 
@@ -42,10 +42,10 @@ public class Program
         Console.Read();
     }
 }
-{% endhighlight %}  
+```
 
 ### Çözüm - Java
-{% highlight java %}
+```java
 import java.util.ArrayList;
 import java.util.Collections;
  
@@ -71,4 +71,4 @@ public class Main {
         }
     }
 }
-{% endhighlight %}
+```

@@ -3,15 +3,11 @@
 
 @import "plain";
 
-body {
-    background: #fafbfc
-}
-
 main {
     margin: 0 135px;
 }
 main .about {
-    height: 110vh;
+    height: 105vh;
 }
 
 main .about img {
@@ -57,3 +53,6 @@ main .altbilgi{
     padding-left: 20px;
 }
 
+pre.highlight, code {
+    line-height: 1.3em;
+}
