@@ -15,10 +15,10 @@ Siteye giren toplam ziyaretçilerin **(tk)** sayısı ile, hemen çıkma oranı 
 
 ### Örnek
 
-| Girdi           | Çıktı |
-|-----------------|-------|
-| tk: 1000, b: 25 | 750   |
-| tk: 835, b: 17  | 693   |
+| Girdi                   | Çıktı |
+|-------------------------|-------|
+| **tk**: 1000, **b**: 25 | 750   |
+| **tk**: 835, **b**: 17  | 693   |
 
 ### Çözüm - C#
 ```csharp

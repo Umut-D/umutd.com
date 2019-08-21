@@ -3,8 +3,9 @@
 
 @import "plain";
 
+/* Telefonda çuvallıyor # !Dikkat et*/
 main {
-    margin: 0 135px;
+    margin: 0 135px; 
 }
 main .about {
     height: 105vh;
@@ -49,10 +50,37 @@ main .altbilgi{
     font-size: 15px;
 }
 
-.post-container {
-    padding-left: 20px;
+#posts-label {
+    font-weight: 900;
+}
+
+.posts, .post-container {
+    margin: 30px 0px;
+}
+.post-categories {
+    padding: 10px 0;
 }
 
 pre.highlight, code {
     line-height: 1.3em;
+    white-space: pre-wrap;
 }
+
+h2 {
+    margin: 0.1em 0;
+}
+
+
+    table {
+    border-collapse: collapse;
+  }
+   th {
+    background: #f4f4f4;
+  }
+  
+  th, td {
+    border: 1px solid #d8d3d3;
+    padding: 5px 20px 5px 20px;
+  }
+
+ 
