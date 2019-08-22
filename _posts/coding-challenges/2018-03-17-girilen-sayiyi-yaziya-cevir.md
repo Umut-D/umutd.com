@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Girilen Sayıyı Yazıya Çevir
-date: 2018-03-07 19:33 +0300
+date: 2018-03-17 19:33 +0300
 categories: Coding-Challenges
 tags: Dönüşüm, Sayıyı Yazıya Çevirme
 ---

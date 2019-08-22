@@ -1,7 +1,7 @@
 ---
 layout: post
 title: N'inci Büyük Sayı
-date: 2018-02-10 19:33 +0300
+date: 2018-02-10 05:33 +0300
 categories: Coding-Challenges
 tags: Büyük Sayı, İç İçe Döngü, Sıralama
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ortadaki Harf
-date: 2018-02-03 19:33 +0300
+date: 2018-03-31 19:33 +0300
 categories: Coding-Challenges
 tags: Dizi, Orta, Ortanca
 ---

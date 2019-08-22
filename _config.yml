@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.umutd.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title
+paginate: 5
 twitter_username: 111 #TODO DEĞİŞTİRECEK
 github_username: umut-d
 
@@ -42,6 +43,7 @@ markdown: kramdown
 theme: plainwhite
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

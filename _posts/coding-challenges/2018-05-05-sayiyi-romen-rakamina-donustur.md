@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sayısı Romen Rakamına Dönüştür
-date: 2018-04-28 19:33 +0300
+title: Sayıyı Romen Rakamına Dönüştür
+date: 2018-05-05 19:33 +0300
 categories: Coding-Challenges
 tags: Dönüşüm, Romen Rakamı, Romen Sayısı
 ---

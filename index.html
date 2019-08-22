@@ -1,0 +1,53 @@
+---
+layout: home
+---
+<ul class="posts">
+	<li>
+		<h1 id="posts-label">Son Yazılar</h1>
+	</li>
+	{%- for post in paginator.posts -%}
+	<li>
+		{%- assign date_format = site.minima.date_format | default: "%d/%m/%Y" -%}
+		<a class="post-link" href="{{ post.url | relative_url }}">
+			<h2 class="post-title">{{ post.title | escape }}</h2>
+		</a>
+		<div class="post-meta">
+			<ul class="post-categories">
+				{%- for tag in post.categories -%}
+				<li>{{ tag }}</li>
+				{%- endfor -%}
+			</ul>
+			<div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
+		</div>
+		<div class="post">
+			{{ post.excerpt }}
+		</div>
+	</li>
+	{%- endfor -%}
+</ul>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Önceki</a>
+  {% else %}
+    <span>&laquo; Önceki</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Sonraki &raquo;</a>
+  {% else %}
+    <span>Sonraki &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}

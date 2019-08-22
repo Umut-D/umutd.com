@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Armstrong Sayısı
-date: 2018-02-03 19:33 +0300
+date: 2018-04-21 19:33 +0300
 categories: Coding-Challenges
 tags: Armstrong Sayısı, Narsist Sayılar
 ---
