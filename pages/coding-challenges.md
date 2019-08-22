@@ -2,10 +2,8 @@
 layout: page
 title: Coding Challenges
 permalink: coding-challenges
+image: nice-try.png
 ---
-{: style="text-align:center"}
-![Karikatür](/images/nice-try.png)
-
 Uzun zamandır aklımda olan bir şeydi Coding Challenges. Nam-ı değer Kodlama Mücadeleleri.
 
 Bahsi geçen kodlama mücadeleleri kah benim aklıma gelen, kah yabancı sitelerde gördüğüm (Talentbuddy, Codewars…) örneklerden oluşuyor. Sonuç, yani çözüm noktasında ise çözümler tamamen bana ait. İşin Complexity (karmaşıklık) durumlarına hiç girmeden, kod izolasyonu yapmadan üretilen çözümler. Ancak sizler de ilgili sorulara kendinizce çözümler getirip algoritmalar üretebilir ve aynı sonuçlara farklı yollardan ulaşabilirsiniz. En nihayetinde programcılıkta da her yiğidin kod yazış şekli, tercih ettiği metot, sistem, tasarım desenleri vs. farklı.
