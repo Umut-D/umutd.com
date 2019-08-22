@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rakamlarıi Rakama Göre Tekrar Yaz
+title: Rakamları Rakama Göre Tekrar Yaz
 date: 2018-03-24 19:33 +0300
 categories: Coding-Challenges
 tags: İç İçe Döngü, Tekrar

@@ -6,12 +6,9 @@ categories: Coding-Challenges
 tags: Tahmin, Ziyaretçi Sayısı Tahmini
 ---
 ### Soru
-Bir web sitesini gelen benzersiz ziyaretçi oranı, bir önceki haftaya göre düzenli olarak %7 oranında artmaktadır.
+Bir web sitesini gelen benzersiz ziyaretçi oranı, bir önceki haftaya göre düzenli olarak %7 oranında artmaktadır. Siteye giren benzersiz ziyaretçilerin **(bz)** sayısı ile, geçecek hafta **(h)** sayısı programcıya verilmiştir. 
 
-Siteye giren benzersiz ziyaretçilerin **(bz)** sayısı ile, geçecek hafta **(h)** sayısı programcıya verilmiştir. Bu noktada programcıdan;
-
-- **h** hafta geçtikten sonra benzersiz ziyaretçi sayısının kaç olacağını,
-- (eğer varsa) ondalık sayıya sahip sonuçları (örn. 2.1 veya 2.9) aşağı yuvarlayarak bulması istenmektedir.
+Bu noktada programcıdan; **h** hafta geçtikten sonra benzersiz ziyaretçi sayısının kaç olacağını ve (eğer varsa) ondalık sayıya sahip sonuçları (örn. 2.1 veya 2.9) aşağı yuvarlayarak bulması istenmektedir.
 
 ### Örnek
 

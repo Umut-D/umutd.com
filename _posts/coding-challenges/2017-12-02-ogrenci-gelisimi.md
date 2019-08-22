@@ -6,10 +6,9 @@ categories: Coding-Challenges
 tags: Gelişim, Öğrenci Gelişimi, İlerleme
 ---
 ### Soru
-Bir laboratuvar dersini alan öğrencilere dönem içerisinde 4 adet quiz yapılmaktadır. Öğrencilerden, girdikleri her quizde gelişim göstererek ya önceki sınavlarındaki aynı notu ya da sınavdan daha yüksek notu alarak gelişim göstermesi beklenmektedir. 5 quiz sonrasında öğrencilerine Quiz 1, Quiz 2, Quiz 3, Quiz 4 notları Quiz Sonuçları **(qs)** adıyla sisteme girilmiştir. Bu noktada programcıdan;
+Bir laboratuvar dersini alan öğrencilere dönem içerisinde 4 adet quiz yapılmaktadır. Öğrencilerden, girdikleri her quizde gelişim göstererek ya önceki sınavlarındaki aynı notu ya da sınavdan daha yüksek notu alarak gelişim göstermesi beklenmektedir. 5 quiz sonrasında öğrencilerine Quiz 1, Quiz 2, Quiz 3, Quiz 4 notları Quiz Sonuçları **(qs)** adıyla sisteme girilmiştir. 
 
-- Öğrenci(ler)in quiz notlarının bir önceki sınavına eşit veya artan şekilde olduğunu bulması ve eğer gelişim gösteren öğrenciler varsa bu öğrenci(ler) için “Başarılı” yazması,
-- Öğrenci(ler)in quiz notlarının bir önceki sınava göre azalma varsa bu öğrenci(ler) için “Başarısız” yazması istenmektedir.
+Bu noktada programcıdan; öğrenci(ler)in quiz notlarının bir önceki sınavına eşit veya artan şekilde olduğunu bulması ve eğer gelişim gösteren öğrenciler varsa bu öğrenci(ler) için “Başarılı” yazması; ayrıca öğrenci(ler)in quiz notlarının bir önceki sınava göre azalma varsa bu öğrenci(ler) için “Başarısız” yazması istenmektedir.
 
 ### Örnek
 

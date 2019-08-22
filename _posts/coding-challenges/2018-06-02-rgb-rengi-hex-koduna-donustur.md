@@ -8,7 +8,7 @@ tags: RGB, HEX, Renk Dönüşümü, Dönüşüm
 ### Soru
 Programcıya, içerisinde 0 ila 255 değerleri arasında olan 3 farklı RGB değeri **(kirmiziDegeri, yesilDegeri, MaviDegeri)** veriliyor. Bu noktadan sonra ise programcıdan, girilen sayısal değerleri 16’lık Hexadecimal koda dönüştürmesi isteniyor.
 
--**Açıklama**: RGB Renk, monitör gibi elektronik cihazların ışık kullanarak renk yaratmasını sağlayan bir renk modelidir ve üç temel rengin (kırmızı, yeşil, mavi) farklı yoğunluklarda kullanılarak renk gamından istenilen rengin elde edilmesine dayanır.
+> **RGB Renk**, monitör gibi elektronik cihazların ışık kullanarak renk yaratmasını sağlayan bir renk modelidir ve üç temel rengin (kırmızı, yeşil, mavi) farklı yoğunluklarda kullanılarak renk gamından istenilen rengin elde edilmesine dayanır.
 
 ### Örnek
 

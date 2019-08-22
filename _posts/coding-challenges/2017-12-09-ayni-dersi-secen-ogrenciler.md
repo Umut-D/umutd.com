@@ -6,10 +6,9 @@ categories: Coding-Challenges
 tags: Ders Seçimi, Ders Alma
 ---
 ### Soru
-Bir üniversitede okuyan öğrenciler A **(aDersiniAlanlar)** veya B **(bDersiniAlanlar)** dersini seçmişlerdir. Bazı öğrenciler ise hem A hem B dersini seçmiştir. A ve B derslerinin danışman hocası her iki dersi alan, ortak öğrencileri görmek istemektedir. Bu noktada programcıdan istenen;
+Bir üniversitede okuyan öğrenciler A **(aDersiniAlanlar)** veya B **(bDersiniAlanlar)** dersini seçmişlerdir. Bazı öğrenciler ise hem A hem B dersini seçmiştir. A ve B derslerinin danışman hocası her iki dersi alan, ortak öğrencileri görmek istemektedir. 
 
-- Her iki dersi de alan öğrenci numaralarını tespit etmesi,
-- İlgili öğrenci numaralarını sıralı bir şekilde yazması istenmektedir.
+Bu noktada programcıdan istenen; her iki dersi de alan öğrenci numaralarını tespit etmesi ve ilgili öğrenci numaralarını sıralı bir şekilde yazması istenmektedir.
 
 ### Örnek
 

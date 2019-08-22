@@ -21,8 +21,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.umutd.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title
 paginate: 5
-twitter_username: 111 #TODO DEĞİŞTİRECEK
-github_username: umut-d
 
 # Plainwite ayarları
 plainwhite:
@@ -34,9 +32,9 @@ plainwhite:
   show_excerpts: true
 
   social_links:
-    twitter: umut-d-123
+    stack_overflow: umut-d
     github:  umut-d
-    linkedIn: in/umut-d # format: locale/username
+    youtube: umutdokel
 
 # Build settings
 markdown: kramdown

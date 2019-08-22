@@ -6,10 +6,9 @@ categories: Coding-Challenges
 tags: Geçen Öğrenci Sayısı, Ortalama, Dersten Geçme
 ---
 ### Soru
-Bir kursta yer alan öğrencilerin final notları **(fn)** elektronik ortama girilmiştir. Dersin öğretmeni ise sınıfın sene içindeki durumuna göre dersin geçme notunu **(gn)** kendisi belirlemektedir. Bu noktada ise programcıdan;
+Bir kursta yer alan öğrencilerin final notları **(fn)** elektronik ortama girilmiştir. Dersin öğretmeni ise sınıfın sene içindeki durumuna göre dersin geçme notunu **(gn)** kendisi belirlemektedir. 
 
-- girilen dersten geçme notuna istinaden kaç öğrencinin dersten geçtiğini **(gs)** bulması,
-- (bonus) sınıfın ortalamasını **(ort)** hesaplaması istenmektedir.
+Bu noktada ise programcıdan; girilen dersten geçme notuna istinaden kaç öğrencinin dersten geçtiğini **(gs)** bulması ve (bonus) sınıfın ortalamasını **(ort)** hesaplaması istenmektedir.
 
 ### Örnek
 

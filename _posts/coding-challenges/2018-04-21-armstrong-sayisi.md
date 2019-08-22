@@ -8,7 +8,7 @@ tags: Armstrong Sayısı, Narsist Sayılar
 ### Soru
 Programcıya, rastgele bir sayı **(girilenSayi)** veriliyor. Programcıdansa, ilgili sayının bir Armstrong sayısı*/Narsist sayı* olup olmadığını bulan, eğer sonuç doğru ise “Evet, bu bir Armstrong sayısıdır.”, yanlış ise “Hayır, bu bir Armstrong sayısı değildir!” yazan bir program oluşturması isteniyor.
 
--**Açıklama**: N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, girilen sayının yine kendisine eşitse, bu türden sayı ya da sayılara Armstrong sayısı veya Narsist sayı denir. Örneğin; 153 sayısı, 3 hanelidir. İşlemsel olaraksa; 1^3 + 5^3 + 3^3 = 153 eder. Sayının kendisi, işlem sonucunda elde edilen sayıya eşit ise bu bir Armstrong sayısıdır.
+> **Armstrong Sayısı**, N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, girilen sayının yine kendisine eşitse, bu türden sayı ya da sayılara Armstrong sayısı veya Narsist sayı denir. Örneğin; 153 sayısı, 3 hanelidir. İşlemsel olaraksa; 1^3 + 5^3 + 3^3 = 153 eder. Sayının kendisi, işlem sonucunda elde edilen sayıya eşit ise bu bir Armstrong sayısıdır.
 
 ### Örnek
 

@@ -8,10 +8,9 @@ tags: Hemen Çıkma Oranı, Web Analitik
 ### Soru
 Bir web sitesini, çeşitli zamanlarda farklı kullanıcılar ziyaret etmektedir. Siteye giren kullanıcıların sitede geçirdikleri zamanlar birbirinden farklıdır ve sitede kaldıkları bu sürenin kaydı tutulmaktadır.
 
-Siteye giren toplam ziyaretçilerin **(tk)** sayısı ile, hemen çıkma oranı (sitede 10 saniyeden az kalıp giden) yüzdesine **(h)** sahip olan ziyaretçilerin oranı verilmiştir. Bu noktada ise programcıdan;
+Siteye giren toplam ziyaretçilerin **(tk)** sayısı ile, hemen çıkma oranı (sitede 10 saniyeden az kalıp giden) yüzdesine **(h)** sahip olan ziyaretçilerin oranı verilmiştir. 
 
-- sitede kalmaya devam eden ziyaretçilerin sayısını bulması,
-- (eğer varsa) ondalık sayıya sahip sonuçları (örn. 7.1 veya 7.9) aşağı yuvarlaması istenmektedir.
+Bu noktada ise programcıdan; sitede kalmaya devam eden ziyaretçilerin sayısını bulması ve (eğer varsa) ondalık sayıya sahip sonuçları (örn. 7.1 veya 7.9) aşağı yuvarlaması istenmektedir.
 
 ### Örnek
 
