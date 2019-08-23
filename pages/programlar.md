@@ -2,6 +2,7 @@
 layout: page
 title: Programlar
 permalink: programlar
+image: programlar.jpeg
 ---
 Çok sevdiğim C# programlama dilinde kah can sıkısına, kah hevesten, kah paslanmamaktan, kah ihtiyaçtan dolayı yazdığım gereksizin önde giden tuhaf programların listesi… İsteyen, ilgilenen arkadaşlar proje dosyalarını indirip veya kodlara Github sayfamdan erişip bunları geliştirerek programın hayat döngüsünün uzamasına ve gelişmesine destek verebilirler. Öneriler de gönderebilirsiniz. Hiç fark etmez, hepsinde über mutlu olurum.
 

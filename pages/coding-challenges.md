@@ -2,19 +2,17 @@
 layout: page
 title: Coding Challenges
 permalink: coding-challenges
-image: nice-try.png
+image: coding-challenges.png
 ---
-Uzun zamandır aklımda olan bir şeydi Coding Challenges. Nam-ı değer Kodlama Mücadeleleri.
+Uzun zamandır aklımda olan bir şeydi Coding Challenges'a (nam-ı değer Kodlama Mücadeleleri) dair bir bölüm oluşturmak. Bahsi geçen kodlama mücadeleleri kah aklıma gelen, kah yabancı sitelerde (Talentbuddy, Codewars...) görüp çözdüğüm sorulardan oluşuyor. Yani çözümler tamamen bana ait ve kafama göre. En nihayetinde programcılıkta da her yiğidin kod yazış şekli, tercih ettiği metot, sistem, tasarım desenleri vs. farklı. İşin Complexity (karmaşıklık) durumlarına hiç girmeden, dağlara taşlara kod izolasyonu yapmadan üretilen çözümler bunlar. Gerçi ilgili sitelerde karmaşıklık, kod tutarlılığı gibi başlıklara bakılarak çözümler kabul ediliyor ya neyse. 
 
-Bahsi geçen kodlama mücadeleleri kah benim aklıma gelen, kah yabancı sitelerde gördüğüm (Talentbuddy, Codewars…) örneklerden oluşuyor. Sonuç, yani çözüm noktasında ise çözümler tamamen bana ait. İşin Complexity (karmaşıklık) durumlarına hiç girmeden, kod izolasyonu yapmadan üretilen çözümler. Ancak sizler de ilgili sorulara kendinizce çözümler getirip algoritmalar üretebilir ve aynı sonuçlara farklı yollardan ulaşabilirsiniz. En nihayetinde programcılıkta da her yiğidin kod yazış şekli, tercih ettiği metot, sistem, tasarım desenleri vs. farklı.
+Ben bu soruların cevaplarımda *C#* ve *Java* dilleriyle çözüm bulmayı tercih ediyorum. Eğer ilginiz varsa mevcut soruları sizler de kendi bildiğiniz bir programlama dilinde yapabilir, hatta bahsi geçen siteye üye olup aksiyona katılabilirsiniz.
 
-Ben bu soruların cevaplarımda C# ve Java dilleriyle çözüm bulmayı tercih edeceğim. Soruları siz de kendi bildiğiniz bir programlama dilinde yapabilir ve bahaneyle kodlama ve beyin jimnastiği yapabilirsiniz.
-
-**4. Seviye**
+### 4. Seviye
 
 * [Sayıyı Romen Rakamına Dönüştür](/coding-challenges/sayiyi-romen-rakamina-donustur/)
 
-**5. Seviye**
+### 5. Seviye
 
 * [Yazıdaki Saniyeleri Okunabilir Zamana Dönüştür](/coding-challenges/saniyeleri-okunabilir-zamana-donustur/)
 * [Yazıdaki Harflerin Yerini Tekrar Tekrar Değiştir](/coding-challenges/yazidaki-harflerin-yerini-tekrar-tekrar-degistir/)
@@ -28,7 +26,7 @@ Ben bu soruların cevaplarımda C# ve Java dilleriyle çözüm bulmayı tercih e
 * [Karmaşık Harfler Kelime İçinde Var Mı?](/coding-challenges/karmasik-harfler-kelime-icinde-var-mi/)
 * [Sayıları Say](/coding-challenges/sayilari-say/)
 
-**6. Seviye**
+### 6. Seviye
 
 * [Sayıyı Virgülle Düzenle](/coding-challenges/sayiyi-virgulle-duzenle/)
 * [Sayıları Basamaklı Halde Yaz](/coding-challenges/sayilari-basamakli-halde-yaz/)
@@ -52,7 +50,7 @@ Ben bu soruların cevaplarımda C# ve Java dilleriyle çözüm bulmayı tercih e
 * [N'inci Büyük Sayı](/coding-challenges//n-inci-buyuk-sayi/)
 * [Harf ve Cümle Sayısı](/coding-challenges/harf-ve-cumle-sayisi/)
 
-**7. Seviye**
+### 7. Seviye
 
 * [Dost Mu, Düşman Mı](/coding-challenges/dost-mu-dusman-mi)
 * [İki Metini Tek Metin Haline Getir](/coding-challenges/iki-metini-tek-metin-haline-getir/)
@@ -78,7 +76,7 @@ Ben bu soruların cevaplarımda C# ve Java dilleriyle çözüm bulmayı tercih e
 * [Öğrenci Gelişimi](/coding-challenges/ogrenci-gelisimi/)
 * [Eksik Sayı](/coding-challenges/eksik-sayi/)
 
-**8. Seviye**
+### 8. Seviye
 
 * [Girilen Sayıyı Yazıya Çevir](/coding-challenges/girilen-sayiyi-yaziya-cevir/)
 * [Dersten Geçen Öğrenci Sayısı](/coding-challenges/dersten-gecen-ogrenci-sayisi/)
