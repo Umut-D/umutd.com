@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Kelime Sonlarına "Ay" Ekle
-date: 2018-05-28 19:33 +0300
+title: Kelime Sonlarına Ay Ekle
+date: 2018-12-08 19:33 +0300
 categories: Coding-Challenges
 tags: Metin, Karakter Ekleme
 ---
