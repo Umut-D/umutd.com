@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: page-plugin
 title: Video Dersler
 permalink: video-dersler
 image: video-dersler.png
 ---
 Başta Adobe Dreamweaver ve Wordpress olmak üzere çok çeşitli alanlarda video eğitimler... Biraz eskidiler ben gibi. Ama bir fikir vermek veya spesifik bir konu hakkında bilgi almak  açısından işe yarayacaklarına dair inancım tam.
+
+[video link](https://youtu.be/iWowJBRMtpc?t=90s)
 
 **Adobe Dreamweaver CS6**
 
