@@ -2,7 +2,7 @@
 layout: page-plugin
 title: Video Dersler
 permalink: video-dersler
-image: video-dersler.png
+image: pages/video-dersler.png
 ---
 *Adobe Dreamweaver*, *Wordpress* ve *Diğer Dersler* olmak üzere nispeten 3 farklı kategoride çeşitli video eğitimler. İlk ikisi tam eğitim. Diğer Dersler ise daha spesifik konular üzerine... Biraz eskidiler ben gibi. Ama bir fikir vermek veya spesifik bir konu hakkında bilgi almak açısından işe yarayacaklarına dair inancım tam.
 

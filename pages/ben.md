@@ -2,7 +2,7 @@
 layout: page
 title: Ben
 permalink: ben
-image: ben.jpg
+image: pages/ben.jpg
 ---
 1982 yılında Zonguldak'ta doğdu. Güzel bir çocukluk döneminin ardından, gençliğe yatay geçiş dönemine dek karakterini sağlam temeller üzerine inşa etmeye çalıştı. Anneciğine 1996 yılında "ders çalışmak için kullanacağı" yalanını sıkarak aldırdığı, fakat bol bol Fifa 97 oynadığı bilgisayar ve 1998′de "bilimsel araştırmalar yapacağı" palavrasıyla abone oldurttuğu internet tüm hayatını değiştirdi. İlk parasını çok sevdiği bilgisayar sayesinde kazandı. Ama ne hikmetse o parayı saklamayı, ileride çerçeveletip odasına asmayı akıl edemedi. O parayı ne için harcadığını ise hiç mi hiç hatırlamıyor. 2000′lerde bilgisayar piyayasıyla fazlasıyla haşır neşir oldu. Yeni yeni ıcığını cıcığını öğrendiği bilgisayarı, gerek uzmanından gerekse tüm harçlığını vererek satın aldığı bilgisayar kitaplarından öğrendi. Zaman içinde Reverse Engineering'e (nam-ı değer Cracking'e) bile bulaştı. Türk ve yabancı sitelerde o progam, bu crackme nasıl kırılır tandanslı yazıları bile var! Hepsi birer nostalji abidesi.
 

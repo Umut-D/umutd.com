@@ -2,7 +2,7 @@
 layout: page
 title: İletişim
 permalink: iletisim
-image: iletisim.jpg
+image: pages/iletisim.jpg
 ---
 Benimle iletişime geçmek, soru sormak için aşağıdaki formu doldurmanız ve gönder’e basmanız yeterli. Özenle yazıp gönderdiğiniz mesajınız dönüp dolaşıp bana ulaşacaktır.
 
