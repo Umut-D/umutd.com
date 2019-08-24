@@ -15,8 +15,8 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a gön
 #### Ayrıca, bu "Lüzumsuz İşler Müdürü"nün"
 1. Yazdığı abidik gubidik programlara çeşitli indirme sitesi ve forumlarda rastlanabilmekte.
 2. Video derslerine;
-- Tabi ki [Youtube](https://www.youtube.com/user/UmutDokel/about?disable_polymer=1){:target="_blank"} (~700.000 izlenme),
-- [Sanalkurs](https://sanalkurs.net/batu2k){:target="_blank"} (~420.000 izlenme)
+- Tabi ki [Youtube](https://www.youtube.com/user/UmutDokel/about?disable_polymer=1){:target="_blank"},
+- [Sanalkurs](https://sanalkurs.net/batu2k){:target="_blank"},
 - [Çizgi-Tagem](https://www.cizgi-tagem.org/e-kampus-egitim/){:target="_blank"} (2 adet eğitim DVD'si var. Torrent, FTP ve Web'den indirilebilir)
 - ~~TÜBİTAK ULAKBİM sunucuları~~,
 - [Fatih Belediyesi E-Hizmetler](http://www.fatih.bel.tr/icerik/10240/toplam-14000-saat-ve-16872-video/){:target="_blank"},   
@@ -25,3 +25,9 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a gön
 3. Web sitesine dair haber ve yorumlara;
 - PCnet dergisinin (Mayıs 2015) Ayın Siteleri  
 - [WebMasto Ayın Web Siteleri (Mart 2015)](http://www.webmasto.com/webmasto-ayin-web-siteleri-mart-2015){:target="_blank"} sayfasından erişilebilmekte.
+4. Web sitesinin (Ağustos 2019 itibariyle);
+- 251.016 sayfa görüntülenme,
+- 116.911 ziyaretçi,
+- 91.811 benzersiz ziyaretçi,
+- 686.172 Youtube izlenme,
+- 417.611 SanalKurs izlenme istatistiklerine buradan ulaşılabilmekte.
