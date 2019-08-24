@@ -13,8 +13,8 @@ Behzat Ç. ve Kardeş Payı'nın son yılların en kaliteli dizileri olduğunu, 
 Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a gönül veren, Java ile arkadaşlığı IntelliJ IDEA sayesinde güzelleşen, C++ ile arası limoni olan, en iyi içerik yönetim sistemleri olan WordPress ve Drupal ile flört ederken hayran kaldığı Jekyll'da karar kılan, HTML5 ve CSS3'e teknolojileriyle bir şeyler oluşturmaktan büyük keyif alan, Sql Server ile onbinlerce kayıt arasında veritabanı sorgusu yaptığında hayranlıkla "adamlar valla yapmış be" diyen, canı sıkıldığında lüzumsuz program, uygulama ve otomasyonlar yazmaya çalışan, Microsoft Office ailesiyle her daim barışık olup, oldum olası sevemediği Photoshop'ta 62′den tavşan çizebilen, PES ve Fifa oyunlarında taraftarı olmaktan mutluluk duyduğu Arsenal'i seçen bu epik kahraman, içindeki yurtdışına gitme isteğine gem vurduğu sürece işine devam etmeye kararlı. Gelecekte, deniz ile karanın birleştiği uzak, yabancı bir diyarda küçük ve mütevazi bir bilgisayar dükkanı açıp işyerini istediği vakitte açan küçük esnaf olma hayalini her daim canlı tutmaya çalışmakta.
 
 #### Ayrıca, bu "Lüzumsuz İşler Müdürü"nün"
-1. Yazdığı abidik gubidik programlara çeşitli indirme sitesi ve forumlarda rastlanabilmekte.
-2. Video derslerine;
+1. **Yazdığı abidik gubidik programlara çeşitli indirme sitesi ve forumlarda rastlanabilmekte.**
+2. **Video derslerine;**
 - Tabi ki [Youtube](https://www.youtube.com/user/UmutDokel/about?disable_polymer=1){:target="_blank"},
 - [Sanalkurs](https://sanalkurs.net/batu2k){:target="_blank"},
 - [Çizgi-Tagem](https://www.cizgi-tagem.org/e-kampus-egitim/){:target="_blank"} (2 adet eğitim DVD'si var. Torrent, FTP ve Web'den indirilebilir)
@@ -22,12 +22,12 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a gön
 - [Fatih Belediyesi E-Hizmetler](http://www.fatih.bel.tr/icerik/10240/toplam-14000-saat-ve-16872-video/){:target="_blank"},   
 - [Gümüşhane Üniversitesi Eğitim Teknolojileri Uygulama ve Araştırma Merkezi](http://gunetem.gumushane.edu.tr/tr/sayfa/videolar/dreamweaver-umut-d%C3%B6kel/){:target="_blank"},
 - [Milli Eğitim Bakanlığı (MEB'de Öğren)](http://mebdeogren.meb.gov.tr/kategori.php?ID=72){:target="_blank"} üzerinden ulaşılabilmekte.   
-3. Web sitesine dair haber ve yorumlara;
+3. **Web sitesine dair haber ve yorumlara;**
 - PCnet dergisinin (Mayıs 2015) Ayın Siteleri  
 - [WebMasto Ayın Web Siteleri (Mart 2015)](http://www.webmasto.com/webmasto-ayin-web-siteleri-mart-2015){:target="_blank"} sayfasından erişilebilmekte.
-4. Web sitesinin (Ağustos 2019 itibariyle);
+4. **Web sitesinin (Ağustos 2019 itibariyle);**
 - 251.016 sayfa görüntülenme,
 - 116.911 ziyaretçi,
 - 91.811 benzersiz ziyaretçi,
 - 686.172 Youtube izlenme,
-- 417.611 SanalKurs izlenme istatistiklerine buradan ulaşılabilmekte.
+- 417.611 SanalKurs izlenme istatistiklerine bu sayfadan ulaşılabilmekte.
