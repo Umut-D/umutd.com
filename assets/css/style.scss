@@ -64,9 +64,7 @@
   .icon-stackoverflow:before { content: '\f16c'; } /* '' */
 /* CSS Başlangıcı */
 /* Telefonda çuvallıyor # !Dikkat et*/
-main {
-    margin: 0 135px; 
-}
+
 main .about {
     height: 110vh;
 }
@@ -146,7 +144,14 @@ h1 {
     margin: 0em 0;
 }
 
-p>em {
+p>em, p>ul {
+    background:#ffe500;
+    padding: 0.2em;
+    font-weight: 700;
+    font-style: normal;
+}
+
+li em {
     background:#ffe500;
     padding: 0.2em;
     font-weight: 700;
@@ -222,6 +227,35 @@ blockquote:before {
   blockquote p {
     display: inline;
   }
+
+.post a{
+    color: inherit;
+    position: relative;
+    z-index: 0;
+    background: linear-gradient(to top, transparent 0%, rgba(5,150,253,0.6) 0%, rgba(5,150,253,0.6) 100%, transparent 100%) no-repeat left 0 bottom 0;
+    background-size: 100% 2px;
+    text-decoration: none;
+}
+
+.post a:hover {
+    background-size: 100% calc(1em + 6px);
+    -webkit-animation: bgUp 75ms ease-in;
+    animation: bgUp 75ms ease-in;
+}
+  
+.resim-ortali{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 95%;
+    display: block;
+    float: none;
+}
+
+.tablo-ortali{
+    margin-left: auto;
+    margin-right: auto;
+}
 
  table {
     border-collapse: collapse;
