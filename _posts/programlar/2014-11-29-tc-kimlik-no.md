@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TC Kimlik No
-date: 201 12:43 +0300
+date: 2014-11-29 12:43 +0300
 categories: Programlar
 tags: Kimlik No, TC Kimlik, TC Kimlik No, TC Kimlik No Algoritması, TC Kimlik Numarası
 ---

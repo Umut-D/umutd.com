@@ -23,7 +23,7 @@ Son olarak; programdaki tüm banka verilerini Türkiye Cumhuriyet Merkez Bankas�
 **Not 2**: 64 bit Microsoft Windows 7/8/8.1/10 işletim sistemlerinde Microsoft.ACE.OleDb.12.0 sağlayıcısı yerel makinede kayıtlı değil **(The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine)** hatası alırsanız eğer, programın sorunsuz çalışabilmesi adına, Microsoft Access Database Engine 2010 Redistributable eklentisini indirmeniz gerekmekte.
 
 {:.tablo-ortali}
-| IBAN Kontrol<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | IBAN Kontrol (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Kodlar_Gözden_Gecirilecek-red.svg?style=flat)|
+| IBAN Kontrol<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | IBAN Kontrol (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Kodlar_Gözden_Gecirilecek-red.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: F649A2A56766D3C46C17F7E25FEE2D19 | **MD5**: E32144A89083CD2AD39F128A82A38602 | 
 | **Boyut**: 661.3 KB                       | **Boyut**: 2.6 MB                         |
