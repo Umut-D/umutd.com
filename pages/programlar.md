@@ -4,9 +4,9 @@ title: Programlar
 permalink: programlar
 image: pages/programlar.jpeg
 ---
-Çok sevdiğim C# programlama dilinde kah can sıkısına, kah hevesten, kah paslanmamaktan, kah ihtiyaçtan dolayı yazdığım gereksizin önde giden tuhaf programların listesi… İsteyen, ilgilenen arkadaşlar proje dosyalarını indirip veya kodlara Github sayfamdan erişip bunları geliştirerek programın hayat döngüsünün uzamasına ve gelişmesine destek verebilirler. Öneriler de gönderebilirsiniz. Hiç fark etmez, hepsinde über mutlu olurum.
+Özellikle çok sevdiğim C# programlama dilinde kah can sıkısına, kah hevesten, kah paslanmamaktan, kah ihtiyaçtan dolayı yazdığım gereksizin önde giden tuhaf programların listesi... İsteyen, ilgilenen arkadaşlar proje dosyalarını indirip kullanabilir, değiştirebilir, hatta yeniden yazıp satabilir. Hiç korkmayın. Hepsi, bana göre açık kaynağa en çok yakışan ve daha iyi niyetli olduğunu düşündüğüm, **[MIT Lisansı](https://choosealicense.com/licenses/mit/)**'na sahip.
 
-Öylesine yazdığım için kaynak kodlarını tekrar gözden geçirip ve “Arşiv”e kaldırdığım programların ise linklerine tıklayarak ilgili sayfalarına gidebilir, program kaynak kodlarını görebilir, proje dosyaları indirebilir, hatta kaynak kodlarının üzerinde büyük veya küçük değişiklikler yaparak hepsini zimmetinize geçirebilirsiniz. GPL lisansı bunun için var. Buradaki Arşiv ibaresi, programın sorunsuz çalıştığını ve artık geliştirilmeyeceğini ifade etmekte.
+Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları da unutmuyorum. Bunların çalıştıklarını teyit edip ve kaynak kodlarını gözden geçirip "Arşiv"e kaldırıyorum. Yani program adından önce gelen Arşiv ibaresi, programın sorunsuz çalıştığını, balans ayarlarının yapıldığını ve artık geliştirilmeyeceğini ifade etmekte. Çok hüzünlü değil mi :/ 
 
 **Bilgi & Eğitim**
 
@@ -65,7 +65,3 @@ image: pages/programlar.jpeg
 **Verimlilik**
 * Geri Sayım Sayacı
 * Pomodoro Zamanlayıcı
-
-**Web Tasarım**
-* CSS Sıkıştırıcı
-* HTML Renk Gösterici

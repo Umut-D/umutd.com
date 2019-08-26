@@ -38,7 +38,7 @@ Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim: Bu progr
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](http://www.umutd.com/programlar1/dosya-hash-hesaplayici.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/dosya-hash-hesaplayici-proje.zip)                      |
 
-**Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **HashHesapla.cs sınıfındaki** kodlar:
+**Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **HashHesapla.cs** sınıfındaki kodlar:
 
 ```csharp
 using System;

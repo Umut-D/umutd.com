@@ -20,3 +20,80 @@ Lise ve üniversitelerdeki bilgisayar ve onunla ilgili bölümlerde Nesneye Yön
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](http://www.umutd.com/programlar1/alan-cevre-hesaplayici.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/alan-cevre-hesaplayici-proje.zip)                      |
+
+**Ek** : Hesaplamaların nasıl yapıldığını görmeye gelenler için **Hesapla.cs** sınıfındaki kodlar:
+
+```csharp
+using System;
+ 
+namespace alan_cevre_hesaplayici
+{
+    public abstract class Degiskenler
+    {
+        public double Alan { get; set; }
+        public double Cevre { get; set; }
+    }
+ 
+    public class Cember : Degiskenler
+    {
+        private double Yaricap { get; set; }
+ 
+        public string Hesapla(string yaricap)
+        {
+            Yaricap = Convert.ToDouble(yaricap);
+ 
+            Cevre = 2 * Math.PI * Yaricap;
+            Alan = Math.PI * Math.Pow(Yaricap, 2);
+ 
+            return @"Çemberin Alanı (cm) = " + Alan.ToString("##.####") + Environment.NewLine + @"Çemberin cevresi (cm) = " + Cevre.ToString("##.####");
+        }
+    }
+ 
+    public class Dikdortgen : Degiskenler
+    {
+        private double KisaKenar { get; set; }
+        private double UzunKenar { get; set; }
+ 
+        public string Hesapla(string kisaKenar, string uzunKenar)
+        {
+            KisaKenar = Convert.ToDouble(kisaKenar);
+            UzunKenar = Convert.ToDouble(uzunKenar);
+ 
+            Cevre = (KisaKenar + UzunKenar) * 2;
+            Alan = KisaKenar * UzunKenar;
+ 
+            return @"Dikdörtgenin Alanı (cm) = " + Alan + Environment.NewLine + @"Dikdörtgenin Çevresi (cm) = " + Cevre;
+        }
+    }
+ 
+    public class Kare : Degiskenler
+    {
+        private double KareKenar { get; set; }
+ 
+        public string Hesapla(string kareKenar)
+        {
+            KareKenar = Convert.ToDouble(kareKenar);
+ 
+            Cevre = KareKenar * 4;
+            Alan = Math.Pow(KareKenar, 2);
+ 
+            return @"Karenin Alanı (cm) = " + Alan + Environment.NewLine + @"Karenin Çevresi (cm) = " + Cevre;
+        }
+    }
+ 
+    public class Ucgen : Degiskenler
+    {
+        private double UcgenKenar { get; set; }
+        private double UcgenH { get; set; }
+ 
+        public string Hesapla(string ucgenKenar, string ucgenH)
+        {
+            UcgenKenar = Convert.ToDouble(ucgenKenar);
+            UcgenH = Convert.ToDouble(ucgenH);
+ 
+            Alan = (UcgenKenar * UcgenH) / 2;
+            return @"Üçgenin Alanı (cm) = " + Alan;
+        }
+    }
+}
+```

@@ -65,6 +65,10 @@
 /* CSS Başlangıcı */
 /* Telefonda çuvallıyor # !Dikkat et*/
 
+body{
+    background: #fafbfc;
+}
+
 main .about {
     height: 110vh;
 }
@@ -100,7 +104,7 @@ main .about #menu a{
 
 main .about #menu a:hover{
     font-weight: 700;
-    color:#64666b;
+    color:#64666b;    
 }
 
 main .altbilgi{
@@ -314,4 +318,15 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
     cursor: pointer;
     padding: 5px 10px;
     border-radius: 10px;
+}
+
+.uyari {
+    text-align: center;
+    background-color: #F2DEDE;
+    border-color: #EED3D7;
+    color: #B94A48;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 8px 35px 8px 14px;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
 }

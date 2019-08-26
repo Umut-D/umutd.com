@@ -22,7 +22,7 @@ Kırk yıl düşünsem böyle bir program yazacağım aklıma gelmezdi. Sene iç
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](http://www.umutd.com/programlar1/barkod-kontrol-kodu.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/barkod-kontrol-kodu-proje.zip)                      |
 
-**Ek** : Kontrol kodunun nasıl hesaplandığını görmeye gelenler için **Barkod.cs sınıfındaki** kodlar:
+**Ek** : Kontrol kodunun nasıl hesaplandığını görmeye gelenler için **Barkod.cs** sınıfındaki kodlar:
 
 ```csharp
 using System;
