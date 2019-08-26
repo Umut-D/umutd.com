@@ -19,7 +19,7 @@ Neyse programın basit özelliklerine gelecek olursak;
 **Not**: Allah korusun ama polisin, kolluk kuvvetlerinin bilgisayarınıza el koyup götürmeye hakkı yok diye anımsıyorum. Onun yerine diskinizin bire bir yedeğini alıp gitmeleri gerekmekte. Kasayı ya da diskinizi alsın, almasın. Mutlaka ama mutlaka diskinizin imajının olduğu bir yedek alın/isteyin (bunu vermek zorundalar) ve yedeğinizin MD5 değerini kesinlikle ama kesinlikle bir yere not edin. MD5 nedir? İn midir cin midir? Ve daha fazlası için sizi şöyle alalım: (bkz: Dosya Hash Değeri Hesaplayıcı).
 
 {:.tablo-ortali}
-| Dosya/Klasör Zaman Özellikleri Değiştirici <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya/Klasör Zaman Özellikleri Değiştirici (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Dosya/Klasör Zaman Özellikleri Değiştirici <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya/Klasör Zaman Özellikleri Değiştirici (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Kodlar_Gözden_Gecirilecek-red.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 911CCA4D8C0EF71EF8D2449EFF74BAA2 | **MD5**: 984EB3F798A8757206585E02271F125B | 
 | **Boyut**: 146.5 KB                       | **Boyut**: 641.8 KB                         |

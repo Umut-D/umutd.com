@@ -7,9 +7,9 @@ tags: VKI, Vücut Kitle İndeksi, Vücut Kitle İndeksi Hesaplayıcı, Kilo Boy 
 ---
 ![vki-hesaplayici](/images/programlar/vki-hesaplayici.png){: width="30%"}
 
-Ne kadar kilolusunuz ya da ne kadar zayıf? Bazen bu soruyu kendimize sorarız. Diğer insanlara göre kilolu olup olmadığımızı düşünürüz. İşte bunun için iyi-kötü bir formülle hesaplanan bir yapı var. Hesaplama oranlarını Sağlık Bakanlığı'nın sitesinden alıp yazdığım bu basit zamazingo ile bunu kolayca görebileceksiniz. Peki tam olarak nedir veya ne değildir kimi zaman farklı alanlarda karşımıza çıkan Vücut Kütle İndeksi (VKİ):
+Ne kadar kilolusunuz ya da ne kadar zayıf? Bazen bu soruyu kendimize sorarız. Diğer insanlara göre kilolu olup olmadığımızı düşünürüz. İşte bunun için iyi-kötü bir formülle hesaplanan bir yapı var. Hesaplama oranlarını Sağlık Bakanlığı'nın sitesinden alıp yazdığım bu basit zamazingo ile bunu kolayca görebileceksiniz. Peki tam olarak nedir veya ne değildir kimi zaman farklı alanlarda karşımıza bu gerçek;
 
-> ...vücut ağırlığı ve boy ölçülerinin belirli bir matematiksel hesap ile oranlanması sonucu ortaya çıkan bir sayıdır. Bu sayının büyüklüğü veya küçüklüğüne bağlı olarak kişinin obezite, fazla kiloluk ve zayıflık durumlarının belirlenmesi sağlanmaktadır...
+> **Vücut Kütle İndeksi (VKİ)**, vücut ağırlığı ve boy ölçülerinin belirli bir matematiksel hesap ile oranlanması sonucu ortaya çıkan bir sayıdır. Bu sayının büyüklüğü veya küçüklüğüne bağlı olarak kişinin obezite, fazla kiloluk ve zayıflık durumlarının belirlenmesi sağlanmaktadır...
 
 Programın özelliklerine gelecek olursak diyeceğim ama gereksiz olacak. Çünkü programın yaptığı şey bariz.
 

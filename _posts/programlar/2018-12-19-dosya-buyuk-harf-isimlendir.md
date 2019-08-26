@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dosya Büyük Harf İsimlendir
-date: 201 12:43 +0300
+date: 2018-12-19 12:43 +0300
 categories: Programlar
 tags: Büyük Harf, Harf Dönüşümü, Dosya Adı, İsimlendirme
 ---
@@ -14,14 +14,11 @@ Eve döner dönmez bu programı yazdım ve ortaya istenen klasörün içindeki t
 - Dosyaların isimlerini tek seferde Büyük harfe dönüştürme,
 - Türkçe karakterleri, ingilizce karakterlere dönüştürme.
 
-
 {:.tablo-ortali}
-| Dosya Büyük Harf İsimlendir
-<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Büyük Harf İsimlendir
- (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Dosya Büyük Harf İsimlendir <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Büyük Harf İsimlendir (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 7cd6f1593f26417f6fadcf99de34f191 | **MD5**: ff79631ab6b3f2aed8d8e0697e59a3e1 | 
 | **Boyut**: 29.5 KB                       | **Boyut**: 175.1 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/dosya-buyuk-harf-isimlendir.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/dosya-buyuk-harf-isimlendir-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar1/dosya-buyuk-harf-isimlendir.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/dosya-buyuk-harf-isimlendir-proje.zip)  |

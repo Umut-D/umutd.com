@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taş Kağıt Makas
-date: 201 12:43 +0300
+date: 2018-12-21 12:43 +0300
 categories: Programlar
 tags: Oyun, Taş Kağıt Makas
 ---
