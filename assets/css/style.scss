@@ -120,6 +120,12 @@ main .altbilgi{
     font-weight: 900;
 }
 
+.post {
+    font-weight: 400;
+    color: black;
+    line-height: 1.8em;
+}
+
 .posts, .post-container {
     margin: 40px 0px 20px 0px;
 }
@@ -144,7 +150,7 @@ div.highlight {
 }
 
 .highlight {
-    background-color: #f0f0f0;
+    background-color: #f1f1f1;
 }
 
 pre.highlight, code {
