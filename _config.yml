@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.umutd.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title
+lang: tr_TR
 
 # Plainwite ayarları
 plainwhite:
@@ -29,7 +30,7 @@ plainwhite:
   analytics_id: 'UA-39578410-1'
   sitemap: true
   show_excerpts: true
-
+  
   social_links:
     stack_overflow: umut-d
     github:  umut-d
@@ -40,7 +41,9 @@ plainwhite:
 markdown: kramdown
 theme: plainwhite
 plugins:
-
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
