@@ -25,4 +25,4 @@ Verimli çalışma teknikleri arasında gösterilen bu tekniğini bilmeyen yoktu
 | **Boyut**: 134.1 KB                       | **Boyut**: 1.0 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/pomodoro-zamanlayici.zip)         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Pomodoro-Zamanlayici)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/pomodoro-zamanlayici.zip)         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Pomodoro-Zamanlayici)                      |

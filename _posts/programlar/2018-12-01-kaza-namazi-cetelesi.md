@@ -21,4 +21,4 @@ Programın elimden geldiğince sade halde olması için çaba sarfettim ve sonu�
 | **Boyut**: 196.4 KB                       | **Boyut**: 1.4 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/kaza-namazi-cetelesi.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/kaza-namazi-cetelesi-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/kaza-namazi-cetelesi.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/kaza-namazi-cetelesi-proje.zip)                      |

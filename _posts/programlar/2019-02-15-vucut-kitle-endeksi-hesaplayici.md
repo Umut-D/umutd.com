@@ -20,4 +20,4 @@ Programın özelliklerine gelecek olursak diyeceğim ama gereksiz olacak. Çünk
 | **Boyut**: 14.7 KB                       | **Boyut**:  149.3 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0      |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/vucut-kitle-endeksi.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/vucut-kitle-endeksi-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/vucut-kitle-endeksi.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/vucut-kitle-endeksi-proje.zip)                      |

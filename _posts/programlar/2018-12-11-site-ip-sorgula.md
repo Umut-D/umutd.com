@@ -23,4 +23,4 @@ Fakat son zamanlarda Semalt Redirect Manager yetersiz gelmeye başladı (Evet, G
 | **Boyut**:  3.4 MB                       | **Boyut**: 3.6 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/site-ip-sorgula.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/site-ip-sorgula-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/site-ip-sorgula.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/site-ip-sorgula-proje.zip)                      |

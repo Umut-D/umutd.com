@@ -20,7 +20,7 @@ Kırk yıl düşünsem böyle bir program yazacağım aklıma gelmezdi. Sene iç
 | **Boyut**: 14.7 KB                       | **Boyut**: 118.9 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/barkod-kontrol-kodu.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/barkod-kontrol-kodu-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/barkod-kontrol-kodu.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/barkod-kontrol-kodu-proje.zip)                      |
 
 **Ek** : Kontrol kodunun nasıl hesaplandığını görmeye gelenler için **Barkod.cs** sınıfındaki kodlar:
 

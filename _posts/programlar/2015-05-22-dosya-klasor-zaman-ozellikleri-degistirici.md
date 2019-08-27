@@ -25,4 +25,4 @@ Neyse programın basit özelliklerine gelecek olursak;
 | **Boyut**: 146.5 KB                       | **Boyut**: 641.8 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/dosya-klasor-zaman-ozellikleri-degistirici.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/dosya-klasor-zaman-ozellikleri-degistirici-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/dosya-klasor-zaman-ozellikleri-degistirici.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/dosya-klasor-zaman-ozellikleri-degistirici-proje.zip)                      |

@@ -16,4 +16,4 @@ tags: Loto, Sayısal Loto
 | **Boyut**: 42.4 KB                       | **Boyut**: 361.1 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5      |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/sayisal-loto.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/sayisal-loto-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/sayisal-loto.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/sayisal-loto-proje.zip)                      |

@@ -23,4 +23,4 @@ Benzer sıkıntıyı yaşayan ve komut sistemine girerek doğru kodları yazamay
 | **Boyut**: 78.6 KB                       | **Boyut**: 525.7 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/usb-gizli-dosya-klasor-goster.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/usb-gizli-dosya-klasor-goster-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/usb-gizli-dosya-klasor-goster.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/usb-gizli-dosya-klasor-goster-proje.zip)                      |

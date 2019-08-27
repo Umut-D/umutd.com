@@ -23,4 +23,4 @@ Programın özelliklerine gelecek olursak;
 | **Boyut**: 152.1 KB                       | **Boyut**: 1.0 MB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/rastgele-sifre-olusturucu.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/rastgele-sifre-olusturucu-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/rastgele-sifre-olusturucu.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/rastgele-sifre-olusturucu-proje.zip)                      |

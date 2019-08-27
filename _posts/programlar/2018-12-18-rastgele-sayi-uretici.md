@@ -22,4 +22,4 @@ Vakit geçirmeden programı yazdım ve kendisine yolladım. İşte böyle tuhaf 
 | **Boyut**: 10.9 KB                       | **Boyut**:  140.7 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/rastgele-sayi-uretici.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/rastgele-sayi-uretici-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/rastgele-sayi-uretici.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/rastgele-sayi-uretici-proje.zip)                      |

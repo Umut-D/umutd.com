@@ -23,4 +23,4 @@ Programın mantığı gayet basit. Bing’in farklı internet sitelerine bağlan
 | **Boyut**: 179.0 KB                       | **Boyut**:  --                         |
 | **Gereksinimler**: .Net Framework      | **Gereksinimler**: .Net Framework      |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/bing-duvar-kagidi-degistirici.zip)         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici){:target="_blank"}                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/bing-duvar-kagidi-degistirici.zip)         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici){:target="_blank"}                      |

@@ -22,4 +22,4 @@ Programı her gün, bir önceki günün 50 popüler entry’sini okuyarak keyifl
 | **Boyut**: 73.2 KB                       | **Boyut**: 4.5 MB                         |
 | **Gereksinimler**: .Net Framework 4.5     | **Gereksinimler**: .Net Framework 4.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/eksi-sozluk-debe.zip)         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/eksi-sozluk-debe.zip)         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici)                      |

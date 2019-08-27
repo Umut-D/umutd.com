@@ -29,4 +29,4 @@ Bu basit programı uzun uzadıya anlatmanın alemi yok, programın yegane özell
 | **Boyut**: 49.8 KB                       | **Boyut**:  339.5 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/rastgele-yazi-olusturucu.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/rastgele-yazi-olusturucu-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/rastgele-yazi-olusturucu.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/rastgele-yazi-olusturucu-proje.zip)                      |

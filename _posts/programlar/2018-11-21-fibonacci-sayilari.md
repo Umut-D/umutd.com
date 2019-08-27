@@ -22,7 +22,7 @@ Bilgisayarla ilgili bir bölüm okuyup Fibonacci Sayılarına, Iterative (Döng�
 | **Boyut**:  130.4 KB                       | **Boyut**:  724.5 KB                         |
 | **Gereksinimler**: .Net Framework 4.0      | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/fibonacci-sayilari.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/fibonacci-sayilari-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/fibonacci-sayilari.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/fibonacci-sayilari-proje.zip)                      |
 
 **Ek** : Sayıların her iki biçimde nasıl hesaplandığını görmeye gelenler için **Fibonacci.cs** sınıfındaki kodlar:
 

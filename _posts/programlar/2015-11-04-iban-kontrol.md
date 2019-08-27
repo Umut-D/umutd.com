@@ -29,4 +29,4 @@ Son olarak; programdaki tüm banka verilerini Türkiye Cumhuriyet Merkez Bankas�
 | **Boyut**: 661.3 KB                       | **Boyut**: 2.6 MB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/iban-kontrol.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/iban-kontrol-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/iban-kontrol.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/iban-kontrol-proje.zip)                      |

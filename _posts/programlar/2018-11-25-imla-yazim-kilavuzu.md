@@ -19,4 +19,4 @@ Programı yazmaya koyulup aramın ne iyi ne kötü olduğu Access programı ile 
 | **Boyut**: 622.0 KB                       | **Boyut**: 2.1 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar1/imla-kilavuzu.zip)         | **İndir**: [Link](http://www.umutd.com/programlar1/imla-kilavuzu-proje.zip)                      |
+| **İndir**: [Link](http://www.umutd.com/programlar/imla-kilavuzu.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/imla-kilavuzu-proje.zip)                      |
