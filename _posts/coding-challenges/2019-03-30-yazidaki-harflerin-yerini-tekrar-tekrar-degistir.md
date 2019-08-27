@@ -4,6 +4,7 @@ title: Yazıdaki Harfleri Yerini Tekrar Tekrar Değiştir
 date: 2019-03-30 19:33 +0300
 categories: Coding-Challenges
 tags: Değişim, Döngü
+excerpt: Programcıya bir kelime/cümle (yazi) ve tekrar sayisi (adet) veriliyor. Sonrasında; mevcut yaziyi alarak, çift sırada yer alan karakterleri öne, tek sırada yer alan karakterleri arkaya biriktirerek birleştiren ve bunu da istenilen tekrar sayısı kadar yapan bir fonksiyon/işlev yazması isteniyor.
 ---
 ### Soru
 Programcıya bir kelime/cümle **(yazi)** ve tekrar sayisi **(adet)** veriliyor. Sonrasında; mevcut yaziyi alarak, çift sırada yer alan karakterleri öne, tek sırada yer alan karakterleri arkaya biriktirerek birleştiren ve bunu da istenilen tekrar sayısı kadar yapan bir fonksiyon/işlev yazması isteniyor.
