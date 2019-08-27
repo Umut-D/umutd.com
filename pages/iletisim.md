@@ -4,11 +4,11 @@ title: İletişim
 permalink: iletisim
 image: pages/iletisim.jpg
 ---
-Benimle iletişime geçmek, soru sormak için aşağıdaki formu doldurmanız ve gönder’e basmanız yeterli. Özenle yazıp gönderdiğiniz mesajınız dönüp dolaşıp bana ulaşacaktır.
+Benle iletişime geçmek, bana soru sormak, lüzumsuz işlere dair fikir almak için aşağıdaki formu doldurmanız ve gönder'e basmanız yeterli. Özenle yazıp gönderdiğiniz mesajınız dönüp dolaşıp bana ulaşacaktır.
 
-Yoğun olsam dahi, mesajınıza er ya da geç cevap vereceğimden şüpheniz olmasın. Olur ya cevap veremem, dalgınlığıma gelir, "Arkadaş niye cevap vermiyorsun" diye çemkirdiğiniz ikinci bir mesaj da gönderebilirsiniz. Hiç sorun olmayacaktır.
+Yoğun olsam dahi, mesajınıza er ya da geç cevap vereceğimden şüpheniz olmasın. Olur ya cevap veremem, dalgınlığıma gelir, "Arkadaş niye cevap vermiyorsun. Ayıp ediyorsun" diye çemkirdiğiniz ikinci bir mesajı göndermekten çekinmeyin. Asla sorun olmayacaktır.
 
-Son olarak; *hiçbir sosyal medya hesabım (Facebook, Twitter, Google+, Instagram vb.) yok*. Valla yok. Hiç de olmadı zaten. Şu sosyal medya denen naneyi bir türlü sevemedim ben. Onun yerine uçaklar ve havaalanları daha çok ilgimi çekiyor. Mutluyum ben böyle.
+Son olarak; *hiçbir sosyal medya hesabım (Facebook, Twitter, Instagram vb.) yok*. Valla yok. Ha billahi yok. Hiç de olmadı. Zaten şu sosyal medya denen zımbırtıyı bir türlü sevemedim ben. Onun yerine bilgisayarlar, yazılımlar, bilim kurgu filmleri, kitaplar, uçaklar ve havaalanları daha çok ilgimi çekiyor. Hem mutluyum ki ben böyle.
 
 <div id="form">
 <form method="POST" action="https://formspree.io/batu2k@gmail.com">

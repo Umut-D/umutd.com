@@ -60,5 +60,5 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 ### Verimlilik
 * [Geri Sayım Sayacı](/programlar/geri-sayim-sayaci/)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Kaza Namazı Çetelesi](/programlar/kaza-namazi-cetelesi/)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Resim Döndür](/programlar/resim-dondur/)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) ![Arşiv](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Pomodoro Zamanlayıcı](/programlar/pomodoro-zamanlayici/)
+* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Resim Döndür](/programlar/resim-dondur/)

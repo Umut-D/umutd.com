@@ -4,9 +4,18 @@ title: Video Dersler
 permalink: video-dersler
 image: pages/video-dersler.png
 ---
-*Adobe Dreamweaver*, *Wordpress* ve *Diğer Dersler* olmak üzere nispeten 3 farklı kategoride çeşitli video eğitimler. İlk ikisi tam eğitim. Diğer Dersler ise daha spesifik konular üzerine... Biraz eskidiler ben gibi. Ama bir fikir vermek veya spesifik bir konu hakkında bilgi almak açısından işe yarayacaklarına dair inancım tam.
+**Adobe Dreamweaver**, **Wordpress** ve **Diğer Dersler** olmak üzere nispeten 3 farklı kategoride çeşitli video eğitimler. İlk ikisi tam eğitim. Diğer Dersler ise daha spesifik konular üzerine... Biraz eski kaldıklarını kabul ediyorum. Fakat bir fikir vermek veya spesifik bir konu hakkında bilgi almak açısından işe yarayacaklarına dair inancım tam.
 
-### **Adobe Dreamweaver CS6 (40 ders-5 saat 10 dk.)**
+### >> Çok Hızlı Git
+- [Adobe Dreamweaver CS6](#dreamweaver)
+- [Wordpress - İçerik Yönetim Sistemi (CMS)](#wordpress)
+- [Diğer/Farklı Konu ve Alanlara Dair Video Dersler](#diger)
+
+***
+
+<div id="dreamweaver"/>
+
+### Adobe Dreamweaver CS6 (40 ders-5 saat 10 dk.)
 
 1. **Adobe Dreamweaver'a Giriş? Sıkı bir Web Tasarım Editörü Ha!**
 - [Adobe Dreamweaver CS6 Derslerine Giriş](http://www.youtube.com/watch?v=VD3qiBScSG4)
@@ -56,7 +65,9 @@ image: pages/video-dersler.png
 - [Adobe Dreamweaver CS6'da Uzak Sunucuya Bağlanma](http://www.youtube.com/watch?v=cFYGbDk04Bo)
 8. **Son**
 - [Adobe Dreamweaver CS6 Final](http://www.youtube.com/watch?v=pxhwWsDeY9E)
- 
+
+<div id="wordpress"/>
+
 ### Wordpress - İçerik Yön. Sis. (35 ders-3 saat 12 dk.)
 1. **Wordpress Nedir? Yenir mi, İçilir mi?**
 - [WordPress Derslerine Giris](http://www.youtube.com/watch?v=aIueAjxVpZQ)
@@ -109,6 +120,8 @@ image: pages/video-dersler.png
 - [WordPress ve Adobe Dreamweaver Entegrasyonu](http://www.youtube.com/watch?v=dP4Ac3b-8Sk)
 16. **Son**
 - [WordPress Final](http://www.youtube.com/watch?v=JEhY2M-1NVk)
+
+<div id="diger"/>
 
 ### Diğer/Farklı Konu ve Alanlara Dair Video Dersler
 1. **Adobe Photoshop**
