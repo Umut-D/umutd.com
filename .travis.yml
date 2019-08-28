@@ -3,10 +3,6 @@ cache: bundler
 rvm:
   - 2.5.3
 
-install:
-  # Install Jekyll and dependencies
-  - bundle install
-
 script: bundle exec rake site
 
 branches:
