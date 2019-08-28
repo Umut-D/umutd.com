@@ -22,4 +22,4 @@ Kimse korkmasın, bu sefer "acayip ihtiyacım oldu da yapma gereği duydum" deme
 | **Boyut**: 115.6 KB                       | **Boyut**: 511.2 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5      |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/resim-dondur.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/resim-dondur-proje.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/fpnvcgzue41d06f/resim-dondur.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/hg0po67f0rgn3kr/resim-dondur-proje.zip?dl=1)                      |

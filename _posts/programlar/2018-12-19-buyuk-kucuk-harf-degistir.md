@@ -20,4 +20,4 @@ Programın mantığı kolay. Yazınızı metin alanına yapıştırıyorsunuz, T
 | **Boyut**: 60.4 KB                       | **Boyut**: 450.0 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/buyuk-kucuk-harf-degistir.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/buyuk-kucuk-harf-degistir-proje.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/wzv3ar0ohxattt6/buyuk-kucuk-harf-degistir.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/qofnc9rj7j8ggwe/buyuk-kucuk-harf-degistir-proje.zip?dl=1)                      |

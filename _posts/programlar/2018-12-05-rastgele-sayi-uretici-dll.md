@@ -20,7 +20,7 @@ tags: DLL, Farklı Sayı, Random Sayı, Rastgele Sayı
 | **Boyut**: 5.1 KB                       | **Boyut**:  28.8 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework  4.0    |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/rastgele-sayi-dll.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/rastgele-sayi-dll-proje.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/8h3je17hzrrii4p/rastgele-sayi-dll.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/owmrihlyzf15xz2/rastgele-sayi-dll-proje.zip?dl=1)                      |
 
 **Ek** : Rastgele sayıların nasıl üretildiğini görmeye gelenler için **RastgeleSayiOlustur.dll** kodları:
 

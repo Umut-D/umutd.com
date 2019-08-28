@@ -22,4 +22,4 @@ Mevcut süre ve evrelere göre uyuyup uyanmanız faydalı olur ya da olmaz bilmi
 | **Boyut**: 10.2 KB                       | **Boyut**:  122.3 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/uyku-saati-hesaplayici.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/uyku-saati-hesaplayici-proje.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/pd4uutnp7lqu96b/uyku-saati-hesaplayici.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/w45aly9jqmrerff/uyku-saati-hesaplayici-proje.zip?dl=1)                      |

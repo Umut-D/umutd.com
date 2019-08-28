@@ -27,4 +27,4 @@ Eğer programın ürettiği numaralara güvenmediyseniz sorun değil. Üretilen 
 | **Boyut**: 89.2 KB                       | **Boyut**: 615.1 MB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/tc-kimlik-no.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/tc-kimlik-no-proje.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/cqas7tsm6q5as2j/tc-kimlik-no.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/6smrlz98wnehow8/tc-kimlik-no-proje.zip?dl=1)                      |

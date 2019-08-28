@@ -42,7 +42,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [IQ Testi](/coding-challenges/iq-testi)
 * [Kelimenin Tersini Yaz](/coding-challenges/kelimenin-tersini-yaz)
 * [Kimler Beğenmiş?](/coding-challenges/kimler-begenmis)
-* [N'inci Büyük Sayı](/coding-challenges//n-inci-buyuk-sayi)
+* [N'inci Büyük Sayı](/coding-challenges/n-inci-buyuk-sayi)
 * [Okunan Sayfaların Ortalaması ve Standart Sapması](/coding-challenges/okunan-sayfalarin-ortalamasi-ve-standart-sapmasi)
 * [Rakamları, Rakama Göre Tekrar Yaz](/coding-challenges/rakamlari-rakama-gore-tekrar-yaz)
 * [Sayıları Basamaklı Halde Yaz](/coding-challenges/sayilari-basamakli-halde-yaz)

@@ -18,4 +18,4 @@ Ecnebilerin işleri çözmek için kullandığı ve farklı bilgisayar dillerind
 | **Boyut**: 59.1 KB                       | **Boyut**: 368.8 KB                         |
 | **Gereksinimler**: .Net Framework 4.0      | **Gereksinimler**: .Net Framework 4.0      |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/tas-kagit-makas.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/tas-kagit-makas-proje.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/wnudnphjeqzp7v0/tas-kagit-makas.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/2jgibpbeq7ddomy/tas-kagit-makas-proje.zip?dl=1)                      |

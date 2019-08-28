@@ -24,4 +24,4 @@ Peki ben neden böyle bir program yazdım. Hiç bilmiyorum. Yazılacak programla
 | **Boyut**: 1.0 MB                       | **Boyut**: 1.3 MB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/qr-kod-olusturucu.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/qr-kod-olusturucu-proje.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/q539x91dfxbc13u/qr-kod-olusturucu.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/bp1nyx43s96nnzz/qr-kod-olusturucu-proje.zip?dl=1)                      |

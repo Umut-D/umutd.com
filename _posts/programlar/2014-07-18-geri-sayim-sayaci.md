@@ -19,4 +19,4 @@ Dönemin sonlarına doğru, o dersten bu derse, o işten bu işe koşturmaktan k
 | **Boyut**: 272.6 KB                       | **Boyut**: 1.3 MB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/geri-sayim-sayaci.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/geri-sayim-sayaci.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/y6xmdyenzyz19pj/geri-sayim-sayaci.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/atl7fjpwovgeb9i/geri-sayim-sayaci-proje.zip?dl=1)                      |

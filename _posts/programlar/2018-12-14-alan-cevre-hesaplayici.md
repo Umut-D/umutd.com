@@ -19,7 +19,7 @@ Lise ve üniversitelerdeki bilgisayar ve onunla ilgili bölümlerde Nesneye Yön
 | **Boyut**: 46.3 KB                       | **Boyut**: 324.8 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/alan-cevre-hesaplayici.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/alan-cevre-hesaplayici-proje.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/sbjiz659xwohoeb/alan-cevre-hesaplayici.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/4wq2lfj9ztx88kz/alan-cevre-hesaplayici-proje.zip?dl=1)                      |
 
 **Ek** : Hesaplamaların nasıl yapıldığını görmeye gelenler için **Hesapla.cs** sınıfındaki kodlar:
 

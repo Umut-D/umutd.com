@@ -36,7 +36,7 @@ Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim: Bu progr
 | **Boyut**: 140.1 KB                       | **Boyut**: 778.8 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/dosya-hash-hesaplayici.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/dosya-hash-hesaplayici-proje.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1)                      |
 
 **Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **HashHesapla.cs** sınıfındaki kodlar:
 

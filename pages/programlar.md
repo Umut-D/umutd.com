@@ -50,10 +50,11 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Büyük/Küçük Harf Değiştir](/programlar/buyuk-kucuk-harf-degistir)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Mors Alfabesi Dönüştürücü](/programlar/mors-alfabesi-donusturucu)
 * [QR Kodu Oluşturucu](/programlar/qr-kod-olusturucu)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Rastgele Sayı Üretici [DLL]](/programlar/rastgele-sayi-uretici-dll)
+* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Rastgele Ad Soyad Oluşturucu](/programlar/rastgele-ad-soyad-olusturucu)
 * [Rastgele Şifre Oluşturucu](/programlar/rastgele-sifre-olusturucu)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Rastgele (Lorem Ipsum) Yazı Oluşturucu](/programlar/rastgele-yazi-olusturucu)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Rastgele Sayı Üretici](/programlar/rastgele-sayi-uretici)
+* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Rastgele Sayı Üretici [DLL]](/programlar/rastgele-sayi-uretici-dll)
 * [TC Kimlik No](/programlar/tc-kimlik-no)
 
 {:.program-baslik}

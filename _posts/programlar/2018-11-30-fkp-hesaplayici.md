@@ -22,7 +22,7 @@ Aslında günlük hayatta faktöriyel, kombinasyon, permütasyon hesaplarını i
 | **Boyut**:  112.2 KB                       | **Boyut**:  551.7 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/fkp-hesaplayici.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/fkp-hesaplayici-proje.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/61a22sn9ozb2qrr/fkp-hesaplayici.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/mxbl0lqsswst9yg/fkp-hesaplayici-proje.zip?dl=1)                      |
 
 **Ek** : Nasıl hesaplama yapıldığını görmeye gelenler için **Hesapla.cs** sınıfındaki kodlar:
 

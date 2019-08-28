@@ -21,4 +21,4 @@ Eve döner dönmez bu programı yazdım ve ortaya istenen klasörün içindeki t
 | **Boyut**: 29.5 KB                       | **Boyut**: 175.1 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/dosya-buyuk-harf-isimlendir.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/dosya-buyuk-harf-isimlendir-proje.zip)  |
+| **İndir**: [Link](https://www.dropbox.com/s/gb9a56djoe0skun/dosya-buyuk-harf-isimlendir.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/8aakz73suik24ev/dosya-buyuk-harf-isimlendir-proje.zip?dl=1)  |

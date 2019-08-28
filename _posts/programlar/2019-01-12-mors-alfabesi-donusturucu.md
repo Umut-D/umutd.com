@@ -24,7 +24,7 @@ Sınıfıdır, metodudur, dönüşümüdür. Gırla gitti. Yazması basit ve key
 | **Boyut**: 169.6 KB                       | **Boyut**: 719.3 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](http://www.umutd.com/programlar/mors-alfabesi-donusturucu.zip)         | **İndir**: [Link](http://www.umutd.com/programlar/mors-alfabesi-donusturucu-proje.zip)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/h5jx31i9zr00zvt/mors-alfabesi-donusturucu.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/oox85t91m8789re/mors-alfabesi-donusturucu-proje.zip?dl=1)                      |
 
 **Ek** : Mors alfebesinin nasıl dönüştürüldüğünü görmeye gelenler için **Donustur.cs** sınıfındaki kodlar:
 
