@@ -1,6 +1,4 @@
 language: ruby
-before_script:
-- rm -rf _site
 script:
 - bundle exec jekyll build
 branches:
