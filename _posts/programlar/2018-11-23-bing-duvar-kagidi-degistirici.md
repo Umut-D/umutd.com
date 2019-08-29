@@ -17,7 +17,7 @@ Programın mantığı gayet basit. Bing’in farklı internet sitelerine bağlan
 - Başlangıçta çalışma ve istenen saatte duvar kağıdını otomatik olarak ayarlama.
 
 {:.tablo-ortali}
-| Bing Duvar Kağıdı Değiştirici <br>![Versiyon](https://img.shields.io/badge/Versiyon-2.2-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Bing Duvar Kağıdı Değiştirici (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Devam_Ediyor-yellow.svg?style=flat)|
+| Bing Duvar Kağıdı Değiştirici <br>![Versiyon](https://img.shields.io/badge/Versiyon-2.2-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışmıyor-red.svg?style=flat) | Bing Duvar Kağıdı Değiştirici (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Kodlar_Düzeltilecek-red.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 824231e3fb924df1e78383597a8f42ac | **MD5**: -- | 
 | **Boyut**: 179.0 KB                       | **Boyut**:  --                         |
