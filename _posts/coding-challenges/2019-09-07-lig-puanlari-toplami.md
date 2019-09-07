@@ -7,7 +7,7 @@ tags: Lig, Futbol, Takım
 excerpt: Programcıya, toplam 10 maç yapılan bir ligde oynayan bir futbol takımının maç skorları, lig sonunda veriliyor. Her futbol ligindeki galibiyete 3 puan, beraberliğe 1 puan verildiği, yenilgide ise puan alınmadığı biliniyor...
 ---
 ### Soru
-Programcıya, toplam 10 maç yapılan bir ligde oynayan bir futbol takımının maç skorları, lig sonunda veriliyor. Her futbol ligindeki galibiyete 3 puan, beraberliğe 1 puan verildiği, yenilgide ise puan alınmadığı biliniyor. Bu noktadan sonra programcıdan, takımın toplam kaç puan topladığını hesaplayan bir program yazması isteniyor. 
+Programcıya, toplam 10 maç yapılan bir ligde oynayan bir futbol takımının maç skorları **(macSonuclari)**, lig sonunda veriliyor. Her futbol ligindeki galibiyete 3 puan, beraberliğe 1 puan verildiği, yenilgide ise puan alınmadığı biliniyor. Bu noktadan sonra programcıdan, takımın toplam kaç puan topladığını hesaplayan bir program yazması isteniyor. 
 
 **Not**: Her maç sonucunda ilk sonuç, puanı hesaplanan takımı temsil eder.
 
