@@ -82,6 +82,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Dersten Geçen Öğrenci Sayısı](/coding-challenges/dersten-gecen-ogrenci-sayisi)
 * [Girilen Sayıyı Yazıya Çevir](/coding-challenges/girilen-sayiyi-yaziya-cevir)
 * [Hemen Çıkma Oranı](/coding-challenges/hemen-cikma-orani)
+* [Lig Puanları Toplamı](/coding-challenges/lig-puanlari-toplami)
 * [Tuz Buz](/coding-challenges/tuz-buz)
 * [Ziyaretçi Sayıları](/coding-challenges/ziyaretci-siralamasi)
 * [Ziyaretçi Sayısı Tahmini](/coding-challenges/ziyaretci-sayisi-tahmini)
