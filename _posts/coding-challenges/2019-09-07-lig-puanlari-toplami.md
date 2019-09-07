@@ -57,6 +57,7 @@ internal class Program
 }
 ```
 
+### Çözüm - Java
 ```java
 public class Main {
 
