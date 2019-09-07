@@ -44,7 +44,7 @@ internal class Program
                 puan += 3;
             }
             // Bizim takım berabere kaldıysa 1 puan ver
-            else if (bizimTakimSonuc < deplasmanTakimiSonuc)
+            else if (bizimTakimSonuc == deplasmanTakimiSonuc)
             {
                 puan += 1;
             }
@@ -80,7 +80,7 @@ public class Main {
                 puan += 3;
             }
             // Bizim takım berabere kaldıysa 1 puan ver
-            else if (bizimTakimSonuc < deplasmanTakimiSonuc)
+            else if (bizimTakimSonuc == deplasmanTakimiSonuc)
             {
                 puan += 1;
             }
