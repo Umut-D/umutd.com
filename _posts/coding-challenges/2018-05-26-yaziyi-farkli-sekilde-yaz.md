@@ -4,6 +4,9 @@ title: Yazıyı Farklı Şekilde Yaz
 date: 2018-05-26 19:33 +0300
 categories: Coding-Challenges
 tags: Harf, Karakter, Yazım
+redirect_from:
+  - /coding-challenges/yaziyi-farkli-sekilde-yaz/
+  - /etiket/karakter/
 ---
 ### Soru
 Programcıya, içerisinde farklı bir yazı (girilenYazi) olan veriliyor. Her kelimede tek olan sıradaki harfleri büyük, çift olanları küçük olarak yeniden yazdırması bekleniyor.

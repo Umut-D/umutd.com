@@ -4,6 +4,9 @@ title: Cümle İçindeki Sayıların Toplamı
 date: 2018-05-12 19:33 +0300
 categories: Coding-Challenges
 tags: Desen, Düzenli İfadeler, Pattern, Regular Expressions
+redirect_from:
+  - /coding-challenges/cumle-icindeki-sayilarin-toplami/
+  - /coding-challenges/cumle-icindeki-sayilarin-toplami//
 ---
 ### Soru
 Programcıya, içerisinde sayılar **(girilenIfade)** olan bir cümle veriliyor ve programcıdan mevcut cümle içerisindeki sayıların toplamını alması isteniyor.

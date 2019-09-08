@@ -5,6 +5,8 @@ date: 2019-04-13 17:11 +0300
 categories: Coding-Challenges
 tags: Düzenleme, Format, Sayı
 excerpt: Programcıya herhangi bir sayı (girilenSayi) veriliyor. Programcıdansa, verilen sayının binlik ayracının virgüllü biçimde düzenlenmesi isteniyor.
+redirect_from:
+  - /coding-challenges/sayiyi-virgulle-duzenle/
 ---
 ### Soru
 Programcıya herhangi bir sayı **(girilenSayi)** veriliyor. Programcıdansa, verilen sayının binlik ayracının virgüllü biçimde düzenlenmesi isteniyor.

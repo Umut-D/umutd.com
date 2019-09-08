@@ -4,6 +4,9 @@ title: Aranan Değerin Düz ve Tersten İndeks Değeri
 date: 2018-03-03 19:57 +0300
 categories: Coding-Challenges
 tags: Arama, Düz Arama, Ters Arama
+redirect_from:
+  - /coding-challenges/aranan-degerin-duz-ve-tersten-indeks-degeri/
+  - /etiket/ters-arama/
 ---
 ### Soru
 Programcıya, anlamlı veya anlamsız bir halde kelime/sözcük **(girilenDeger)** veriliyor. Daha sonra, verilen değerde aranıp bulunması **(arananDeger)** istenen bir değer de programcıya sunuluyor.

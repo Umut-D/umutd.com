@@ -4,6 +4,10 @@ title: ATM'deki Para Adetlerini Say
 date: 2019-01-12 19:33 +0300
 categories: Coding-Challenges
 tags: Para, Sayım
+redirect_from:
+  - /coding-challenges/atmdeki-para-adetlerini-say/
+  - /etiket/para/
+  - /etiket/sayim/
 ---
 ### Soru
 Bir ATM’de farklı sayıda ve 4 tipte (20$, 10$, 5$, 1$) banknotlar vardır. Programcıdansa, çekmek istenilen paranın **(para)** kaç farklı banknottan oluştuğunun adet adet hesaplanmasını sağlayan bir algoritma oluşturması isteniyor.

@@ -4,6 +4,10 @@ title: Uygun Telefon Numarası Biçimi
 date: 2018-06-09 19:33 +0300
 categories: Coding-Challenges
 tags: Desen, Düzenli İfadeler, Pattern, Regex
+redirect_from:
+  - /coding-challenges/uygun-telefon-numarasi-bicimi/
+  - /etiket/duzenli-ifadeler/
+  - /etiket/desen/
 ---
 ### Soru
 Programcıdan, belli düzene sahip ve sadece sayılardan oluşan telefon numaralarının istenen (123) 456-7890 format/biçime uygun olup olmadığını tespit edebilen bir program oluşturması isteniyor. Girilen telefon numarası **(girilenTelefonNumarasi)** uygun ise programın kullanıcıya olumlu yanıt vermesi, değilse olumsuz yanıt gösterilmesi ise ek olarak belirtiliyor.

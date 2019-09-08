@@ -4,6 +4,9 @@ title: İlk Tekrar Etmeyen Karakter
 date: 2019-02-02 19:33 +0300
 categories: Coding-Challenges
 tags: Harf, Kelime, Karakter, Tekrar
+redirect_from:
+  - /coding-challenges/ilk-tekrar-etmeyen-karakter/
+  - /etiket/harf/
 ---
 ### Soru
 Programcıya, herhangi bir kelime **(girilenYazi)** veriliyor. Programcıdansa, yazı içinde hiçbir yerde tekrar etmeyen ilk harfi bulan bir kod yazması isteniyor.

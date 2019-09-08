@@ -4,6 +4,9 @@ title: Kelime Sonlarına Ay Ekle
 date: 2018-12-08 19:33 +0300
 categories: Coding-Challenges
 tags: Metin, Karakter Ekleme
+redirect_from:
+  - /coding-challenges/kelime-sonlarina-ay-ekle/
+  - /etiket/ekleme/
 ---
 ### Soru
 Programcıya bir metin **(girilenMetin)** veriliyor. Önce; her bir kelimedeki ilk harfin kelimenin sonuna alınması, sonra ise her kelimenin sonuna “ay” ekinin eklenmesi isteniyor.

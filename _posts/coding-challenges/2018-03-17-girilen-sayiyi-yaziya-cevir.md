@@ -4,6 +4,9 @@ title: Girilen Sayıyı Yazıya Çevir
 date: 2018-03-17 19:33 +0300
 categories: Coding-Challenges
 tags: Dönüşüm, Sayıyı Yazıya Çevirme
+redirect_from:
+  - /coding-challenges/girilen-sayiyi-yaziya-cevir/
+  - /etiket/sayiyi-yaziya-cevirme/
 ---
 ### Soru
 Programcıya, 1 ile 99 arasında olan herhangi bir sayı **(girilenSayi)** veriliyor ve bu sayıyı sözel bir ifadeye çevirmesi isteniyor.

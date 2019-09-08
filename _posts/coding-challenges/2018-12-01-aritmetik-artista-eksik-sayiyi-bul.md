@@ -4,6 +4,9 @@ title: Aritmetik Artışta Eksik Sayıyı Bul
 date: 2018-12-01 19:33 +0300
 categories: Coding-Challenges
 tags: Artış, Eksik Sayı
+redirect_from:
+  - /coding-challenges/aritmetik-artista-eksik-sayiyi-bul/
+  - /etiket/eksik-sayi/
 ---
 ### Soru
 Programcıya belirli ve sabit bir artış sayısı olan liste **(girilenListe)** veriliyor. Pozitif sayılardan oluşan listenin, en az 3 sayıdan oluştuğu ve eksik sayının asla ilk ve son sayılar olmayacağı belirtiliyor. Programcıdan ise mevcut listedeki eksik sayıyı programlamatik olarak bulması isteniyor.

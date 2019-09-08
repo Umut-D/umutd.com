@@ -4,6 +4,10 @@ title: N'inci Büyük Sayı
 date: 2018-02-10 05:33 +0300
 categories: Coding-Challenges
 tags: Büyük Sayı, İç İçe Döngü, Sıralama
+redirect_from:
+  - /coding-challenges/n-inci-buyuk-sayi/
+  - /coding-challenges//n-inci-buyuk-sayi/
+  - /etiket/buyuk-sayi/
 ---
 ### Soru
 Programcıya, içerisinde aynı olmayan/benzersiz sayılardan oluşan bir dizi **(verilenSayilar)** sunulmuştur. Bu noktada ise programcıdan, dizideki N’inci büyük sayıyı **(sondanKacinci)** bulması istenmektedir.

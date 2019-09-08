@@ -4,6 +4,10 @@ title: Tek Sayıların Kareleri Toplamı
 date: 2018-01-13 19:02 +0300
 categories: Coding-Challenges
 tags: Kare, İşlem, Toplam, Üslü Sayı
+redirect_from:
+  - /coding-challenges/tek-sayilarin-kareleri-toplami/
+  - /etiket/toplam//
+  - /etiket/uslu-sayi/
 ---
 ### Soru
 Programcıya bir adet ilk değer **(ilkDeger)** ve bir adet son değer **(sonDeger)** verilmiştir. Bu noktada programcıdan ilk ve son sayılar arasında yer alan tek sayıları **(tekSayi)** bularak, bu sayıların kareleri alması ve hepsinin toplamını **(sonuc)** yazdırması istenmektedir.

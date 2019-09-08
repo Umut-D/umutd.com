@@ -4,6 +4,10 @@ title: Okunan Sayfaların Ortalaması ve Standart Sapması
 date: 2018-02-24 19:33 +0300
 categories: Coding-Challenges
 tags: Ortalama, Standart Sapma
+redirect_from:
+  - /coding-challenges/okunan-sayfalarin-ortalamasi-ve-standart-sapmasi/
+  - /etiket/standart-sapma/
+  - /etiket/ortalama/
 ---
 ### Soru
 Bir öğrencinin, bir hafta içerisinde okuduğu kitap sayfa sayıları **(okunanSayfaSayisi)** programcıya veriliyor. Programcıdan ise, bu öğrencinin kitap okuma performansını hem ortalama **(ortalama)**, hem de standart sapma **(standartSapma)** olarak değerlendiren bir program yazması isteniyor.

@@ -4,6 +4,10 @@ title: Anagram Olanlar Neler
 date: 2019-01-26 19:33 +0300
 categories: Coding-Challenges
 tags: Anagram, Kelime
+redirect_from:
+  - /coding-challenges/anagram-olanlar-neler/
+  - /c/anagram-olanlar-neler/
+  - /etiket/anagram/
 ---
 ### Soru
 Programcıya, herhangi bir kelime **(girilenKelime)** ve kelime dizileri **(girilenKelimeler)** veriliyor. Programcıdansa, ana kelime ile girilen kelimeleri tek tek karşılaştırarak, harfleri birbiriyle bire bir aynı olan kelimeleri bulması ve bunları yazdırması isteniyor.

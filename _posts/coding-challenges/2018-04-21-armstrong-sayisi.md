@@ -4,6 +4,9 @@ title: Armstrong Sayısı
 date: 2018-04-21 19:33 +0300
 categories: Coding-Challenges
 tags: Armstrong Sayısı, Narsist Sayılar
+redirect_from:
+  - /coding-challenges/armstrong-sayisi/
+  - /etiket/armstrong-sayisi/
 ---
 ### Soru
 Programcıya, rastgele bir sayı **(girilenSayi)** veriliyor. Programcıdansa, ilgili sayının bir Armstrong sayısı -Narsist sayı- olup olmadığını bulan, eğer sonuç doğru ise “Evet, bu bir Armstrong sayısıdır.”, yanlış ise “Hayır, bu bir Armstrong sayısı değildir!” yazan bir program oluşturması isteniyor.

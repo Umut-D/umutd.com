@@ -4,6 +4,10 @@ title: Kelimenin Tersini Yaz
 date: 2018-04-14 19:33 +0300
 categories: Coding-Challenges
 tags: Ters, Ters Yazı
+redirect_from:
+  - /coding-challenges/kelimenin-tersini-yaz/
+  - /etiket/ters-yazi/
+  - /etiket/ters/
 ---
 ### Soru
 Programcıya, uzunluğu veya kısalığı belli olmayan bir metin **(girilenMetin)** veriliyor. Programcıdan; tüm cümledeki kelimelere dikkat ederek, 5 harften uzun olan kelimeleri tersten yazması, 5 ve daha kısa olan kelimeleri ise normal şekilde bırakması isteniyor.

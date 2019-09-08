@@ -4,6 +4,10 @@ title: Rakamları Rakama Göre Tekrar Yaz
 date: 2018-03-24 19:33 +0300
 categories: Coding-Challenges
 tags: İç İçe Döngü, Tekrar
+redirect_from:
+  - /coding-challenges/rakamlari-rakama-gore-tekrar-yaz/
+  - /etiket/ic-ice-dongu/
+  - /etiket/tekrar/
 ---
 ### Soru
 Programcıya, 0 ila 9 arasında olan rakamlardan oluşan bir sayı **(girilenSayi)** veriliyor. Bu noktadan sonra ise, sayıda yer alan rakamların tekrarı kadar olan yeni bir sayı oluşturması isteniyor.

@@ -5,6 +5,9 @@ date: 2019-03-16 19:33 +0300
 categories: Coding-Challenges
 tags: Basamaklı Sayılar, Sayı
 excerpt: Programcıya herhangi bir sayı (girilenSayi) veriliyor ve mevcut sayıyı basamak ve çarpanlarına göre ayırıp yazan bir yapı oluşturması isteniyor.
+redirect_from:
+  - /coding-challenges/sayilari-basamakli-halde-yaz/
+  - /etiket/basamak/
 ---
 ### Soru
 Programcıya herhangi bir sayı **(girilenSayi)** veriliyor ve mevcut sayıyı basamak ve çarpanlarına göre ayırıp yazan bir yapı oluşturması isteniyor.

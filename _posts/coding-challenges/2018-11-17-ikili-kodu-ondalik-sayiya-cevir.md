@@ -4,6 +4,9 @@ title: İkili Kodu (Binary), Ondalık Sayıya (Decimal) Çevir
 date: 2018-11-17 19:33 +0300
 categories: Coding-Challenges
 tags: Binary, Decimal, Dönüşüm, Çevrim
+redirect_from:
+  - /coding-challenges/ikili-kodu-ondalik-sayiya-cevir/
+  - /etiket/binary/
 ---
 ### Soru
 Programcıya İkili/Binary kodundan oluşan ondalık bir sayı  **(sayi)**veriliyor. Programcıdan ise; kendisine verilen sayıyı Ondalık/Decimal hale dönüştüren bir kod yazması isteniyor.

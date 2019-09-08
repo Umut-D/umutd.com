@@ -4,6 +4,10 @@ title: Cümledeki Harfleri Sayısı
 date: 2018-04-28 19:33 +0300
 categories: Coding-Challenges
 tags: Cümle, Harf, Say, Sayım
+redirect_from:
+  - /coding-challenges/cumledeki-harflerin-sayisi/
+  - /coding-challenges/cumledeki-harflerin-sayisi//
+  - /etiket/say/
 ---
 ### Soru
 Programcıya, rastgele bir cümle **(girilenCumle)** veriliyor. Programcıdan ise, girilen cümledeki harflerin kaç kere tekrarlandığının sayılması ve bunu sonuç olarak yazdırması isteniyor.

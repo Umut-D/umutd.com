@@ -4,6 +4,10 @@ title: Metni İnternet Diline (Leetspeak) Çevir
 date: 2018-08-04 19:33 +0300
 categories: Coding-Challenges
 tags: Dönüşüm, Tercüme, Leetspeak, İnternet Dili
+redirect_from:
+  - /coding-challenges/metni-internet-diline-cevir/
+  - /etiket/tercume/
+  - /etiket/donusum/
 ---
 ### Soru
 Programcıya büyük ve ingilizce karakterler kullanılarak yazılan herhangi bir kelime/cümle **(girilenCumle)** sunuluyor. Programcıdan ise, girilen bu cümledeki harfleri belirli bir alfabeye (İnternet Dili/Leetspeak) dönüştüren bir program oluşturması isteniyor.

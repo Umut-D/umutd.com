@@ -4,6 +4,8 @@ title: Girilen Listeden Rasgele Sayılar Oluştur
 date: 2019-02-09 19:33 +0300
 categories: Coding-Challenges
 tags: Rasgele Sayı, Rasgele
+redirect_from:
+  - /coding-challenges/girilen-listeden-rasgele-sayilar-olustur/
 ---
 ### Soru
 Programcıdan; 1-100 arasında olan sayıları boşluklu bir şekilde alan **(girilenSayi)** ve girilen bu sayıların arasında, kullanıcının istediği kadar **(adet)**, rastgele sayı üretilebilen bir program yazması isteniyor.

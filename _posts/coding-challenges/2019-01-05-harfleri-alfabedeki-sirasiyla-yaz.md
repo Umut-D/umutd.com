@@ -4,6 +4,9 @@ title: Harfleri Alfabedeki Sırasıyla Yaz
 date: 2019-01-05 19:33 +0300
 categories: Coding-Challenges
 tags: Dönüşüm, Karakter, Yazı, Alfabe
+redirect_from:
+  - /coding-challenges/harfleri-alfabedeki-sirasiyla-yaz/
+  - /etiket/yazi/
 ---
 ### Soru
 Programcıya, bir yazı veya cümle **(girilenYazi)** veriliyor. Bu noktadan sonra ise programcıdan, ilgili yazıdaki harflerin, alfabede kaçıncı sırada olduğunu bularak bu sayıları yazdırması isteniyor.

@@ -4,6 +4,9 @@ title: Kelime Bir İzogram Mı?
 date: 2018-07-21 19:33 +0300
 categories: Coding-Challenges
 tags: Isogram, İzogram
+redirect_from:
+  - /coding-challenges/kelime-bir-izogram-mi/
+  - /etiket/izogram/
 ---
 ### Soru
 Programcıya, herhangi bir kelime **(girilenSayi)** veriliyor. Programcıdansa, ilgili kelimenin bir izogram* olup olmadığını bulan ve eğer sonuç doğru ise “Evet, bu bir izogramdır.”, yanlış ise “İzogram değil” yazan bir program oluşturması isteniyor.

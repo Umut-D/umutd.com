@@ -4,6 +4,9 @@ title: Sayıyı Romen Rakamına Dönüştür
 date: 2018-05-05 19:33 +0300
 categories: Coding-Challenges
 tags: Dönüşüm, Romen Rakamı, Romen Sayısı
+redirect_from:
+  - /coding-challenges/sayiyi-romen-rakamina-donustur/
+  - /etiket/romen-rakami/
 ---
 ### Soru
 Programcıya, rastgele bir sayı **(girilenSayi)** veriliyor ve mevcut sayiyi romen rakamına dönüştürmesi isteniyor.

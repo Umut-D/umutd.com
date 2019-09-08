@@ -4,6 +4,10 @@ title: Hemen Çıkma Oranı
 date: 2017-11-11 23:41 +0300
 categories: Coding-Challenges
 tags: Hemen Çıkma Oranı, Web Analitik
+redirect_from:
+  - /coding-challenges/hemen-cikma-orani/
+  - /etiket/hemen-cikma-orani/
+  - /etiket/web-analitik/
 ---
 ### Soru
 Bir web sitesini, çeşitli zamanlarda farklı kullanıcılar ziyaret etmektedir. Siteye giren kullanıcıların sitede geçirdikleri zamanlar birbirinden farklıdır ve sitede kaldıkları bu sürenin kaydı tutulmaktadır.

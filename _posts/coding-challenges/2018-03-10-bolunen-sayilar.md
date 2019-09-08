@@ -4,6 +4,9 @@ title: Bölünen Sayılar
 date: 2018-03-10 19:33 +0300
 categories: Coding-Challenges
 tags: Bölen Sayı, Bölüm, Bölünebilme
+redirect_from:
+  - /coding-challenges/bolunen-sayilar/
+  - /etiket/bolen-sayi/
 ---
 ### Soru
 Programcıya, herhangi bir sayi **(girilenSayi)** veriliyor. Sonrasında, verilen değeri hangi pozitif sayı ya da sayıların bölebildiğini **(sonuc)** ve toplamda kaç adet sayının bölüm yapabildiğini bulması isteniyor.

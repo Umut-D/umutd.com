@@ -4,6 +4,8 @@ title: IP Kontrolü
 date: 2018-12-22 19:33 +0300
 categories: Coding-Challenges
 tags: IP Adresi, IP, Kontrol
+redirect_from:
+  - /coding-challenges/ip-kontrolu/
 ---
 ### Soru
 Programcıya IPv4 adresi içeren bir **(ipAdresi)** veriliyor ve ilgili IP Adresinin doğru olup olmadığının kontrol eden bir metot oluşturması isteniyor.

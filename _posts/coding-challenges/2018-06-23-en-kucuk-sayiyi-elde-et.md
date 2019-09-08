@@ -4,6 +4,9 @@ title: En Küçük Sayıyı Elde Et
 date: 2018-06-23 19:33 +0300
 categories: Coding-Challenges
 tags: Dizi, En Küçük Sayı
+redirect_from:
+  - /coding-challenges/en-kucuk-sayiyi-elde-et/
+  - /etiket/en-kucuk-sayi/
 ---
 ### Soru
 Programcıya aynı veya farklı rakamlarda oluşan bir sayı dizisi **(sayiDizisi)** sunuluyor. Programcıdan ise öncelikle, dizide birbiri ile aynı olan rakamları yok etmesi, ardından elde kalan benzersiz rakamlar ile en küçük sayıyı elde etmesi isteniyor.

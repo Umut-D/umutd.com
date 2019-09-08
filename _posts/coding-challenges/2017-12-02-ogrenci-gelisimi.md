@@ -4,6 +4,9 @@ title: Öğrenci Gelişimi
 date: 2017-12-02 16:05 +0300
 categories: Coding-Challenges
 tags: Gelişim, Öğrenci Gelişimi, İlerleme
+redirect_from:
+  - /coding-challenges/ogrenci-gelisimi/
+  - /etiket/ogrenci-gelisimi/
 ---
 ### Soru
 Bir laboratuvar dersini alan öğrencilere dönem içerisinde 4 adet quiz yapılmaktadır. Öğrencilerden, girdikleri her quizde gelişim göstererek ya önceki sınavlarındaki aynı notu ya da sınavdan daha yüksek notu alarak gelişim göstermesi beklenmektedir. 5 quiz sonrasında öğrencilerine Quiz 1, Quiz 2, Quiz 3, Quiz 4 notları Quiz Sonuçları **(qs)** adıyla sisteme girilmiştir. 

@@ -4,6 +4,10 @@ title: Dizideki Değerlerin Tersini Al
 date: 2018-08-11 19:33 +0300
 categories: Coding-Challenges
 tags: Dizi, Ters Değer
+redirect_from:
+  - /coding-challenges/dizideki-degerlerin-tersini-al/
+  - /etiket/dizi/
+  - /etiket/ters-deger/
 ---
 ### Soru
 Programcıya herhangi bir sayı dizisi **(degerler)** veriliyor. Programcıdan ise sayı dizinde yer alan rakamları matematiğe göre tersini, yani pozitif sayıların negatif, negatif sayıların pozitif hallerinin alınması isteniyor.

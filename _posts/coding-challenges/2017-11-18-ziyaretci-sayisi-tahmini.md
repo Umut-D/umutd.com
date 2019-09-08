@@ -4,6 +4,9 @@ title: Ziyaretçi Sayısı Tahmini
 date: 2017-11-18 15:40 +0300
 categories: Coding-Challenges
 tags: Tahmin, Ziyaretçi Sayısı Tahmini
+redirect_from:
+  - /coding-challenges/ziyaretci-sayisi-tahmini/
+  - /etiket/ziyaretci-sayisi-tahmini/
 ---
 ### Soru
 Bir web sitesini gelen benzersiz ziyaretçi oranı, bir önceki haftaya göre düzenli olarak %7 oranında artmaktadır. Siteye giren benzersiz ziyaretçilerin **(bz)** sayısı ile, geçecek hafta **(h)** sayısı programcıya verilmiştir. 

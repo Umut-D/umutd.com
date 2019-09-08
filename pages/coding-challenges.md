@@ -3,6 +3,8 @@ layout: page
 title: Coding Challenges
 permalink: coding-challenges
 image: pages/coding-challenges.png
+redirect_from:
+  - /kategori/coding-challenges/
 ---
 Uzun zamandır aklımda olan bir şeydi Coding Challenges'a (nam-ı değer Kodlama Mücadeleleri) dair bir bölüm oluşturmak. Bahsi geçen kodlama mücadeleleri kah aklıma gelen, kah yabancı sitelerde (Talentbuddy, Codewars...) görüp çözdüğüm sorulardan oluşuyor. Yani çözümler tamamen bana ait ve kafama göre. En nihayetinde programcılıkta da her yiğidin kod yazış şekli, tercih ettiği metot, sistem, tasarım desenleri vs. farklı. İşin Complexity (karmaşıklık) durumlarına hiç girmeden, dağlara taşlara kod izolasyonu yapmadan üretilen çözümler bunlar. Gerçi ilgili sitelerde karmaşıklık, kod tutarlılığı gibi başlıklara bakılarak çözümler kabul ediliyor ya neyse. 
 

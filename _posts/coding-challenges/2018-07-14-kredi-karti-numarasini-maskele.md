@@ -4,6 +4,9 @@ title: Kredi Kartı Numarasını Maskele
 date: 2018-07-14 19:33 +0300
 categories: Coding-Challenges
 tags: Kredi Kartı, Maskeleme, Düzenleme
+redirect_from:
+  - /coding-challenges/kredi-karti-numarasini-maskele/
+  - /etiket/kredi-karti//
 ---
 ### Soru
 Programcıya, uzunluğu 5 daha üstü olan farklı kredi kartı numarası **(girilenNumara)** veriliyor ve bu kredi kartı numarasındaki son 4 hane hariç tümünü # (diyez/kare/baklava dilimi) işareti ile maskelemesi isteniyor. Eğer kredi kartı numarası uzunluğu 4 ve 4’ten daha az ise herhangi bir maskeleme yapılmaması belirtiliyor.

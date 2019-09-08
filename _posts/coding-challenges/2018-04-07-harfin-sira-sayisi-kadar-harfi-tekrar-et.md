@@ -4,6 +4,9 @@ title: Harfin Sıra Sayısı Kadar Harfi Tekrar Et
 date: 2018-04-07 19:33 +0300
 categories: Coding-Challenges
 tags: Tekrar, Tekrarlama, Harf Tekrarı
+redirect_from:
+  - /coding-challenges/harfin-sira-sayisi-kadar-harfi-tekrar-et/
+  - /etiket/tekrarlama/
 ---
 ### Soru
 Programcıya, uzunluğu veya kısalığı belli olmayan bir metin **(girilenMetin)** veriliyor. Programcıdansa, metindeki her bir harfin sıra sayısına dikkat edip, harfleri aralarına tire ("-") koyarak ve baş harfleri büyük olarak yeniden yazması isteniyor.

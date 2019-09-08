@@ -4,6 +4,9 @@ title: Karmaşık Harfler Kelime İçinde Var Mı?
 date: 2018-05-19 19:33 +0300
 categories: Coding-Challenges
 tags: Karmaşık Harfler, Harf
+redirect_from:
+  - /coding-challenges/karmasik-harfler-kelime-icinde-var-mi/
+  - /etiket/karmasik-harfler/
 ---
 ### Soru
 Programcıya, içerisinde çok çeşitli harfler **(mevcutDeger)** olan anlamsız bir cümle ve anlamlı bir kelime **(mevcutDeger)** veriliyor. Programcıdan ise eldeki değerleri karşılaştırarak mevcut değerdeki harflerin bire bire girilen değerde olup olmadığını bulması isteniyor. Bu durumda eğer girilen kelimedeki harflerin tümü, mevcut değerlerle eşleşiyorsa sonuç ekranına “Olumlu”, değilse “Olumsuz” yazdırması bekleniyor.

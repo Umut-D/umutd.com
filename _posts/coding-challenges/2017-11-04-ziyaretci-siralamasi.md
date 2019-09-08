@@ -4,6 +4,9 @@ title: Ziyaretçi Sıralaması
 date: 2017-11-04 05:23 +0300
 categories: Coding-Challenges
 tags: Sıralama, Web Analitik, Ziyaretçi Sayıları
+redirect_from:
+  - /coding-challenges/ziyaretci-siralamasi/
+  - /etiket/ziyaretci-sayilari/
 ---
 ### Soru
 Bir web sitesi, 3 farklı şehirden **(a, b, c)** benzersiz ziyaretçiler almaktadır. Verilen ziyaretçi sayılarını küçükten büyüğe doğru sıralayınız.

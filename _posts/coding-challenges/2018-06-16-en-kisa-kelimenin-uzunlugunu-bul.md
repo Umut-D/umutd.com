@@ -4,6 +4,11 @@ title: En Kısa Kelimenin Uzunluğunu Bul
 date: 2018-06-16 19:33 +0300
 categories: Coding-Challenges
 tags: Cümle, Kelime, Uzunluk
+redirect_from:  
+  - /coding-challenges/en-kisa-kelimenin-uzunlugunu-bul/
+  - /etiket/cumle/
+  - /etiket/kelime/
+  - /etiket/uzunluk/
 ---
 ### Soru
 Programcıya farklı uzunluktaki kelimelerden oluşan bir cümle veriliyor. Programcıdan ise girilen cümlendeki **(girilenCumle)** en kısa kelimenin uzunluğunun kaç olduğunu bulmasını sağlayan bir kod yapısı oluşturması isteniyor.

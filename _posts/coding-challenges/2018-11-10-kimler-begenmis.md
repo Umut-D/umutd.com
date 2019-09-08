@@ -4,6 +4,9 @@ title: Kimler Beğenmiş
 date: 2018-11-10 19:33 +0300
 categories: Coding-Challenges
 tags: Beğeni, Dizi, Sosyal Medya
+redirect_from:
+  - /coding-challenges/kimler-begenmis/
+  - /etiket/begeni/
 ---
 ### Soru
 Facebook, Twitter gibi sosyal medya sitelerinde "… beğendi" yazısı herkesin malumu. İnsanlar bu vb. site ve bloglarda yazıları, fotoğrafları ve diğer paylaşımları beğenmekteler. Bu noktada ise programcıdan, gönderiyi beğenen kişi sayısına göre;

@@ -4,6 +4,9 @@ title: İki Metini Tek Metin Haline Getir
 date: 2019-03-02 19:33 +0300
 categories: Coding-Challenges
 tags: Benzersiz Metin, Metin
+redirect_from:
+  - /coding-challenges/iki-metini-tek-metin-haline-getir/
+  - /etiket/benzersiz-metin/
 ---
 ### Soru
 Programcıya iki farklı ve sadece aynı veya farklı harflerden oluşan metinler **(birinciMetin, ikinciMetin)** veriliyor. Bu noktadan sonra ise, her iki metini alfabetik olarak sıralı ve sadece aynı olmayan harflerden oluşan bir hale getirmesi isteniyor.

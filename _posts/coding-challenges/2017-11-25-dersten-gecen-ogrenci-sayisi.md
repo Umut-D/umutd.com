@@ -4,6 +4,9 @@ title: Dersten Geçen Öğrenci Sayısı
 date: 2017-11-25 15:44 +0300
 categories: Coding-Challenges
 tags: Geçen Öğrenci Sayısı, Ortalama, Dersten Geçme
+redirect_from:
+  - /coding-challenges/cc-dersten-gecen-ogrenci-sayisi/
+  - /etiket/gecen-ogrenci-sayisi/
 ---
 ### Soru
 Bir kursta yer alan öğrencilerin final notları **(fn)** elektronik ortama girilmiştir. Dersin öğretmeni ise sınıfın sene içindeki durumuna göre dersin geçme notunu **(gn)** kendisi belirlemektedir. 

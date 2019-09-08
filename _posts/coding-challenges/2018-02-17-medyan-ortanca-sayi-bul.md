@@ -4,6 +4,9 @@ title: Medyan (Ortanca) Sayı Bul
 date: 2018-02-17 19:33 +0300
 categories: Coding-Challenges
 tags: Medyan, Ortanca Sayı
+redirect_from:
+  - /coding-challenges/medyan-ortanca-sayi-bul/ 
+  - /etiket/ortanca-sayi/
 ---
 ### Soru
 Programcıya, çeşitli ve sıralanmamış halde bulunan sayılardan oluşan bir dizi **(sayiDizisi)** veriliyor. Bu noktada ise programcıdan, mevcut dizinin medyan/ortanca sayısını bulması isteniyor.

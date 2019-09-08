@@ -4,6 +4,9 @@ title: Gülen Yüzleri Say
 date: 2019-03-09 19:33 +0300
 categories: Coding-Challenges
 tags: Gülen Yüz, Sayım, Emoloji
+redirect_from:
+  - /coding-challenges/gulen-yuzleri-say/
+  - /etiket/yuz/
 ---
 ### Soru
 Programcıya içinde gülücük olan/olmayan yüz ifadeleri dizisi (yuzler) veriliyor. Önce gözler, sonra burun ve son olarak ağız kısmından oluşacak yüz ifadesi kurallar ise;

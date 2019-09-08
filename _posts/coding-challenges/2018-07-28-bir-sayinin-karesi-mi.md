@@ -4,6 +4,10 @@ title: Bir Sayının Karesi Mi?
 date: 2018-07-28 19:33 +0300
 categories: Coding-Challenges
 tags: Kare, Kerekök
+redirect_from:
+  - /coding-challenges/bir-sayinin-karesi-mi/
+  - /etiket/kare/
+  - /etiket/karekok/
 ---
 ### Soru
 Programcıya herhangi bir sayı **(girilenSayilar)** veriliyor ve programcıdan, girilen bu sayının bir sayının karesi olup olmadığını bulan bir kod oluşturması isteniyor.

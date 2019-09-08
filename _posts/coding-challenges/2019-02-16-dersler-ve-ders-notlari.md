@@ -4,6 +4,9 @@ title: Dersler ve Ders Notları
 date: 2019-02-16 19:33 +0300
 categories: Coding-Challenges
 tags: Sıralama, Ders Notları, Ders
+redirect_from:
+  - /coding-challenges/dersler-ve-ders-notlari/
+  - /etiket/linq/
 ---
 ### Soru
 Programcıya çeşitli ders ve test notlarını içeren (bir sözlük -Dictionary- sınıfında) bir yapı sunuluyor. Bu noktadan sonra ise programcıdan, test puanının en az 60 olduğu dersleri ve bunu da azalan sıraya göre listeleyen bir program yazması isteniyor.

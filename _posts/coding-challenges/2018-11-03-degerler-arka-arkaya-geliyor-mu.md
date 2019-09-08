@@ -4,6 +4,10 @@ title: Değerler Arka Arkaya Geliyor Mu?
 date: 2018-11-03 19:33 +0300
 categories: Coding-Challenges
 tags: Art Arda, Dizi, Sıra
+redirect_from:
+  - /coding-challenges/degerler-arka-arkaya-geliyor-mu/
+  - /etiket/sira/
+  - /etiket/dizi/
 ---
 ### Soru
 Programcıya artan veya azalan değerleri olan bir sayı dizisi **(dizi)** veriliyor. Programcıdansa sayı dizinde yer alan rakamların ileri ve geri arka arkaya, yani sıralı bir şekilde gidip gitmediğini, belirleyen bir yapı oluşması bekleniyor.

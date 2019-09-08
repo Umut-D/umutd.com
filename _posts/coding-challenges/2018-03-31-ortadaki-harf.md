@@ -4,6 +4,9 @@ title: Ortadaki Harf
 date: 2018-03-31 19:33 +0300
 categories: Coding-Challenges
 tags: Dizi, Orta, Ortanca
+redirect_from:
+  - /coding-challenges/ortadaki-harf
+  - /etiket/orta/
 ---
 ### Soru
 Programcıya, uzunluğu veya kısalığı belli olmayan bir kelime **(kelime)** veriliyor. Eğer kelimenin uzunluğu tek sayıdan oluşuyorsa, kelimenin ortasında yer alan harfi; kelimenin uzunluğu çift sayıdan oluşuyorsa, kelimenin ortasının sağ ve solunda yer alan iki harfi bulması programcıdan isteniyor.

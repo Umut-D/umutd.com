@@ -4,6 +4,9 @@ title: Harf ve Cümle Sayısı
 date: 2018-01-06 19:02 +0300
 categories: Coding-Challenges
 tags: Sayı, Cümle Sayısı, Harf Sayısı
+redirect_from:
+  - /coding-challenges/harf-ve-cumle-sayisi/
+  - /etiket/cumle-sayisi/
 ---
 ### Soru
 Programcıya bir veya birkaç cümleden oluşan bir yazı **(girilenYazi)** verilmiştir. Bu noktada programcıdan, kendisine verilen yazıdaki harf ve cümle sayısını bulması istenmektedir.

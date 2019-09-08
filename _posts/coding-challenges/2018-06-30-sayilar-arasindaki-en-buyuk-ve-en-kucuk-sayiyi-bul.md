@@ -4,6 +4,9 @@ title: Sayılar Arasındaki En Büyük ve En Küçük Sayıyı Bul
 date: 2018-06-30 19:33 +0300
 categories: Coding-Challenges
 tags: Dizi, En Büyük Sayı, En Küçük Sayı
+redirect_from:
+  - /coding-challenges/sayilar-arasindaki-en-buyuk-ve-en-kucuk-sayiyi-bul/
+  - /etiket/en-kucuk-sayi/
 ---
 ### Soru
 Programcıya aynı veya farklı rakamlarda oluşan bir sayı metini **(girilenSayilar)** veriliyor. Programcıdansa metinde yer alan ve aralarında boşluk olan sayıların içerisindeki en büyük ve en küçük sayıları bularak sonuç olarak yazdırması isteniyor.

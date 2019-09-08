@@ -4,6 +4,9 @@ title: Dizileri Birleştir ve Sırala
 date: 2018-01-27 19:02 +0300
 categories: Coding-Challenges
 tags: Dizi, Dizi Birleştirme, Dizi Sıralama, Sıralama
+redirect_from:
+  - /coding-challenges/dizileri-birlestir-ve-sirala/
+  - /etiket/siralama/
 ---
 ### Soru
 Programcıya, içerisinde birbiriyle aynı ya da farklı sayılar bulunan 2 adet dizi **(dizi, ikinciDizi)** verilmiştir. Bu noktada programcıdan, kendisine verilen iki diziyi birleştirerek, oluşturduğu yeni **(yeniDizi)** veya mevcut **(dizi)** dizideki değerleri sıralı olarak yazdırması istenmektedir.

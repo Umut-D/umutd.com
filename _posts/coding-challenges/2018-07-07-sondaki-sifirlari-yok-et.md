@@ -4,6 +4,9 @@ title: Sondaki Sıfırları Yok Et
 date: 2018-07-07 19:33 +0300
 categories: Coding-Challenges
 tags: Sıfır, Değer Silme
+redirect_from:
+  - /coding-challenges/sondaki-sifirlari-yok-et/
+  - /coding-challenges/sondaki-sifirlari-yok-et//
 ---
 ### Soru
 Programcıya aynı veya farklı rakamlarda oluşan bir tam sayı -ondalık sayı değil- **(girilenSayi)** veriliyor. Programcıdan ise, ilgili tam sayının sonunda yer alan ve fazlalık olarak görülen sıfırları silmesi/yok etmesi isteniyor.

@@ -4,6 +4,8 @@ title: Sayıları Say
 date: 2018-02-03 19:33 +0300
 categories: Coding-Challenges
 tags: İç İçe Döngü, Sayı
+redirect_from:
+  - /coding-challenges/sayilari-say/
 ---
 ### Soru
 Programcıya, içerisinde birbiriyle aynı ya da farklı sayılar bulunan bir dizi **(verilenSayilar)** verilmiştir. Bu noktada programcıdan, kendisine verilen dizideki sayıların kaç kere tekrarlandığını bularak sonuçları sıralı, tek tek, adet olarak yazdırması istenmektedir.

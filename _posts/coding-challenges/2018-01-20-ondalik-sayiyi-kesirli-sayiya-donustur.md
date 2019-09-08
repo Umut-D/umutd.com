@@ -4,6 +4,8 @@ title: Ondalık Sayıyı Kesirli Sayıya Dönüştür
 date: 2018-01-20 19:02 +0300
 categories: Coding-Challenges
 tags: Kesirli Sayı, Ondalık Sayı, Dönüşüm
+redirect_from:
+  - /coding-challenges/ondalik-sayiyi-kesirli-sayiya-donustur/
 ---
 ### Soru
 Programcıya bir adet ondalık sayı **(girilenSayi)** verilmiştir. Bu noktadan sonra programcıdan, verilen ondalık sayının kesirli sayıya çevirilmiş halini bularak, sonucu kesirli sayı halinde (sonuc) yazdırması istenmektedir.

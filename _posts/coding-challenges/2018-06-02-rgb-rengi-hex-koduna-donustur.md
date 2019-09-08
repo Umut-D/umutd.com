@@ -4,6 +4,9 @@ title: RGB Rengi HEX Koduna Dönüştür
 date: 2018-06-02 19:33 +0300
 categories: Coding-Challenges
 tags: RGB, HEX, Renk Dönüşümü, Dönüşüm
+redirect_from:
+  - /coding-challenges/rgb-rengi-hex-koduna-donustur/
+  - /etiket/renk-donusumu/
 ---
 ### Soru
 Programcıya, içerisinde 0 ila 255 değerleri arasında olan 3 farklı RGB değeri **(kirmiziDegeri, yesilDegeri, MaviDegeri)** veriliyor. Bu noktadan sonra ise programcıdan, girilen sayısal değerleri 16’lık Hexadecimal koda dönüştürmesi isteniyor.

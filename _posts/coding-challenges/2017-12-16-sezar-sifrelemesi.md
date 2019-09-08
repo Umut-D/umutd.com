@@ -4,6 +4,9 @@ title: Sezar Şifrelemesi
 date: 2017-12-16 19:02 +0300
 categories: Coding-Challenges
 tags: Sezar Şifrelemesi, Şifreleme
+redirect_from:
+  - /coding-challenges/sezar-sifrelemesi/
+  - /etiket/sezar-sifrelemesi/
 ---
 ### Soru
 Sezar şifrelemesi, bir yazıdaki harflerin yerlerinin değiştirilmesi sonucunda elde edilir. Bu şifrede, her harf o harften bir (ya da birkaç) sonraki harf kullanılarak yazılır. 

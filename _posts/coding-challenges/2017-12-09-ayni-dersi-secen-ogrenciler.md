@@ -4,6 +4,9 @@ title: Aynı Dersi Seçen Öğrenciler
 date: 2017-12-09 16:05 +0300
 categories: Coding-Challenges
 tags: Ders Seçimi, Ders Alma
+redirect_from:
+  - /coding-challenges/ayni-dersi-secen-ogrenciler/
+  - /etiket/ayni-ders-secimi/
 ---
 ### Soru
 Bir üniversitede okuyan öğrenciler A **(aDersiniAlanlar)** veya B **(bDersiniAlanlar)** dersini seçmişlerdir. Bazı öğrenciler ise hem A hem B dersini seçmiştir. A ve B derslerinin danışman hocası her iki dersi alan, ortak öğrencileri görmek istemektedir. 

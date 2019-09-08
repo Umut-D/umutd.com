@@ -4,6 +4,9 @@ title: Eksik Sayı
 date: 2017-12-30 19:02 +0300
 categories: Coding-Challenges
 tags: Sayı, Eksik Sayı
+redirect_from:
+  - /coding-challenges/eksik-sayi/
+  - /etiket/eksik-sayi/
 ---
 ### Soru
 Programcıya eksik sayıların olduğu bir dizi **(numaralar)** veriliyor. Bu noktada ise programcıdan, dizideki eksik sayıyı bularak ekrana yazdırılması isteniyor.
