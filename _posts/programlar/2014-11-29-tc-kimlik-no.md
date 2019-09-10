@@ -7,6 +7,7 @@ tags: Kimlik No, TC Kimlik, TC Kimlik No, TC Kimlik No Algoritması, TC Kimlik N
 redirect_from:
   - /programlar/tc-kimlik-no/
   - /etiket/tc-kimlik-no-algoritmasi/
+  - /etiket/tc-kimlik/
 ---
 {:.uyari}
 Bu program sadece TC Kimlik No algoritmasını C# programlama dilinde uygulanması maksadıyla yazılmıştır. Kullanıcılara doğru TC Kimlik Numaraları sunarken -kaynak kodlarından da görüleceği üzere- kullanıcıdan **herhangi bir bilgi asla sızdırmamaktadır**.
