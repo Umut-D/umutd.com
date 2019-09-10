@@ -4,6 +4,9 @@ title: TC Kimlik No
 date: 2014-11-29 12:43 +0300
 categories: Programlar
 tags: Kimlik No, TC Kimlik, TC Kimlik No, TC Kimlik No Algoritması, TC Kimlik Numarası
+redirect_from:
+  - /programlar/tc-kimlik-no/
+  - /etiket/tc-kimlik-no-algoritmasi/
 ---
 {:.uyari}
 Bu program sadece TC Kimlik No algoritmasını C# programlama dilinde uygulanması maksadıyla yazılmıştır. Kullanıcılara doğru TC Kimlik Numaraları sunarken -kaynak kodlarından da görüleceği üzere- kullanıcıdan **herhangi bir bilgi asla sızdırmamaktadır**.

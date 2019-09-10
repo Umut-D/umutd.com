@@ -4,6 +4,10 @@ title: Vücut Kitle Endeksi Hesaplayıcı
 date: 2019-02-15 12:43 +0300
 categories: Programlar
 tags: VKI, Vücut Kitle İndeksi, Vücut Kitle İndeksi Hesaplayıcı, Kilo Boy Oranı, Boy Kilo Oranı
+redirect_from:
+  - /programlar/vucut-kitle-endeksi-hesaplayici/
+  - /programlar/vucut-kitle-endeksi-hesaplayici/attachment/vki-hesaplayici/
+  - /etiket/vki/
 ---
 ![vki-hesaplayici](/images/programlar/vki-hesaplayici.png){: width="30%"}
 

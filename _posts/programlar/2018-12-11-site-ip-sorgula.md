@@ -4,6 +4,9 @@ title: Site IP Sorgula
 date: 2018-12-11 12:43 +0300
 categories: Programlar
 tags: DNS, IP, Redirect, Site IP, Sorgu, Spam, Spam Referrer, Yönlendirme
+redirect_from:
+  - /programlar/site-ip-sorgula/
+  - /etiket/site-ip/
 ---
 ![site-ip-sorgula](/images/programlar/site-ip-sorgula.png){: width="72%"}
 

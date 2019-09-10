@@ -4,6 +4,9 @@ title: USB Gizli Dosya ve Klasörleri Göster
 date: 2015-04-25 12:43 +0300
 categories: Programlar
 tags: Flash Bellek, Gizli Dosya, Gizli Klasör, Harici Disk, Trojan, USB, Virüs, Win32:Atraps-PZ, Atraps
+redirect_from:
+  - /programlar/usb-gizli-dosya-ve-klasorleri-goster/
+  - /etiket/gizli-klasor/
 ---
 ![usb-gizli-dosya-ve-klasorleri-goster](/images/programlar/usb-gizli-dosya-ve-klasorleri-goster.png){: width="35%"}
 

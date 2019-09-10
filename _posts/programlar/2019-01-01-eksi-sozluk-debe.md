@@ -4,6 +4,9 @@ title: Ekşi Sözlük DEBE (Dünün En Beğenilen Entry’leri)
 date: 2019-01-01 12:43 +0300
 categories: Programlar
 tags: DBE, DEBE, Dünün En Beğenilen Entry'leri, Ekşi Sözlük
+redirect_from:
+  - /programlar/eksi-sozluk-debe/
+  - /etiket/dunun-en-begenilen-entryleri/
 ---
 ![eksi-sozluk-debe](/images/programlar/eksi-sozluk-debe.png){: width="49%"}
 

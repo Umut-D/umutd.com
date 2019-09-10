@@ -4,6 +4,9 @@ title: İmlâ (Yazım) Kılavuzu
 date: 2018-11-25 14:16 +0300
 categories: Programlar
 tags: İmla, İmla Kılavuzu, Yazım, Yazım Kılavuzu
+redirect_from:
+  - /programlar/imla-yazim-kilavuzu/
+  - /etiket/imla/
 ---
 ![imla-kilavuzu](/images/programlar/imla-kilavuzu.png){: width="26%"}  Bugüne kadar yazdığım programlar arasında hiç veritabanı temelli bir program olmadığı bir süredir aklımdaydı. Bu yüzden, kısa sürede ve veritabanı kullanarak yazılabilecek bir program düşünüyordum. Akabinde bir arkadaşımla yazışırken bir kelimeyi doğru yazıp yazmadığımı merak edip “keşke imla kılavuzu olsa” dediğimde aklıma böyle bir program yazmak geldi. Tabi o an işimi Türk Dil Kurumu’nun web sayfasındaki İmlâ (Yazım) Kılavuzundan halletim ancak, mevcut bir imlâ kılavuzuna çevrimdışı (offline) erişebilecek bir program fena olmazdı.
 

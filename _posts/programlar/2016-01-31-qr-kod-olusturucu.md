@@ -4,6 +4,10 @@ title: QR Kod Oluşturucu
 date: 2016-01-31 12:43 +0300
 categories: Programlar
 tags: QR Decode, QR Encode, Karekod, QR Kod, QR Code
+redirect_from:
+  - /programlar/qr-kod-olusturucu/
+  - /programlar/qr-kod-olusturucu/attachment/qr-kod-olusturucu-01/
+  - /etiket/encode/
 ---
 >**QR kod**, adını İngilizce Çabuk Tepki (Quick Response) kelimelerinin baş harflerinden alır. Mobil cihazların kameralarından okutulabilen özel matriks barkod (veya iki boyutlu barkod) türüdür.
 

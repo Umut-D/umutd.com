@@ -4,6 +4,9 @@ title: Taş Kağıt Makas
 date: 2018-12-21 12:43 +0300
 categories: Programlar
 tags: Oyun, Taş Kağıt Makas
+redirect_from:
+  - /programlar/tas-kagit-makas/
+  - /etiket/tas-kagit-makas/
 ---
 ![tas-kagit-makas](/images/programlar/tas-kagit-makas.png){: width="34%"}
 

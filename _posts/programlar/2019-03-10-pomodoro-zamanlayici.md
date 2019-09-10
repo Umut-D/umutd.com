@@ -4,6 +4,9 @@ title: Pomodoro Zamanlayıcı
 date: 2019-03-10 12:43 +0300
 categories: Programlar
 tags: Geri Sayım, Pomodoro, Pomodoro Tekniği, Zaman, Zamanlayıcı
+redirect_from:
+  - /programlar/pomodoro-zamanlayici/
+  - /etiket/zamanlayici/
 ---
 ![pomodoro-zamanlayici](/images/programlar/pomodoro-zamanlayici.png){: width="30%"}
 

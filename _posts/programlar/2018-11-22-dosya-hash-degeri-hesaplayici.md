@@ -4,8 +4,11 @@ title: Dosya Hash Değeri Hesaplayıcı
 date: 2018-11-22 12:43 +0300
 categories: Programlar
 tags: Barkod, Barkod Kontrol Kodu Hesaplayıcı, EAN-13, Kontrol Kodu
+redirect_from:
+  - /programlar/dosya-hash-degeri-hesaplayici/
+  - /etiket/crc32/
 ---
-![iban-kontrol](/images/programlar/dosya-hash-hesaplayici.png){: width="46%"}
+![dosya-hash-hesaplayici](/images/programlar/dosya-hash-hesaplayici.png){: width="46%"}
 
 Bundan yaklaşık bir hafta önce, programlarımdan birine dair eleştiri geldi. Eleştiriyi yapan kişi temel olarak programın virüs ve casus program barındırdığını söylemekte, kendince çeşitli nedenler sıralamaktaydı. Kendisine verdiğim cevaplarda programın kaynak kodlarına göz gezdirmesini ve VirusTotal sonuçlarına bakmasını istedim. Çünkü kaynak kodları apaçık ortadayken, VirusTotal sonuçlarına göre 57 ayrı virüs tarama servisinde yapılan taramaya göre de programda herhangi bir anormallik olmadığı gözükmekteydi. Nitekim VirusTotal’in virus/casus/zararlı yazılım tespit ekranında 0 / 57 yazmaktaydı.
 

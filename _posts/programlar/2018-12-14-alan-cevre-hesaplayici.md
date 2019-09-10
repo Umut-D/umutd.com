@@ -4,6 +4,9 @@ title: Alan Çevre Hesaplayıcı
 date: 2018-12-14 12:43 +0300
 categories: Programlar
 tags: Alan, Alan Çevre Hesaplama, Çember, Çevre, Daire, Dikdörtgen, Hesaplama, Kare, Üçgen
+redirect_from:
+  - /programlar/alan-cevre-hesaplama/
+  - /etiket/alan-cevre-hesaplama/
 ---
 ![iban-kontrol](/images/programlar/alan-cevre-hesaplayici.png){: width="28%"}
 

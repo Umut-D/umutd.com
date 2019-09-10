@@ -4,6 +4,9 @@ title: Geri Sayım Sayacı
 date: 2014-07-18 12:43 +0300
 categories: Programlar
 tags: Alarm, Geri Sayım, Geri Sayım Sayacı, Kronometre, Sayaç, Zaman
+redirect_from:
+  - /programlar/geri-sayim-sayaci/
+  - /etiket/zaman/
 ---
 ![geri-sayim-sayaci](/images/programlar/geri-sayim-sayaci.png){: width="32%"}
 

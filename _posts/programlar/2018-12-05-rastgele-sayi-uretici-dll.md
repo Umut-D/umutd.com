@@ -4,6 +4,8 @@ title: Rastgele Sayı Üretici (DLL)
 date: 2018-12-05 12:43 +0300
 categories: Programlar
 tags: DLL, Farklı Sayı, Random Sayı, Rastgele Sayı
+redirect_from:
+  - /programlar/rastgele-sayi-uretici-dll/
 ---
 ![rastgele-sayi-uretici-dll](/images/programlar/rastgele-sayi-uretici-dll.png){:.resim-ortali}
 

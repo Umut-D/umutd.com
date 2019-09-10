@@ -4,6 +4,9 @@ title: Mors Alfabesi Dönüştürücü
 date: 2019-01-12 12:43 +0300
 categories: Programlar
 tags: Mors, Mors Alfabesi, Mors Kodu
+redirect_from:
+  - /programlar/mors-alfabesi-donusturucu/
+  - /etiket/mors-alfabesi/
 ---
 > **Mors alfabesi** veya **mors kodu**, kısa ve uzun işaretler (• ve –) ile bunlara karşılık gelen ışık veya sesleri kullanarak bilgi aktarılmasını sağlayan yönteme denir.
 

@@ -4,6 +4,9 @@ title: Rastgele (Lorem Ipsum) Yazı Oluşturucu
 date: 2018-12-08 12:43 +0300
 categories: Programlar
 tags: Lorem Ipsum, Rastgele Yazı, Rastgele Yazı Oluşturucu
+redirect_from:
+  - /programlar/rastgele-yazi-olusturucu/
+  - /etiket/rastgele-yazi-olusturucu/
 ---
 ![rastgele-yazi](/images/programlar/rastgele-yazi.png){: width="45%"}
 

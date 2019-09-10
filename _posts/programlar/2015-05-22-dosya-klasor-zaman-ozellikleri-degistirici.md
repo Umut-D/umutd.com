@@ -4,6 +4,9 @@ title: Dosya/Klasör Zaman Özellikleri Değiştirici
 date: 2015-05-22 12:43 +0300
 categories: Programlar
 tags: Dosya, Klasör, Özellik Değiştir, Tarih, Zaman
+redirect_from:
+  - /programlar/dosya-klasor-zaman-ozellikleri-degistirici/
+  - /etiket/dosya/
 ---
 ![dosya-klasor-zaman-ozellikleri-degistirici](/images/programlar/dosya-klasor-zaman-ozellikleri-degistirici.jpg){: width="60%"}
 

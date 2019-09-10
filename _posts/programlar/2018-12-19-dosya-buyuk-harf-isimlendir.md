@@ -4,6 +4,9 @@ title: Dosya Büyük Harf İsimlendir
 date: 2018-12-19 12:43 +0300
 categories: Programlar
 tags: Büyük Harf, Harf Dönüşümü, Dosya Adı, İsimlendirme
+redirect_from:
+  - /programlar/dosya-buyuk-harf-isimlendir/
+  - /etiket/buyuk-harf/
 ---
 ![dosya-buyuk-harf-isimlendir](/images/programlar/dosya-buyuk-harf-isimlendir.png){: width="63%"}
 

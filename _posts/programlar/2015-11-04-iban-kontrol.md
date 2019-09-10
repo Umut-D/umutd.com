@@ -4,6 +4,9 @@ title: IBAN Kontrol
 date: 2015-11-04 12:43 +0300
 categories: Programlar
 tags: Banka, IBAN, IBAN Doğrulama, IBAN Kontrol, IBAN Sorgulama
+redirect_from:
+  - /programlar/iban-kontrol/
+  - /etiket/iban-sorgulama/
 ---
 ![iban-kontrol](/images/programlar/iban-kontrol.png){:.resim-ortali}
 

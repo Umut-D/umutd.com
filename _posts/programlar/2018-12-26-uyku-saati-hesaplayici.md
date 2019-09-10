@@ -4,6 +4,9 @@ title: Uyku Saati Hesaplayıcı
 date: 2018-12-26 12:43 +0300
 categories: Programlar
 tags: Uyku, Uyku Saatleri, Yatış Saatleri, Kaçta Yatsam
+redirect_from:
+  - /programlar/uyku-saati-hesaplayici/
+  - /etiket/uyku-saatleri/
 ---
 ![uyku-saati-hesaplayici](/images/programlar/uyku-saati-hesaplayici.png){: width="51%"}
 

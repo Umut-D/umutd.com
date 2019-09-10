@@ -13,7 +13,7 @@ Son olarak; *hiçbir sosyal medya hesabım (Facebook, Twitter, Instagram vb.) yo
 <div id="form">
 <form method="POST" action="https://formspree.io/batu2k@gmail.com">
   <p><strong>Adınız</strong> (hitap edebilmem için gerekli):</p>
-  <input type="text" name="ad" required name="ad">
+  <input type="text" name="ad" required name="ad" autofocus>
   <p><strong>E-postanız</strong> (geri dönmem için gerekli):</p>
   <input type="email" name="email" required name="email">
   <p><strong>Mesajınız:</strong></p>

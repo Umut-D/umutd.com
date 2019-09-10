@@ -4,6 +4,10 @@ title: İlk Sayfalar (Android)
 date: 2018-11-28 12:43 +0300
 categories: Programlar
 tags: Gazete Manşetleri, Gazeteler, İlk Sayfa, İlk Sayfalar, Manşet, Manşetler
+redirect_from:
+  - /programlar/ilk-sayfalar-android/
+  - /programlar/ilk-sayfalar/
+  - /kategori/android/
 ---
 ![ilk-sayfalar](/images/programlar/ilk-sayfalar.png){: width="28%"}
 

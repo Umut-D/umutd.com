@@ -4,6 +4,9 @@ title: Rastgele Sayı Üretici
 date: 2018-12-18 12:43 +0300
 categories: Programlar
 tags: Farklı Sayı, Random Sayı, Rastgele Benzersiz Sayı, Rastgele Sayı, Rastgele Sayı Üretici
+redirect_from:
+  - /programlar/rastgele-sayi-uretici/
+  - /etiket/rastgele-sayi/
 ---
 ![rastgele-sayi-uretici](/images/programlar/rastgele-sayi-uretici.png){: width="30%"}
 

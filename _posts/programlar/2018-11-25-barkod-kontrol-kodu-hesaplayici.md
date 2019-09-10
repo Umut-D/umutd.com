@@ -5,6 +5,7 @@ date: 2018-11-25 12:43 +0300
 categories: Programlar
 tags: Barkod, Barkod Kontrol Kodu Hesaplayıcı, EAN-13, Kontrol Kodu
 redirect_from:
+  - /programlar/barkod-kontrol-kodu-hesaplayici/
   - /c/barkod-kontrol-kodu/
   - /etiket/barkod-kontrol-kodu-hesaplayici/
 ---

@@ -4,6 +4,9 @@ title: Türkiye Cumhuriyeti Merkez Bankası (TCMB) Kurları
 date: 2019-02-28 12:43 +0300
 categories: Programlar
 tags: Döviz, Döviz Kuru, Kurlar, TCMB, Türkiye Cumhuriyeti Merkez Bankası
+redirect_from:
+  - /programlar/tcmb-kurlari/
+  - /etiket/turkiye-cumhuriyeti-merkez-bankasi/
 ---
 ![tcmb-kurlari](/images/programlar/tcmb-kurlari.png){: width="56%"} Genişletilebilir İşaretleme Dili (Extensible Markup Language, XML) hem Lojistik Bilgi Sistemleri dersinde anlattığım, hem de C#'da uğraşmayı sevdiğim konuların başında geliyor. Hiç doğru düzgün bir XML projesi yapmadığımı düşünürken aklıma XML’i düzgün bir şekilde kullanan ve sık sık güncellenen Türkiye Cumhuriyeti Merkez Bankası (TCMB) kurlar sayfası aklıma geldi. Ekonomiden zerre kadar anlamayan, ancak ekonomideki her haltın bir teorisi olduğunu bilen biri olarak dinamik olarak farklı para birimlerinin kurları çekerek kullanıcıya bilgi veren bir programın fena olmayacağını düşündüm.
 

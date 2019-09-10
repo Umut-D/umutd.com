@@ -4,6 +4,10 @@ title: Resim Döndür
 date: 2018-12-02 12:43 +0300
 categories: Programlar
 tags: Döndürme, Resim, Resim Döndür, Resim Döndürme, Resim Döndürücü
+redirect_from:
+  - /programlar/resim-dondur/
+  - /programlar/resim-dondur/comment-page-1/
+  - /etiket/resim-dondur/
 ---
 ![resim-dondur](/images/programlar/resim-dondur.png){: width="55%"}
 

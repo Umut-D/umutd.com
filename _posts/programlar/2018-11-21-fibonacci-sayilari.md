@@ -4,6 +4,9 @@ title: Fibonacci Sayıları
 date: 2018-11-21 12:43 +0300
 categories: Programlar
 tags: Fibonacci, Fibonacci Dizisi, Fibonacci Sayıları, İteratif, Recursive
+redirect_from:
+  - /programlar/fibonacci-sayilari/
+  - /etiket/fibonacci-sayilari/
 ---
 ![fibonacci-sayilari](/images/programlar/fibonacci-sayilari.png){: width="33%"}
 

@@ -4,6 +4,9 @@ title: Faktöriyel, Kombinasyon, Permütasyon Hesaplayıcı
 date: 2018-11-30 12:43 +0300
 categories: Programlar
 tags: Faktöriyel, Kombinasyon, Permütasyon
+redirect_from:
+  - /programlar/fkp-hesaplayici/
+  - /etiket/permutasyon/
 ---
 ![fkp-hesaplayici](/images/programlar/fkp-hesaplayici.png){: width="55%"}
 

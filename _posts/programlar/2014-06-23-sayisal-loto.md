@@ -4,6 +4,10 @@ title: Sayısal Loto
 date: 2014-06-23 12:43 +0300
 categories: Programlar
 tags: Loto, Sayısal Loto
+redirect_from:
+  - /programlar/sayisal-loto/
+  - /etiket/sayisal-loto/
+  - /etiket/oyun/
 ---
 ![sayisal-loto](/images/programlar/sayisal-loto.png){: width="50%"}
 

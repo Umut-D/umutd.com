@@ -4,6 +4,9 @@ title: Büyük Küçük Harf Değiştir
 date: 2018-12-19 12:43 +0300
 categories: Programlar
 tags: Büyük Küçük Harf, Harf, Harf Değiştirme, Kelime
+redirect_from:
+  - /programlar/buyuk-kucuk-harf-degistir/
+  - /etiket/buyuk-kucuk-harf/
 ---
 ![buyuk-kucuk-harf-degistir](/images/programlar/buyuk-kucuk-harf-degistir.png){: width="54%"}
 
