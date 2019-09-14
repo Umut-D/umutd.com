@@ -46,7 +46,6 @@ public class Main {
 
     public static void main(String[] args) 
     {
-
         int nSayisi = 3;
         long sonuc = 0;
 
