@@ -4,7 +4,6 @@ title: Dost Mu Düşman Mı?
 date: 2019-03-23 17:05 +0300
 categories: Coding-Challenges
 tags: Dizi
-excerpt: Programcıya biri isim dizisi (isimler) verilerek, bu dizide yer alan 4 harfe sahip kişilerin dost, olmayanların düşman olduğu belirtiliyor. Bu noktadan sonra ise programcıdan, dizideki 4 harfli isimleri ayrıştırarak tek tek yazdırması isteniyor.
 redirect_from:
   - /coding-challenges/dost-mu-dusman-mi/
 ---
