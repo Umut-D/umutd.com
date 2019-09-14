@@ -44,7 +44,8 @@ internal class Program
 ```java
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
 
         int nSayisi = 3;
         long sonuc = 0;
@@ -52,7 +53,7 @@ public class Main {
         // 1'den n'ye kadar olan tüm sayıların önce küpünü al, sonra sonuca ekle
         for (int i = 1; i <= nSayisi; i++)
         {
-            sonuc += (long) (Math.pow(i, 3));
+            sonuc += (long) Math.pow(i, 3);
         }
 
         System.out.println("Sonuç: " + sonuc);
