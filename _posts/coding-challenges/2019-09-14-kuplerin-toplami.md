@@ -54,7 +54,7 @@ public class Main {
         // 1'den n'ye kadar olan tüm sayıların önce küpünü al, sonra sonuca ekle
         for (int i = 1; i <= nSayisi; i++)
         {
-            sonuc += (int) (Math.pow(i, 3));
+            sonuc += (long) (Math.pow(i, 3));
         }
 
         System.out.println("Sonuç: " + sonuc);
