@@ -13,7 +13,7 @@ Programcıdan, pozitif n tamsayısını alan **(nSayisi)** ve 1'den n'e kadar ol
 
 | Girdi          | Çıktı                                          |
 |----------------|------------------------------------------------|
-| **nSayisi**: 2 | 9 (1'in 3. üssü + 2'nin 3. üssü)               |
+| **nSayisi**: 2 | 9 (1<sup>3</sup>+2<sup>3</sup>)                |
 | **nSayisi**: 3 | 26 (1<sup>3</sup>+2<sup>3</sup>+3<sup>3</sup>) |
 
 ### Çözüm - C#

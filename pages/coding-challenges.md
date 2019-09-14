@@ -69,6 +69,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [İki Metini Tek Metin Haline Getir](/coding-challenges/iki-metini-tek-metin-haline-getir)
 * [Kelime Bir İzogram Mı?](/coding-challenges/kelime-bir-izogram-mi)
 * [Kredi Kartı Numarasını Maskele](/coding-challenges/kredi-karti-numarasini-maskele)
+* [Küplerin Toplamı](/coding-challenges/kuplerin-toplami)
 * [Medyan (Ortanca Sayı) Bul](/coding-challenges/medyan-ortanca-sayi-bul)
 * [Metni Internet Diline (LeetSpeak) Çevir](/coding-challenges/metni-internet-diline-cevir)
 * [Ondalık Sayıyı Kesirli Sayıya Dönüştür](/coding-challenges/ondalik-sayiyi-kesirli-sayiya-donustur)
