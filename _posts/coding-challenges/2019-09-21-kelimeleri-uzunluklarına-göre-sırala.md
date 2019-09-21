@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kelimeleri Uzunluklarına Göre Sırala
-date: 2019-09-14 15:02 +0300
+date: 2019-09-21 15:02 +0300
 categories: Coding-Challenges
 tags: Sıralama, Kelime, Uzunluk
 excerpt: Programcıya, çeşitli kelimelerden oluşan bir dizi (girilenDizi) veriliyor. Sonrasında ise, dizideki kelimeleri baş harflerine göre değil, uzunluklarına göre sıralaması isteniyor.
