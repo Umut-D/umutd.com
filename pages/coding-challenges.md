@@ -68,6 +68,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [En Küçük Sayıyı Elde Et](/coding-challenges/en-kucuk-sayiyi-elde-et)
 * [İki Metini Tek Metin Haline Getir](/coding-challenges/iki-metini-tek-metin-haline-getir)
 * [Kelime Bir İzogram Mı?](/coding-challenges/kelime-bir-izogram-mi)
+* [Kelimeleri Uzunluklarına Göre Sırala](/coding-challenges/kelimeleri-uzunluklarina-gore-sirala)
 * [Kredi Kartı Numarasını Maskele](/coding-challenges/kredi-karti-numarasini-maskele)
 * [Küplerin Toplamı](/coding-challenges/kuplerin-toplami)
 * [Medyan (Ortanca Sayı) Bul](/coding-challenges/medyan-ortanca-sayi-bul)
