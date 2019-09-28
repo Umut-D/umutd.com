@@ -34,6 +34,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Armstrong Sayısı](/coding-challenges/armstrong-sayisi)
 * [ATM'deki Para Adetlerini Say](/coding-challenges/atmdeki-para-adetlerini-say)
 * [Cümledeki Harflerin Sayısı](/coding-challenges/cumledeki-harflerin-sayisi)
+* [Dosya Adını Çıkart](/coding-challenges/dosya-adini-cikart)
 * [Değerler Arka Arkaya Geliyor Mu?](/coding-challenges/degerler-arka-arkaya-geliyor-mu)
 * [Girilen Listeden, Rasgele Sayılar Oluştur](/coding-challenges/girilen-listeden-rasgele-sayilar-olustur)
 * [Gülen Yüzleri Say](/coding-challenges/gulen-yuzleri-say)
