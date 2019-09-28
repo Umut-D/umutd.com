@@ -14,10 +14,10 @@ Programcıya, farklı harf ve karakterlerden oluşan bir dosya adı **(dosyaAdi)
 
 ### Örnek
 
-| Girdi                                                             | Çıktı                          |
-|-------------------------------------------------------------------|--------------------------------|
-| **dosyaAdi**: 1231231223123131_FILE_NAME.EXTENSION.OTHEREXTENSION | **Sonuç**: FILE_NAME.EXTENSION |
-| **dosyaAdi**: 1231231223123131_myFile.tar.gz2                     | **Sonuç**: myFile.tar          |
+| Girdi                                          | Çıktı                          |
+|------------------------------------------------|--------------------------------|
+| **dosyaAdi**: 123_FILE_NAME.EXTENSION.OTHEREXT | **Sonuç**: FILE_NAME.EXTENSION |
+| **dosyaAdi**: 1231231223123131_myFile.tar.gz2  | **Sonuç**: myFile.tar          |
 
 ### Çözüm - C#
 ```csharp
