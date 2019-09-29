@@ -8,7 +8,7 @@ redirect_from:
   - /programlar/kaza-namazi-cetelesi/
   - /etiket/cetele/
 ---
-![kaza-namazi-cetelesi](/images/programlar/kaza-namazi-cetelesi.png){: width="50%"} Necip Fazıl Kısakürek; *"Namaz camiden çıkınca, Hac Mekke'den dönünce, Ramazan Oruç bitince başlar"* der. Ramazan sona erdiğinde, mübarek ramazan ayında namaz kılmaya başlayanlar, kıldıkları namaz sayısını arttırıp kılamadıklarının hesabını tutmaya çalışanlar için böyle bir program yazmak aklıma geldi. En nihayetinde kılınmayan namazların da insan için bir borç olduğu herkesin malumu. 
+![kaza-namazi-cetelesi](/images/programlar/kaza-namazi-cetelesi.png){: width="52%"} Necip Fazıl Kısakürek; *"Namaz camiden çıkınca, Hac Mekke'den dönünce, Ramazan Oruç bitince başlar"* der. Ramazan sona erdiğinde, mübarek ramazan ayında namaz kılmaya başlayanlar, kıldıkları namaz sayısını arttırıp kılamadıklarının hesabını tutmaya çalışanlar için böyle bir program yazmak aklıma geldi. En nihayetinde kılınmayan namazların da insan için bir borç olduğu herkesin malumu. 
 
 Programın elimden geldiğince sade halde olması için çaba sarfettim ve sonuçta kaza namazlarınızın hesabını kolaylıkla tutabilecek bir program çıktı. Programın özelliklerine gelecek olursak;
 

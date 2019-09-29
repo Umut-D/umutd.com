@@ -13,7 +13,7 @@ redirect_from:
 
 Yukarıdaki şekilde açıklanan QR kod, istediğiniz metni/bilgiyi matriks barkodun içerisine gömerek beyaz fonun üzerine siyah karelerden oluşan (renk bazen değişebiliyor) kare kod(lar) oluşturmanızı sağlıyor.
 
-![qr-kod-olusturucu](/images/programlar/qr-kod-olusturucu.png){: width="46%"}
+![qr-kod-olusturucu](/images/programlar/qr-kod-olusturucu.png){: width="48%"}
 
 Peki ben neden böyle bir program yazdım. Hiç bilmiyorum. Yazılacak programlar listeme fi tarihinde "QR Kodu oluşturan bir program yap" yazmışım. Az biraz vakit buldum, bari biraz el atayım dedim. Sonrasında böyle bir nane çıktı. QR kodunu oluşturmaya yarayan bu şirin programla, QR kodunuza 48×48’lik bir fotoğraf/resim de eklenebiliyor. Halihazırda, sadece QR kodu içeren fotoğraf/resim içinde yazan zamazingoları çözümleyebiliyor. Bir de kısır yapsa tam olurdu. Sanırım acıktım. Mutfağa gitmeden hemen önce yandaki görüntünün QR Kodu Oluşturucu ile oluşturduğum kare kodunun cep telefonumla okutulduktan sonraki görüntüsünün olduğunu belirteyim (Umut burada programın çalıştığına vurgu yapmak istiyor). Programın özelliklerine gelecek olursak;
 
