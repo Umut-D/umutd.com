@@ -1,6 +1,8 @@
 ---
 ---
 
+/* FONTELLO 
+   ----------------------------- */
 @import "plain";
 @font-face {
     font-family: 'fontello';
@@ -63,7 +65,8 @@
   .icon-youtube-play:before { content: '\f16a'; } /* '' */
   .icon-stackoverflow:before { content: '\f16c'; } /* '' */
 
-  /* CSS Başlangıcı */
+  /* CSS Genel Ayarları
+   ----------------------------- */
 body{
     background: #fafbfc;
 }
@@ -80,7 +83,7 @@ main .about img {
 main .about h2 {
     margin-top: 15px;
     margin-bottom: 5px;
-    font-size: 28px;
+    font-size: 2.3em;
     font-weight: 700;
 }
 
@@ -95,7 +98,7 @@ main .about ul#menu li {
 }
 
 main .about #menu a{
-    font-size: 22px;
+    font-size: 1.8em;
     margin-top: 17px;
     color: #aaa;
     text-decoration: none;
@@ -108,7 +111,7 @@ main .about #menu a:hover{
 
 main .altbilgi{
     margin-top: 0px;
-    font-size: 15px;
+    font-size: 1.3em;
 }
 
 .social li i {

@@ -48,8 +48,6 @@ internal class Program
 
 ### Çözüm - Java
 ```java
-package zeta;
-
 public class Main {
 
     public static void main(String[] args) {
