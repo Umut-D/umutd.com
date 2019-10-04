@@ -22,6 +22,8 @@ Programcıya, iki sayı **(birinciSayi, ikinciSayi)** veriliyor ve bu iki sayın
 
 ### Çözüm - C#
 ```csharp
+using System;
+
 internal class Program
 {
     private static void Main()
