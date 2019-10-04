@@ -4,7 +4,6 @@ title: Saniyeleri Okunabilir Zamana Dönüştür
 date: 2019-04-06 17:09 +0300
 categories: Coding-Challenges
 tags: Dakika, Saat, Saniye, Süre, Zaman, EPoch Zamanı
-excerpt: Programcıya saniye (girilenSaniye) içeren bir sayı veriliyor. Girilen bu saniyenin ise (HH:MM:SS) formatına dönüştürülerek gösterilmesi isteniyor.
 redirect_from:
   - /coding-challenges/saniyeleri-okunabilir-zamana-donustur/ 
   - /etiket/duzenlenebilir-bolge/
