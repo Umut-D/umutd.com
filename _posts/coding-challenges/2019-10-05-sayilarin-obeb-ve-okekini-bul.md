@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sayıların OBEB ve OKEK'ini bul
-date: 2019-10-05 00:47 +0300
+date: 2019-10-05 10:47 +0300
 categories: Coding-Challenges
 tags: Obeb, Ortak Bölenleri En Büyüğü, Okek, Ortak Katların En Küçüğü
 excerpt: Programcıya, iki sayı (birinciSayi, ikinciSayi) veriliyor ve bu iki sayının OBEB (Ortak Bölenleri En Büyüğü) ve OKEK'ini (Ortak Katların En Küçüğü) bulması isteniyor.
