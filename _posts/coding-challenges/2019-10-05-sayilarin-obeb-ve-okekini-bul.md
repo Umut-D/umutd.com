@@ -9,8 +9,7 @@ excerpt: Programcıya, iki sayı (birinciSayi, ikinciSayi) veriliyor ve bu iki s
 ### Soru
 Programcıya, iki sayı **(birinciSayi, ikinciSayi)** veriliyor ve bu iki sayının OBEB (Ortak Bölenleri En Büyüğü) ve OKEK'ini (Ortak Katların En Küçüğü) bulması isteniyor.
 
->**OBEB**, Aynı anda iki veya daha fazla tam sayıyı bölen pozitif bölen sayıların en büyüğüne bu sayıların Ortak Bölenlerinin En Büyüğü (OBEB) denir.<br>
->**OKEK**, İki yada daha fazla tam sayının ortak katlarının en küçüğüne OKEK denir.
+> Aynı anda iki veya daha fazla tam sayıyı bölen pozitif bölen sayıların en büyüğüne bu sayıların **Ortak Bölenlerinin En Büyüğü (OBEB)** denir. İki yada daha fazla tam sayının ortak katlarının en küçüğüne ise Ortak Bölenleri En Büyüğü (OKEK) denir.
 
 ### Örnek
 
