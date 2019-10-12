@@ -88,6 +88,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Girilen Sayıyı Yazıya Çevir](/coding-challenges/girilen-sayiyi-yaziya-cevir)
 * [Hemen Çıkma Oranı](/coding-challenges/hemen-cikma-orani)
 * [Lig Puanları Toplamı](/coding-challenges/lig-puanlari-toplami)
+* [Önceki ve Sonraki Notayı Bul](/coding-challenges/onceki-ve-sonraki-notayi-bul)
 * [Sayıların OBEB ve OKEK'ini bul](/coding-challenges/sayilarin-obeb-ve-okekini-bul)
 * [Tuz Buz](/coding-challenges/tuz-buz)
 * [Ziyaretçi Sayıları](/coding-challenges/ziyaretci-siralamasi)

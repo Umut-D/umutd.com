@@ -56,7 +56,6 @@ internal class Program
 public class Main {
 
     public static void main(String[] args) {
-
         int birinciSayi = 4, ikinciSayi = 3;
         int obeb = 0;
 
