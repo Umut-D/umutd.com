@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Önceki ve Sonraki Notayı Bul
-date: 2019-10-05 18:47 +0300
+date: 2019-10-12 18:47 +0300
 categories: Coding-Challenges
 tags: Nota, Müzik
 excerpt: Programcıdan, girilen nota'ya göre, o notadan önceki ve sonraki notaları yazdıran bir program oluşturması isteniyor...
