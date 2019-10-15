@@ -14,9 +14,7 @@ redirect_from:
 
 Çoğunlukla bir iş için lazım olduğunda program yazmaya kasan biri olarak bu sefer de rastgele yazı oluşturmak için program yazayım dedim. Kah Photoshop’ta, kah Dreamweaver’da, kah Notepad++’da bazen uzun ve anlamsız metinlere ihtiyaç duyduğumda “buraya yazı gelecek” yazmaktan tiksineli çok olduğundan beri yardımıma hep Lorem Ipsum metinleri (ebnebiler dummy text de diyebiliyor) yetişti. 
 
-Bu türde koftiden yazılar üretmek için çeşitli programlar için çok çeşitli plug-in’ler var. Ancak ben artık kendim pişirip yiyeyim deyince ortaya böyle bir program çıktı. Tabi bu arada Lorem Ipsum'un ne olduğundan bahsetmemek olmaz:
-
-Bu basit programı uzun uzadıya anlatmanın alemi yok, programın yegane özelliğine geçelim;
+Bu türde koftiden yazılar üretmek için çeşitli programlar için çok çeşitli plug-in’ler var. Ancak ben artık kendim pişirip yiyeyim deyince ortaya böyle bir program çıktı. Bu basit programı uzun uzadıya anlatmanın alemi yok, programın yegane özelliğine geçelim;
 
 - Maksimum 30 paragraf, (paragraf içinde) 30 cümle, (cümle içinde) 30 kelime ile rastgele Lorem Ipsum metinleri oluşturma.
 
