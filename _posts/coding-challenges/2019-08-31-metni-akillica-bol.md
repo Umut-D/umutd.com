@@ -4,7 +4,6 @@ title: Metni Akıllıca Böl
 date: 2019-08-31 14:04 +0300
 categories: Coding-Challenges
 tags: Metin, Bölme, Düzenli İfadeler
-excerpt: Programcıya, içerisinde ! ve [ veya ] karakterleri de içeren bir metin veriliyor. Bu noktadan sonra programcıdan; verilen metni parçalaması, fakat köşeli parantez olan alanları da olduğu gibi, yani kalıp halinde diziye aktarması isteniyor.
 ---
 ### Soru
 Programcıya, içerisinde ! ve [ veya ] karakterleri de içeren bir metin veriliyor. Bu noktadan sonra programcıdan; verilen metni parçalaması, fakat köşeli parantez olan alanları da olduğu gibi, yani kalıp halinde diziye aktarması isteniyor.
