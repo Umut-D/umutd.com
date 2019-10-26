@@ -30,7 +30,7 @@ class Program
     static void Main()
     {
         string girilenIfade = "a4Ap";
-        bool durum = false;
+        bool sonuc = false;
 
         // Boyut kontrolü yap
         if (girilenIfade.Length > 0)
@@ -40,11 +40,11 @@ class Program
             {
                 // İstenen kalıba uyan Regular Expressions (Düzenli İfadeler) ile olayı çöz
                 Regex duzenliIfade = new Regex(@"^[a-zA-Z0-9]*$");
-                durum = duzenliIfade.IsMatch(girilenIfade);
+                sonuc = duzenliIfade.IsMatch(girilenIfade);
             }
         }
 
-        Console.WriteLine(durum);
+        Console.WriteLine("Sonuç: {0}", sonuc);
         Console.Read();
     }
 }
