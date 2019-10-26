@@ -7,11 +7,11 @@ tags: Regex, Alfanümerik
 excerpt: Programcıdan, bir kullanıcı giriş dizesinin (girilenIfade) alfanümerik olup olmadığını doğrulayan bir program oluşturması isteniyor.
 ---
 ### Soru
-Programcıdan, bir kullanıcı giriş dizesinin **(girilenIfade)** alfanümerik olup olmadığını doğrulayan bir program oluşturması isteniyor. Buna ek olarak, alfanümerik ifade;
+Programcıdan, bir kullanıcı giriş dizesinin **(girilenIfade)** alfanümerik olup olmadığını doğrulayan bir program oluşturması isteniyor. Ayrıca alfanümerik ifadenin;
 
-* Büyük harf(ler), küçük harf(ler) ve 0'dan 9' kadar olan rakamlara izin veriliyor.
-* En az bir karakterden oluşmalı (Boş olmamalı).
-* Boşluk ya da altçizgi içermemeli.
+* Büyük harf(ler), küçük harf(ler) ve 0'dan 9' kadar olan rakamlara izin veriliyor,
+* En az bir karakterden oluşması isteniyor (Boş olmamalı),
+* Boşluk ya da altçizgi içermemesi gerektiği belirtiliyor.
 
 ### Örnek
 
