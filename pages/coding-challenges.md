@@ -18,6 +18,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 
 * [Anagram Olanlar Neler?](/coding-challenges/anagram-olanlar-neler)
 * [Aritmetik Artışta Eksik Sayıyı Bul](/coding-challenges/aritmetik-artista-eksik-sayiyi-bul)
+* [Çok Güvenli Değil](/coding-challenges/cok-guvenli-degil)
 * [İkili Kodu (Binary), Ondalık sayıya (Decimal) Çevir](/coding-challenges/ikili-kodu-ondalik-sayiya-cevir)
 * [İlk Tekrar Etmeyen Karakter](/coding-challenges/ilk-tekrar-etmeyen-karakter)
 * [Karmaşık Harfler Kelime İçinde Var Mı?](/coding-challenges/karmasik-harfler-kelime-icinde-var-mi)
