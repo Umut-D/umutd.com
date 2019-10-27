@@ -4,6 +4,7 @@ title: Alan Çevre Hesaplayıcı
 date: 2019-10-27 10:43 +0300
 categories: Programlar
 tags: Alan, Alan Çevre Hesaplama, Çember, Çevre, Daire, Dikdörtgen, Hesaplama, Kare, Üçgen
+excerpt: Lise ve üniversitelerdeki bilgisayar ve onunla ilgili bölümlerde Nesneye Yönelik Programlama derslerinde (Java, C++, C# hiç fark etmez) mutlaka örnek verilen bir konu alan hesaplama...
 redirect_from:
   - /programlar/alan-cevre-hesaplama/
   - /etiket/alan-cevre-hesaplama/
