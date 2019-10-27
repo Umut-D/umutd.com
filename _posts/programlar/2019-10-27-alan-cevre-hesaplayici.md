@@ -13,7 +13,7 @@ redirect_from:
 
 Lise ve üniversitelerdeki bilgisayar ve onunla ilgili bölümlerde Nesneye Yönelik Programlama derslerinde (Java, C++, C# hiç fark etmez) mutlaka örnek verilen bir konu alan hesaplama. Özellikle metotlar konularında fazlasıyla kolaylaşan bu hesap türü ile ilgili basit bir program yazmak istedim bu gündüzü güneşli, akşamı kaotik bir pazar gününde. 
 
-Soyut sınıf (Abstract Class) Metotlar kullanarak alan ve çevre hesaplamalarının üstesinden gelmek ve işimi kolaylaştırmak aklımdan geçti. Fakat normal ve pek çok kişi tarafından bilindik usülle yazmış bulundum, geri dönmek için çok geçti. Her şey bir yana özellikle ödev için buraya gelenlere fikir verecek cinsten bir çalışma oldu. Hayrını görün. Yaptım Oldu. Büyükşehir çalışıyor. Programın özelliklerine gelecek olursak;
+Soyut sınıf (Abstract Class) Metotlar kullanarak alan ve çevre hesaplamalarının üstesinden gelmek ve işimi kolaylaştırmak aklımdan geçti. Fakat normal ve pek çok kişi tarafından bilindik usülle yazmış bulundum, geri dönmek için çok geçti. Her şey bir yana özellikle ödev için buraya gelenlere fikir verecek cinsten bir çalışma oldu. Hayrını görün. Yaptım Oldu. Büyükşehir çalışıyor. Programın o çok bilindik özelliklerine gelecek olursak;
 
 - Üçgen alan hesabını yapabilme,
 - Kare, dikdörtgen ve çemberin alan ve çevre hesabını yapabilme.
@@ -31,6 +31,7 @@ Soyut sınıf (Abstract Class) Metotlar kullanarak alan ve çevre hesaplamaları
 
 ```csharp
 using System;
+using System.Text;
 
 namespace alan_cevre_hesaplayici
 {
@@ -60,13 +61,17 @@ namespace alan_cevre_hesaplayici
 
     class Hesapla : Geometri
     {
+        readonly StringBuilder _sonuc = new StringBuilder();
+
         public override string Cember(string yaricap)
         {
             Yaricap = Convert.ToDouble(yaricap);
             Cevre = 2 * Math.PI * Yaricap;
             Alan = Math.PI * Math.Pow(Yaricap, 2);
 
-            return @"Çemberin Alanı (cm) = " + Alan.ToString("##.####") + "\r\n" + @"Çemberin cevresi (cm) = " + Cevre.ToString("##.####");
+            _sonuc.AppendLine(@"Çemberin Alanı (cm) = " + Alan.ToString("##.####"));
+            _sonuc.Append(@"Çemberin cevresi (cm) = " + Cevre.ToString("##.####"));
+            return _sonuc.ToString();
         }
 
         public override string Dikdortgen(string kisaKenar, string uzunKenar)
@@ -76,7 +81,9 @@ namespace alan_cevre_hesaplayici
             Cevre = (KisaKenar + UzunKenar) * 2;
             Alan = KisaKenar * UzunKenar;
 
-            return @"Dikdörtgenin Alanı (cm) = " + Alan + "\r\n" + @"Dikdörtgenin Çevresi (cm) = " + Cevre;
+            _sonuc.AppendLine(@"Dikdörtgenin Alanı (cm) = " + Alan);
+            _sonuc.Append(@"Dikdörtgenin Çevresi (cm) = " + Cevre);
+            return _sonuc.ToString();
         }
 
         public override string Kare(string kareKenar)
@@ -85,7 +92,9 @@ namespace alan_cevre_hesaplayici
             Cevre = KareKenar * 4;
             Alan = Math.Pow(KareKenar, 2);
 
-            return @"Karenin Alanı (cm) = " + Alan + "\r\n" + @"Karenin Çevresi (cm) = " + Cevre;
+            _sonuc.AppendLine(@"Karenin Alanı (cm) = " + Alan);
+            _sonuc.Append(@"Karenin Çevresi (cm) = " + Cevre);
+            return _sonuc.ToString();
         }
 
         public override string Ucgen(string ucgenKenar, string ucgenH)
@@ -94,7 +103,8 @@ namespace alan_cevre_hesaplayici
             UcgenYukseklik = Convert.ToDouble(ucgenH);
             Alan = (UcgenKenar * UcgenYukseklik) / 2;
 
-            return @"Üçgenin Alanı (cm) = " + Alan;
+            _sonuc.Append(@"Üçgenin Alanı (cm) = " + Alan);
+            return _sonuc.ToString();
         }
     }
 }
