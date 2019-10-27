@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alan Çevre Hesaplayıcı
+title: Alan Çevre Hesaplayıcı [1.03]
 date: 2019-10-27 10:43 +0300
 categories: Programlar
 tags: Alan, Alan Çevre Hesaplama, Çember, Çevre, Daire, Dikdörtgen, Hesaplama, Kare, Üçgen
@@ -13,7 +13,7 @@ redirect_from:
 
 Lise ve üniversitelerdeki bilgisayar ve onunla ilgili bölümlerde Nesneye Yönelik Programlama derslerinde (Java, C++, C# hiç fark etmez) mutlaka örnek verilen bir konu alan hesaplama. Özellikle metotlar konularında fazlasıyla kolaylaşan bu hesap türü ile ilgili basit bir program yazmak istedim bu gündüzü güneşli, akşamı kaotik bir pazar gününde. 
 
-Soyut sınıf (Abstract Class) Metotlar kullanarak alan ve çevre hesaplamalarının üstesinden gelmek ve işimi kolaylaştırmak aklımdan geçti. Fakat normal ve pek çok kişi tarafından bilindik usülle yazmış bulundum, geri dönmek için çok geçti. Her şey bir yana özellikle ödev için buraya gelenlere fikir verecek cinsten bir çalışma oldu. Hayrını görün. Yaptım Oldu. Büyükşehir çalışıyor. Programın o çok bilindik özelliklerine gelecek olursak;
+Soyut sınıf (Abstract Class) ve gerekli metotları kullanarak alan ve çevre hesaplamalarının üstesinden gelmek ve işimi kolaylaştırmak aklımdan geçti. Aklımdan her geçeni yapmayan biri olsam da, bu seferlik öyle yapayım, öyle gitsin diye karar verdim. Her şey bir yana özellikle ödev için buraya gelenlere fikir verecek cinsten bir çalışma oldu. Hayrını görün. Yaptım Oldu. Büyükşehir çalışıyor. Programın o çok bilindik özelliklerine gelecek olursak;
 
 - Üçgen alan hesabını yapabilme,
 - Kare, dikdörtgen ve çemberin alan ve çevre hesabını yapabilme.
