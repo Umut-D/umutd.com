@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alan Çevre Hesaplayıcı [1.03]
+title: Alan Çevre Hesaplayıcı [1.04]
 date: 2019-10-27 10:43 +0300
 categories: Programlar
 tags: Alan, Alan Çevre Hesaplama, Çember, Çevre, Daire, Dikdörtgen, Hesaplama, Kare, Üçgen
@@ -13,7 +13,7 @@ redirect_from:
 
 Lise ve üniversitelerdeki bilgisayar ve onunla ilgili bölümlerde Nesneye Yönelik Programlama derslerinde (Java, C++, C# hiç fark etmez) mutlaka örnek verilen bir konu alan hesaplama. Özellikle metotlar konularında fazlasıyla kolaylaşan bu hesap türü ile ilgili basit bir program yazmak istedim bu gündüzü güneşli, akşamı kaotik bir pazar gününde. 
 
-Soyut sınıf (Abstract Class) ve gerekli metotları kullanarak alan ve çevre hesaplamalarının üstesinden gelmek ve işimi kolaylaştırmak aklımdan geçti. Aklımdan her geçeni yapmayan biri olsam da, bu seferlik öyle yapayım, öyle gitsin diye karar verdim. Her şey bir yana özellikle ödev için buraya gelenlere fikir verecek cinsten bir çalışma oldu. Hayrını görün. Yaptım Oldu. Büyükşehir çalışıyor. Programın o çok bilindik özelliklerine gelecek olursak;
+Soyut sınıf (Abstract Class) ve gerekli metotları kullanarak alan ve çevre hesaplamalarının üstesinden gelmek ve işimi kolaylaştırmak aklımdan geçti. Aklımdan her geçeni yapmayan biri olsam da, bu seferlik öyle yapayım, öyle gitsin diye karar verdim. Tabi bu arada dönüştürme işlemlerim kolaylaşsın diye bir tane genişleme metodu yazdım. İşte o yüzden formüllerde **ToDouble(true)** metodu ben buradayım diye bağırıyor. Her şey bir yana özellikle ödev için buraya gelenlere fikir verecek cinsten bir çalışma oldu. Hayrını görün. Yaptım Oldu. Büyükşehir çalışıyor. Programın o çok bilindik özelliklerine gelecek olursak;
 
 - Üçgen alan hesabını yapabilme,
 - Kare, dikdörtgen ve çemberin alan ve çevre hesabını yapabilme.
@@ -21,8 +21,8 @@ Soyut sınıf (Abstract Class) ve gerekli metotları kullanarak alan ve çevre h
 {:.tablo-ortali}
 | Alan Çevre Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.03-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Alan Çevre Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 6e751f0803ad171a79f9a9b12dc66a93 | **MD5**: ed6feaa83e37fa8bd0b9dc0b11997f79 | 
-| **Boyut**: 46.1 KB                       | **Boyut**: 481.0 KB                         |
+| **MD5**: 233dfc8b6603e7f4e85467e884ef2231 | **MD5**: 2ca5973a57dce17c07cf51179247df3d | 
+| **Boyut**: 45.9 KB                       | **Boyut**: 481.0 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/sbjiz659xwohoeb/alan-cevre-hesaplayici.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/4wq2lfj9ztx88kz/alan-cevre-hesaplayici-proje.zip?dl=1)                      |
@@ -39,72 +39,53 @@ namespace alan_cevre_hesaplayici
     {
         // Genel değişkenler
         protected double Alan, Cevre;
-
-        // Çember değişkeni
-        protected double Yaricap;
-
-        // Dikdörtgen değişkenleri
-        protected double KisaKenar, UzunKenar;
-
-        // Kare değişkenleri
-        protected double KareKenar, UcgenKenar;
-
-        // Üçgen değişkeni
-        protected double UcgenYukseklik;
+        protected StringBuilder Sonuc = new StringBuilder();
 
         // Metotlar
         public abstract string Cember(string yaricap);
         public abstract string Dikdortgen(string kisaKenar, string uzunKenar);
         public abstract string Kare(string kareKenar);
-        public abstract string Ucgen(string ucgenKenar, string ucgenH);
+        public abstract string Ucgen(string ucgenKenar, string yukseklik);
     }
 
     class Hesapla : Geometri
     {
-        readonly StringBuilder _sonuc = new StringBuilder();
-
         public override string Cember(string yaricap)
         {
-            Yaricap = Convert.ToDouble(yaricap);
-            Cevre = 2 * Math.PI * Yaricap;
-            Alan = Math.PI * Math.Pow(Yaricap, 2);
+            Cevre = 2 * Math.PI * yaricap.ToDouble(true);
+            Alan = Math.PI * Math.Pow(yaricap.ToDouble(true), 2);
 
-            _sonuc.AppendLine(@"Çemberin Alanı (cm) = " + Alan.ToString("##.####"));
-            _sonuc.Append(@"Çemberin cevresi (cm) = " + Cevre.ToString("##.####"));
-            return _sonuc.ToString();
+            Sonuc.AppendLine(@"Çemberin Alanı (cm) = " + Alan.ToString("##.####"));
+            Sonuc.Append(@"Çemberin cevresi (cm) = " + Cevre.ToString("##.####"));
+            return Sonuc.ToString();
         }
 
         public override string Dikdortgen(string kisaKenar, string uzunKenar)
         {
-            KisaKenar = Convert.ToDouble(kisaKenar);
-            UzunKenar = Convert.ToDouble(uzunKenar);
-            Cevre = (KisaKenar + UzunKenar) * 2;
-            Alan = KisaKenar * UzunKenar;
+            Cevre = (kisaKenar.ToDouble(true) + uzunKenar.ToDouble(true)) * 2;
+            Alan = kisaKenar.ToDouble(true) * uzunKenar.ToDouble(true);
 
-            _sonuc.AppendLine(@"Dikdörtgenin Alanı (cm) = " + Alan);
-            _sonuc.Append(@"Dikdörtgenin Çevresi (cm) = " + Cevre);
-            return _sonuc.ToString();
+            Sonuc.AppendLine(@"Dikdörtgenin Alanı (cm) = " + Alan);
+            Sonuc.Append(@"Dikdörtgenin Çevresi (cm) = " + Cevre);
+            return Sonuc.ToString();
         }
 
         public override string Kare(string kareKenar)
         {
-            KareKenar = Convert.ToDouble(kareKenar);
-            Cevre = KareKenar * 4;
-            Alan = Math.Pow(KareKenar, 2);
+            Cevre = kareKenar.ToDouble(true) * 4;
+            Alan = Math.Pow(kareKenar.ToDouble(true), 2);
 
-            _sonuc.AppendLine(@"Karenin Alanı (cm) = " + Alan);
-            _sonuc.Append(@"Karenin Çevresi (cm) = " + Cevre);
-            return _sonuc.ToString();
+            Sonuc.AppendLine(@"Karenin Alanı (cm) = " + Alan);
+            Sonuc.Append(@"Karenin Çevresi (cm) = " + Cevre);
+            return Sonuc.ToString();
         }
 
-        public override string Ucgen(string ucgenKenar, string ucgenH)
+        public override string Ucgen(string ucgenKenar, string yukseklik)
         {
-            UcgenKenar = Convert.ToDouble(ucgenKenar);
-            UcgenYukseklik = Convert.ToDouble(ucgenH);
-            Alan = (UcgenKenar * UcgenYukseklik) / 2;
+            Alan = ucgenKenar.ToDouble(true) * yukseklik.ToDouble(true) / 2;
 
-            _sonuc.Append(@"Üçgenin Alanı (cm) = " + Alan);
-            return _sonuc.ToString();
+            Sonuc.Append(@"Üçgenin Alanı (cm) = " + Alan);
+            return Sonuc.ToString();
         }
     }
 }
