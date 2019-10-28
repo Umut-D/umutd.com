@@ -19,7 +19,7 @@ Soyut sınıf (Abstract Class) ve gerekli metotları kullanarak alan ve çevre h
 - Kare, dikdörtgen ve çemberin alan ve çevre hesabını yapabilme.
 
 {:.tablo-ortali}
-| Alan Çevre Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.03-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Alan Çevre Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Alan Çevre Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.04-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Alan Çevre Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 233dfc8b6603e7f4e85467e884ef2231 | **MD5**: 2ca5973a57dce17c07cf51179247df3d | 
 | **Boyut**: 45.9 KB                       | **Boyut**: 481.0 KB                         |
