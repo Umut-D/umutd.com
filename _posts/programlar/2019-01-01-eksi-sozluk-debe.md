@@ -19,7 +19,7 @@ Programı her gün, bir önceki günün 50 popüler entry’sini okuyarak keyifl
 - Hi-DPI ekranlara destek.
 
 {:.tablo-ortali}
-| Ekşi Sözlük DEBE<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.21-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Ekşi Sözlük DEBE (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Ekşi Sözlük DEBE<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.21-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışmıyor-red.svg?style=flat) | Ekşi Sözlük DEBE (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 373ee7ee190abfbe62ac211beb19d00d | **MD5**: 25d074dbc1396eab62a4b40c6f16c8fd | 
 | **Boyut**: 73.2 KB                       | **Boyut**: 4.5 MB                         |
