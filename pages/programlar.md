@@ -14,7 +14,6 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 
 {:.program-baslik}
 ### Finans
-* [IBAN Kontrol](/programlar/iban-kontrol)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Türkiye Cumhuriyeti Merkez Bankası (TCMB) Kurları](/programlar/tcmb-kurlari)
 
 {:.program-baslik}
@@ -36,14 +35,11 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 
 {:.program-baslik}
 ### Oyun
-* [Sayısal Loto Oyunu](/programlar/sayisal-loto)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Taş Kağıt Makas](/programlar/tas-kagit-makas)
 
 {:.program-baslik}
 ### Sistem
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Dosya Büyük Harf İsimlendir](/programlar/dosya-buyuk-harf-isimlendir)
-* [Dosya/Klasör Zaman Özellikleri Değiştirici](/programlar/dosya-klasor-zaman-ozellikleri-degistirici)
-* [USB Gizli Dosya ve Klasörleri Göster](/programlar/usb-gizli-dosya-ve-klasorleri-goster)
 
 {:.program-baslik}
 ### Üretim
