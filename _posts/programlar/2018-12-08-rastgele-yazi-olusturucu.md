@@ -16,7 +16,7 @@ redirect_from:
 
 Bu türde koftiden yazılar üretmek için çeşitli programlar için çok çeşitli plug-in’ler var. Ancak ben artık kendim pişirip yiyeyim deyince ortaya böyle bir program çıktı. Bu basit programı uzun uzadıya anlatmanın alemi yok, programın yegane özelliği; Maksimum 30 paragraf, (paragraf içinde) 30 cümle, (cümle içinde) 30 kelime ile rastgele Lorem Ipsum metinleri oluşturmak. Hepsi bu. Maksat laneydain yazı oluşturmak işte.
 
-**Not**: 1.1 versiyonun kaynak kodlarına baktığınızda göreceksiniz ki; program nesneye göre programlanıp, Generic List ve StringBuilder öğeleri kullanınca çok ciddi bir performans artışı sağladı. Örneğin; 6. nesil i7 işlemci bilgisayarımda çalıştırdığımda;
+**Not**: 1.1 versiyonun kaynak kodlarına baktığınızda göreceksiniz ki; program nesneye göre programlanıp, **Generic List** ve **StringBuilder** öğeleri kullanınca çok ciddi bir performans artışı sağladı. Örneğin; 6. nesil i7 işlemci bilgisayarımda çalıştırdığımda;
 
 - **versiyon 1.0**'da; 10 paragraf, 10 cümle, 10 kelime ile oluşturulan *6.100~ harf-3.7 saniye*
 - **versiyon 1.1**'de; 30 paragraf, 30 cümle, 30 kelime ile oluşturulan *164.000~ harf-0.27 saniye*
