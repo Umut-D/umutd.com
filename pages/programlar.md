@@ -6,7 +6,7 @@ image: pages/programlar.jpeg
 ---
 Özellikle çok sevdiğim C# programlama dilinde kah can sıkısına, kah hevesten, kah paslanmamaktan, kah ihtiyaçtan dolayı yazdığım gereksizin önde giden tuhaf programların listesi... İsteyen, ilgilenen arkadaşlar proje dosyalarını indirip kullanabilir, değiştirebilir, hatta yeniden yazıp satabilir. Hiç korkmayın. Hepsi, bana göre açık kaynağa en çok yakışan ve daha iyi niyetli olduğunu düşündüğüm, **[MIT Lisansı](https://choosealicense.com/licenses/mit)**'na sahip.
 
-Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları da unutmuyorum. Bunların çalıştıklarını teyit edip ve kaynak kodlarını gözden geçirip "Arşiv"e kaldırıyorum. Yani program adından önce gelen Arşiv ibaresi, programın sorunsuz çalıştığını, balans ayarlarının yapıldığını ve artık geliştirilmeyeceğini ifade etmekte. Çok hüzünlü değil mi :/ 
+Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları da unutmuyorum. Bazılarını, "eeee, bunla mı uğraşayacağım be!" deyip fişini çekiyor, bazılarınınsa kaynak kodlarını gözden geçirip "Arşiv"e kaldırıyorum. Yani aşağıdaki programların adından önce gelen **Arşiv** ibaresi, programın sorunsuz çalıştığını, kodlarının nesneye yönelik programlama temelli yazıldığını ve (belki) artık geliştirilmeyeceğini ifade etmekte. Çok hüzünlü değil mi :/ 
 
 {:.program-baslik}
 ### Bilgi
