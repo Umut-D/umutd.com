@@ -9,10 +9,6 @@ image: pages/programlar.jpeg
 Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları da unutmuyorum. Bazılarını, "eeee, bunla mı uğraşayacağım be!" deyip fişini çekiyor, bazılarınınsa kaynak kodlarını gözden geçirip "Arşiv"e kaldırıyorum. Yani aşağıdaki programların adından önce gelen **Arşiv** ibaresi, programın sorunsuz çalıştığını, kodlarının nesneye yönelik programlama temelli yazıldığını ve (belki) artık geliştirilmeyeceğini ifade etmekte. Çok hüzünlü değil mi :/ 
 
 {:.program-baslik}
-### Bilgi
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [İmlâ (Yazım) Kılavuzu](/programlar/imla-yazim-kilavuzu)
-
-{:.program-baslik}
 ### Finans
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Türkiye Cumhuriyeti Merkez Bankası (TCMB) Kurları](/programlar/tcmb-kurlari)
 
@@ -50,6 +46,7 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 
 {:.program-baslik}
 ### Verimlilik
+* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [İmlâ (Yazım) Kılavuzu](/programlar/imla-yazim-kilavuzu)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Kaza Namazı Çetelesi](/programlar/kaza-namazi-cetelesi)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) ![Arşiv](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Pomodoro Zamanlayıcı](/programlar/pomodoro-zamanlayici)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Resim Döndür](/programlar/resim-dondur)
