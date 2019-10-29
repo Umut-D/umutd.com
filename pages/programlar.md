@@ -38,12 +38,7 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Taş Kağıt Makas](/programlar/tas-kagit-makas)
 
 {:.program-baslik}
-### Sistem
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Dosya Büyük Harf İsimlendir](/programlar/dosya-buyuk-harf-isimlendir)
-
-{:.program-baslik}
 ### Üretim
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Büyük/Küçük Harf Değiştir](/programlar/buyuk-kucuk-harf-degistir)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Mors Alfabesi Dönüştürücü](/programlar/mors-alfabesi-donusturucu)
 * [QR Kodu Oluşturucu](/programlar/qr-kod-olusturucu)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Rastgele Ad Soyad Oluşturucu](/programlar/rastgele-ad-soyad-olusturucu)
@@ -55,7 +50,6 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 
 {:.program-baslik}
 ### Verimlilik
-* [Geri Sayım Sayacı](/programlar/geri-sayim-sayaci)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Kaza Namazı Çetelesi](/programlar/kaza-namazi-cetelesi)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) ![Arşiv](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Pomodoro Zamanlayıcı](/programlar/pomodoro-zamanlayici)
 * ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Resim Döndür](/programlar/resim-dondur)
