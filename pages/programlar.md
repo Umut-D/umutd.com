@@ -10,43 +10,42 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 
 {:.program-baslik}
 ### Finans
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Türkiye Cumhuriyeti Merkez Bankası (TCMB) Kurları](/programlar/tcmb-kurlari)
+* [Türkiye Cumhuriyeti Merkez Bankası (TCMB) Kurları](/programlar/tcmb-kurlari)
 
 {:.program-baslik}
 ### Hesap
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Alan Çevre Hesaplayıcı](/programlar/alan-cevre-hesaplayici)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Barkod Kontrol Kodu Hesaplayıcı](/programlar/barkod-kontrol-kodu-hesaplayici)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Dosya Hash Değeri Hesaplayıcı](/programlar/dosya-hash-degeri-hesaplayici)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Faktöriyel, Kombinasyon, Permütasyon Hesaplayıcı](/programlar/fkp-hesaplayici)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Fibonacci Sayıları](/programlar/fibonacci-sayilari)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Uyku Saati Hesaplayıcı](/programlar/uyku-saati-hesaplayici)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Vücut Kitle Endeksi Hesaplayıcı](/programlar/vucut-kitle-endeksi-hesaplayici)
+* [Alan Çevre Hesaplayıcı](/programlar/alan-cevre-hesaplayici)
+* [Barkod Kontrol Kodu Hesaplayıcı](/programlar/barkod-kontrol-kodu-hesaplayici)
+* [Dosya Hash Değeri Hesaplayıcı](/programlar/dosya-hash-degeri-hesaplayici)
+* [Faktöriyel, Kombinasyon, Permütasyon Hesaplayıcı](/programlar/fkp-hesaplayici)
+* [Fibonacci Sayıları](/programlar/fibonacci-sayilari)
+* [Uyku Saati Hesaplayıcı](/programlar/uyku-saati-hesaplayici)
+* [Vücut Kitle Endeksi Hesaplayıcı](/programlar/vucut-kitle-endeksi-hesaplayici)
 
 {:.program-baslik}
 ### İnternet
-* ![Arşiv](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [İlk Sayfalar](/programlar/ilk-sayfalar)
-* ![Arşiv](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Bing Duvar Kağıdı Değiştirici](/programlar/bing-duvar-kagidi-degistirici) 
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) ![Arşiv](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Ekşi Sözlük Debe (Dünün En Beğenilen Entry’leri)](/programlar/eksi-sozluk-debe)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Site IP Sorgula](/programlar/site-ip-sorgula)
+* ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [İlk Sayfalar](/programlar/ilk-sayfalar)
+* ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Bing Duvar Kağıdı Değiştirici](/programlar/bing-duvar-kagidi-degistirici) 
+* ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Ekşi Sözlük Debe (Dünün En Beğenilen Entry’leri)](/programlar/eksi-sozluk-debe)
+* [Site IP Sorgula](/programlar/site-ip-sorgula)
 
 {:.program-baslik}
 ### Oyun
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Taş Kağıt Makas](/programlar/tas-kagit-makas)
+* [Taş Kağıt Makas](/programlar/tas-kagit-makas)
 
 {:.program-baslik}
 ### Üretim
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Mors Alfabesi Dönüştürücü](/programlar/mors-alfabesi-donusturucu)
-* [QR Kodu Oluşturucu](/programlar/qr-kod-olusturucu)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Rastgele Ad Soyad Oluşturucu](/programlar/rastgele-ad-soyad-olusturucu)
+* [Mors Alfabesi Dönüştürücü](/programlar/mors-alfabesi-donusturucu)
+* [Rastgele Ad Soyad Oluşturucu](/programlar/rastgele-ad-soyad-olusturucu)
 * [Rastgele Şifre Oluşturucu](/programlar/rastgele-sifre-olusturucu)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Rastgele (Lorem Ipsum) Yazı Oluşturucu](/programlar/rastgele-yazi-olusturucu)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Rastgele Sayı Üretici](/programlar/rastgele-sayi-uretici)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Rastgele Sayı Üretici [DLL]](/programlar/rastgele-sayi-uretici-dll)
+* [Rastgele (Lorem Ipsum) Yazı Oluşturucu](/programlar/rastgele-yazi-olusturucu)
+* [Rastgele Sayı Üretici](/programlar/rastgele-sayi-uretici)
+* [Rastgele Sayı Üretici [DLL]](/programlar/rastgele-sayi-uretici-dll)
 * [TC Kimlik No](/programlar/tc-kimlik-no)
 
 {:.program-baslik}
 ### Verimlilik
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [İmlâ (Yazım) Kılavuzu](/programlar/imla-yazim-kilavuzu)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Kaza Namazı Çetelesi](/programlar/kaza-namazi-cetelesi)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) ![Arşiv](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Pomodoro Zamanlayıcı](/programlar/pomodoro-zamanlayici)
-* ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) [Resim Döndür](/programlar/resim-dondur)
+* [İmlâ (Yazım) Kılavuzu](/programlar/imla-yazim-kilavuzu)
+* [Kaza Namazı Çetelesi](/programlar/kaza-namazi-cetelesi)
+* ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Pomodoro Zamanlayıcı](/programlar/pomodoro-zamanlayici)
+* [Resim Döndür](/programlar/resim-dondur)
