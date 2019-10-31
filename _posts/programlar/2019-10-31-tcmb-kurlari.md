@@ -17,7 +17,7 @@ C#’da DataSet'in kolaylığı ve XML sınıfının esnekliğiyle programı yaz
 - Mevcut bilgilerin paylaşıldığı ilk gün olan *2 Mayıs 1996'dan, bugüne değin* tüm kur bilgilerini gösterme.
 
 {:.tablo-ortali}
-| Türkiye Cumhuriyeti Merkez Bankası <br>(TCMB) Kurları<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.12-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Türkiye Cumhuriyeti Merkez Bankası <br>(TCMB) Kurları (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Türkiye Cumhuriyeti Merkez Bankası <br>(TCMB) Kurları<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.12-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Türkiye Cumhuriyeti Merkez Bankası <br>(TCMB) Kurları (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Devam_Ediyor-success.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: bb9aad335faeb3065c3d77baef5a5c5b | **MD5**: d1e122d914196b2bfca2c463bb99bd9e | 
 | **Boyut**: 11.7 KB                       | **Boyut**: 282.0 KB                         |
