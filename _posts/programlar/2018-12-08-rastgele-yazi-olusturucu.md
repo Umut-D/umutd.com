@@ -12,11 +12,11 @@ redirect_from:
 
 ![rastgele-yazi](/images/programlar/rastgele-yazi.png){: width="39%"}
 
-Çoğunlukla bir iş için lazım olduğunda program yazmaya kasan biri olarak bu sefer de rastgele yazı oluşturmak için program yazayım dedim. Kah Photoshop’ta, kah Dreamweaver’da, kah Notepad++’da bazen uzun ve anlamsız metinlere ihtiyaç duyduğumda “buraya yazı gelecek” yazmaktan tiksineli çok olduğundan beri yardımıma hep Lorem Ipsum metinleri (ebnebiler dummy text de diyebiliyor) yetişti. 
+Çoğunlukla bir iş için lazım olduğunda program yazmaya kasan biri olarak bu sefer de rastgele yazı oluşturmak için program yazayım dedim. Kah Photoshop’ta, kah Dreamweaver’da, kah Notepad++’da bazen uzun ve anlamsız metinlere ihtiyaç duyduğumda "buraya yazı gelecek" yazmaktan tiksineli çok olduğundan beri yardımıma hep Lorem Ipsum metinleri (ebnebiler dummy text de diyebiliyor) yetişti. 
 
 Bu türde koftiden yazılar üretmek için çeşitli programlar için çok çeşitli plug-in’ler var. Ancak ben artık kendim pişirip yiyeyim deyince ortaya böyle bir program çıktı. Bu basit programı uzun uzadıya anlatmanın alemi yok, programın yegane özelliği; Maksimum 30 paragraf, (paragraf içinde) 30 cümle, (cümle içinde) 30 kelime ile rastgele Lorem Ipsum metinleri oluşturmak. Hepsi bu. Maksat laneydain yazı oluşturmak işte.
 
-**Not**: 1.1 versiyonun kaynak kodlarına baktığınızda göreceksiniz ki; program nesneye göre programlanıp, **Generic List** ve **StringBuilder** öğeleri kullanınca çok ciddi bir performans artışı sağladı. Örneğin; 6. nesil i7 işlemci bilgisayarımda çalıştırdığımda;
+**Not**: 1.1 versiyonun kaynak kodlarına baktığınızda göreceksiniz ki; program nesneye göre programlanıp, **Generic List** ve **StringBuilder** öğeleri kullanınca çok ciddi bir performans artışı sağladı. Programı 6. nesil i7 (6700HQ) işlemci bilgisayarımda çalıştırdığımda aşağıdaki sonuçları alıyorum.
 
 - **versiyon 1.0**'da; 10 paragraf, 10 cümle, 10 kelime ile oluşturulan *6.100~ harf-3.7 saniye*
 - **versiyon 1.1**'de; 30 paragraf, 30 cümle, 30 kelime ile oluşturulan *164.000~ harf-0.27 saniye*
