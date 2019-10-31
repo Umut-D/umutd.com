@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Türkiye Cumhuriyeti Merkez Bankası (TCMB) Kurları
-date: 2019-02-28 12:43 +0300
+date: 2019-10-31 00:43 +0300
 categories: Programlar
 tags: Döviz, Döviz Kuru, Kurlar, TCMB, Türkiye Cumhuriyeti Merkez Bankası
 redirect_from:
@@ -16,10 +16,10 @@ C#’da DataSet'in kolaylığı ve XML sınıfının esnekliğiyle programı yaz
 - Mevcut bilgilerin paylaşıldığı ilk gün olan *2 Mayıs 1996'dan, bugüne değin* tüm kur bilgilerini gösterme.
 
 {:.tablo-ortali}
-| Türkiye Cumhuriyeti Merkez Bankası <br>(TCMB) Kurları<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.11-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Türkiye Cumhuriyeti Merkez Bankası <br>(TCMB) Kurları (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Türkiye Cumhuriyeti Merkez Bankası <br>(TCMB) Kurları<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.12-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Türkiye Cumhuriyeti Merkez Bankası <br>(TCMB) Kurları (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 0949b188d7b5b869fa30aa40d5c72988 | **MD5**: c71a7eb480146a6501e371579cc7afde | 
-| **Boyut**: 11.5 KB                       | **Boyut**: 119.8 KB                         |
+| **MD5**: bb9aad335faeb3065c3d77baef5a5c5b | **MD5**: d1e122d914196b2bfca2c463bb99bd9e | 
+| **Boyut**: 11.7 KB                       | **Boyut**: 282.0 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/43cigy02efq2t9k/tcmb-kurlari.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/vecdmokm56xk2tx/tcmb-kurlari-proje.zip?dl=1)                      |
