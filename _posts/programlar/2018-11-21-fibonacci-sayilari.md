@@ -10,6 +10,8 @@ redirect_from:
 ---
 ![fibonacci-sayilari](/images/programlar/fibonacci-sayilari.png){: width="33%"}
 
+> **Fibonacci Sayı** dizisi, kendinden önceki iki ardışık sayının toplamının kendisinden sonraki sayıya eşit olmasıdır. Yani her sayı kendisinden önce gelen iki sayının toplamıdır. Örneğin; 0, 1, 1, 2, 3, 5, 8, 13, 21...
+
 Algoritma derslerinin vazgeçilmezi Fibonacci Sayıları/Dizisi… Bildiğiniz üzere Fibonacci Sayıları, her sayının kendinden öncekiyle toplanması sonucu oluşan bir sayı dizisi.
 
 Bilgisayarla ilgili bir bölüm okuyup Fibonacci Sayılarına, Iterative (Döngü) ve Recursive (Özyinelemeli) yaklaşımın bu güzide örneğine dair ödev yapmayan öğrenci yok denecek kadar azdır. Ben de üşenmedim, bu konu ve yaklaşıma dair ödevlerde kullanabileceğiniz, fikir alabileceğiniz, kaynak kodlarını kendinize mal edebileceğiniz bir program yazdım. Zira iteratif ve recursif yaklaşımla program çatır çatır çalışıyor ve rekursif yaklaşımının biraz daha yavaş olduğu çıplak gözle görülebiliyor. Zımbırtının özelliklerine gelecek olursak;

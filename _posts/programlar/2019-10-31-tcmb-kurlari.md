@@ -19,8 +19,8 @@ C#’da DataSet'in kolaylığı ve XML sınıfının esnekliğiyle programı yaz
 {:.tablo-ortali}
 | Türkiye Cumhuriyeti Merkez Bankası <br>(TCMB) Kurları<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.12-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Türkiye Cumhuriyeti Merkez Bankası <br>(TCMB) Kurları (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Devam_Ediyor-success.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: bb9aad335faeb3065c3d77baef5a5c5b | **MD5**: d1e122d914196b2bfca2c463bb99bd9e | 
-| **Boyut**: 11.7 KB                       | **Boyut**: 282.0 KB                         |
+| **MD5**: bb9aad335faeb3065c3d77baef5a5c5b | **MD5**: cdf6e6dbc0f75c2b6bac1878fdfb39ea | 
+| **Boyut**: 11.7 KB                       | **Boyut**: 249.0 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/43cigy02efq2t9k/tcmb-kurlari.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/vecdmokm56xk2tx/tcmb-kurlari-proje.zip?dl=1)                      |

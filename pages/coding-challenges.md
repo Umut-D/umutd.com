@@ -44,6 +44,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Harfin Sıra Sayısı Kadar Harfi Tekrar Et](/coding-challenges/harfin-sira-sayisi-kadar-harfi-tekrar-et)
 * [Harfleri Alfabedeki Sırasıyla Yaz](/coding-challenges/harfleri-alfabedeki-sirasiyla-yaz)
 * [IP Kontrolü](/coding-challenges/ip-kontrolu)
+* [İstenen Sıradaki Fibonacci Sayısını Bul](/coding-challenges/istenen-siradaki-fibonacci-sayisini-bul)
 * [IQ Testi](/coding-challenges/iq-testi)
 * [Kelimenin Tersini Yaz](/coding-challenges/kelimenin-tersini-yaz)
 * [Kimler Beğenmiş?](/coding-challenges/kimler-begenmis)
