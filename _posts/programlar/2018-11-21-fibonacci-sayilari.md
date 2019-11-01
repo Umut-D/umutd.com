@@ -8,9 +8,9 @@ redirect_from:
   - /programlar/fibonacci-sayilari/
   - /etiket/fibonacci-sayilari/
 ---
-![fibonacci-sayilari](/images/programlar/fibonacci-sayilari.png){: width="33%"}
-
 > **Fibonacci Sayı** dizisi, kendinden önceki iki ardışık sayının toplamının kendisinden sonraki sayıya eşit olmasıdır. Yani her sayı kendisinden önce gelen iki sayının toplamıdır. Örneğin; 0, 1, 1, 2, 3, 5, 8, 13, 21...
+
+![fibonacci-sayilari](/images/programlar/fibonacci-sayilari.png){: width="33%"}
 
 Algoritma derslerinin vazgeçilmezi Fibonacci Sayıları/Dizisi… Bildiğiniz üzere Fibonacci Sayıları, her sayının kendinden öncekiyle toplanması sonucu oluşan bir sayı dizisi.
 
