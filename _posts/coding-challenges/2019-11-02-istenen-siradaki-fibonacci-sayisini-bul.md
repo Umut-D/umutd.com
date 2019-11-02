@@ -25,36 +25,33 @@ Programcıya, bir sıra numarası **(girilenSira)** veriliyor ve sıranın, hang
 ```csharp
 using System;
 
-namespace test
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main()
+        int girilenSira = 8;
+        int fibonacciSayisi = 0, oncekiSayi = 0, sonrakiSayi = 1;
+
+        // Fibo Sıra: 1, 2, 3, 4, 5, 6, 7,  8,  9
+        // Fibonacci: 0, 1, 1, 2, 3, 5, 8, 13, 21
+        // Sıranın tam oturması için (Fibonacci 0 ile başlıyor) girilen sıradan bir düş
+        girilenSira--;
+
+        if (girilenSira == 1)
+            Console.WriteLine("Sonuç: " + 1);
+
+        // Girilen sıra 2 veya daha büyük ise;
+        for (int sira = 2; sira <= girilenSira; sira++)
         {
-            int girilenSira = 8;
-            int fibonacciSayisi = 0, oncekiSayi = 0, sonrakiSayi = 1;
-
-            // Fibonacci: 0, 1, 1, 2, 3, 5, 8, 13, 21
-            // Fibo Sıra: 1, 2, 3, 4, 5, 6, 7,  8,  9
-            // Sıranın tam oturması için (Fibonacci 0 ile başlıyor) girilen sıradan bir düş
-            girilenSira--;
-
-            if (girilenSira == 1)
-                Console.WriteLine("Sonuç: " + 1);
-
-            // Girilen sıra 2 veya daha büyük ise;
-            for (int sira = 2; sira <= girilenSira; sira++)
-            {
-                // Önceki ve sonraki sayıları topla. Sonraki sayıya geçince önceki ve sonraki sayı değerlerini yenile
-                fibonacciSayisi = oncekiSayi + sonrakiSayi;
-                oncekiSayi = sonrakiSayi;
-                sonrakiSayi = fibonacciSayisi;
-            }
-
-            Console.WriteLine("Sonuç: " + fibonacciSayisi);
-
-            Console.Read();
+            // Önceki ve sonraki sayıları topla. Sonraki sayıya geçince önceki ve sonraki sayı değerlerini yenile
+            fibonacciSayisi = oncekiSayi + sonrakiSayi;
+            oncekiSayi = sonrakiSayi;
+            sonrakiSayi = fibonacciSayisi;
         }
+
+        Console.WriteLine("Sonuç: " + fibonacciSayisi);
+
+        Console.Read();
     }
 }
 ```
