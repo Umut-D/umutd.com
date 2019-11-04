@@ -10,10 +10,10 @@ redirect_from:
   - /etiket/tc-kimlik-no-algoritmasi/
   - /etiket/tc-kimlik/
 ---
+> **TC Kimlik Numarası**, Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü’nün uzun yıllardır yürüttüğü Mernis uygulamasının hayata geçmesiyle her vatandaşın nüfus cüzdanında bulunan, 11 haneli numaradır. 
+
 {:.uyari}
 Bu program sadece TC Kimlik No algoritmasını C# programlama dilinde uygulanması maksadıyla yazılmıştır. Kullanıcılara doğru TC Kimlik Numaraları sunarken -kaynak kodlarından da görüleceği üzere- kullanıcıdan **herhangi bir bilgi asla sızdırmamaktadır**.
-
-> **TC Kimlik Numarası**, Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü’nün uzun yıllardır yürüttüğü Mernis uygulamasının hayata geçmesiyle her vatandaşın nüfus cüzdanında bulunan, 11 haneli numaradır. 
 
 ![tc-kimlik-no](/images/programlar/tc-kimlik-no.png){: width="30%"}
 
@@ -21,7 +21,7 @@ Bu program sadece TC Kimlik No algoritmasını C# programlama dilinde uygulanmas
 
 Eğer programın ürettiği numaralara güvenmediyseniz sorun değil. Üretilen TC Kimlik Numaralarının doğrulamasını nette yer alan ilgili pek çok siteden kolayca yapabilirsiniz. Sorun olmayacaktır. Programın özelliklerine gelecek olursak;
 
-- Aynı anda maksimum 100 adet TC Kimlik Numarası oluşturma,
+- Aynı anda maksimum 200 adet TC Kimlik Numarası oluşturma,
 - Oluşturulan TC kimlik numaralarını metin belgesi olarak- kaydetme,
 - TC Kimlik Numarası kontrolü.
 
