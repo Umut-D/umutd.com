@@ -4,6 +4,7 @@ title: TC Kimlik No
 date: 2019-11-04 12:43 +0300
 categories: Programlar
 tags: Kimlik No, TC Kimlik, TC Kimlik No, TC Kimlik No Algoritması, TC Kimlik Numarası
+excerpt: Türkiye Cumhuriyeti Kimlik Numarasının algoritması çözüleli ve internette paylaşılalı çok oldu. Gerekli gereksiz her haltı C#’da yazmaya çalışmak isteyen biri olarak TC Kimlik Numarası algoritmasını anladıktan sonra bu işe de balıklama atladım....
 redirect_from:
   - /programlar/tc-kimlik-no/
   - /etiket/tc-kimlik-no-algoritmasi/
