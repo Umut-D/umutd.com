@@ -10,7 +10,7 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 
 {:.program-baslik}
 ### Finans
-* [Türkiye Cumhuriyeti Merkez Bankası (TCMB) Kurları](/programlar/tcmb-kurlari)
+* ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Türkiye Cumhuriyeti Merkez Bankası (TCMB) Kurları](/programlar/tcmb-kurlari)
 
 {:.program-baslik}
 ### Hesap

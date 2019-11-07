@@ -22,7 +22,7 @@ Bu program sadece TC Kimlik No algoritmasını C# programlama dilinde uygulanmas
 Eğer programın ürettiği numaralara güvenmediyseniz sorun değil. Üretilen TC Kimlik Numaralarının doğrulamasını nette yer alan ilgili pek çok siteden kolayca yapabilirsiniz. Sorun olmayacaktır. Programın özelliklerine gelecek olursak;
 
 - Aynı anda maksimum 200 adet TC Kimlik Numarası oluşturma,
-- Oluşturulan TC kimlik numaralarını metin belgesi olarak- kaydetme,
+- Oluşturulan TC kimlik numaralarını metin belgesi olarak kaydetme,
 - TC Kimlik Numarası kontrolü.
 
 {:.tablo-ortali}
