@@ -23,4 +23,4 @@ C#’da DataSet'in kolaylığı ve XML sınıfının esnekliğiyle programı yaz
 | **Boyut**: 11.7 KB                       | **Boyut**: 249.0 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/43cigy02efq2t9k/tcmb-kurlari.zip?dl=1)         | **İndir**: **GitHub Sayfası**: [Link](https://github.com/Umut-D/TCMB-Kurlari)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/43cigy02efq2t9k/tcmb-kurlari.zip?dl=1)         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/TCMB-Kurlari)                      |
