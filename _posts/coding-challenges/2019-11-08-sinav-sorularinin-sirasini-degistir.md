@@ -66,7 +66,8 @@ public class App {
         Random rastgeleSayi = new Random();
         ArrayList<Integer> bGrubu = new ArrayList<>();
 
-        for (int i = 0; i < toplamSoruSayisi; i++) {
+        for (int i = 0; i < toplamSoruSayisi; i++) 
+        {
             // Toplam soru sayısı kadar rastgele sayı oluştur
             int olusturulanSayi = rastgeleSayi.nextInt(toplamSoruSayisi + 1);
 
@@ -80,7 +81,8 @@ public class App {
 
         // Mevcut sonuçları yan yana yazdır
         System.out.println("A - B");
-        for (int i = 0; i < toplamSoruSayisi; i++) {
+        for (int i = 0; i < toplamSoruSayisi; i++) 
+        {
             System.out.println((i + 1) + " - " + bGrubu.get(i));
         }
     }
