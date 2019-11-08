@@ -93,6 +93,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Lig Puanları Toplamı](/coding-challenges/lig-puanlari-toplami)
 * [Önceki ve Sonraki Notayı Bul](/coding-challenges/onceki-ve-sonraki-notayi-bul)
 * [Sayıların OBEB ve OKEK'ini bul](/coding-challenges/sayilarin-obeb-ve-okekini-bul)
+* [Sınav Sorularının Sırasını Değiştir](/coding-challenges/sinav-sorularinin-sirasini-degistir)
 * [Tuz Buz](/coding-challenges/tuz-buz)
 * [Ziyaretçi Sayıları](/coding-challenges/ziyaretci-siralamasi)
 * [Ziyaretçi Sayısı Tahmini](/coding-challenges/ziyaretci-sayisi-tahmini)
