@@ -60,7 +60,8 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception 
+    {
         Integer toplamSoruSayisi = 10;
         Random rastgeleSayi = new Random();
         ArrayList<Integer> bGrubu = new ArrayList<>();
