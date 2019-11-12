@@ -4,6 +4,7 @@ title: Faktöriyel, Kombinasyon, Permütasyon Hesaplayıcı
 date: 2019-11-13 12:43 +0300
 categories: Programlar
 tags: Faktöriyel, Kombinasyon, Permütasyon
+excerpt: Geçtiğimiz hafta, çalıştığım işle ilgili bir görevde, kombinasyon oluşturmam ve öncelikle bunun sayısını belirlemem gerekti. Haliyle elime kalem kağıdı alıp kombinasyon hesabı yapmaya üşendim. Ancak program yazmaya nedense üşenmedim...
 redirect_from:
   - /programlar/fkp-hesaplayici/
   - /etiket/permutasyon/
