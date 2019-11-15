@@ -54,6 +54,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Rakamları, Rakama Göre Tekrar Yaz](/coding-challenges/rakamlari-rakama-gore-tekrar-yaz)
 * [Sayıları Basamaklı Halde Yaz](/coding-challenges/sayilari-basamakli-halde-yaz)
 * [Sayıyı Virgülle Düzenle](/coding-challenges/sayiyi-virgulle-duzenle)
+* [Şişman Parmaklar](/coding-challenges/sisman-parmaklar)
 * [Uygun Telefon Numarası Biçimi](/coding-challenges/uygun-telefon-numarasi-bicimi)
 * [Yazıyı Farklı Şekilde Yaz](/coding-challenges/yaziyi-farkli-sekilde-yaz)
 
