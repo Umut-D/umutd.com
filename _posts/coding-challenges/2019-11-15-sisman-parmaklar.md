@@ -28,10 +28,10 @@ class Program
 {
     static void Main()
     {
-        string yazi = "Ankara'da şehir manzarası izlenecek yerlerden bir tanesi de Ankara Kalesidir.";
+        string girilenYazi = "Merhaba dünyalı, biz dost muyuz acaba?";
 
         // a harflerini tek tek parçalayıp diziye at
-        string[] dizi = yazi.Split('a');
+        string[] dizi = girilenYazi.Split('a');
         string yeniYazi = string.Empty;
 
         for (int i = 0; i < dizi.Length; i++)
@@ -61,10 +61,10 @@ public class Main {
     public static void main(String[] args) 
     {
         String yazi = "";
-        String str = "Merhaba dünyalı, biz dost muyuz acaba?";
+        String girilenYazi = "Merhaba dünyalı, biz dost muyuz acaba?";
 
         // a harflerini tek tek parçalayıp diziye at
-        String[] dizi = str.split("[aA]");
+        String[] dizi = girilenYazi.split("[aA]");
 
         for (int i = 0; i < dizi.length; i++) 
         {
