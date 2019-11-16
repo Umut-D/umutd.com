@@ -28,6 +28,7 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 * ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Bing Duvar Kağıdı Değiştirici](/programlar/bing-duvar-kagidi-degistirici) 
 * ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Ekşi Sözlük Debe (Dünün En Beğenilen Entry’leri)](/programlar/eksi-sozluk-debe)
 * [Site IP Sorgula](/programlar/site-ip-sorgula)
+* [Son Depremler](/programlar/son-depremler)
 
 {:.program-baslik}
 ### Oyun

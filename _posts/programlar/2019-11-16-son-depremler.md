@@ -1,0 +1,27 @@
+---
+layout: post
+title: Son Depremler
+date: 2019-11-16 16:20 +0300
+categories: Programlar
+tags: Deprem, Son Depremler
+excerpt: Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne hikmetse tamamlamayı unuttuğum bu programı buldum. İşlerini pek yarıda bırakmayı sevmeyen biri olarak, "programı neden yarıda bıraktım" demeyi bırakıp işimi tamamlamaya koyuldum...
+---
+![son-depremler](/images/programlar/son-depremler.png){: width="49%"}
+
+Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne hikmetse tamamlamayı unuttuğum bu programı buldum. İşlerini pek yarıda bırakmayı sevmeyen biri olarak, "programı neden yarıda bıraktım" demeyi bırakıp işimi tamamlamaya koyuldum. Açıkçası Windows Form'lar ile uğraşmayı hiç sevmiyorum. Buradan kasıt, görsel olarak form oluşturma ve onun tasarımı. Hal böyle olunca kod yazmaktan uzaklaşıp, nefret ettiğim tasarım işine vakit ayırdıkça program yazmak külfet olmaya başlıyor. Halbuki konsol (meşhur siyah-beyaz ekran) ekranı her işi görüyor. Şu programı konsol ekranında yazsam program çok çok daha erken biterdi.
+
+Ülkemiz maalesef bir deprem ülkesi. Deprem yaşandığı zaman da güvenilir yerlerden anında bilgi almak gerek. Bu program ise Türkiye'nin deprem konusunda en yetkili kurumundan; **Boğaziçi Üniversitesi, Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü (KRDAE)** aracılığıyla sağlanan deprem verilerini kullanıcıya sunuyor. Fazla uzatmayıp, geleyim programın lüzumsuz özelliklerine;
+
+- Türkiye'de yaşanan son 20 depremi gösterme,
+- Deprem büyüklüklerine göre renkli gösterim sunma,
+- Yeni deprem olduğunda bildirim verme,
+- İlgili deprem(ler)e tıklayarak mevcut tarayıcıda depremin olduğu lokasyonu görüntüleme.
+
+{:.tablo-ortali}
+| Son Depremler <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Devam_Ediyor-success.svg?style=flat)|
+|----------------------------------------- -|-------------------------------------------|
+| **MD5**: 72aa2d86c1743fd9206989f8a1e6657c | **MD5**: 1bd912cf39cd98e267e77f3d08c606c1 | 
+| **Boyut**:  233 KB                       | **Boyut**:  2.73 MB                         |
+| **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4    |
+| **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
+| **İndir**: [Link](https://www.dropbox.com/s/ohlch6m0icorxes/son-depremler.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/jjx7d3xfftkkooj/son-depremler-proje.zip?dl=1)                      |
