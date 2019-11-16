@@ -12,7 +12,7 @@ Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne
 
 Ülkemiz maalesef bir deprem ülkesi. Deprem yaşandığı zaman da güvenilir yerlerden anında bilgi almak gerek. Bu program ise Türkiye'nin deprem konusunda en yetkili kurumundan; **Boğaziçi Üniversitesi, Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü (KRDAE)** aracılığıyla sağlanan deprem verilerini kullanıcıya sunuyor. Fazla uzatmayıp, geleyim programın lüzumsuz özelliklerine;
 
-- Türkiye'de yaşanan son 20 depremi gösterme,
+- Türkiye'de yaşanan son 20 depremi gösterme ve bunu otomatik olarak (5 dk.) yapma,
 - Deprem büyüklüklerine göre renkli gösterim sunma,
 - Yeni deprem olduğunda bildirim verme,
 - İlgili deprem(ler)e tıklayarak mevcut tarayıcıda depremin olduğu lokasyonu görüntüleme.
