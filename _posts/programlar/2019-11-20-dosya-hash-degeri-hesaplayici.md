@@ -38,8 +38,8 @@ Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim: Bu progr
 {:.tablo-ortali}
 | Dosya Hash Değeri Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Hash Değeri Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: ed8ce2513eccb53cec1e9e53b994d7f3 | **MD5**: 1b8e203e4b713859a986d60e66fa80ee | 
-| **Boyut**: 140 KB                       | **Boyut**: 776 KB                         |
+| **MD5**: ed8ce2513eccb53cec1e9e53b994d7f3 | **MD5**: 792f75722a1b21bfac2bcd6cb3190b34 | 
+| **Boyut**: 140 KB                       | **Boyut**: 779 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1)                      |
@@ -63,9 +63,9 @@ namespace HashHesaplayici.Hash
         {
             MD5 md5 = MD5.Create();
             Stream md5AkisOku = File.OpenRead(dosyaAdi);
-            string md5Sonuc = BitConverter.ToString(md5.ComputeHash(md5AkisOku)).Replace("-", "");
+            string md5Sonuc = BitConverter.ToString(md5.ComputeHash(md5AkisOku));
 
-            TxtMd5.Text = md5Sonuc;
+            TxtMd5.Text = md5Sonuc.Replace("-", "");
         };
 
         // 2. Metot alanı (SHA-1) - Hayat metotlarla daha kolay
@@ -73,9 +73,9 @@ namespace HashHesaplayici.Hash
         {
             SHA1 sha1 = SHA1.Create();
             Stream sha1AkisOku = File.OpenRead(dosyaAdi);
-            string sha1Sonuc = BitConverter.ToString(sha1.ComputeHash(sha1AkisOku)).Replace("-", "");
+            string sha1Sonuc = BitConverter.ToString(sha1.ComputeHash(sha1AkisOku));
 
-            TxtSha1.Text = sha1Sonuc;
+            TxtSha1.Text = sha1Sonuc.Replace("-", "");
         };
 
         // 3. Metot alanı (CRC-32) - Hayat metotlarla daha kolay
@@ -84,9 +84,9 @@ namespace HashHesaplayici.Hash
         {
             Crc32 crc32 = new Crc32();
             Stream crc32AkisOku = File.OpenRead(dosyaAdi);
-            string crc32Sonuc = BitConverter.ToString(crc32.ComputeHash(crc32AkisOku)).Replace("-", "");
+            string crc32Sonuc = BitConverter.ToString(crc32.ComputeHash(crc32AkisOku));
 
-            TxtCrc32.Text = crc32Sonuc;
+            TxtCrc32.Text = crc32Sonuc.Replace("-", "");
         };
 
         // Delegeleri yürüt (Şahane!)
