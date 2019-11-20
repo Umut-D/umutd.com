@@ -45,7 +45,7 @@ namespace Alan_Cevre_Hesaplayici
     }
 
     // Kullanıcıya 4 şekilden birini seçmeye zorla
-    // Seçilen sınıfa görei, ilgili sınıftaki Formül'ü işlet
+    // Seçilen sınıfa göre, ilgili sınıftaki Formül'ü işlet
     public class Islem
     {
         private readonly Sekil _sekil;

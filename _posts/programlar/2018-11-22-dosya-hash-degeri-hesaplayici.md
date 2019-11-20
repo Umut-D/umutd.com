@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Dosya Hash Değeri Hesaplayıcı
-date: 2018-11-22 12:43 +0300
+date: 2019-11-20 16:43 +0300
 categories: Programlar
-tags: Barkod, Barkod Kontrol Kodu Hesaplayıcı, EAN-13, Kontrol Kodu
+tags: Hash Değeri, Sha-1, MD5, CRC32, Kontrol Kodu
 redirect_from:
   - /programlar/dosya-hash-degeri-hesaplayici/
   - /etiket/crc32/
+  - /etiket/md5/
+  - /etiket/sha1/
 ---
 ![dosya-hash-hesaplayici](/images/programlar/dosya-hash-hesaplayici.png){: width="46%"}
 
@@ -33,74 +35,65 @@ Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim: Bu progr
 * Dosya hash eşleştirmesi yapabilme.
 
 {:.tablo-ortali}
-| Dosya Hash Değeri Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Hash Değeri Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Dosya Hash Değeri Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Hash Değeri Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 1b3b7532b57e722e2d9302bc06f76844 | **MD5**: b52d621224822341fd08f977cb75cf76 | 
-| **Boyut**: 140.1 KB                       | **Boyut**: 778.8 KB                         |
+| **MD5**: ed8ce2513eccb53cec1e9e53b994d7f3 | **MD5**: 1b8e203e4b713859a986d60e66fa80ee | 
+| **Boyut**: 140 KB                       | **Boyut**: 776 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1)                      |
 
-**Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **HashHesapla.cs** sınıfındaki kodlar:
+**Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **HashIslem.cs** sınıfındaki kodlar:
 
 ```csharp
 using System;
 using System.IO;
 using System.Security.Cryptography;
-using System.Windows.Forms;
- 
+
 namespace HashHesaplayici.Hash
 {
-    public class HashHesapla
+    public class HashIslem : Kontroller
     {
-        public static string Md5 { get; set; }
-        public static string Sha1 { get; set; }
-        public static string Crc32 { get; set; }
- 
-        static readonly TextBox TxtDosyaAdi = Application.OpenForms["FrmHash"]?.Controls["txtDosyaAdi"] as TextBox;
-        public static TextBox TxtCrc32 = Application.OpenForms["FrmHash"]?.Controls["txtCrc32"] as TextBox;
-        public static TextBox TxtMd5 = Application.OpenForms["FrmHash"]?.Controls["txtMd5"] as TextBox;
-        public static TextBox TxtSha1 = Application.OpenForms["FrmHash"]?.Controls["txtSha1"] as TextBox;
- 
-        // 1. Metot alanı (MD5) - Hayat metotlarla daha kolay
-        public static string Md5Hesapla(string dosyaAdi)
+        // Delege ile metotları hafızada tut
+        public delegate void Islem(string dosyaAdi);
+
+        // 1. Metot alanı (MD5)
+        private readonly Islem _md5 = delegate(string dosyaAdi)
         {
-            MD5 md5Islemi = MD5.Create();
+            MD5 md5 = MD5.Create();
             Stream md5AkisOku = File.OpenRead(dosyaAdi);
-            Md5 = BitConverter.ToString(md5Islemi.ComputeHash(md5AkisOku)).Replace("-", "");
- 
-            return Md5;
-        }
- 
+            string md5Sonuc = BitConverter.ToString(md5.ComputeHash(md5AkisOku)).Replace("-", "");
+
+            TxtMd5.Text = md5Sonuc;
+        };
+
         // 2. Metot alanı (SHA-1) - Hayat metotlarla daha kolay
-        public static string Sha1Hesapla(string dosyaAdi)
+        private readonly Islem _sha1 = delegate(string dosyaAdi)
         {
-            SHA1 sha1Islemi = SHA1.Create();
+            SHA1 sha1 = SHA1.Create();
             Stream sha1AkisOku = File.OpenRead(dosyaAdi);
-            Sha1 = BitConverter.ToString(sha1Islemi.ComputeHash(sha1AkisOku)).Replace("-", "");
- 
-            return Sha1;
-        }
- 
+            string sha1Sonuc = BitConverter.ToString(sha1.ComputeHash(sha1AkisOku)).Replace("-", "");
+
+            TxtSha1.Text = sha1Sonuc;
+        };
+
         // 3. Metot alanı (CRC-32) - Hayat metotlarla daha kolay
         // Crc32.cs sınıfından bu iş halledildi. Hail to the Damien Guard!..
-        public static string Crc32Hesapla(string dosyaAdi)
+        private readonly Islem _crc32 = delegate(string dosyaAdi)
         {
-            Crc32 crc32Islemi = new Crc32();
+            Crc32 crc32 = new Crc32();
             Stream crc32AkisOku = File.OpenRead(dosyaAdi);
-            Crc32 = BitConverter.ToString(crc32Islemi.ComputeHash(crc32AkisOku)).Replace("-", "");
- 
-            return Crc32;
-        }
- 
-        // Genel hesaplama işlemlerini yaparak ilgili bilgileri FrmHash'a döndr
-        public static void Hesapla()
+            string crc32Sonuc = BitConverter.ToString(crc32.ComputeHash(crc32AkisOku)).Replace("-", "");
+
+            TxtCrc32.Text = crc32Sonuc;
+        };
+
+        // Delegeleri yürüt (Şahane!)
+        public void Hesapla(string dosyaAdresi)
         {
-            TxtDosyaAdi.Text = Path.GetFileName(FrmHash.DosyaAdresi);
- 
-            TxtCrc32.Text = Crc32Hesapla(FrmHash.DosyaAdresi);
-            TxtMd5.Text = Md5Hesapla(FrmHash.DosyaAdresi);
-            TxtSha1.Text = Sha1Hesapla(FrmHash.DosyaAdresi);
+            _md5(dosyaAdresi);
+            _sha1(dosyaAdresi);
+            _crc32(dosyaAdresi);
         }
     }
 }
