@@ -57,6 +57,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 
 ### Kolay Seviye
 
+* [Alfabedeki Sıraların Toplamı Hangi Harf](/coding-challenges/alfabedeki-siralarin-toplami-hangi-harf)
 * [Aynı Dersi Seçen Öğrenciler](/coding-challenges/ayni-dersi-secen-ogrenciler)
 * [Bir Sayının Karesi Mi?](/coding-challenges/bir-sayinin-karesi-mi)
 * [Bölünen Sayılar](/coding-challenges/bolunen-sayilar)
