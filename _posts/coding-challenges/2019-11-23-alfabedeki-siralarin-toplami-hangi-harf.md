@@ -69,32 +69,31 @@ class Program
 
 ### Çözüm - Java
 ```java
+package zeta;
+
 public class Main {
+    public static void main(String[] args) 
+    {
+        char[] girilenHarfler = {'a', 'b', 'c'};
 
-    public static void main(String[] args) {
-        {
-            char[] girilenHarfler = {'a', 'b', 'c'};
+        // Alfabedeki harfleri diziye ekle (Sıra bulmak için gerekli)
+        String alfabe = "abcdefghijklmnopqrstuvwxyz";
 
-            // Alfabedeki harfleri diziye ekle (Sıra bulmak için gerekli)
-            String alfabe = "abcdefghijklmnopqrstuvwxyz";
+        // Girilen harflerin alfabedeki sırasını bulup topla
+        int toplam = 0;
 
-            // Girilen harflerin alfabedeki sırasını bulup topla
-            int toplam = 0;
-
-            for (char karakter : girilenHarfler)
-            {
-                toplam += alfabe.indexOf(karakter) + 1;
-                System.out.println(toplam);
-            }
-
-            // Eğer alfabe uzunluğu, 26'dan fazla ise 26 ile bölümden kalan sayısını bul
-            toplam %= alfabe.length();
-
-            // Elde edilen sayının alfabedeki yerini bul
-            // İndeks 0'dan başladığı için mevcut sayıyı 1 düşür
-            String sonuc = String.valueOf(alfabe.charAt(toplam - 1));
-            System.out.println("Sonuç: " + sonuc);
+        for (char karakter : girilenHarfler) {
+            toplam += alfabe.indexOf(karakter) + 1;
+            System.out.println(toplam);
         }
+
+        // Eğer alfabe uzunluğu, 26'dan fazla ise 26 ile bölümden kalan sayısını bul
+        toplam %= alfabe.length();
+
+        // Elde edilen sayının alfabedeki yerini bul
+        // İndeks 0'dan başladığı için mevcut sayıyı 1 düşür
+        String sonuc = String.valueOf(alfabe.charAt(toplam - 1));
+        System.out.println("Sonuç: " + sonuc);
     }
 }
 ```
