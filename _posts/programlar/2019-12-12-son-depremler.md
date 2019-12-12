@@ -23,7 +23,7 @@ Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne
 {:.tablo-ortali}
 | Son Depremler <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.06-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 44dd5db5423f5a7a4f2aaccb005caa90 | **MD5**: 6bd5483fc6e8ffaa2542bf2f0c70aceb | 
+| **MD5**: 44dd5db5423f5a7a4f2aaccb005caa90 | **MD5**: d29137f5c960134898d9ee25bb0f339a | 
 | **Boyut**:  260 KB                       | **Boyut**:  2.76 MB                         |
 | **Gereksinimler**: .Net Framework 4     | **Programlama Dili**: C# |
 | **Platform**: Microsoft Windows           | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Son-Depremler) |
