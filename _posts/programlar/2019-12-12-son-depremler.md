@@ -25,6 +25,6 @@ Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 44dd5db5423f5a7a4f2aaccb005caa90 | **MD5**: 6bd5483fc6e8ffaa2542bf2f0c70aceb | 
 | **Boyut**:  260 KB                       | **Boyut**:  2.76 MB                         |
-| **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4    |
+| **Gereksinimler**: .Net Framework 4     | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Son-Depremler) |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/ohlch6m0icorxes/son-depremler.zip?dl=1) <br> **İndir (OneDrive)**: [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym1wA8N1AeUW23CAP?e=HDrtRx)       | **İndir-Proje (Dropbox)**: [Link](https://www.dropbox.com/s/jjx7d3xfftkkooj/son-depremler-proje.zip?dl=1) <br> **İndir-Proje (OneDrive)**: [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym13sECmZeltZwJLf?e=Cyyzeg) <br> **GitHub Sayfası**: [Link](https://github.com/Umut-D/Son-Depremler)                    |
+| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/ohlch6m0icorxes/son-depremler.zip?dl=1) <br> **İndir (OneDrive)**: [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym1wA8N1AeUW23CAP?e=HDrtRx)       | **İndir - Proje (Dropbox)**: [Link](https://www.dropbox.com/s/jjx7d3xfftkkooj/son-depremler-proje.zip?dl=1) <br> **İndir - Proje (OneDrive)**: [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym13sECmZeltZwJLf?e=Cyyzeg) |
