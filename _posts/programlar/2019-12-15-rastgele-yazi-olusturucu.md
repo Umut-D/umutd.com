@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rastgele (Lorem Ipsum) Yazı Oluşturucu
-date: 2018-12-08 12:43 +0300
+date: 2019-12-15 01:43 +0300
 categories: Programlar
 tags: Lorem Ipsum, Rastgele Yazı, Rastgele Yazı Oluşturucu
 redirect_from:
@@ -16,16 +16,16 @@ redirect_from:
 
 Bu türde koftiden yazılar üretmek için çeşitli programlar için çok çeşitli plug-in’ler var. Ancak ben artık kendim pişirip yiyeyim deyince ortaya böyle bir program çıktı. Bu basit programı uzun uzadıya anlatmanın alemi yok, programın yegane özelliği; Maksimum 30 paragraf, (paragraf içinde) 30 cümle, (cümle içinde) 30 kelime ile rastgele Lorem Ipsum metinleri oluşturmak. Hepsi bu. Maksat laneydain yazı oluşturmak işte.
 
-**Not**: 1.1 versiyonun kaynak kodlarına baktığınızda göreceksiniz ki; program nesneye göre programlanıp, **Generic List** ve **StringBuilder** öğeleri kullanınca çok ciddi bir performans artışı sağladı. Programı 6. nesil i7 (6700HQ) işlemci bilgisayarımda çalıştırdığımda aşağıdaki sonuçları alıyorum.
+**Not**: 1.11 versiyonun kaynak kodlarına baktığınızda göreceksiniz ki; program nesneye göre programlanıp, **Generic List** ve **StringBuilder** öğeleri kullanınca çok ciddi bir performans artışı sağladı. Programı 6. nesil i7 (6700HQ) işlemci bilgisayarımda çalıştırdığımda aşağıdaki sonuçları alıyorum.
 
 - **versiyon 1.0**'da; 10 paragraf, 10 cümle, 10 kelime ile oluşturulan *6.100~ harf-3.7 saniye*
 - **versiyon 1.1**'de; 30 paragraf, 30 cümle, 30 kelime ile oluşturulan *164.000~ harf-0.27 saniye*
 
 {:.tablo-ortali}
-| Rastgele (Lorem Ipsum) Yazı Oluşturucu<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Rastgele (Lorem Ipsum) Yazı Oluşturucu (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Rastgele (Lorem Ipsum) Yazı Oluşturucu<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.11-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Rastgele (Lorem Ipsum) Yazı Oluşturucu (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 269de8ee7e237f75e1fd0bee46fd5431 | **MD5**: 88a3c0f02416a624979c3d6a78b0deae | 
-| **Boyut**: 49.8 KB                       | **Boyut**:  339.5 KB                         |
-| **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
+| **MD5**: efbb28c2d9d58756721211c8c9fbc79d | **MD5**: 37f0567b6db8662c3387fdcc1ea40d30 | 
+| **Boyut**: 50 KB                       | **Boyut**:  423 KB                         |
+| **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/c4nclpc6npc2a1s/rastgele-yazi-olusturucu.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/ohs0fu3rhindjk3/rastgele-yazi-olusturucu-proje.zip?dl=1)                      |
+| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/c4nclpc6npc2a1s/rastgele-yazi-olusturucu.zip?dl=1) <br> **İndir (OneDrive)**: [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym1wA8N1AeUW23CAP?e=haIfmZ) | **İndir**: [Link](https://www.dropbox.com/s/ohs0fu3rhindjk3/rastgele-yazi-olusturucu-proje.zip?dl=1) |

@@ -24,7 +24,7 @@ Soyut sınıf (Abstract Class) ve Polymorphism (Çok Biçimlilik) ile alan ve ç
 | **Boyut**: 46.3 KB                       | **Boyut**: 421.0 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/sbjiz659xwohoeb/alan-cevre-hesaplayici.zip?dl=1) <br> **İndir (OneDrive)** [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym16F88KNuOF0NxWB?e=EFyv02) | **İndir**: [Link](https://www.dropbox.com/s/4wq2lfj9ztx88kz/alan-cevre-hesaplayici-proje.zip?dl=1)                      |
+| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/sbjiz659xwohoeb/alan-cevre-hesaplayici.zip?dl=1) <br> **İndir (OneDrive)**: [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym16F88KNuOF0NxWB?e=EFyv02) | **İndir**: [Link](https://www.dropbox.com/s/4wq2lfj9ztx88kz/alan-cevre-hesaplayici-proje.zip?dl=1)                      |
 
 **Ek** : Hesaplamaların nasıl yapıldığını görmeye gelenler için **Sekil.cs** ve bu sınıfla alakalı kodlar:
 
