@@ -159,8 +159,7 @@ namespace Alan_Cevre_Hesaplayici.Geometri
     }
 }
 ```
-
-
+.
 ```csharp
 using Alan_Cevre_Hesaplayici.Araclar;
 
