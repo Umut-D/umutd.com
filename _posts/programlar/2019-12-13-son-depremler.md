@@ -21,10 +21,10 @@ Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne
 **Not:** Deprem yerini haritada aktif etme ve gösterme özelliğinin Windows Form üzerinde yapmak çok istedim. Fakat **Google** ve **Bing Haritalar**'ın kişie özel API anahtarı istemelerinden dolayı bu özellikten vazgeçtim. API anahtarı paralı bir şey değil biliyorum. Ama bu anahtarın her yerde veya açık kaynak kodlu bir projede paylaşılması da hoş olmazdı diye düşünüyorum. 
 
 {:.tablo-ortali}
-| Son Depremler <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.07-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Son Depremler <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.08-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 685eb9065a49ecff3e1fd0568e083f03 | **MD5**: 3456c89298e7f61ed5eee0a5e8e2cc5c | 
-| **Boyut**:  260 KB                       | **Boyut**:  2.77 MB                         |
+| **MD5**: 7e51d2879e1869d9e284a8a0a230fe52 | **MD5**: b7fa50ec24aad036b390b45aff21fb14 | 
+| **Boyut**:  248 KB                       | **Boyut**:  2.76 MB                         |
 | **Gereksinimler**: .Net Framework 4     | **Programlama Dili**: C# |
 | **Platform**: Microsoft Windows           | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Son-Depremler) |
-| **İndir**: [Link](https://www.dropbox.com/s/ohlch6m0icorxes/son-depremler.zip?dl=1)| **İndir (Proje)**: [Link](https://www.dropbox.com/s/jjx7d3xfftkkooj/son-depremler-proje.zip?dl=1) |
+| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/ohlch6m0icorxes/son-depremler.zip?dl=1) <br> **İndir (OneDrive)**: [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym1wA8N1AeUW23CAP?e=qspzd2) | **İndir (Proje)**: [Link](https://www.dropbox.com/s/jjx7d3xfftkkooj/son-depremler-proje.zip?dl=1) |
