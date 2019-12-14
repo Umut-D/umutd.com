@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alan Çevre Hesaplayıcı
-date: 2019-12-15 19:43 +0300
+date: 2019-12-15 01:43 +0300
 categories: Programlar
 tags: Alan, Alan Çevre Hesaplama, Çember, Çevre, Daire, Dikdörtgen, Hesaplama, Kare, Üçgen
 excerpt: Lise ve üniversitelerdeki bilgisayar ve onunla ilgili bölümlerde Nesneye Yönelik Programlama derslerinde (Java, C++, C# hiç fark etmez) mutlaka örnek verilen bir konu alan hesaplama...
@@ -20,11 +20,11 @@ Soyut sınıf (Abstract Class) ve Polymorphism (Çok Biçimlilik) ile alan ve ç
 {:.tablo-ortali}
 | Alan Çevre Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.08-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Alan Çevre Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 76bc76e8daf61c7851b66225e7e37990 | **MD5**: 2e050d666c2e3866b5ebddc934695fe5 | 
-| **Boyut**: 46.4 KB                       | **Boyut**: 416.0 KB                         |
+| **MD5**: 24c965f0eba398fdaeaa6be54a1b6113 | **MD5**: c0475f138da582f1aae46ba47c1ef1d6 | 
+| **Boyut**: 46.3 KB                       | **Boyut**: 421.0 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/sbjiz659xwohoeb/alan-cevre-hesaplayici.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/4wq2lfj9ztx88kz/alan-cevre-hesaplayici-proje.zip?dl=1)                      |
+| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/sbjiz659xwohoeb/alan-cevre-hesaplayici.zip?dl=1) <br> **İndir (OneDrive) [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym16F88KNuOF0NxWB?e=EFyv02) | **İndir**: [Link](https://www.dropbox.com/s/4wq2lfj9ztx88kz/alan-cevre-hesaplayici-proje.zip?dl=1)                      |
 
 **Ek** : Hesaplamaların nasıl yapıldığını görmeye gelenler için **Sekil.cs** ve bu sınıfla alakalı kodlar:
 
