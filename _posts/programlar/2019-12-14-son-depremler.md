@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Son Depremler
-date: 2019-12-13 19:20 +0300
+date: 2019-12-14 19:20 +0300
 categories: Programlar
 tags: Deprem, Son Depremler
 excerpt: Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne hikmetse tamamlamayı unuttuğum bu programı buldum. İşlerini pek yarıda bırakmayı sevmeyen biri olarak, "programı neden yarıda bıraktım" demeyi bırakıp işimi tamamlamaya koyuldum...
