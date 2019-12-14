@@ -4,6 +4,7 @@ title: Rastgele (Lorem Ipsum) Yazı Oluşturucu
 date: 2019-12-15 01:43 +0300
 categories: Programlar
 tags: Lorem Ipsum, Rastgele Yazı, Rastgele Yazı Oluşturucu
+excerpt: Çoğunlukla bir iş için lazım olduğunda program yazmaya kasan biri olarak bu sefer de rastgele yazı oluşturmak için program yazayım dedim. Kah Photoshop’ta, kah Dreamweaver’da, kah Notepad++’da bazen uzun ve anlamsız metinlere ihtiyaç duyduğumda "buraya yazı gelecek" yazmaktan tiksineli çok olduğundan beri yardımıma hep Lorem Ipsum metinleri (ebnebiler dummy text de diyebiliyor) yetişti. 
 redirect_from:
   - /programlar/rastgele-yazi-olusturucu/
   - /etiket/rastgele-yazi-olusturucu/
@@ -16,10 +17,10 @@ redirect_from:
 
 Bu türde koftiden yazılar üretmek için çeşitli programlar için çok çeşitli plug-in’ler var. Ancak ben artık kendim pişirip yiyeyim deyince ortaya böyle bir program çıktı. Bu basit programı uzun uzadıya anlatmanın alemi yok, programın yegane özelliği; Maksimum 30 paragraf, (paragraf içinde) 30 cümle, (cümle içinde) 30 kelime ile rastgele Lorem Ipsum metinleri oluşturmak. Hepsi bu. Maksat laneydain yazı oluşturmak işte.
 
-**Not**: 1.11 versiyonun kaynak kodlarına baktığınızda göreceksiniz ki; program nesneye göre programlanıp, **Generic List** ve **StringBuilder** öğeleri kullanınca çok ciddi bir performans artışı sağladı. Programı 6. nesil i7 (6700HQ) işlemci bilgisayarımda çalıştırdığımda aşağıdaki sonuçları alıyorum.
+**Not**: 1.1 versiyon ve sonrasının kaynak kodlarına baktığınızda göreceksiniz ki; program nesneye göre programlanıp, **Generic List** ve **StringBuilder** öğeleri kullanınca çok ciddi bir performans artışı sağladı. Programı 6. nesil i7 (6700HQ) işlemci bilgisayarımda çalıştırdığımda aşağıdaki sonuçları alıyorum.
 
 - **versiyon 1.0**'da; 10 paragraf, 10 cümle, 10 kelime ile oluşturulan *6.100~ harf-3.7 saniye*
-- **versiyon 1.1**'de; 30 paragraf, 30 cümle, 30 kelime ile oluşturulan *164.000~ harf-0.27 saniye*
+- **versiyon 1.1 ve sonrası**'nda; 30 paragraf, 30 cümle, 30 kelime ile oluşturulan *164.000~ harf-0.27 saniye*
 
 {:.tablo-ortali}
 | Rastgele (Lorem Ipsum) Yazı Oluşturucu<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.11-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Rastgele (Lorem Ipsum) Yazı Oluşturucu (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
