@@ -18,7 +18,7 @@ Soyut sınıf (Abstract Class) ve Polymorphism (Çok Biçimlilik) ile alan ve ç
 - Üçgenin alan, kare, dikdörtgen ve çemberin alan ve çevre hesaplarını yapabilme.
 
 {:.tablo-ortali}
-| Alan Çevre Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.08-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Alan Çevre Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Alan Çevre Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.08-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Alan Çevre Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 76bc76e8daf61c7851b66225e7e37990 | **MD5**: 2e050d666c2e3866b5ebddc934695fe5 | 
 | **Boyut**: 46.4 KB                       | **Boyut**: 416.0 KB                         |
@@ -44,6 +44,7 @@ namespace Alan_Cevre_Hesaplayici.Geometri
 }
 ```
 
+
 ```csharp
 using Alan_Cevre_Hesaplayici.Geometri;
 
@@ -67,6 +68,7 @@ namespace Alan_Cevre_Hesaplayici
     }
 }
 ```
+
 
 ```csharp
 using System;
@@ -96,6 +98,7 @@ namespace Alan_Cevre_Hesaplayici.Geometri
     }
 }
 ```
+
 
 ```csharp
 using Alan_Cevre_Hesaplayici.Araclar;
@@ -127,6 +130,7 @@ namespace Alan_Cevre_Hesaplayici.Geometri
 }
 ```
 
+
 ```csharp
 using System;
 using Alan_Cevre_Hesaplayici.Araclar;
@@ -155,6 +159,7 @@ namespace Alan_Cevre_Hesaplayici.Geometri
     }
 }
 ```
+
 
 ```csharp
 using Alan_Cevre_Hesaplayici.Araclar;
