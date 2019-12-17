@@ -22,8 +22,8 @@ Programı her gün, bir önceki günün 50 popüler entry’sini okuyarak keyifl
 {:.tablo-ortali}
 | Ekşi Sözlük DEBE<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.22-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-green.svg?style=flat) | Ekşi Sözlük DEBE (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 7a037adf092e45ef5a9c24f40572c5c5 | **MD5**: 9110592c5088a91d730bbf4db0e41c4a | 
-| **Boyut**: 73.3 KB                       | **Boyut**: 4.53 MB                         |
+| **MD5**: 239c4964f36bfd4c3d109ac7230a0753 | **MD5**: 19a2c47d16ef2cb9e039356b54958139 | 
+| **Boyut**: 73.4 KB                       | **Boyut**: 4.53 MB                         |
 | **Gereksinimler**: .Net Framework 4.5     | **Programlama Dili**: C#     |
 | **Platform**: Microsoft Windows           | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici)                  |
 | **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/n5ql86sxb767yu8/eksi-sozluk-debe.zip?dl=1) <br> **İndir (OneDrive)**: [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym2AbRb3I6mEPiMen?e=fLhiKr) | **İndir (Proje)**: [Link](https://www.dropbox.com/s/87c7ev9d4nllnn2/eksi-sozluk-debe-proje.zip?dl=1)                      |
