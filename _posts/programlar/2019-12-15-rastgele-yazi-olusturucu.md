@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rastgele (Lorem Ipsum) Yazı Oluşturucu
-date: 2019-12-15 01:43 +0300
+date: 2019-12-15 04:43 +0300
 categories: Programlar
 tags: Lorem Ipsum, Rastgele Yazı, Rastgele Yazı Oluşturucu
 excerpt: Çoğunlukla bir iş için lazım olduğunda program yazmaya kasan biri olarak bu sefer de rastgele yazı oluşturmak için program yazayım dedim. Kah Photoshop’ta, kah Dreamweaver’da, kah Notepad++’da bazen uzun ve anlamsız metinlere ihtiyaç duyduğumda "buraya yazı gelecek" yazmaktan tiksineli çok olduğundan beri yardımıma hep Lorem Ipsum metinleri (ebnebiler dummy text de diyebiliyor) yetişti. 

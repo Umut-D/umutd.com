@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ekşi Sözlük DEBE (Dünün En Beğenilen Entry’leri)
-date: 2019-01-01 12:43 +0300
+date: 2019-12-17 18:43 +0300
 categories: Programlar
-tags: DBE, DEBE, Dünün En Beğenilen Entry'leri, Ekşi Sözlük
+tags: DBE, DEBE, Dünün En Beğenilen Entry'leri, Ekşi Sözlük, Debe Oku
 redirect_from:
   - /programlar/eksi-sozluk-debe/
   - /etiket/dunun-en-begenilen-entryleri/
@@ -19,10 +19,10 @@ Programı her gün, bir önceki günün 50 popüler entry’sini okuyarak keyifl
 - Hi-DPI ekranlara destek.
 
 {:.tablo-ortali}
-| Ekşi Sözlük DEBE<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.21-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışmıyor-red.svg?style=flat) | Ekşi Sözlük DEBE (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Ekşi Sözlük DEBE<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.22-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-green.svg?style=flat) | Ekşi Sözlük DEBE (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 373ee7ee190abfbe62ac211beb19d00d | **MD5**: 25d074dbc1396eab62a4b40c6f16c8fd | 
-| **Boyut**: 73.2 KB                       | **Boyut**: 4.5 MB                         |
-| **Gereksinimler**: .Net Framework 4.5     | **Gereksinimler**: .Net Framework 4.5     |
-| **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/n5ql86sxb767yu8/eksi-sozluk-debe.zip?dl=1)         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici)                      |
+| **MD5**: 7a037adf092e45ef5a9c24f40572c5c5 | **MD5**: 9110592c5088a91d730bbf4db0e41c4a | 
+| **Boyut**: 73.3 KB                       | **Boyut**: 4.53 MB                         |
+| **Gereksinimler**: .Net Framework 4.5     | **Programlama Dili**: C#     |
+| **Platform**: Microsoft Windows           | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici)                  |
+| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/n5ql86sxb767yu8/eksi-sozluk-debe.zip?dl=1) <br> **İndir (OneDrive)**: [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym2AbRb3I6mEPiMen?e=fLhiKr) | **İndir (Proje)**: [Link](https://www.dropbox.com/s/87c7ev9d4nllnn2/eksi-sozluk-debe-proje.zip?dl=1)                      |
