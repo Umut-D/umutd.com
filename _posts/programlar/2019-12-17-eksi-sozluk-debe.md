@@ -4,6 +4,7 @@ title: Ekşi Sözlük DEBE (Dünün En Beğenilen Entry’leri)
 date: 2019-12-17 18:43 +0300
 categories: Programlar
 tags: DBE, DEBE, Dünün En Beğenilen Entry'leri, Ekşi Sözlük, Debe Oku
+excerpt: Debe, yani Dünün En Beğenilen Entry’leri... Ek$i Sözlük’te yazılan ve yine sözlükçüler tarafından gün boyu oylanarak en çok oyu alan entry’lerin oluşturduğu bir liste. Bu liste sayesinde Ek$i Sözlük’te çok konuşulan, yorumlanan, fikir beyan edilirken ilgi çeken konu ve başlıkları görebilirsiniz. 
 redirect_from:
   - /programlar/eksi-sozluk-debe/
   - /etiket/dunun-en-begenilen-entryleri/
