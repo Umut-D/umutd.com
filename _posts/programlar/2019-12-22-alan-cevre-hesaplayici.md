@@ -20,8 +20,8 @@ Soyut sınıf (Abstract Class) ve Polymorphism (Çok Biçimlilik) ile alan ve ç
 {:.tablo-ortali}
 | Alan Çevre Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.09-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Alan Çevre Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 24c965f0eba398fdaeaa6be54a1b6113 | **MD5**: c0475f138da582f1aae46ba47c1ef1d6 | 
-| **Boyut**: 46.3 KB                       | **Boyut**: 421.0 KB                         |
+| **MD5**: f64a925fc6b3a0645e41d6198e45a657 | **MD5**: edd7879261a9189ba040d0e88f491006 | 
+| **Boyut**: 46.2 KB                       | **Boyut**: 254.0 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/sbjiz659xwohoeb/alan-cevre-hesaplayici.zip?dl=1) <br> **İndir (OneDrive)**: [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym16F88KNuOF0NxWB?e=EFyv02) | **İndir**: [Link](https://www.dropbox.com/s/4wq2lfj9ztx88kz/alan-cevre-hesaplayici-proje.zip?dl=1)                      |
@@ -33,7 +33,7 @@ using System.Text;
 
 namespace Alan_Cevre_Hesaplayici.Geometri
 {
-    public abstract class Sekil
+    public abstract class Geometri
     {
         protected double Alan { get; set; }
         protected double Cevre { get; set; }
@@ -50,7 +50,7 @@ using Alan_Cevre_Hesaplayici.Araclar;
 
 namespace Alan_Cevre_Hesaplayici.Geometri
 {
-    class Cember : Sekil
+    class Cember : Geometri
     {
         private readonly double _yaricap;
 
@@ -59,15 +59,23 @@ namespace Alan_Cevre_Hesaplayici.Geometri
             _yaricap = yaricap.ToDouble(true);
         }
 
-        public override string Hesapla()
+        private void CemberFormul()
         {
             Cevre = 2 * Math.PI * _yaricap;
             Alan = Math.PI * Math.Pow(_yaricap, 2);
+        }
 
+        private string CemberSonuc()
+        {
             Sonuc.AppendLine(@"Çemberin Alanı (cm) = " + Alan.ToString("##.####"));
             Sonuc.Append(@"Çemberin cevresi (cm) = " + Cevre.ToString("##.####"));
-
             return Sonuc.ToString();
+        }
+
+        public override string Hesapla()
+        {
+            CemberFormul();
+            return CemberSonuc();
         }
     }
 }
@@ -78,7 +86,7 @@ using Alan_Cevre_Hesaplayici.Araclar;
 
 namespace Alan_Cevre_Hesaplayici.Geometri
 {
-    class Dikdortgen : Sekil
+    class Dikdortgen : Geometri
     {
         private readonly double _kisaKenar;
         private readonly double _uzunKenar;
@@ -89,15 +97,23 @@ namespace Alan_Cevre_Hesaplayici.Geometri
             _uzunKenar = uzunKenar.ToDouble(true);
         }
 
-        public override string Hesapla()
+        private void DikdortgenFormul()
         {
             Cevre = (_kisaKenar + _uzunKenar) * 2;
             Alan = _kisaKenar * _uzunKenar;
+        }
 
+        private string DikdortgenSonuc()
+        {
             Sonuc.AppendLine(@"Dikdörtgenin Alanı (cm) = " + Alan);
             Sonuc.Append(@"Dikdörtgenin Çevresi (cm) = " + Cevre);
-
             return Sonuc.ToString();
+        }
+
+        public override string Hesapla()
+        {
+            DikdortgenFormul();
+            return DikdortgenSonuc();
         }
     }
 }
@@ -109,7 +125,7 @@ using Alan_Cevre_Hesaplayici.Araclar;
 
 namespace Alan_Cevre_Hesaplayici.Geometri
 {
-    class Kare : Sekil
+    class Kare : Geometri
     {
         private readonly double _kareKenar;
 
@@ -118,15 +134,24 @@ namespace Alan_Cevre_Hesaplayici.Geometri
             _kareKenar = kareKenar.ToDouble(true);
         }
 
-        public override string Hesapla()
+        private void KareFormul()
         {
             Cevre = _kareKenar * 4;
             Alan = Math.Pow(_kareKenar, 2);
+        }
 
+        private string KareSonuc()
+        {
             Sonuc.AppendLine(@"Karenin Alanı (cm) = " + Alan);
             Sonuc.Append(@"Karenin Çevresi (cm) = " + Cevre);
 
             return Sonuc.ToString();
+        }
+
+        public override string Hesapla()
+        {
+            KareFormul();
+            return KareSonuc();
         }
     }
 }
@@ -137,7 +162,7 @@ using Alan_Cevre_Hesaplayici.Araclar;
 
 namespace Alan_Cevre_Hesaplayici.Geometri
 {
-    class Ucgen : Sekil
+    class Ucgen : Geometri
     {
         private readonly double _yukseklik;
         private readonly double _ucgenKenar;
@@ -148,13 +173,21 @@ namespace Alan_Cevre_Hesaplayici.Geometri
             _yukseklik = yukseklik.ToDouble(true);
         }
 
-        public override string Hesapla()
+        private void UcgenFormul()
         {
             Alan = _ucgenKenar * _yukseklik / 2;
+        }
 
+        private string UcgenSonuc()
+        {
             Sonuc.Append(@"Üçgenin Alanı (cm) = " + Alan);
-
             return Sonuc.ToString();
+        }
+
+        public override string Hesapla()
+        {
+            UcgenFormul();
+            return UcgenSonuc();
         }
     }
 }
