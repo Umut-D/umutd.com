@@ -19,7 +19,7 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a bay�
 - [Sanalkurs](https://sanalkurs.net/batu2k){:target="_blank"},
 - [Çizgi-Tagem](https://www.cizgi-tagem.org/e-kampus-egitim/){:target="_blank"} (2 adet eğitim DVD'si var. Torrent, FTP ve Web'den indirilebilir)
 - ~~TÜBİTAK ULAKBİM sunucuları~~,
-- [Fatih Belediyesi E-Hizmetler](http://www.fatih.bel.tr/icerik/10240/toplam-14000-saat-ve-16872-video/){:target="_blank"},   
+- ~~[Fatih Belediyesi E-Hizmetler](http://www.fatih.bel.tr/icerik/10240/toplam-14000-saat-ve-16872-video/){:target="_blank"}~~,   
 - [Gümüşhane Üniversitesi Eğitim Teknolojileri Uygulama ve Araştırma Merkezi](http://gunetem.gumushane.edu.tr/tr/sayfa/videolar/dreamweaver-umut-d%C3%B6kel/){:target="_blank"},
 - [Milli Eğitim Bakanlığı (MEB'de Öğren)](http://mebdeogren.meb.gov.tr/kategori.php?ID=72){:target="_blank"} üzerinden ulaşılabilmekte.   
 3. **Web sitesine dair haber ve yorumlara;**
