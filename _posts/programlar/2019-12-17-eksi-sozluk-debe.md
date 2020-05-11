@@ -26,4 +26,4 @@ Programı her gün, bir önceki günün 50 popüler entry’sini okuyarak keyifl
 | **Boyut**: 73.4 KB                       | **Boyut**: 4.53 MB                         |
 | **Gereksinimler**: .Net Framework 4.5     | **Programlama Dili**: C#     |
 | **Platform**: Microsoft Windows           | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici)                  |
-| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/n5ql86sxb767yu8/eksi-sozluk-debe.zip?dl=1) <br> **İndir (OneDrive)**: [Link](https://1drv.ms/u/s!Amxylb8Jtc0Ym2AbRb3I6mEPiMen?e=fLhiKr) | **İndir (Proje)**: [Link](https://www.dropbox.com/s/87c7ev9d4nllnn2/eksi-sozluk-debe-proje.zip?dl=1)                      |
+| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/n5ql86sxb767yu8/eksi-sozluk-debe.zip?dl=1) <br> **İndir (Google Drive)**: [Link](https://drive.google.com/uc?id=14KqB5h39BAWNRTFKodSxYwVhgtxf-pB-&export=download) | **İndir (Proje)**: [Link](https://www.dropbox.com/s/87c7ev9d4nllnn2/eksi-sozluk-debe-proje.zip?dl=1)                      |
