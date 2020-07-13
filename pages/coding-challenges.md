@@ -90,6 +90,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Sınav Sorularının Sırasını Değiştir](/coding-challenges/sinav-sorularinin-sirasini-degistir)
 * [Sondaki Sıfırları Yok Et](/coding-challenges/sondaki-sifirlari-yok-et)
 * [Tek Sayıların Kareleri Toplamı](/coding-challenges/tek-sayilarin-kareleri-toplami)
+* [Toplam ve Ortalamayı Sınıf Oluşturarak Bul](/coding-challenges/toplam-ve-ortalamayı-sınıf-oluşturarak-bul)
 * [Tuz Buz](/coding-challenges/tuz-buz)
 * [Ziyaretçi Sayıları](/coding-challenges/ziyaretci-siralamasi)
 * [Ziyaretçi Sayısı Tahmini](/coding-challenges/ziyaretci-sayisi-tahmini)
