@@ -34,10 +34,10 @@ namespace ConsoleApp1
             string romenRakami = null;
 
             // Romen rakamlarını dizi olarak belirt
-            string[] binlerBasamagi = { "", "M", "MM", "MMM" };
-            string[] yuzlerBasamagi = { "", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM" };
-            string[] onlarBasamagi = { "", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC" };
-            string[] birlerBasamagi = { "", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX" };
+            string[] binlerBasamagi = {"", "M", "MM", "MMM"};
+            string[] yuzlerBasamagi = {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"};
+            string[] onlarBasamagi = {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
+            string[] birlerBasamagi = {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
 
             // Girilen sayının basamak durumuna göre (Örn. 17) 10'a böl, kalan sayısı belirle.
             // Elde edilen sayıyı ilgili diziden alarak değişkene ekle  
