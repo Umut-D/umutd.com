@@ -31,7 +31,7 @@ class Matematik
         return sayilar.Sum(i => i.Sayi);
     }
 
-    // Generic dizideki sayıları al ve Linq ile ortala
+    // Generic dizideki sayıları al ve Linq ile ortalama al
     public static double Ortalama(List<Matematik> sayilar)
     {
         return sayilar.Average(i => i.Sayi);
