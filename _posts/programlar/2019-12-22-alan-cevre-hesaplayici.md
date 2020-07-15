@@ -43,7 +43,7 @@ namespace Alan_Cevre_Hesaplayici.Geometri
     }
 }
 ```
-<br>
+<div id="ara"></div>
 ```csharp
 using System;
 using Alan_Cevre_Hesaplayici.Araclar;
