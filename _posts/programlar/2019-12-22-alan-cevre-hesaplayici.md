@@ -43,7 +43,7 @@ namespace Alan_Cevre_Hesaplayici.Geometri
     }
 }
 ```
-    .
+&nbsp;
 ```csharp
 using System;
 using Alan_Cevre_Hesaplayici.Araclar;
@@ -80,7 +80,7 @@ namespace Alan_Cevre_Hesaplayici.Geometri
     }
 }
 ```
-
+&nbsp;
 ```csharp
 using Alan_Cevre_Hesaplayici.Araclar;
 
@@ -118,8 +118,7 @@ namespace Alan_Cevre_Hesaplayici.Geometri
     }
 }
 ```
-
-
+&nbsp;
 ```csharp
 using System;
 using Alan_Cevre_Hesaplayici.Araclar;
@@ -157,7 +156,7 @@ namespace Alan_Cevre_Hesaplayici.Geometri
     }
 }
 ```
-
+&nbsp;
 ```csharp
 using Alan_Cevre_Hesaplayici.Araclar;
 
