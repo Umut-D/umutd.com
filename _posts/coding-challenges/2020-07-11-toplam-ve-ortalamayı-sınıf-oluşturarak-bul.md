@@ -17,7 +17,6 @@ Programcıya çeşitli sayılar **(sayilar)** veriliyor. Verilen sayıların top
 
 ### Çözüm - C#
 ```csharp
-using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -37,12 +36,18 @@ class Matematik
         return sayilar.Average(i => i.Sayi);
     }
 }
+```
+<div id="ara"></div>
+
+```csharp
+using System;
+using System.Collections.Generic;
 
 class Program
 {
     static void Main()
     {
-        // Sayıları al
+        // Sayıları, nesne oluşturma aşamasında al
         List<Matematik> sayilar = new List<Matematik>
         {
             new Matematik {Sayi = 1110},
@@ -50,9 +55,11 @@ class Program
             new Matematik {Sayi = 3131}
         };
 
+        // Statik metodu işleterek toplamı ver
         int toplam = Matematik.Topla(sayilar);
         Console.WriteLine("Toplam: {0:N0}", toplam);
 
+        // Statik metodu işleterek, ortalamayı 2 basamaklı olarak ver
         double ortalama = Matematik.Ortalama(sayilar);
         Console.WriteLine("Ortalama: {0:N2}", ortalama);
 
