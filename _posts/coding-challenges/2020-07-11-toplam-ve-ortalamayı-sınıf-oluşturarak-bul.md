@@ -7,7 +7,7 @@ tags: Sınıf, Metot, Toplam, Ortalama, Linq
 excerpt: Programcıya çeşitli sayılar veriliyor. Verilen sayıların toplam ve ortalamasını ayrı bir sınıf ve metotla hesaplayan bir yapı oluşturması isteniyor....
 ---
 ### Soru
-Programcıya çeşitli sayılar **(sayilar)** veriliyor. Verilen sayıların toplam ve ortalamasını ayrı bir sınıf ve metotla hesaplayan bir yapı oluşturması isteniyor.
+Test Programcıya çeşitli sayılar **(sayilar)** veriliyor. Verilen sayıların toplam ve ortalamasını ayrı bir sınıf ve metotla hesaplayan bir yapı oluşturması isteniyor.
 
 ### Örnek
 
