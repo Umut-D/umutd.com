@@ -24,13 +24,13 @@ class Matematik
 {
     public int Sayi { get; set; }
 
-    // Generic dizideki sayıları al ve Linq ile topla
+    // Generic dizideki sayıları Linq ile topla
     public static int Topla(List<Matematik> sayilar)
     {
         return sayilar.Sum(i => i.Sayi);
     }
 
-    // Generic dizideki sayıları al ve Linq ile ortalama al
+    // Generic dizideki sayıların Linq ile ortalamasını al
     public static double Ortalama(List<Matematik> sayilar)
     {
         return sayilar.Average(i => i.Sayi);
