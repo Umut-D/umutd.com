@@ -4,7 +4,7 @@ title: Toplam ve Ortalamayı Sınıf Oluşturarak Bul
 date: 2020-07-11 12:15 +0300
 categories: Coding-Challenges
 tags: Sınıf, Metot, Toplam, Ortalama, Linq
-excerpt: Programcıya çeşitli sayılar veriliyor. Verilen sayıların toplam ve ortalamasını ayrı bir sınıf ve metotla hesaplayan bir yapı oluşturması isteniyor....
+excerpt: Programcıya çeşitli sayılar veriliyor. Verilen sayıların toplam ve ortalamasını ayrı bir sınıf ve metotla hesaplayan bir yapı oluşturması isteniyor...
 ---
 ### Soru
 Programcıya çeşitli sayılar **(sayilar)** veriliyor. Verilen sayıların toplam ve ortalamasını ayrı bir sınıf ve metotla hesaplayan bir yapı oluşturması isteniyor.

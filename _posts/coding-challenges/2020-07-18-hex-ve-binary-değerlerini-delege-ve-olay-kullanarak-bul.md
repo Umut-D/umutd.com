@@ -13,7 +13,7 @@ Programcıya Hex ve Binary değerlerini hesaplaması için farklı sayılar (**h
 
 | Girdi                | Çıktı                               |
 |----------------------|-------------------------------------|
-| **hexSayisi**: 155 <br> **binarySayisi**: 1010 | **Toplam**:  9B <br> **Ortalama**: 10 |
+| **hexSayisi**: 155 <br> **binarySayisi**: 1010 | **Hex Sonuç**:  9B <br> **Binary Sonuç**: 10 |
 
 ### Çözüm - C#
 ```csharp
