@@ -14,9 +14,9 @@ Verimli çalışma teknikleri arasında gösterilen bu tekniğini bilmeyen yoktu
 
 Örneğin; 25 dakika boyunca matematik dersi çalırken ne telefona, ne başka işe, ne başka bir şeye dikkat verilmez. 5 dakikalık kısa arada ise dinlenilir ya da telefon vb. şeylere bakılabilir. Çok uzatmak istemiyorum. Pomodoro'ya dair bilgi edinmek isteyenler;[Hürriyet](http://www.hurriyet.com.tr/ekonomi/kobi/pomodoro-teknigi-ile-zamaninizi-kolayca-yonetin-40902183){:target="_blank"}, [Onedio](https://onedio.com/haber/11-madde-ile-verimli-calisamama-derdini-sonsuza-kadar-bitiren-pomodoro-teknigi-628834){:target="_blank"}, [Medium](https://medium.com/t%C3%BCrkiye/pomodoro-tekni%C4%9Fi-ile-%C3%A7al%C4%B1%C5%9Fma-performans%C4%B1m%C4%B1-nas%C4%B1l-artt%C4%B1rd%C4%B1m-3f194dd227a7){:target="_blank"}, [Matematiksel](https://www.matematiksel.org/verimli-bir-calisma-metodu-pomodoro-teknigi/){:target="_blank"}, [Mustafa Saraç](http://mustafasarac.com/zamani-verimli-kullanmak-pomodoro-teknigi/){:target="_blank"} sitelerine göz atabilir. Ki bence göz atın. Programın özelliklerine gelecek olursak;
 
-- Tabi ki Pomodoro, Kısa Ara, Uzun Ara’ların geri- sayımlarını yapabilme,
+- Tabi ki Pomodoro, Kısa Ara, Uzun Ara’ların geri sayımlarını yapabilme,
 - Pomodoro, Kısa Ara, Uzun Ara’ların kayıtlarını tutma,
-- Pomodoro, Kısa Ara, Uzun Ara’ların zamanlarını istendiği- gibi değiştirebilme,
+- Pomodoro, Kısa Ara, Uzun Ara’ların zamanlarını istendiği gibi değiştirebilme,
 - Gün içinde başarılı Pomodoro sayılarını belirtme.
 
 **Not**: Programın Setup’ını hazırlayacaktım. Yalan yok, üşendim. İşte bunlar hep tembellik.
