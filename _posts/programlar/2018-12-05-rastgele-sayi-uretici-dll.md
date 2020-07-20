@@ -16,13 +16,13 @@ redirect_from:
 
 
 {:.tablo-ortali}
-| Rastgele Sayı Üretici (DLL) <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Rastgele Sayı Üretici (DLL) (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Rastgele Sayı Üretici (DLL) <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Rastgele Sayı Üretici (DLL) (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 967886479b5afe7677e19cf152846d59 | **MD5**: 2b70ae582fbf2f89478ba81220627a70 | 
 | **Boyut**: 5.1 KB                       | **Boyut**:  28.8 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework  4.0    |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/8h3je17hzrrii4p/rastgele-sayi-dll.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/owmrihlyzf15xz2/rastgele-sayi-dll-proje.zip?dl=1)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/8h3je17hzrrii4p/rastgele-sayi-dll.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/owmrihlyzf15xz2/rastgele-sayi-dll-proje.zip?dl=1) |
 
 **Ek** : Rastgele sayıların nasıl üretildiğini görmeye gelenler için **RastgeleSayiOlustur.dll** kodları:
 

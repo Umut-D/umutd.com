@@ -19,10 +19,10 @@ Vakit geçirmeden programı yazdım ve kendisine yolladım. İşte böyle tuhaf 
 - Üretilen sayıları Metin Belgesi (Text dosyası) olarak kaydetme.
 
 {:.tablo-ortali}
-| Rastgele Sayı Üretici<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.2-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Rastgele Sayı Üretici (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Rastgele Sayı Üretici<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.2-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Rastgele Sayı Üretici (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 65f2c0f481accdccc0de47b90e4caabe | **MD5**: 5d6ae3c098972f09818e1a389cf2969f | 
 | **Boyut**: 10.9 KB                       | **Boyut**:  140.7 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/bh2lgtnsg5cbe85/rastgele-sayi-uretici.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/navr87uh7u8oj7b/rastgele-sayi-uretici-proje.zip?dl=1)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/bh2lgtnsg5cbe85/rastgele-sayi-uretici.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/navr87uh7u8oj7b/rastgele-sayi-uretici-proje.zip?dl=1) |

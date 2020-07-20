@@ -23,9 +23,9 @@ Fazla uzatmayıp uygulamanın özelliklerine gelecek olursam;
 - İstediğiniz ilk sayfaları telefon veya tabletinize kaydedebime.
 
 {:.tablo-ortali}
-| İlk Sayfalar (Android)<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.5-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | İlk Sayfalar (Android) (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Devam_Ediyor-yellow.svg?style=flat) |
+| İlk Sayfalar (Android)<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.5-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | İlk Sayfalar (Android) (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
 | **Boyut**:  1.9 MB                       | **Boyut**:  ---                         |
 | **Gereksinimler**: Android       | **Gereksinimler**: Android Studio      |
 | **Platform**: Android 4.4 (KitKat) ve üstü           | **Programlama Dili**: Java                  |
-| **Google Play**: [Link](https://play.google.com/store/apps/details?id=com.umutd.ilksayfalar){:target="_blank"}         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/IlkSayfalar){:target="_blank"}                      |
+| **Google Play**: [Link](https://play.google.com/store/apps/details?id=com.umutd.ilksayfalar){:target="_blank"}         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/IlkSayfalar){:target="_blank"} |

@@ -24,10 +24,10 @@ Programı ilk yazdığım zaman sadece rastgele isim üretmekteydi. Bunun yeters
 - **versiyon 1.1**'de; 500 adet rastgele ad soyad *0.42~ saniye*
 
 {:.tablo-ortali}
-| Rastgele Ad Soyad Oluşturucu <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Rastgele Ad Soyad Oluşturucu (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Rastgele Ad Soyad Oluşturucu <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Rastgele Ad Soyad Oluşturucu (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 2a99e2049345cdc25573a0a7be9ec6ba | **MD5**: c8c35d594bd3ad7d50f2218256fff72a | 
 | **Boyut**: 336.0 KB                       | **Boyut**: 1.2 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/njej547k03zi1ot/rastgele-ad-soyad-olusturucu.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/xxa59mmaaqoe0zw/rastgele-ad-soyad-olusturucu-proje.zip?dl=1)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/njej547k03zi1ot/rastgele-ad-soyad-olusturucu.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/xxa59mmaaqoe0zw/rastgele-ad-soyad-olusturucu-proje.zip?dl=1) |

@@ -24,6 +24,6 @@ Programı her gün, bir önceki günün 50 popüler entry’sini okuyarak keyifl
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 239c4964f36bfd4c3d109ac7230a0753 | **MD5**: 19a2c47d16ef2cb9e039356b54958139 | 
 | **Boyut**: 73.4 KB                       | **Boyut**: 4.53 MB                         |
-| **Gereksinimler**: .Net Framework 4.5     | **Programlama Dili**: C#     |
-| **Platform**: Microsoft Windows           | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici)                  |
-| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/n5ql86sxb767yu8/eksi-sozluk-debe.zip?dl=1) <br> **İndir (Google Drive)**: [Link](https://drive.google.com/uc?id=14KqB5h39BAWNRTFKodSxYwVhgtxf-pB-&export=download) | **İndir (Proje)**: [Link](https://www.dropbox.com/s/87c7ev9d4nllnn2/eksi-sozluk-debe-proje.zip?dl=1)                      |
+| **Gereksinimler**: .Net Framework 4.5     | **Gereksinimler**: .Net Framework 4.5    |
+| **Platform**: Microsoft Windows           | **Programlama Dili**: C#  |
+| **İndir**: [Link](https://www.dropbox.com/s/n5ql86sxb767yu8/eksi-sozluk-debe.zip?dl=1) | **Proje**: [Link](https://www.dropbox.com/s/87c7ev9d4nllnn2/eksi-sozluk-debe-proje.zip?dl=1) <br> ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Link](https://github.com/Umut-D/Eksi-Sozluk-Debe) |

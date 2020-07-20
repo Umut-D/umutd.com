@@ -16,10 +16,10 @@ Programı yazmaya koyulup aramın ne iyi ne kötü olduğu Access programı ile 
 - Fuzzy Logic (Bulanık mantık) araması yapabilme.
 
 {:.tablo-ortali}
-| İmlâ (Yazım) Kılavuzu<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | İmlâ (Yazım) Kılavuzu (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| İmlâ (Yazım) Kılavuzu<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | İmlâ (Yazım) Kılavuzu (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 0cf84e7bf11c27f14ff21048ff42eced | **MD5**: ab36c707988d6f201e542b7b7f1b6f97 | 
 | **Boyut**: 622.0 KB                       | **Boyut**: 2.1 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/ov21jdg7u5foqee/imla-kilavuzu.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/m2j6k3ubrxye0gt/imla-kilavuzu-proje.zip?dl=1)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/ov21jdg7u5foqee/imla-kilavuzu.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/m2j6k3ubrxye0gt/imla-kilavuzu-proje.zip?dl=1)|

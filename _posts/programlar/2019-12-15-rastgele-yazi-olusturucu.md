@@ -29,4 +29,4 @@ Bu türde koftiden yazılar üretmek için çeşitli programlar için çok çeş
 | **Boyut**: 50 KB                       | **Boyut**:  423 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/c4nclpc6npc2a1s/rastgele-yazi-olusturucu.zip?dl=1) <br> **İndir (Google Drive)**: [Link]() | **İndir**: [Link](https://www.dropbox.com/s/ohs0fu3rhindjk3/rastgele-yazi-olusturucu-proje.zip?dl=1) |
+| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/c4nclpc6npc2a1s/rastgele-yazi-olusturucu.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/ohs0fu3rhindjk3/rastgele-yazi-olusturucu-proje.zip?dl=1) |

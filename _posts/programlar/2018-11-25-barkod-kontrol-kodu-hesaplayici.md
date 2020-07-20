@@ -18,13 +18,13 @@ Kırk yıl düşünsem böyle bir program yazacağım aklıma gelmezdi. Sene iç
 - Etrafınızda barkod kodu 13 haneli her ürünün (EAN-13 kodludur) son kontrol numarasını bulma.
 
 {:.tablo-ortali}
-| Barkod Kontrol Kodu Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Barkod Kontrol Kodu Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Barkod Kontrol Kodu Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Barkod Kontrol Kodu Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: d673de3180c4ab7f1905fd7640b2eed5 | **MD5**: dae800022863034aff232c3e98922378 | 
 | **Boyut**: 14.7 KB                       | **Boyut**: 118.9 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/93tchxtsr3j2dng/barkod-kontrol-kodu.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/i7sn079af43czh9/barkod-kontrol-kodu-proje.zip?dl=1)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/93tchxtsr3j2dng/barkod-kontrol-kodu.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/i7sn079af43czh9/barkod-kontrol-kodu-proje.zip?dl=1) |
 
 **Ek** : Kontrol kodunun nasıl hesaplandığını görmeye gelenler için **Barkod.cs** sınıfındaki kodlar:
 

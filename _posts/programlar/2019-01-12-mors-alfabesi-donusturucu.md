@@ -21,13 +21,13 @@ Sınıfıdır, metodudur, dönüşümüdür. Gırla gitti. Yazması basit ve key
 - Yapılan dönüşümü metin belgesi olarak kaydetme.
 
 {:.tablo-ortali}
-| Mors Alfabesi Dönüştürücü <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Mors Alfabesi Dönüştürücü (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Mors Alfabesi Dönüştürücü <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Mors Alfabesi Dönüştürücü (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: b7ec5bf4be56318d33b8070d5f8b6362 | **MD5**: 7614abcee05c6e9ddf14177700941e4c | 
 | **Boyut**: 169.6 KB                       | **Boyut**: 719.3 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/h5jx31i9zr00zvt/mors-alfabesi-donusturucu.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/oox85t91m8789re/mors-alfabesi-donusturucu-proje.zip?dl=1)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/h5jx31i9zr00zvt/mors-alfabesi-donusturucu.zip?dl=1)  | **İndir**: [Link](https://www.dropbox.com/s/oox85t91m8789re/mors-alfabesi-donusturucu-proje.zip?dl=1) |
 
 **Ek** : Mors alfebesinin nasıl dönüştürüldüğünü görmeye gelenler için **Donustur.cs** sınıfındaki kodlar:
 

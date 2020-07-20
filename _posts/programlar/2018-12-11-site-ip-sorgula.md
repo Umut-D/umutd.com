@@ -20,10 +20,10 @@ Fakat son zamanlarda Semalt Redirect Manager yetersiz gelmeye başladı (Evet, G
 - Birden fazla web sitesinin adresini, ip adresine dönüştürme.
 
 {:.tablo-ortali}
-| Site IP Sorgula<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Site IP Sorgula (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Site IP Sorgula<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Site IP Sorgula (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: a5f299059841f5d77c79587c9d3a4647 | **MD5**: a28ab4cf1f6889c5defa087d6160eef7 | 
 | **Boyut**:  3.4 MB                       | **Boyut**: 3.6 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/ntvmr82cj5vzafx/site-ip-sorgula.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/ku9fktbd1o63ysb/site-ip-sorgula-proje.zip?dl=1)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/ntvmr82cj5vzafx/site-ip-sorgula.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/ku9fktbd1o63ysb/site-ip-sorgula-proje.zip?dl=1) |

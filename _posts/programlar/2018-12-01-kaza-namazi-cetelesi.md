@@ -18,10 +18,10 @@ Programın elimden geldiğince sade halde olması için çaba sarfettim ve sonu�
 * Kaza namazlarının dağılımını grafik olarak verme.
 
 {:.tablo-ortali}
-| Kaza Namazı Çetelesi<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Kaza Namazı Çetelesi (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Kaza Namazı Çetelesi<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Kaza Namazı Çetelesi (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 301a2bde99b26bc8d050cd3995b91068 | **MD5**: bd8511e63a7e04ef6e272d6bf91b9423 | 
 | **Boyut**: 196.4 KB                       | **Boyut**: 1.4 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/kfiekll6hn4xdgq/kaza-namazi-cetelesi.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/4swqjantbsplpky/kaza-namazi-cetelesi-proje.zip?dl=1)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/kfiekll6hn4xdgq/kaza-namazi-cetelesi.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/4swqjantbsplpky/kaza-namazi-cetelesi-proje.zip?dl=1) |

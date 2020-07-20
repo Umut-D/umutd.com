@@ -18,10 +18,10 @@ Ne kadar kilolusunuz ya da ne kadar zayıf? Bazen bu soruyu kendimize sorarız. 
 Programın özelliklerine gelecek olursak diyeceğim ama gereksiz olacak. Çünkü programın yaptığı şey bariz.
 
 {:.tablo-ortali}
-| Vücut Kitle Endeksi Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Vücut Kitle Endeksi Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Vücut Kitle Endeksi Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Vücut Kitle Endeksi Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: dfd5d0f213b18cb7248d4cd4409b4e6a | **MD5**: 1e11f52c4e2a70f8edf5cfdbc705956f | 
 | **Boyut**: 14.7 KB                       | **Boyut**:  149.3 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0      |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/2j1x7cwsqz8d3u7/vucut-kitle-endeksi.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/2r8h4adn0lznrxn/vucut-kitle-endeksi-proje.zip?dl=1)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/2j1x7cwsqz8d3u7/vucut-kitle-endeksi.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/2r8h4adn0lznrxn/vucut-kitle-endeksi-proje.zip?dl=1)  |

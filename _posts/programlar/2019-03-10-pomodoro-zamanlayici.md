@@ -22,10 +22,10 @@ Verimli çalışma teknikleri arasında gösterilen bu tekniğini bilmeyen yoktu
 **Not**: Programın Setup’ını hazırlayacaktım. Yalan yok, üşendim. İşte bunlar hep tembellik.
 
 {:.tablo-ortali}
-| Pomodoro Zamanlayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Pomodoro Zamanlayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Devam_Ediyor-success.svg?style=flat)|
+| Pomodoro Zamanlayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Pomodoro Zamanlayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 330262bed52c27dddad805a00fb8bb6c | **MD5**: 9f2c6d33e08f2acbbd22fd2d323db521 | 
 | **Boyut**: 134.1 KB                       | **Boyut**: 1.0 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/v6g90bjmudwo8o6/pomodoro-zamanlayici.zip?dl=1)         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Pomodoro-Zamanlayici)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/v6g90bjmudwo8o6/pomodoro-zamanlayici.zip?dl=1)         | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Pomodoro-Zamanlayici) |

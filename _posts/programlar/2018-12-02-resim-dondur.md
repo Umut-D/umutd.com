@@ -20,10 +20,10 @@ Kimse korkmasın, bu sefer "acayip ihtiyacım oldu da yapma gereği duydum" deme
 - Döndürülen görsel yeni resim halinde kaydetme.
 
 {:.tablo-ortali}
-| Resim Döndür <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Resim Döndür (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Resim Döndür <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Resim Döndür (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 09581e2e573ed33dbc8a3cfd8f1c5c8e | **MD5**: fabb0a4ff8b5ef123cad94178d084a14| 
 | **Boyut**: 115.6 KB                       | **Boyut**: 511.2 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5      |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/fpnvcgzue41d06f/resim-dondur.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/hg0po67f0rgn3kr/resim-dondur-proje.zip?dl=1)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/fpnvcgzue41d06f/resim-dondur.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/hg0po67f0rgn3kr/resim-dondur-proje.zip?dl=1) |

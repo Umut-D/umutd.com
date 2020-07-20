@@ -20,13 +20,13 @@ Aslında günlük hayatta faktöriyel, kombinasyon, permütasyon hesaplarını i
 - Permütasyon hesabı yapma.
 
 {:.tablo-ortali}
-| Faktöriyel, Kombinasyon, Permütasyon<br> Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Faktöriyel, Kombinasyon, Permütasyon<br>Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Durum](https://img.shields.io/badge/Proje-Sonlandırıldı-lightgray.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Faktöriyel, Kombinasyon, Permütasyon<br> Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Faktöriyel, Kombinasyon, Permütasyon<br>Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 9b24b1e5fba9705bfc424cc6e891adde | **MD5**: 97b519b98b74ec34a3a6528d7f65093f | 
 | **Boyut**:  112 KB                       | **Boyut**:  788 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4    |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/61a22sn9ozb2qrr/fkp-hesaplayici.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/mxbl0lqsswst9yg/fkp-hesaplayici-proje.zip?dl=1)                      |
+| **İndir**: [Link](https://www.dropbox.com/s/61a22sn9ozb2qrr/fkp-hesaplayici.zip?dl=1)  | **İndir**: [Link](https://www.dropbox.com/s/mxbl0lqsswst9yg/fkp-hesaplayici-proje.zip?dl=1) |
 
 **Ek** : Nasıl hesaplama yapıldığını görmeye gelenler için **Hesapla.cs** sınıfındaki kodlar:
 

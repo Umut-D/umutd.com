@@ -25,6 +25,6 @@ Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 94215a022c8da9b2e701a87b410abaf9 | **MD5**: 9cddf3dc78b9dc37d78244640720f4c6 | 
 | **Boyut**:  157 KB                       | **Boyut**:  2.76 MB                         |
-| **Gereksinimler**: .Net Framework 4     | **Programlama Dili**: C# |
-| **Platform**: Microsoft Windows           | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Son-Depremler) |
-| **İndir (Dropbox)**: [Link](https://www.dropbox.com/s/ohlch6m0icorxes/son-depremler.zip?dl=1) <br> **İndir (Google Drive)**: [Link](https://drive.google.com/uc?id=13eM5Z_T3zBxTlxtC8J8nCQq8balBIq5q&export=download) | **İndir (Proje)**: [Link](https://www.dropbox.com/s/jjx7d3xfftkkooj/son-depremler-proje.zip?dl=1) |
+| **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4.0 |
+| **Platform**: Microsoft Windows           | **Programlama Dili**: C# |
+| **İndir**: [Link](https://www.dropbox.com/s/ohlch6m0icorxes/son-depremler.zip?dl=1) | **Proje**: [Link](https://www.dropbox.com/s/jjx7d3xfftkkooj/son-depremler-proje.zip?dl=1) <br> ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Link](https://github.com/Umut-D/Son-Depremler)|
