@@ -53,7 +53,7 @@ public class Main {
         int girilenSayi = 100000;
  
         // İngilizce ABD kültür düzeninde değişim yapılıp virgüle geçilecek
-        DecimalFormat kulturDuzeni = (DecimalFormat)DecimalFormat.getNumberInstance(Locale.ENGLISH);
+        DecimalFormat kulturDuzeni = (DecimalFormat) DecimalFormat.getNumberInstance(Locale.ENGLISH);
  
         // Girilen sayıyı istenen biçimde formatlayıp yazdır
         System.out.println("Sonuç " + kulturDuzeni.format(girilenSayi));

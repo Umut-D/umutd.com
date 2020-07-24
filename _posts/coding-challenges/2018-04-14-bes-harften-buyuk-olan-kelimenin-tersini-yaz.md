@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kelimenin Tersini Yaz
+title: Beş Harften Büyük Olan Kelimenin Tersini Yaz
 date: 2018-04-14 19:33 +0300
 categories: Coding-Challenges
 tags: Ters, Ters Yazı
