@@ -15,8 +15,8 @@ Programcıya karışık halde ve harfler, sayılar, hesaplama operatöründen ol
 
 | Girdi                | Çıktı                               |
 |----------------------|-------------------------------------|
-| **girdi**: gdf1dg1gf*4aP0 <br> **11x40**  | **Sonuç**: 440 |
-| **girdi**: a9b9cas9/sai11vjck1 <br> **999/111** | **Sonuç**: 9 |
+| **girdi**: gdf1dg1gf*4aP0 --> **11x40**  | **Sonuç**: 440 |
+| **girdi**: a9b9cas9/sai11vjck1 --> **999/111** | **Sonuç**: 9 |
 
 ### Çözüm - C#
 ```csharp
