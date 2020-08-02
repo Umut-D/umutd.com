@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Harfler Sayılar ve Hesaplama İşlemi
+title: Harfler, Sayılar ve Hesaplama İşlemi
 date: 2020-08-01 13:01 +0300
 categories: Coding-Challenges
 tags: Harfler, Sayılar, Hesaplama, İşlem

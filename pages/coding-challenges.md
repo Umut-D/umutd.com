@@ -8,7 +8,7 @@ redirect_from:
 ---
 Uzun zamandır aklımda olan bir şeydi Coding Challenges'a (nam-ı değer Kodlama Mücadeleleri) dair bir bölüm oluşturmak. Bahsi geçen kodlama mücadeleleri kah aklıma gelen, kah yabancı sitelerde (Talentbuddy, Codewars vb.) görüp çözdüğüm sorulardan oluşuyor. Yani çözümler tamamen bana ait ve kafama göre. En nihayetinde programcılıkta da her yiğidin kod yazış şekli, tercih ettiği metot, sistem, tasarım desenleri vs. farklı. İşin Complexity (karmaşıklık) durumlarına hiç girmeden, dağlara taşlara kod izolasyonu yapmadan üretilen çözümler bunlar. Gerçi ilgili sitelerde karmaşıklık, kod tutarlılığı gibi başlıklara bakılarak çözümler kabul ediliyor ya neyse. 
 
-Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı tercih ediyorum. Eğer ilginiz varsa mevcut soruları sizler de kendi bildiğiniz bir programlama dilinde yapabilirsiniz. Hatta bahsi geçen [Codewars](http://www.codewars.com) ve benzeri sitelere üye olup aksiyona katılabilirsiniz. Talentbuddy ise maalesef kapandı. Çok da güzel siteydi. Neyse, aşağıda **toplam 78 adet** Coding Challenges var. Seçin beğenin alın. "Neden, Zor Seviye'den bir tane var" derseniz, Zor Seviye Coding Challenges'ın ingilizce ayrıntısı çok ama çok fazla.
+Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı tercih ediyorum. Eğer ilginiz varsa mevcut soruları sizler de kendi bildiğiniz bir programlama dilinde yapabilirsiniz. Hatta bahsi geçen [Codewars](http://www.codewars.com) ve benzeri sitelere üye olup aksiyona katılabilirsiniz. Talentbuddy ise maalesef kapandı. Çok da güzel siteydi. Neyse, aşağıda **toplam 79 adet** Coding Challenges var. Seçin beğenin alın. "Neden, Zor Seviye'den bir tane var" derseniz, Zor Seviye Coding Challenges'ın ingilizce ayrıntısı çok ama çok fazla.
 
 ### Zor Seviye
 
@@ -30,7 +30,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Gülen Yüzleri Say](/coding-challenges/gulen-yuzleri-say)
 * [Harf ve Cümle Sayısı](/coding-challenges/harf-ve-cumle-sayisi)
 * [Harfin Sıra Sayısı Kadar Harfi Tekrar Et](/coding-challenges/harfin-sira-sayisi-kadar-harfi-tekrar-et)
-* [Harfler Sayılar ve Hesaplama İşlemi](/coding-challenges/harfler-sayilar-ve-hesaplama-islemi)
+* [Harfler, Sayılar ve Hesaplama İşlemi](/coding-challenges/harfler-sayilar-ve-hesaplama-islemi)
 * [Harfleri Alfabedeki Sırasıyla Yaz](/coding-challenges/harfleri-alfabedeki-sirasiyla-yaz)
 * [Hex ve Binary Değerlerini Delege ve Olay Kullanarak Bul](/coding-challenges/hex-ve-binary-değerlerini-delege-ve-olay-kullanarak-bul)
 * [IP Kontrolü](/coding-challenges/ip-kontrolu)
