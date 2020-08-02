@@ -9,6 +9,8 @@ excerpt: Programcıya karışık halde ve harfler, sayılar, hesaplama operatör
 ### Soru
 Programcıya karışık halde ve harfler, sayılar, hesaplama operatöründen oluşan bir girdi **(girdi)** veriliyor. Bu noktadan sonra, girdideki operatör öncesi ve operatör sonrası sayıları ayrı ve tek parça olarak alması isteniyor. Sonuç işlemini gerçekleştirmek içinse eldeki iki ayrı sayıyı mevcut operatöre göre hesaplaması isteniyor.
 
+**Not:** İşlem sonucunda küsüratlı sayı olursa -kültürden bağımsız olarak- yuvarlama yapılmasını gerekli olduğu belirtiliyor.
+
 ### Örnek
 
 | Girdi                | Çıktı                               |
