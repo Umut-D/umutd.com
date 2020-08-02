@@ -30,6 +30,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Gülen Yüzleri Say](/coding-challenges/gulen-yuzleri-say)
 * [Harf ve Cümle Sayısı](/coding-challenges/harf-ve-cumle-sayisi)
 * [Harfin Sıra Sayısı Kadar Harfi Tekrar Et](/coding-challenges/harfin-sira-sayisi-kadar-harfi-tekrar-et)
+* [Harfler Sayılar ve Hesaplama İşlemi](/coding-challenges/harfler-sayilar-ve-hesaplama-islemi)
 * [Harfleri Alfabedeki Sırasıyla Yaz](/coding-challenges/harfleri-alfabedeki-sirasiyla-yaz)
 * [Hex ve Binary Değerlerini Delege ve Olay Kullanarak Bul](/coding-challenges/hex-ve-binary-değerlerini-delege-ve-olay-kullanarak-bul)
 * [IP Kontrolü](/coding-challenges/ip-kontrolu)
