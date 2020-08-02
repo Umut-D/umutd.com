@@ -10,7 +10,7 @@ Tek başına dünyayı değiştirmek için yeterli güce sahip olduğu zamanlard
 
 Behzat Ç., İşler Güçler ve Kardeş Payı'nın son yılların en kaliteli dizileri olduğunu, Game Of Thrones'in tırt ve ötesi bir şekilde bittiğini düşünenlerden. J.R.R. Tolkien'in Yüzüklerin Efendisi ve J.K. Rowling'in Harry Potter serilerini, Gregory S. Petrov'un Beyaz Zambaklar Ülkesinde eserini başucu kitapları olarak görüyor. Özel insanların biyografi kitaplarını okumaya ise bayılıyor. Artık üç ayda bir yayınlanan Chip ve sevdiği çeşitli dergileri pas geçmeden okumaya çalışıyor. Çizgi romanlarını okuyarak büyüdüğü Superman içinse "gerçek bir erdem timsali" demekte. Yaklaşık 14 yıldan fazladır yazarlık yaptığı -ki birinci nesil yazarlığı da var- ve kendisine çok şey kattığını her fırsatta dile getirdiği Ekşi Sözlük, her daim ana uğrak noktası.
 
-Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a bayılan, Java ile dostluğu IntelliJ IDEA sayesinde güzelleşen, C++ ile arası limoni olan, en iyi içerik yönetim sistemleri olan WordPress ve Drupal ile flört ederken hayran kaldığı Jekyll'da karar kılan, HTML5 ve CSS3'e teknolojileriyle bir şeyler oluşturmaktan büyük keyif alan, SQL Server ile onbinlerce kayıt arasında veritabanı sorgusu yaptığında "adamlar valla yapmış be" deyip takdirini esirgemeyen, canı sıkıldığında lüzumsuz program, uygulama ve otomasyonlar yazmaya çalışan, Microsoft Office ailesiyle her daim barışık olup, her yeni özelliğini öğrendiğinde aşık olduğu Adobe Photoshop'ta 62′den tavşan çizebilen, PES ve Fifa serilerinde taraftarı olmaktan mutluluk duyduğu Arsenal'i seçen bu epik kahraman, içindeki yurtdışına gitme isteğine gem vurduğu sürece işine devam etmeye kararlı. Gelecekte, deniz ile karanın birleştiği uzak, yabancı bir diyarda küçük ve mütevazi bir bilgisayar dükkanı açıp işyerini istediği vakitte açıp kapayan minimal bir esnaf olma hayalini her daim canlı tutmaya çalışmakta.
+Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a bayılan, Java ile dostluğu IntelliJ IDEA sayesinde güzelleşen, C++ ile arası limoni olan, en iyi içerik yönetim sistemleri olan WordPress ve Drupal ile flört ederken hayran kaldığı Jekyll'da karar kılan, HTML5 ve CSS3'e teknolojileriyle bir şeyler oluşturmaktan büyük keyif alan, SQL Server ile onbinlerce kayıt arasında veritabanı sorgusu yaptığında "adamlar valla yapmış be" deyip takdirini esirgemeyen, canı sıkıldığında lüzumsuz program, uygulama ve otomasyonlar yazmaya çalışan, Microsoft Office ailesiyle her daim barışık olup, her yeni özelliğini öğrendiğinde aşık olduğu Adobe Photoshop'ta 62′den tavşan çizebilen, PES ve Fifa serilerinde, taraftarı olmaktan mutluluk duyduğu Arsenal'i seçen bu epik kahraman, içindeki yurtdışına gitme isteğine gem vurduğu sürece işine devam etmeye kararlı. Gelecekte, deniz ile karanın birleştiği uzak, yabancı bir diyarda küçük ve mütevazi bir bilgisayar dükkanı açıp işyerini istediği vakitte açıp kapayan minimal bir esnaf olma hayalini her daim canlı tutmaya çalışmakta.
 
 #### Ayrıca, bu Lüzumsuz İşler Müdürü'nün;
 1. **Yazdığı abidik gubidik programlara çeşitli indirme sitesi ve forumlarda rastlanabilmekte.**
@@ -25,9 +25,9 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a bay�
 3. **Web sitesine dair haber ve yorumlara;**
 - [PCnet dergisinin (Mayıs 2015) Ayın Siteleri](/images/bahsedenler/pcnet.jpg), 
 - [WebMasto Ayın Web Siteleri (Mart 2015)](http://www.webmasto.com/webmasto-ayin-web-siteleri-mart-2015){:target="_blank"} sayfasından erişilebilmekte.
-4. **Web sitesinin (11 Haziran 20 itibariyle);**
-- 265.500 sayfa görüntülenme,
-- 126.716 ziyaretçi,
-- 100.357 benzersiz ziyaretçi,
-- 738.398 Youtube izlenme,
-- 455.409 SanalKurs izlenme istatistikleri ise bundan ibaret.
+4. **Web sitesinin (1 Ağustos 20 itibariyle);**
+- 265.871 sayfa görüntülenme,
+- 126.996 ziyaretçi,
+- 100.612 benzersiz ziyaretçi,
+- 740.000  Youtube izlenme,
+- 456.579 SanalKurs izlenme istatistikleri ise bundan ibaret.
