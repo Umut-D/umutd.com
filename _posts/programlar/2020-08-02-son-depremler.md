@@ -21,10 +21,10 @@ Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne
 **Not:** Deprem yerini haritada aktif etme ve gösterme özelliğinin Windows Form üzerinde yapmak çok istedim. Fakat **Google** ve **Bing Haritalar**'ın kişie özel API anahtarı istemelerinden dolayı bu özellikten vazgeçtim. API anahtarı paralı bir şey değil biliyorum. Ama bu anahtarın her yerde veya açık kaynak kodlu bir projede paylaşılması da hoş olmazdı diye düşünüyorum. 
 
 {:.tablo-ortali}
-| Son Depremler <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.13-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Son Depremler <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.14-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 5ea5ac53ba2f0bc8eaaf83ec74ab2052 | **MD5**: 2e1820020d718248bd876281f70e6295 | 
-| **Boyut**:  157 KB                       | **Boyut**:  2.58 MB                         |
-| **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4.0 |
+| **MD5**: 08649e53ea0d1a4963d1b414371adb98 | **MD5**: 4f1b943ba360e405c45040513829e07b | 
+| **Boyut**:  157 KB                       | **Boyut**:  2.78 MB                         |
+| **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0 |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C# |
 | **İndir**: [Link](https://www.dropbox.com/s/g9q1kskdd2irquq/son-depremler-proje.zip?dl=1) | **Proje**: [Link](https://www.dropbox.com/s/jjx7d3xfftkkooj/son-depremler-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Son-Depremler)|
