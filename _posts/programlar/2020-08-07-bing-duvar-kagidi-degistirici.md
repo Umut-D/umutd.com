@@ -4,6 +4,7 @@ title: Bing Duvar Kağıdı Değiştirici
 date: 2020-08-07 12:43 +0300
 categories: Programlar
 tags: Bing, Bing Duvar Kağıdı Değiştirici, Duvar Kağıdı, Wallpaper
+excerpt: Cep telefonumda en sevdiğim özelliklerden biri de kullandığım IF uygulaması sayesinde her gün belirli bir saatte telefonumun duvar kağıdının değişmesi. Bing’in seçmiş olduğu günün fotoğrafının, Bing arama motorunun resmi web sitesinden alınarak telefonumun ekranına taşınması...
 redirect_from:
   - /programlar/bing-duvar-kagidi-degistirici/
   - /etiket/bing/
