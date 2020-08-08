@@ -1,6 +1,6 @@
 ---
 layout: post
-title: guclu-sayi
+title: Güçlü Sayı
 date: 2020-08-08 16:56 +0300
 categories: Coding-Challenges
 tags: Harfler, Sayılar, Hesaplama, İşlem
