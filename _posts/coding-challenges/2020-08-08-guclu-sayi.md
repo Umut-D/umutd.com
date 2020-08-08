@@ -15,7 +15,7 @@ Programcıya bir sayı **(girilenSayi)** veriliyor. Bu noktadan sonra, girilen s
 
 | Girdi                | Çıktı                               |
 |----------------------|-------------------------------------|
-| **girdi**: 145 --> **1!+4!+5!=145**  | **Sonuç**: Güçlü Sayı! |
+| **girilenSayi**: 145 --> **1!+4!+5!=145**  | **Sonuç**: Güçlü Sayı! |
 
 ### Çözüm - C#
 ```csharp
