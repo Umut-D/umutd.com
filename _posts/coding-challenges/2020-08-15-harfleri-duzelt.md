@@ -59,7 +59,8 @@ class Program
 ```java
 public class Main
 {
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+    {
 		String girilenYazi = "CODer";
 
         int buyukHarfSayisi = 0;
