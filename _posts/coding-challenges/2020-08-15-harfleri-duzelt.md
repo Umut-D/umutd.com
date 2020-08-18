@@ -61,7 +61,7 @@ public class Main
 {
 	public static void main(String[] args) 
     {
-		String girilenYazi = "CODer";
+        String girilenYazi = "CODer";
 
         int buyukHarfSayisi = 0;
         for (char karakter:girilenYazi.toCharArray())
