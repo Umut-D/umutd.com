@@ -42,6 +42,7 @@ class Program
 
         // Kelime uzunluğundan büyük harf sayısını çıkar
         int fark = girilenYazi.Length - buyukHarfSayisi;
+        
         // Büyük harf sayısı kelime uzunluğunda az veya ona eşitse küçük harfli yaz
         if (fark > buyukHarfSayisi || fark == buyukHarfSayisi)
             Console.WriteLine("Sonuç: {0}", girilenYazi.ToLower());
@@ -51,5 +52,33 @@ class Program
 
         Console.Read();
     }
+}
+```
+
+### Çözüm - Java
+```java
+public class Main
+{
+	public static void main(String[] args) {
+		String girilenYazi = "CODer";
+
+        int buyukHarfSayisi = 0;
+        for (char karakter:girilenYazi.toCharArray())
+        {
+            // Her bir karakteri incelerken büyük harfleri say
+            if (Character.isUpperCase(karakter))
+                buyukHarfSayisi++;
+        }
+
+        // Kelime uzunluğundan büyük harf sayısını çıkar
+        Integer fark = girilenYazi.length() - buyukHarfSayisi;
+        
+        // Büyük harf sayısı kelime uzunluğunda az veya ona eşitse küçük harfli yaz
+        if (fark > buyukHarfSayisi || fark == buyukHarfSayisi)
+            System.out.println("Sonuç: " + girilenYazi.toLowerCase());
+        // Büyük harf sayısı kelime uzunluğunda fazlaysa büyük harfli yaz
+        else
+            System.out.println("Sonuç: " + girilenYazi.toUpperCase());
+	}
 }
 ```
