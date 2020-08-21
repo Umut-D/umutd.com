@@ -53,3 +53,36 @@ class Program
     }
 }
 ```
+
+### Çözüm - Java
+```java
+import java.util.ArrayList;
+
+class Main {
+  public static void main(String[] args) {
+        String haber = "İstanbul’un Fatih ilçesinde bulunan Bizans döneminden kalma Kariye Müzesi’nin";
+        Integer ozetUzunlugu = 20;
+
+        ArrayList<String> dizi = new ArrayList<String>();
+        Integer harfSayisi = 0;
+        
+        // Cümledeki kelimeleri parçala
+        for (String yazi : haber.split(" ",0))
+        {
+            // Her kelimenin uzunluğunu genel toplama ekle
+            harfSayisi += yazi.length();
+
+            // Eğer toplam harf sayısı özet uzunluğundan kısa ise özetin yer alacağı dizi'ye ekle
+            if (harfSayisi < ozetUzunlugu)
+                dizi.add(yazi);
+            // Eğer toplam harf sayısı özet uzunluğundan uzunsa döngüden çık
+            else
+                break;
+        }
+
+        // Özet yazıyı aralıklı olarak birleştir ve özetin sonuna üç nokta ekleyerek işlemi tamamla
+        String ozetYazi = String.join(" ", dizi);
+        System.out.println(ozetYazi.trim() + "...");
+  }
+}
+```
