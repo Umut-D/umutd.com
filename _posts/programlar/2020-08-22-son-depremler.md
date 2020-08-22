@@ -21,9 +21,9 @@ Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne
 **Not:** Deprem yerini haritada aktif etme ve gösterme özelliğinin Windows Form üzerinde yapmak çok istedim. Fakat **Google** ve **Bing Haritalar**'ın kişie özel API anahtarı istemelerinden dolayı bu özellikten vazgeçtim. API anahtarı paralı bir şey değil biliyorum. Ama bu anahtarın her yerde veya açık kaynak kodlu bir projede paylaşılması da hoş olmazdı diye düşünüyorum. 
 
 {:.tablo-ortali}
-| Son Depremler <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.16-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Son Depremler <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.17-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 71469822ab4c85eb9653d1a10b62cec0 | **MD5**: ff8c499db63ea102f5fb7a87cf432c12 | 
+| **MD5**: 8cb1203e02b116f25176a07d3337fa74 | **MD5**: 0620e58034c8f61076238f2e73e9f83b | 
 | **Boyut**:  158 KB                       | **Boyut**:  2.59 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0 |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C# |
