@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cümledeki Harfleri Sayısı
+title: Cümledeki Harflerin Sayısı
 date: 2018-04-28 19:33 +0300
 categories: Coding-Challenges
 tags: Cümle, Harf, Say, Sayım
