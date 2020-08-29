@@ -71,18 +71,17 @@ class Program
 
 ### Çözüm - Java
 ```java
-class Main 
-{
+class Main {
 	public static void main(String[] args) 
 	{
 		String kelime = "aabbcceeeeeeeeedd";
 
 		String ikinciYolVeri = "", ikinciYolSonuc = "";
-		for (int i = 0; i<kelime.length(); i++) 
+		for (int i = 0; i < kelime.length(); i++) 
 		{
 			char harf = kelime.charAt(i);
 			// Her bir harf, kelime içinde yoksa ekleme yap
-			if (ikinciYolVeri.indexOf(harf)<0) 
+			if (ikinciYolVeri.indexOf(harf) < 0) 
 			{
 				ikinciYolVeri += harf;
 				ikinciYolSonuc += harf;
