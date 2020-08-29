@@ -71,24 +71,25 @@ class Program
 
 ### Çözüm - Java
 ```java
-class Main {
-	public static void main(String[] args) 
-	{
-		String kelime = "aabbcceeeeeeeeedd";
+class Main 
+{
+  public static void main(String[] args) 
+  {
+    String kelime = "aabbcceeeeeeeeedd";
 
-		String ikinciYolVeri = "", ikinciYolSonuc = "";
-		for (int i = 0; i < kelime.length(); i++) 
-		{
-			char harf = kelime.charAt(i);
-			// Her bir harf, kelime içinde yoksa ekleme yap
-			if (ikinciYolVeri.indexOf(harf) < 0) 
-			{
-				ikinciYolVeri += harf;
-				ikinciYolSonuc += harf;
-			}
-		}
+    String ikinciYolVeri = "", ikinciYolSonuc = "";
+    for (int i = 0; i < kelime.length(); i++) 
+    {
+      char harf = kelime.charAt(i);
+      // Her bir harf, kelime içinde yoksa ekleme yap
+      if (ikinciYolVeri.indexOf(harf) < 0) 
+      {
+        ikinciYolVeri += harf;
+        ikinciYolSonuc += harf;
+      }
+    }
 
-		System.out.println("Sonuç: " + ikinciYolSonuc);
-	}
+    System.out.println("Sonuç: " + ikinciYolSonuc);
+  }
 }
 ```
