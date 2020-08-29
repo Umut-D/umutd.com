@@ -58,8 +58,10 @@ class Program
 ```java
 import java.util.ArrayList;
 
-class Main {
-  public static void main(String[] args) {
+class Main 
+{
+  public static void main(String[] args) 
+  {
         String haber = "İstanbul’un Fatih ilçesinde bulunan Bizans döneminden kalma Kariye Müzesi’nin";
         Integer ozetUzunlugu = 20;
 
