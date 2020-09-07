@@ -17,6 +17,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 ### Orta Seviye
 
 * [Anagram Olanlar Neler?](/coding-challenges/anagram-olanlar-neler)
+* [Arama Sonuçlarını Göster](/coding-challenges/arama-sonuclarini-goster)
 * [Aranan Değerlerin Düz ve Tersten İndeksi](/coding-challenges/aranan-degerin-duz-ve-tersten-indeks-degeri)
 * [Aritmetik Artışta Eksik Sayıyı Bul](/coding-challenges/aritmetik-artista-eksik-sayiyi-bul)
 * [Armstrong Sayısı](/coding-challenges/armstrong-sayisi)

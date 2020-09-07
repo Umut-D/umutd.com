@@ -4,7 +4,7 @@ title: Benzersiz Harfler
 date: 2020-08-29 14:03 +0300
 categories: Coding-Challenges
 tags: Harf, Kelime, Benzersiz
-excerpt: Programcıya aynı harflerden oluşan bir kelime veriliyor. Bu noktadan sonraysa, kelimedeki benzer harfleri ayıklayarak, sadece benzersiz harfleri bulan bir kod oluşturması isteniyor....
+excerpt: Programcıya aynı harflerden oluşan bir kelime veriliyor. Bu noktadan sonraysa, kelimedeki benzer harfleri ayıklayarak, sadece benzersiz harfleri bulan bir kod oluşturması isteniyor...
 ---
 ### Soru
 Programcıya aynı harflerden oluşan bir kelime **(kelime)** veriliyor. Bu noktadan sonra ise; kelimedeki benzer harfleri ayıklayarak, sadece benzersiz harfleri bulan bir kod oluşturması isteniyor.
