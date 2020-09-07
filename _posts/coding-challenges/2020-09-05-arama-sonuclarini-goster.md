@@ -58,6 +58,7 @@ namespace CodingChallenges
 }
 ```
 
+ 
 ```csharp
 using System;
 using System.Collections.Generic;
@@ -74,7 +75,9 @@ namespace CodingChallenges
 
             // 1. Adı 'Ali' olanları bulun
             Console.WriteLine("1. Adı 'Ali' olanlar");
-            var adAra = from ad in personeller where ad.AdSoyad.StartsWith("Ali") select ad;
+            var adAra = from ad in personeller 
+                where ad.AdSoyad.StartsWith("Ali") 
+                select ad;
             // var adAraAlt = personeller.Where(p => p.ToString().StartsWith("Ali"));
 
             foreach (Personel kisi in adAra)
@@ -82,7 +85,9 @@ namespace CodingChallenges
 
             // 2. Baş harfi 'B' olanları bulun
             Console.WriteLine(Environment.NewLine + "2. Baş harfi 'B' olanlar");
-            var bHarfleBaslayanlar = from bHarfli in personeller where bHarfli.AdSoyad.StartsWith("B") select bHarfli;
+            var bHarfleBaslayanlar = from bHarfli in personeller 
+                where bHarfli.AdSoyad.StartsWith("B") 
+                select bHarfli;
             // var bHarfleBaslayanlarAlt = personeller.Where(p => p.AdSoyad.StartsWith("B"));
 
             foreach (Personel kisi in bHarfleBaslayanlar)
@@ -90,14 +95,18 @@ namespace CodingChallenges
 
             // 3. Bölümü muhasebe olanları bulun
             Console.WriteLine(Environment.NewLine + "3. Bölümü muhasebe olanlar");
-            var muhasebeBolumu = from muhasebeciler in personeller where muhasebeciler.Bolum == "Muhasebe" select muhasebeciler;
+            var muhasebeBolumu = from muhasebeciler in personeller
+                where muhasebeciler.Bolum == "Muhasebe"
+                select muhasebeciler;
 
             foreach (Personel kisi in muhasebeBolumu)
                 Console.WriteLine(kisi.AdSoyad);
 
             // 4. Maaşı 5500'ün üstünde olanları bulun
             Console.WriteLine(Environment.NewLine + "4. Maaşı 5500'ün üstünde olanlar");
-            var maas4400Ustu = from para in personeller where para.Maas >= 5500 select para;
+            var maas4400Ustu = from para in personeller 
+                where para.Maas >= 5500 
+                select para;
             // var maas4400UstuAlt = personeller.Where(p => p.Maas >= 5500);
 
             foreach (Personel kisi in maas4400Ustu)
@@ -105,7 +114,9 @@ namespace CodingChallenges
 
             // 5. 2018 sonrası girişlilerin ad soyad ve departmanlarını bulun
             Console.WriteLine(Environment.NewLine + "5. 2018 sonrası girişlilerin ad soyad ve departmanları");
-            var iseBaslangic2019 = from isGiris in personeller where isGiris.Baslangic >= new DateTime(2018, 1, 1) select isGiris;
+            var iseBaslangic2019 = from isGiris in personeller
+                where isGiris.Baslangic >= new DateTime(2018, 1, 1)
+                select isGiris;
             // var iseBaslangic2019Alt = personeller.Where(p => p.Baslangic >= new DateTime(2018, 1, 1));
 
             foreach (Personel kisi in iseBaslangic2019)
