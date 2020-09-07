@@ -33,32 +33,22 @@ namespace CodingChallenges
         {
             List<Personel> personeller = new List<Personel>
             {
-                new Personel
-                    {AdSoyad = "Ali Üstün", Bolum = "Lojistik", Maas = 4500, Baslangic = new DateTime(2018, 10, 18)},
-                new Personel
-                    {AdSoyad = "Ece Ölür", Bolum = "Muhasebe", Maas = 5000, Baslangic = new DateTime(2019, 01, 28)},
-                new Personel
-                    {AdSoyad = "Burak Aslan", Bolum = "Yönetim", Maas = 6000, Baslangic = new DateTime(2017, 03, 11)},
-                new Personel
-                    {AdSoyad = "Barış Bilir", Bolum = "Muhasebe", Maas = 5000, Baslangic = new DateTime(2018, 02, 16)},
-                new Personel
-                    {AdSoyad = "Neşe Gider", Bolum = "Lojistik", Maas = 4500, Baslangic = new DateTime(2019, 03, 30)},
-                new Personel
-                    {AdSoyad = "Metin Kalır", Bolum = "Yönetim", Maas = 6000, Baslangic = new DateTime(2018, 11, 03)},
-                new Personel
-                    {AdSoyad = "Ali Esten", Bolum = "Lojistik", Maas = 4500, Baslangic = new DateTime(2016, 07, 01)},
-                new Personel
-                    {AdSoyad = "Merve Uzan", Bolum = "Muhasebe", Maas = 5000, Baslangic = new DateTime(2017, 12, 30)},
-                new Personel
-                    {AdSoyad = "Eslem Bilir", Bolum = "Muhasebe", Maas = 5000, Baslangic = new DateTime(2017, 12, 30)}
+                new Personel {AdSoyad = "Ali Üstün", Bolum = "Lojistik", Maas = 4500, Baslangic = new DateTime(2018, 10, 18)},
+                new Personel {AdSoyad = "Ece Ölür", Bolum = "Muhasebe", Maas = 5000, Baslangic = new DateTime(2019, 01, 28)},
+                new Personel {AdSoyad = "Burak Aslan", Bolum = "Yönetim", Maas = 6000, Baslangic = new DateTime(2017, 03, 11)},
+                new Personel {AdSoyad = "Barış Bilir", Bolum = "Muhasebe", Maas = 5000, Baslangic = new DateTime(2018, 02, 16)},
+                new Personel {AdSoyad = "Neşe Gider", Bolum = "Lojistik", Maas = 4500, Baslangic = new DateTime(2019, 03, 30)},
+                new Personel {AdSoyad = "Metin Kalır", Bolum = "Yönetim", Maas = 6000, Baslangic = new DateTime(2018, 11, 03)},
+                new Personel {AdSoyad = "Ali Esten", Bolum = "Lojistik", Maas = 4500, Baslangic = new DateTime(2016, 07, 01)},
+                new Personel {AdSoyad = "Merve Uzan", Bolum = "Muhasebe", Maas = 5000, Baslangic = new DateTime(2017, 12, 30)},
+                new Personel {AdSoyad = "Eslem Bilir", Bolum = "Muhasebe", Maas = 5000, Baslangic = new DateTime(2017, 12, 30)}
             };
             return personeller;
         }
     }
 }
 ```
-
- 
+. 
 ```csharp
 using System;
 using System.Collections.Generic;
