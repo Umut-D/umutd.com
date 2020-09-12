@@ -4,10 +4,10 @@ title: Alternatif Büyük Harfler
 date: 2020-09-12 21:55 +0300
 categories: Coding-Challenges
 tags: Harf, Kelime, Büyük Harf, Küçük Harf
-excerpt: Programcıya küçük harfler içeren bir yazı veriliyor. Sonrasında, kelimedeki çift ve tek dizinlere gelen harfleri ayrı ayrı halde yazarak, bir diziye eklemesi isteniyor. Ayrıca, 0. dizinin çift kabul edilmesi gerektiği belirtiliyor...
+excerpt: Programcıya küçük harfler içeren bir yazı veriliyor. Sonrasında, kelimedeki çift ve tek dizinlere gelen harfleri ayrı ayrı halde yazarak, bir diziye eklemesi isteniyor. Ayrıca, 0. sıradaki harfin çift kabul edilmesi gerektiği belirtiliyor...
 ---
 ### Soru
-Programcıya küçük harfler içeren bir yazı **(girilenYazi)** veriliyor. Sonrasında, kelimedeki çift ve tek dizinlere gelen harfleri ayrı ayrı halde yazarak, bir diziye eklemesi isteniyor. Ayrıca, 0. dizinin çift kabul edilmesi gerektiği belirtiliyor.
+Programcıya küçük harfler içeren bir yazı **(girilenYazi)** veriliyor. Sonrasında, kelimedeki çift ve tek dizinlere gelen harfleri ayrı ayrı halde yazarak, bir diziye eklemesi isteniyor. Ayrıca, 0. sıradaki harfin çift kabul edilmesi gerektiği belirtiliyor.
 
 ### Örnek
 
