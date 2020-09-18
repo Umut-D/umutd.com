@@ -8,7 +8,7 @@ redirect_from:
 ---
 Uzun zamandır aklımda olan bir şeydi Coding Challenges'a (nam-ı değer Kodlama Mücadeleleri) dair bir bölüm oluşturmak. Bahsi geçen kodlama mücadeleleri kah aklıma gelen, kah yabancı sitelerde (Talentbuddy, Codewars vb.) görüp çözdüğüm sorulardan oluşuyor. Yani çözümler tamamen bana ait ve kafama göre. En nihayetinde programcılıkta da her yiğidin kod yazış şekli, tercih ettiği metot, sistem, tasarım desenleri vs. farklı. İşin Complexity (karmaşıklık) durumlarına hiç girmeden, dağlara taşlara kod izolasyonu yapmadan üretilen çözümler bunlar. Gerçi ilgili sitelerde karmaşıklık, kod tutarlılığı gibi başlıklara bakılarak çözümler kabul ediliyor ya neyse. 
 
-Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı tercih ediyorum. Eğer ilginiz varsa mevcut soruları sizler de kendi bildiğiniz bir programlama dilinde yapabilirsiniz. Hatta bahsi geçen [Codewars](http://www.codewars.com) ve benzeri sitelere üye olup aksiyona katılabilirsiniz. Talentbuddy ise maalesef kapandı. Çok da güzel siteydi. Neyse, aşağıda **84 tane** Coding Challenges var. Seçin beğenin alın. "Neden, Zor Seviye'den bir tane var" derseniz, Zor Seviye Coding Challenges'ın ingilizce ayrıntısı çok ama çok fazla.
+Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı tercih ediyorum. Eğer ilginiz varsa mevcut soruları sizler de kendi bildiğiniz bir programlama dilinde yapabilirsiniz. Hatta bahsi geçen [Codewars](http://www.codewars.com) ve benzeri sitelere üye olup aksiyona katılabilirsiniz. Talentbuddy ise maalesef kapandı. Çok da güzel siteydi. Neyse, aşağıda **85 tane** Coding Challenges var. Seçin beğenin alın. "Neden, Zor Seviye'den bir tane var" derseniz, Zor Seviye Coding Challenges'ın ingilizce ayrıntısı çok ama çok fazla.
 
 ### Zor Seviye
 
@@ -93,6 +93,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Ortadaki Harf](/coding-challenges/ortadaki-harf)
 * [Öğrenci Gelişimi](/coding-challenges/ogrenci-gelisimi)
 * [Önceki ve Sonraki Notayı Bul](/coding-challenges/onceki-ve-sonraki-notayi-bul)
+* [Parçalara Ayır](/coding-challenges/parcalara-ayir)
 * [Sayılar Arasındaki En Büyük ve En Küçük Sayıyı Bul](/coding-challenges/sayilar-arasindaki-en-buyuk-ve-en-kucuk-sayiyi-bul)
 * [Sayıların OBEB ve OKEK'ini bul](/coding-challenges/sayilarin-obeb-ve-okekini-bul)
 * [Sezar Şifrelemesi](/coding-challenges/sezar-sifrelemesi)
