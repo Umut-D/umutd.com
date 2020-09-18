@@ -7,7 +7,7 @@ tags: Cümle, Parçalama, Parça, Kelime, Harf
 excerpt: Programcıya birbirine yapışık kelimelerden oluşan uzun bir cümle ve kaç harfte bir cümlenin parçalara ayırılacağını belirten sayı da veriliyor. Sonrasında, istenen her sayı ve onun katında cümlenin parçalara ayrılması isteniyor...
 ---
 ### Soru
-Programcıya birbirine yapışık kelimelerden oluşan uzun bir cümle **(girilenCumle)** ve kaç harfte bir cümlenin parçalara ayırılacağını belirten sayı da veriliyor. Sonrasında, istenen her sayı **(parcaSayisi)** ve onun katında cümlenin parçalara ayrılması isteniyor.
+Programcıya birbirine yapışık kelimelerden oluşan uzun bir cümle **(girilenCumle)** ve kaç harfte bir cümlenin parçalara ayırılacağını belirten sayı veriliyor. Sonrasında, istenen her sayı **(parcaSayisi)** ve onun katında cümlenin parçalara ayrılması isteniyor.
 
 ### Örnek
 
