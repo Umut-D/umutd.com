@@ -49,7 +49,7 @@ class Program
 }
 ```
 
-### Çözüm - C#
+### Çözüm - Java
 ```java
 class Main 
 {
