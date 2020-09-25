@@ -11,10 +11,10 @@ Programcıya herhangi bir şehir **(sehir)** ismi veriliyor. Sonrasında, yıld�
 
 ### Örnek
 
-| Girdi                      | Çıktı                               |
-|----------------------------|-------------------------------------|
-| **girilenCumle**: Ankara   | **Sonuç**: a:*** ,n:* ,k:* ,r:*        |
-| **girilenCumle**: Chicago" | **Sonuç**: c:**,h:*,i:*,a:*,g:*,o:* |
+| Girdi                     | Çıktı                               |
+|---------------------------|-------------------------------------|
+| **girilenCumle**: Ankara  | **Sonuç**: a:\*\*\*,n:\*,k:\*,r:\*   |
+| **girilenCumle**: Chicago | **Sonuç**: c:\*\*,h:\*,i:\*,a:\*,g:\*,o:\* |
 
 ### Çözüm - C#
 ```csharp
