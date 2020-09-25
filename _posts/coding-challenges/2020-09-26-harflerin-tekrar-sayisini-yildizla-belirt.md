@@ -13,7 +13,7 @@ Programcıya herhangi bir şehir **(sehir)** ismi veriliyor. Sonrasında, yıld�
 
 | Girdi                      | Çıktı                               |
 |----------------------------|-------------------------------------|
-| **girilenCumle**: Ankara   | **Sonuç**: a:***,n:*,k:*,r:*        |
+| **girilenCumle**: Ankara   | **Sonuç**: a:*** ,n:* ,k:* ,r:*        |
 | **girilenCumle**: Chicago" | **Sonuç**: c:**,h:*,i:*,a:*,g:*,o:* |
 
 ### Çözüm - C#
