@@ -14,7 +14,7 @@ Programcıya herhangi bir şehir **(sehir)** ismi veriliyor. Sonrasında, yıld�
 | Girdi                     | Çıktı                               |
 |---------------------------|-------------------------------------|
 | **girilenCumle**: Ankara  | **Sonuç**: a:\*\*\*,n:\*,k:\*,r:\*   |
-| **girilenCumle**: Chicago | **Sonuç**: c:\*\*,h:\*,i:\*,a:\*,g:\*,o:\* |
+| **girilenCumle**: Chicago | **Sonuç**: c:\*\*,h:\*,i:\*,a:\*,g:\*,o:\tc* |
 
 ### Çözüm - C#
 ```csharp
