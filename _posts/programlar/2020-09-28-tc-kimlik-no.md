@@ -15,7 +15,7 @@ redirect_from:
 {:.uyari}
 Bu program sadece TC Kimlik No algoritmasını C# programlama dilinde uygulanması maksadıyla yazılmıştır. Kullanıcılara doğru TC Kimlik Numaraları sunarken -kaynak kodlarından da görüleceği üzere- kullanıcıdan **herhangi bir bilgi asla sızdırmamaktadır**.
 
-![tc-kimlik-no](/images/programlar/tc-kimlik-no.png){: width="30%"}
+![tc-kimlik-no](/images/programlar/tc-kimlik-no.png){: width="29%"}
 
  Türkiye Cumhuriyeti Kimlik Numarasının algoritması çözüleli ve internette paylaşılalı çok oldu. Gerekli gereksiz her haltı C#’da yazmaya çalışmak isteyen biri olarak TC Kimlik Numarası algoritmasını anladıktan sonra bu işe de balıklama atladım. Kodları adım adım kurgulasam da, kodları biraz uzattığımın farkındayım. Dizileri (özellikle char) kullanarak çözüm üretsem belki daha az satır sürecekti ama geri dönmek istemedim. Eğer adımlara dikkat ederseniz algoritmanın işlenişi ve kontrolünü siz de kolaylıkla anlayacaksınız.
 
