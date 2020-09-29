@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TC Kimlik No
-date: 2020-09-28 12:43 +0300
+date: 2020-09-29 12:43 +0300
 categories: Programlar
 tags: Kimlik No, TC Kimlik, TC Kimlik No, TC Kimlik No Algoritması, TC Kimlik Numarası
 excerpt: Türkiye Cumhuriyeti Kimlik Numarasının algoritması çözüleli ve internette paylaşılalı çok oldu. Gerekli gereksiz her haltı C#’da yazmaya çalışmak isteyen biri olarak TC Kimlik Numarası algoritmasını anladıktan sonra bu işe de balıklama atladım....
@@ -26,13 +26,14 @@ Eğer programın ürettiği numaralara güvenmediyseniz sorun değil. Üretilen 
 - TC Kimlik Numarası kontrolü,
 - **(İstek)** Toplu halde TC Kimlik Numarası kontrolü,
 - **(İstek)** Toplu halde kontrol yaparken doğru ve yanlış numaraları farklı renklerde gösterme,
-- **(İstek)** Çalışan kısayollar.
+- **(İstek)** Toplu halde kontrol yaparken sadece doğru veya sadece yanlış numaraları gösterme,
+- **(İstek)** İşe yarayan kısayollar.
 
 {:.tablo-ortali}
-| TC Kimlik No<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.21-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | TC Kimlik No (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| TC Kimlik No<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.22-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | TC Kimlik No (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 05ecc1dc5ab9ec46beac01875126ba45 | **MD5**: f4d2adc8c6b617c58cce3365814b3305 | 
-| **Boyut**: 91.0 KB                       | **Boyut**: 551 KB                         |
+| **MD5**: e916677b78915bc647b1f667a105ff63 | **MD5**: f110914d51c865f6f2e51945f15653b6 | 
+| **Boyut**: 91.5 KB                       | **Boyut**: 554 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/cqas7tsm6q5as2j/tc-kimlik-no.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/6smrlz98wnehow8/tc-kimlik-no-proje.zip?dl=1)  <br> **GitHub**: [Link](https://github.com/Umut-D/TC-Kimlik-No) |
