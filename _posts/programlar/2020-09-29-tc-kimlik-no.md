@@ -36,7 +36,7 @@ Eğer programın ürettiği numaralara güvenmediyseniz sorun değil. Üretilen 
 | **Boyut**: 91.5 KB                       | **Boyut**: 556 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/cqas7tsm6q5as2j/tc-kimlik-no.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/6smrlz98wnehow8/tc-kimlik-no-proje.zip?dl=1)  <br> **GitHub**: [Link](https://github.com/Umut-D/TC-Kimlik-No) |
+| **İndir**: [Link](https://www.dropbox.com/s/cqas7tsm6q5as2j/tc-kimlik-no.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/fc6mn4h39co08g2/tc-kimlik-no.zip?dl=1)  <br> **GitHub**: [Link](https://github.com/Umut-D/TC-Kimlik-No) |
 
 **Ek** : Algoritmanın nasıl işlediğini görmeye gelenler için **Islem.cs** sınıfındaki kodlar (**Hesapla** metodunda):
 
