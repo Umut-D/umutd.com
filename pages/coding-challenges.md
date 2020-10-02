@@ -8,7 +8,7 @@ redirect_from:
 ---
 Uzun zamandır aklımda olan bir şeydi Coding Challenges'a (nam-ı değer Kodlama Mücadeleleri) dair bir bölüm oluşturmak. Bahsi geçen kodlama mücadeleleri kah aklıma gelen, kah yabancı sitelerde (Talentbuddy, Codewars vb.) görüp çözdüğüm sorulardan oluşuyor. Yani çözümler tamamen bana ait ve kafama göre. En nihayetinde programcılıkta da her yiğidin kod yazış şekli, tercih ettiği metot, sistem, tasarım desenleri vs. farklı. İşin Complexity (karmaşıklık) durumlarına hiç girmeden, dağlara taşlara kod izolasyonu yapmadan üretilen çözümler bunlar. Gerçi ilgili sitelerde karmaşıklık, kod tutarlılığı gibi başlıklara bakılarak çözümler kabul ediliyor ya neyse. 
 
-Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı tercih ediyorum. Eğer ilginiz varsa mevcut soruları sizler de kendi bildiğiniz bir programlama dilinde yapabilirsiniz. Hatta bahsi geçen [Codewars](http://www.codewars.com) ve benzeri sitelere üye olup aksiyona katılabilirsiniz. Talentbuddy ise maalesef kapandı. Çok da güzel siteydi. Neyse, aşağıda **86 tane** Coding Challenges var. Seçin beğenin alın. "Neden, Zor Seviye'den bir tane var" derseniz, Zor Seviye Coding Challenges'ın ingilizce ayrıntısı çok ama çok fazla.
+Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı tercih ediyorum. Eğer ilginiz varsa mevcut soruları sizler de kendi bildiğiniz bir programlama dilinde yapabilirsiniz. Hatta bahsi geçen [Codewars](http://www.codewars.com) ve benzeri sitelere üye olup aksiyona katılabilirsiniz. Talentbuddy ise maalesef kapandı. Çok da güzel siteydi. Neyse, aşağıda **87 tane** Coding Challenges var. Seçin beğenin alın. "Neden, Zor Seviye'den bir tane var" derseniz, Zor Seviye Coding Challenges'ın ingilizce ayrıntısı çok ama çok fazla.
 
 ### Zor Seviye
 
@@ -19,6 +19,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Anagram Olanlar Neler?](/coding-challenges/anagram-olanlar-neler)
 * [Arama Sonuçlarını Göster](/coding-challenges/arama-sonuclarini-goster)
 * [Aranan Değerlerin Düz ve Tersten İndeksi](/coding-challenges/aranan-degerin-duz-ve-tersten-indeks-degeri)
+* [Ardışık Olarak En Çok Tekrar Eden Harf ve Adedi](/coding-challenges/ardisik-olarak-en-cok-tekrar-eden-harf-ve-adedi)
 * [Aritmetik Artışta Eksik Sayıyı Bul](/coding-challenges/aritmetik-artista-eksik-sayiyi-bul)
 * [Armstrong Sayısı](/coding-challenges/armstrong-sayisi)
 * [ATM'deki Para Adetlerini Say](/coding-challenges/atmdeki-para-adetlerini-say)
