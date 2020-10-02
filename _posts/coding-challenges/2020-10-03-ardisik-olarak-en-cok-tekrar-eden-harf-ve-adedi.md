@@ -61,8 +61,10 @@ class Program
         // Sonucu Tuple biçimine dönüştür
         Tuple<int, int>[] degerler = sirala.Select(o => Tuple.Create(o.Key, o.Value)).ToArray();
 
-        Console.WriteLine(new Tuple<char?, int>((char) degerler[0].Item1, degerler[0].Item2));
-
+        char harf = (char) degerler[0].Item1;
+        int adet = degerler[0].Item2;
+        Console.WriteLine($"[{harf}, {adet}");
+        
         Console.Read();
     }
 }
