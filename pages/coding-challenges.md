@@ -30,6 +30,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Dosya Adını Çıkart](/coding-challenges/dosya-adini-cikart)
 * [Girilen Listeden, Rasgele Sayılar Oluştur](/coding-challenges/girilen-listeden-rasgele-sayilar-olustur)
 * [Gülen Yüzleri Say](/coding-challenges/gulen-yuzleri-say)
+* [Hangi Yüzyıl](/coding-challenges/hangi-yuzyil)
 * [Harf ve Cümle Sayısı](/coding-challenges/harf-ve-cumle-sayisi)
 * [Harfin Sıra Sayısı Kadar Harfi Tekrar Et](/coding-challenges/harfin-sira-sayisi-kadar-harfi-tekrar-et)
 * [Harfler, Sayılar ve Hesaplama İşlemi](/coding-challenges/harfler-sayilar-ve-hesaplama-islemi)
