@@ -13,8 +13,8 @@ Programcıya bir hedef sayı **(girilenSayi)** veriliyor. Ardından, girilen say
 
 | Girdi              | Çıktı                                                        |
 |--------------------|--------------------------------------------------------------|
-| **girilenSayi**: 3 | **Sonuç**: 123 <br> 231 <br> 312                             |
-| **girilenSayi**: 5 | **Sonuç**: 12345 <br> 23451 <br> 34512 <br> 45123 <br> 51234 |
+| **girilenSayi**: 3 | 123 <br> 231 <br> 312                             |
+| **girilenSayi**: 5 | 12345 <br> 23451 <br> 34512 <br> 45123 <br> 51234 |
 
 ### Çözüm - C#
 ```csharp
