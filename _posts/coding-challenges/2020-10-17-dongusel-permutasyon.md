@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Döngusel Permütasyon
+title: Döngüsel Permütasyon
 date: 2020-10-17 19:28 +0300
 categories: Coding-Challenges
 tags: Permütasyon, Matematik, Döngü
