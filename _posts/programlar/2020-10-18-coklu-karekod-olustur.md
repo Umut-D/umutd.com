@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Çoklu Karekodu (QR Kodu) Oluştur
+title: Çoklu Karekod (QR Kodu) Oluştur
 date: 2020-10-18 11:29 +0300
 categories: Programlar
 tags: Karekod, QR, QR Kodu, Çoklu Karekod, Toplu Karekod
