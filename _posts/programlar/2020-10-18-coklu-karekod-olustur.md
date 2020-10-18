@@ -6,7 +6,7 @@ categories: Programlar
 tags: Karekod, QR, QR Kodu, Çoklu Karekod, Toplu Karekod
 excerpt: Rica üzerine, acele yazdığım bir program daha. Birkaç gün önce bir hoca arkadaşım, bir ilkokuldaki öğrencilerin okula kendine has karekodlarıyla girebilmeleri için, tek seferde çoklu karekod üreten bir sistem olup olmadığını sordu. Bunu yapan bir program bulmuştu. Fakat ücretli olduğu için amacına ulaşamadığını belirtti...
 ---
-![coklu-karekod-olustur](/images/programlar/coklu-karekod-olustur.png){: width="55%"}
+![coklu-karekod-olustur](/images/programlar/coklu-karekod-olustur.png){: width="35%"}
 
 Rica üzerine, acele yazdığım bir program daha. Birkaç gün önce bir hoca arkadaşım, bir ilkokuldaki öğrencilerin okula kendine has karekodlarıyla girebilmeleri için, tek seferde çoklu karekod üreten bir sistem olup olmadığını sordu. Bunu yapan bir program bulmuştu. Fakat ücretli olduğu için amacına ulaşamadığını belirtti. Bir zamanlar yine bu sitede QR kodu oluşturma programı (1 yıl sonra kodları beğenmeyip silmiştim) yazan biri olarak bunun zor olmadığını, biraz beklerse yazabileceğimi belirttim. İşte o görüşmenin ardından bu program çıktı.
 
