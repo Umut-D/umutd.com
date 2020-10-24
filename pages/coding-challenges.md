@@ -8,7 +8,7 @@ redirect_from:
 ---
 Uzun zamandır aklımda olan bir şeydi Coding Challenges'a (nam-ı değer Kodlama Mücadeleleri) dair bir bölüm oluşturmak. Bahsi geçen kodlama mücadeleleri kah aklıma gelen, kah yabancı sitelerde (Talentbuddy, Codewars vb.) görüp çözdüğüm sorulardan oluşuyor. Yani çözümler tamamen bana ait ve kafama göre. En nihayetinde programcılıkta da her yiğidin kod yazış şekli, tercih ettiği metot, sistem, tasarım desenleri vs. farklı. İşin Complexity (karmaşıklık) durumlarına hiç girmeden, dağlara taşlara kod izolasyonu yapmadan üretilen çözümler bunlar. Gerçi ilgili sitelerde karmaşıklık, kod tutarlılığı gibi başlıklara bakılarak çözümler kabul ediliyor ya neyse. 
 
-Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı tercih ediyorum. Eğer ilginiz varsa mevcut soruları sizler de kendi bildiğiniz bir programlama dilinde yapabilirsiniz. Hatta bahsi geçen [Codewars](http://www.codewars.com) ve benzeri sitelere üye olup aksiyona katılabilirsiniz. Talentbuddy ise maalesef kapandı. Çok da güzel siteydi. Neyse, aşağıda **89 tane** Coding Challenges var. Seçin beğenin alın. "Neden, Zor Seviye'den bir tane var" derseniz, Zor Seviye Coding Challenges'ın ingilizce ayrıntısı çok ama çok fazla.
+Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı tercih ediyorum. Eğer ilginiz varsa mevcut soruları sizler de kendi bildiğiniz bir programlama dilinde yapabilirsiniz. Hatta bahsi geçen [Codewars](http://www.codewars.com) ve benzeri sitelere üye olup aksiyona katılabilirsiniz. Talentbuddy ise maalesef kapandı. Çok da güzel siteydi. Neyse, aşağıda **90 tane** Coding Challenges var. Seçin beğenin alın. "Neden, Zor Seviye'den bir tane var" derseniz, Zor Seviye Coding Challenges'ın ingilizce ayrıntısı çok ama çok fazla.
 
 ### Zor Seviye
 
@@ -45,6 +45,7 @@ Ben bu soruların cevaplarımda **C#** ve **Java** dilleriyle çözüm bulmayı 
 * [Kelimelerin Tersini Cümledeki Yerinde Yaz](/coding-challenges/kelimelerin-tersini-cümledeki-yerinde-yaz)
 * [Kelime Sonlarına "Ay" Ekle](/coding-challenges/kelime-sonlarina-ay-ekle)
 * [Kimler Beğenmiş?](/coding-challenges/kimler-begenmis)
+* [Kombinasyon Hesapla](/coding-challenges/kombinasyon-hesapla)
 * [Kredi Kartı Numarasının Doğruluğunu Kontrol Et](/coding-challenges/kredi-karti-numarasinin-dogrulugunu-kontrol-et)
 * [Metni Akıllıca Böl](/coding-challenges/metni-akillica-bol)
 * [N'inci Büyük Sayı](/coding-challenges/n-inci-buyuk-sayi)
