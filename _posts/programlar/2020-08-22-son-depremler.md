@@ -27,4 +27,4 @@ Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne
 | **Boyut**:  158 KB                       | **Boyut**:  2.59 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0 |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C# |
-| **İndir**: [Link](https://www.dropbox.com/s/gyuteqtx81jq2s9/son-depremler.zip?dl=1) | **Proje**: [Link](https://www.dropbox.com/s/jjx7d3xfftkkooj/son-depremler-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Son-Depremler)|
+| **İndir**: [Link](https://www.dropbox.com/s/gyuteqtx81jq2s9/son-depremler.zip?dl=1) | **Proje**: [Link](https://www.dropbox.com/s/4cmijvnrdbmpqv4/son-depremler-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Son-Depremler)|
