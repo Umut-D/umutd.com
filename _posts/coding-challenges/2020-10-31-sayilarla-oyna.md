@@ -42,7 +42,7 @@ class Program
         // Sonuç/girilenSayi sonucu tam sayı ise sonucu yazdır
         sonuc /= girilenSayi;
         if (!(sonuc % 1 > 0))
-            Console.WriteLine($"Sonuç: {sonuc}");
+            Console.WriteLine(sonuc);
         else
             Console.WriteLine(-1);
 
