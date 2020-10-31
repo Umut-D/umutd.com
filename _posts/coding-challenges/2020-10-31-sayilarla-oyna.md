@@ -53,15 +53,15 @@ class Program
 
 ### Çözüm - Java
 ```java
-public class Main 
+public class Main
 {
     public static void main(String[] args)
     {
-        Integer girilenSayi = 89;
-        Integer us = 1;
+        int girilenSayi = 89;
+        int us = 1;
 
         // girilenSayi'yi tek tek rakamlara dönüştür
-        char[] karakter = girilenSayi.toString().toCharArray();
+        char[] karakter = Integer.toString(girilenSayi).toCharArray();
 
         double sonuc = 0;
         for (char sayi : karakter)
