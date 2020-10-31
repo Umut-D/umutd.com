@@ -50,3 +50,33 @@ class Program
     }
 }
 ```
+
+### Çözüm - Java
+```java
+public class Main 
+{
+    public static void main(String[] args)
+    {
+        Integer girilenSayi = 89;
+        Integer us = 1;
+
+        // girilenSayi'yi tek tek rakamlara dönüştür
+        char[] karakter = girilenSayi.toString().toCharArray();
+
+        double sonuc = 0;
+        for (char sayi : karakter)
+        {
+            // Her bir sayinin üssünü al ve her döngüde üs değerini arttır
+            sonuc += Math.pow(Character.getNumericValue(sayi), us);
+            us++;
+        }
+
+        // Sonuç/girilenSayi sonucu tam sayı ise sonucu yazdır
+        sonuc /= girilenSayi;
+        if (!(sonuc % 1 > 0))
+            System.out.println(sonuc);
+        else
+            System.out.println(-1);
+    }
+}
+```
