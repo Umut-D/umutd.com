@@ -74,7 +74,7 @@ public class Main
         // Sonuç/girilenSayi sonucu tam sayı ise sonucu yazdır
         sonuc /= girilenSayi;
         if (!(sonuc % 1 > 0))
-            System.out.println(sonuc);
+            System.out.println((int) sonuc);
         else
             System.out.println(-1);
     }
