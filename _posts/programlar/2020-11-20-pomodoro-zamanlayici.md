@@ -4,6 +4,7 @@ title: Pomodoro Zamanlayıcı
 date: 2020-11-20 12:43 +0300
 categories: Programlar
 tags: Geri Sayım, Pomodoro, Pomodoro Tekniği, Zaman, Zamanlayıcı
+excerpt: Verimli çalışma teknikleri arasında gösterilen bu tekniğini bilmeyen yoktur. Bilmeyenler içinse ben açıklayayım; Francesco Cirillo tarafından bulunduran teknik; 25 dakika boyunca çalışma ve 5 dakikalık molalardan oluşan bir çalışma tekniği... 
 redirect_from:
   - /programlar/pomodoro-zamanlayici/
   - /etiket/zamanlayici/
