@@ -4,6 +4,7 @@ title: Fibonacci Sayıları
 date: 2020-11-29 12:43 +0300
 categories: Programlar
 tags: Fibonacci, Fibonacci Dizisi, Fibonacci Sayıları, İteratif, Recursive
+excerpt: Algoritma derslerinin vazgeçilmezi Fibonacci Sayıları/Dizisi… Bildiğiniz üzere Fibonacci Sayıları, her sayının kendinden öncekiyle toplanması sonucu oluşan bir sayı dizisi...
 redirect_from:
   - /programlar/fibonacci-sayilari/
   - /etiket/fibonacci-sayilari/
