@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fibonacci Sayıları
-date: 2018-11-21 12:43 +0300
+date: 2020-11-29 12:43 +0300
 categories: Programlar
 tags: Fibonacci, Fibonacci Dizisi, Fibonacci Sayıları, İteratif, Recursive
 redirect_from:
@@ -21,10 +21,10 @@ Bilgisayarla ilgili bir bölüm okuyup Fibonacci Sayılarına, Iterative (Döng�
 - Lazım olur diye(!) metin belgesi olarak kaydetme.
 
 {:.tablo-ortali}
-| Fibonacci Sayıları <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Fibonacci Sayıları (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Fibonacci Sayıları <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.03-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Fibonacci Sayıları (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 6da23e3cb3c4733d868c305b90f383e5 | **MD5**: 8ab9a4a11e186ecffa4c18ccc6cd74b9 | 
-| **Boyut**:  130.4 KB                       | **Boyut**:  724.5 KB                         |
+| **MD5**: 61d81fde25ff0016cc4e6bfd45952c08 | **MD5**: 33335b87f0fcf5cba987d6134d2ba6d9 | 
+| **Boyut**:  130 KB                       | **Boyut**:  583 KB                         |
 | **Gereksinimler**: .Net Framework 4.0      | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/3v1okk8wypnjwt4/fibonacci-sayilari.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/s1g8ors6gd6s4o8/fibonacci-sayilari-proje.zip?dl=1) |
@@ -33,52 +33,49 @@ Bilgisayarla ilgili bir bölüm okuyup Fibonacci Sayılarına, Iterative (Döng�
 
 ```csharp
 using System.Windows.Forms;
- 
+
 namespace FibonacciSayilari
 {
     public class Fibonacci
     {
-        // Değişken tanımlarken, değişkeni "Nullable" tanımlamak aklıma geldi.
-        // Eğer girilen değer 37'den büyük ise null değer döndürüp kullanıcıya boş Textbox göster.
-        private int? _girilenDeger;
- 
-        public int? GirilenDeger
+        private int _sayi;
+
+        public int Sayi
         {
-            get { return _girilenDeger; }
+            get => _sayi;
             set
             {
                 if (value <= 37)
-                    _girilenDeger = value;
+                    _sayi = value;
                 else
                 {
-                    MessageBox.Show(@"Abartmasak hoş olmaz mı!", @"Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                    _girilenDeger = null;
+                    MessageBox.Show(@"Sayıyı abartmasak hoş olmaz mı!", @"Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    _sayi = 0;
                 }
             }
         }
- 
+
         // I. yol (Iteratif - Döngü)
-        public int Iteratif(int gelenSayi)
+        public int Iteratif(int sayi)
         {
             int oncekiSayi = 0, sonrakiSayi = 1, sonuc = 1;
- 
-            for (int i = 0; i < gelenSayi; i++)
+            for (int i = 0; i < sayi; i++)
             {
                 sonuc = oncekiSayi + sonrakiSayi;
                 oncekiSayi = sonrakiSayi;
                 sonrakiSayi = sonuc;
             }
- 
+
             return sonuc;
         }
- 
+
         // II. yol (Recursive - Özyinelemeli)
-        public int Recursive(int gelenSayi)
+        public int Recursive(int sayi)
         {
-            if (gelenSayi <= 1)
+            if (sayi <= 1)
                 return 1;
- 
-            return Recursive(gelenSayi - 1) + Recursive(gelenSayi - 2);
+
+            return Recursive(sayi - 1) + Recursive(sayi - 2);
         }
     }
 }
