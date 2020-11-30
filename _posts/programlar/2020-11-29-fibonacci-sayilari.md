@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fibonacci Sayıları
-date: 2020-11-29 12:43 +0300
+date: 2020-11-29 20:43 +0300
 categories: Programlar
 tags: Fibonacci, Fibonacci Dizisi, Fibonacci Sayıları, İteratif, Recursive
 excerpt: Algoritma derslerinin vazgeçilmezi Fibonacci Sayıları/Dizisi… Bildiğiniz üzere Fibonacci Sayıları, her sayının kendinden öncekiyle toplanması sonucu oluşan bir sayı dizisi...
@@ -22,10 +22,10 @@ Bilgisayarla ilgili bir bölüm okuyup Fibonacci Sayılarına, Iterative (Döng�
 - Lazım olur diye(!) metin belgesi olarak kaydetme.
 
 {:.tablo-ortali}
-| Fibonacci Sayıları <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.03-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Fibonacci Sayıları (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Fibonacci Sayıları <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.04-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Fibonacci Sayıları (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 61d81fde25ff0016cc4e6bfd45952c08 | **MD5**: 33335b87f0fcf5cba987d6134d2ba6d9 | 
-| **Boyut**:  130 KB                       | **Boyut**:  583 KB                         |
+| **MD5**: f255a04594e80a5995c01cfd67bb5bc6 | **MD5**: 97b519b98b74ec34a3a6528d7f65093f | 
+| **Boyut**:  131 KB                       | **Boyut**:  788 KB                         |
 | **Gereksinimler**: .Net Framework 4.0      | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/3v1okk8wypnjwt4/fibonacci-sayilari.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/s1g8ors6gd6s4o8/fibonacci-sayilari-proje.zip?dl=1) |
@@ -33,11 +33,12 @@ Bilgisayarla ilgili bir bölüm okuyup Fibonacci Sayılarına, Iterative (Döng�
 **Ek** : Sayıların her iki biçimde nasıl hesaplandığını görmeye gelenler için **Fibonacci.cs** sınıfındaki kodlar:
 
 ```csharp
+using System.Text;
 using System.Windows.Forms;
 
 namespace FibonacciSayilari
 {
-    public class Fibonacci
+    public class Fibonacci : Zaman
     {
         private int _sayi;
 
@@ -45,38 +46,74 @@ namespace FibonacciSayilari
         {
             get => _sayi;
             set
+
             {
                 if (value <= 37)
                     _sayi = value;
                 else
                 {
-                    MessageBox.Show(@"Sayıyı abartmasak hoş olmaz mı!", @"Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show(@"Sayıyı abartmasak hoş olmaz mı!", @"Uyarı", MessageBoxButtons.OK,
+                        MessageBoxIcon.Warning);
                     _sayi = 0;
                 }
             }
         }
 
+        private readonly StringBuilder _sayilar = new StringBuilder();
+
         // I. yol (Iteratif - Döngü)
-        public int Iteratif(int sayi)
+        public StringBuilder Iteratif(int donguSayisi)
         {
-            int oncekiSayi = 0, sonrakiSayi = 1, sonuc = 1;
-            for (int i = 0; i < sayi; i++)
+            Zamanlayici.Start();
+
+            int oncekiSayi = 0, sonrakiSayi = 1;
+            for (int i = 0; i < donguSayisi; i++)
             {
-                sonuc = oncekiSayi + sonrakiSayi;
+                int sonuc = oncekiSayi + sonrakiSayi;
                 oncekiSayi = sonrakiSayi;
                 sonrakiSayi = sonuc;
+
+                _sayilar.Append(sonuc + @"  ");
             }
 
-            return sonuc;
+            IteratifSure = Sonlandir();
+
+            return _sayilar;
+        }
+
+        private double Sonlandir()
+        {
+            Zamanlayici.Stop();
+
+            return Zamanlayici.Elapsed.TotalMilliseconds;
         }
 
         // II. yol (Recursive - Özyinelemeli)
-        public int Recursive(int sayi)
+        private int RecursiveDongu(int donguSayisi)
         {
-            if (sayi <= 1)
+            if (donguSayisi <= 1)
                 return 1;
 
-            return Recursive(sayi - 1) + Recursive(sayi - 2);
+            return RecursiveDongu(donguSayisi - 1) + RecursiveDongu(donguSayisi - 2);
+        }
+
+        public StringBuilder Recursive(int donguSayisi)
+        {
+            Sifirla();
+            Zamanlayici.Start();
+
+            for (int i = 1; i <= donguSayisi; i++)
+                _sayilar.Append(RecursiveDongu(i) + @"  ");
+
+            RecursiveSure = Sonlandir();
+
+            return _sayilar;
+        }
+
+        private void Sifirla()
+        {
+            Zamanlayici.Reset();
+            _sayilar.Clear();
         }
     }
 }
