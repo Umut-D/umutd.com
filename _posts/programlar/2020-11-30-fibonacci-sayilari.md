@@ -52,8 +52,7 @@ namespace FibonacciSayilari
                     _sayi = value;
                 else
                 {
-                    MessageBox.Show(@"Sayıyı abartmasak hoş olmaz mı!", @"Uyarı", MessageBoxButtons.OK,
-                        MessageBoxIcon.Warning);
+                    MessageBox.Show(@"Sayıyı abartmasak hoş olmaz mı!", @"Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     _sayi = 0;
                 }
             }
@@ -61,11 +60,19 @@ namespace FibonacciSayilari
 
         private readonly StringBuilder _sayilar = new StringBuilder();
 
-        // I. yol (Iteratif - Döngü)
         public StringBuilder Iteratif(int donguSayisi)
         {
             Zamanlayici.Start();
 
+            IteratifDongu(donguSayisi);
+            IteratifSure = Sonlandir();
+
+            return _sayilar;
+        }
+
+        // I. yol (Iteratif - Döngü)
+        private void IteratifDongu(int donguSayisi)
+        {
             int oncekiSayi = 0, sonrakiSayi = 1;
             for (int i = 0; i < donguSayisi; i++)
             {
@@ -75,26 +82,13 @@ namespace FibonacciSayilari
 
                 _sayilar.Append(sonuc + @"  ");
             }
-
-            IteratifSure = Sonlandir();
-
-            return _sayilar;
         }
 
         private double Sonlandir()
         {
             Zamanlayici.Stop();
 
-            return Zamanlayici.Elapsed.TotalMilliseconds;
-        }
-
-        // II. yol (Recursive - Özyinelemeli)
-        private int RecursiveDongu(int donguSayisi)
-        {
-            if (donguSayisi <= 1)
-                return 1;
-
-            return RecursiveDongu(donguSayisi - 1) + RecursiveDongu(donguSayisi - 2);
+            return Zamanlayici.Elapsed.Milliseconds;
         }
 
         public StringBuilder Recursive(int donguSayisi)
@@ -108,6 +102,15 @@ namespace FibonacciSayilari
             RecursiveSure = Sonlandir();
 
             return _sayilar;
+        }
+
+        // II. yol (Recursive - Özyinelemeli)
+        private int RecursiveDongu(int donguSayisi)
+        {
+            if (donguSayisi <= 1)
+                return 1;
+
+            return RecursiveDongu(donguSayisi - 1) + RecursiveDongu(donguSayisi - 2);
         }
 
         private void Sifirla()
