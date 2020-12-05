@@ -25,6 +25,6 @@ Kimse korkmasın, bu sefer "acayip ihtiyacım oldu da yapma gereği duydum" deme
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 6756cb3eb9d72aa0ca0f2af059643192 | **MD5**: 8d30db90d5d8f6d02ff35c5dcafdf37f| 
 | **Boyut**: 115 KB                       | **Boyut**: 520 KB                         |
-| **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5      |
+| **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 4      |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/fpnvcgzue41d06f/resim-dondur.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/hg0po67f0rgn3kr/resim-dondur-proje.zip?dl=1) |
