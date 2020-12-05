@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resim Döndür
-date: 2018-12-02 12:43 +0300
+date: 2020-12-05 12:43 +0300
 categories: Programlar
 tags: Döndürme, Resim, Resim Döndür, Resim Döndürme, Resim Döndürücü
 redirect_from:
@@ -20,10 +20,10 @@ Kimse korkmasın, bu sefer "acayip ihtiyacım oldu da yapma gereği duydum" deme
 - Döndürülen görsel yeni resim halinde kaydetme.
 
 {:.tablo-ortali}
-| Resim Döndür <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Resim Döndür (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Resim Döndür <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Resim Döndür (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 09581e2e573ed33dbc8a3cfd8f1c5c8e | **MD5**: fabb0a4ff8b5ef123cad94178d084a14| 
-| **Boyut**: 115.6 KB                       | **Boyut**: 511.2 KB                         |
+| **MD5**: 6756cb3eb9d72aa0ca0f2af059643192 | **MD5**: 8d30db90d5d8f6d02ff35c5dcafdf37f| 
+| **Boyut**: 115 KB                       | **Boyut**: 520 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 3.5      |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/fpnvcgzue41d06f/resim-dondur.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/hg0po67f0rgn3kr/resim-dondur-proje.zip?dl=1) |
