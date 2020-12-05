@@ -4,6 +4,7 @@ title: Resim Döndür
 date: 2020-12-05 12:43 +0300
 categories: Programlar
 tags: Döndürme, Resim, Resim Döndür, Resim Döndürme, Resim Döndürücü
+excerpt: Bugüne kadar yazarken en çok keyif aldığım programlardan biri. Dişe dokunur, iş görür. Resimlerinizi döndürmeniz gerektiğinde bunu olabilecek en kolay şekilde yapmaya çalışan, basit arabirimli bir program hazırlamaya çalıştım...
 redirect_from:
   - /programlar/resim-dondur/
   - /programlar/resim-dondur/comment-page-1/
