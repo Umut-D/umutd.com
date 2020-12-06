@@ -20,7 +20,6 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 * [Faktöriyel, Kombinasyon, Permütasyon Hesaplayıcı](/programlar/fkp-hesaplayici)
 * [Fibonacci Sayıları](/programlar/fibonacci-sayilari)
 * [Uyku Saati Hesaplayıcı](/programlar/uyku-saati-hesaplayici)
-* [Vücut Kitle Endeksi Hesaplayıcı](/programlar/vucut-kitle-endeksi-hesaplayici)
 
 {:.program-baslik}
 ### İnternet
