@@ -15,7 +15,6 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 {:.program-baslik}
 ### Hesap
 * [Alan Çevre Hesaplayıcı](/programlar/alan-cevre-hesaplayici)
-* [Barkod Kontrol Kodu Hesaplayıcı](/programlar/barkod-kontrol-kodu-hesaplayici)
 * [Dosya Hash Değeri Hesaplayıcı](/programlar/dosya-hash-degeri-hesaplayici)
 * [Faktöriyel, Kombinasyon, Permütasyon Hesaplayıcı](/programlar/fkp-hesaplayici)
 * [Fibonacci Sayıları](/programlar/fibonacci-sayilari)
