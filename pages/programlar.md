@@ -30,10 +30,6 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 * ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Son Depremler](/programlar/son-depremler)
 
 {:.program-baslik}
-### Oyun
-* [Taş Kağıt Makas](/programlar/tas-kagit-makas)
-
-{:.program-baslik}
 ### Üretim
 * [Mors Alfabesi Dönüştürücü](/programlar/mors-alfabesi-donusturucu)
 * [Rastgele Ad Soyad Oluşturucu](/programlar/rastgele-ad-soyad-olusturucu)
