@@ -46,7 +46,6 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 {:.program-baslik}
 ### Verimlilik
 * [Çoklu Karekod (QR Kodu) Oluştur](/programlar/coklu-karekod-olustur)
-* [İmlâ (Yazım) Kılavuzu](/programlar/imla-yazim-kilavuzu)
 * [Kaza Namazı Çetelesi](/programlar/kaza-namazi-cetelesi)
 * ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Pomodoro Zamanlayıcı](/programlar/pomodoro-zamanlayici)
 * [Resim Döndür](/programlar/resim-dondur)
