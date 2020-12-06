@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Faktöriyel, Kombinasyon, Permütasyon Hesaplayıcı
-date: 2019-11-13 12:43 +0300
+date: 2020-12-06 12:43 +0300
 categories: Programlar
 tags: Faktöriyel, Kombinasyon, Permütasyon
 excerpt: Geçtiğimiz hafta, çalıştığım işle ilgili bir görevde, kombinasyon oluşturmam ve öncelikle bunun sayısını belirlemem gerekti. Haliyle elime kalem kağıdı alıp kombinasyon hesabı yapmaya üşendim. Ancak program yazmaya nedense üşenmedim...
@@ -13,17 +13,17 @@ redirect_from:
 
 Geçtiğimiz hafta, çalıştığım işle ilgili bir görevde, kombinasyon oluşturmam ve öncelikle bunun sayısını belirlemem gerekti. Haliyle elime kalem kağıdı alıp kombinasyon hesabı yapmaya üşendim. Ancak program yazmaya nedense üşenmedim. Kombinasyon hesaplayabilen bu programı yazdıkça ne olur ne olmaz diye yanına faktöriyel ve permütasyon hesaplama seçeneklerini de koydum ki, belki böyle proje, ödev hazırlamak isteyenlere veyahut netten metotlar yardımıyla işlem yapan bir program arayanlara yardımcı olayım dedim.
 
-Aslında günlük hayatta faktöriyel, kombinasyon, permütasyon hesaplarını işletim sistemlerindeki hesap makinelerinden tutun Excel’e kadar pek çok program kolaylıkla yapmakta. Ben sadece bunu C#’a taşımak ve temiz bir şekilde yazmaya çalıştığım kodlarla bunu gerçekleştirmek istedim. İtiraf ediyorum, özel bir amacım yoktu. Özelliklerine gelecek olursak;
+Aslında günlük hayatta faktöriyel, kombinasyon, permütasyon hesaplarını işletim sistemlerindeki hesap makinelerinden tutun Excel’e kadar pek çok program kolaylıkla yapmakta. Ben sadece bunu C#’a taşımak ve temiz bir şekilde yazmaya çalıştığım kodlarla bunu gerçekleştirmek istedim. İtiraf ediyorum, özel bir amacım yoktu ve tasarım konusunda sıfırım. Neyse, programın özelliklerine gelecek olursak;
 
 - Faktöriyel (maksimum 11),
 - Kombinasyon,
 - Permütasyon hesabı yapma.
 
 {:.tablo-ortali}
-| Faktöriyel, Kombinasyon, Permütasyon<br> Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Faktöriyel, Kombinasyon, Permütasyon<br>Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Faktöriyel, Kombinasyon, Permütasyon<br> Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.03-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Faktöriyel, Kombinasyon, Permütasyon<br>Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 9b24b1e5fba9705bfc424cc6e891adde | **MD5**: 97b519b98b74ec34a3a6528d7f65093f | 
-| **Boyut**:  112 KB                       | **Boyut**:  788 KB                         |
+| **MD5**: cce3c35143b205a011225df6fe52cba7 | **MD5**: cce36559bc84b063a127d0f087b41e8c | 
+| **Boyut**:  112 KB                       | **Boyut**:  850 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4    |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/61a22sn9ozb2qrr/fkp-hesaplayici.zip?dl=1)  | **İndir**: [Link](https://www.dropbox.com/s/mxbl0lqsswst9yg/fkp-hesaplayici-proje.zip?dl=1) |
@@ -35,11 +35,11 @@ using System;
 
 namespace fkp_hesapla
 {
-    public class Matematik
+    public abstract class Matematik
     {
         private int _birinciSayi;
         private int _ikinciSayi;
-        public int Fark => BirinciSayi - IkinciSayi;
+        protected int Fark => BirinciSayi - IkinciSayi;
 
         public int BirinciSayi
         {
@@ -64,55 +64,67 @@ namespace fkp_hesapla
                     throw new Exception("2. Sayı 11'den büyük olmamalı.");
             }
         }
-
-        public virtual int Hesap() => throw new NotImplementedException();
     }
+}
+```
+<div id="ara"></div>
 
-    public sealed class Faktoriyel
+```csharp
+namespace fkp_hesapla
+{
+    public class Faktoriyel : Matematik
     {
-        private int Sonuc { get; set; } = 1;
-
-        public int Hesap(int sayi)
+        public int Hesapla(int birinciSayi)
         {
-            Sonuc = 1;
+            BirinciSayi = birinciSayi;
 
-            for (int i = 1; i <= sayi; i++)
-                Sonuc *= i;
+            int sonuc = 1;
+            for (int i = 1; i <= BirinciSayi; i++)
+                sonuc *= i;
 
-            return Sonuc;
+            return sonuc;
         }
     }
+}
+```
 
-    public sealed class Kombinasyon : Matematik
+<div id="ara"></div>
+
+```csharp
+namespace fkp_hesapla
+{
+    public class Kombinasyon : Faktoriyel
     {
-        private readonly Faktoriyel _faktoriyel;
-
-        public Kombinasyon(Faktoriyel faktoriyel, int birinciSayi, int ikinciSayi)
+        public Kombinasyon(int birinciSayi, int ikinciSayi)
         {
-            _faktoriyel = faktoriyel;
             BirinciSayi = birinciSayi;
             IkinciSayi = ikinciSayi;
         }
 
-        public override int Hesap()
+        public int Hesapla()
         {
-            return _faktoriyel.Hesap(BirinciSayi) / (_faktoriyel.Hesap(IkinciSayi) * _faktoriyel.Hesap(Fark));
+            return Hesapla(BirinciSayi) / (Hesapla(IkinciSayi) * Hesapla(Fark));
         }
     }
+}
+```
 
-    public sealed class Permutasyon : Matematik
+<div id="ara"></div>
+
+```csharp
+namespace fkp_hesapla
+{
+    public class Permutasyon : Faktoriyel
     {
-        private readonly Faktoriyel _faktoriyel;
-
-        public Permutasyon(Faktoriyel faktoriyel, int birinciSayi)
+        public Permutasyon(int birinciSayi, int ikinciSayi)
         {
-            _faktoriyel = faktoriyel;
             BirinciSayi = birinciSayi;
+            IkinciSayi = ikinciSayi;
         }
 
-        public override int Hesap()
+        public int Hesapla()
         {
-            return _faktoriyel.Hesap(BirinciSayi) / _faktoriyel.Hesap(Fark);
+            return Hesapla(BirinciSayi) / Hesapla(Fark);
         }
     }
 }
