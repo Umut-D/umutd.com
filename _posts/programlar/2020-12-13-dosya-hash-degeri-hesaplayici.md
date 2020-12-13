@@ -11,7 +11,7 @@ redirect_from:
   - /etiket/md5/
   - /etiket/sha1/
 ---
-![dosya-hash-hesaplayici](/images/programlar/dosya-hash-hesaplayici.png){: width="46%"}
+![dosya-hash-hesaplayici](/images/programlar/dosya-hash-hesaplayici.png){: width="44%"}
 
 Bundan yaklaşık bir hafta önce (programı ilk yazdığım 2017 yılında), programlarımdan birine dair eleştiri geldi. Eleştiriyi yapan kişi temel olarak programın virüs ve casus program barındırdığını söylemekte, kendince çeşitli nedenler sıralamaktaydı. Kendisine verdiğim cevaplarda programın kaynak kodlarına göz gezdirmesini ve VirusTotal sonuçlarına bakmasını istedim. Çünkü kaynak kodları apaçık ortadayken, VirusTotal sonuçlarına göre 57 ayrı virüs tarama servisinde yapılan taramaya göre de programda herhangi bir anormallik olmadığı gözükmekteydi. Nitekim VirusTotal’in virus/casus/zararlı yazılım tespit ekranında 0 / 57 yazmaktaydı.
 
