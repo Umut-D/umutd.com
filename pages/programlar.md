@@ -35,7 +35,6 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 * [Rastgele Şifre Oluşturucu](/programlar/rastgele-sifre-olusturucu)
 * [Rastgele (Lorem Ipsum) Yazı Oluşturucu](/programlar/rastgele-yazi-olusturucu)
 * [Rastgele Sayı Üretici](/programlar/rastgele-sayi-uretici)
-* [Rastgele Sayı Üretici [DLL]](/programlar/rastgele-sayi-uretici-dll)
 * ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [TC Kimlik No](/programlar/tc-kimlik-no)
 
 {:.program-baslik}

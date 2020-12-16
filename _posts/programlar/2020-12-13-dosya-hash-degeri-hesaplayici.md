@@ -41,7 +41,7 @@ Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim: Bu progr
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1)  |
 
-**Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **Hash.cs**, **Sha1.cs** ve **Md5.cs** sınıfındaki kodlar:
+**Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **Hash.cs**, **Sha1.cs** ve **Md5.cs** sınıflarındaki kodlar:
 
 ```csharp
 using System.IO;
