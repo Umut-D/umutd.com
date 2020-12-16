@@ -4,6 +4,7 @@ title: Rastgele Sayı Üretici
 date: 2020-12-16 12:43 +0300
 categories: Programlar
 tags: Farklı Sayı, Random Sayı, Rastgele Benzersiz Sayı, Rastgele Sayı, Rastgele Sayı Üretici
+excerpt: Bundan bir süre önce bir arkadaşım telefon etti. Artık illallah dediği bir istatistik ödevinin verilerini toplamaya çalışırken gördüğü muameleden ve proje hocasının yaptığı araştırmaya olan ilgisizliğinden dem vurdu. Sağlıkla ilgili olarak yaptığı araştırmada 80 çocuğun kilolarını tek tek ölçmesinin istenildiği için mutsuz olduğunu, bunun için gerekli izinleri almanın ve çocukları tek tek tartıya çıkarmanın zorluğunu anlattı...
 redirect_from:
   - /programlar/rastgele-sayi-uretici/
   - /etiket/rastgele-sayi/
