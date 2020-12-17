@@ -17,7 +17,7 @@ Ben de bu botlarla elimden geldiğince; gerek Google Analytics‘teki filtreleme
 
 Fakat son zamanlarda Semalt Redirect Manager yetersiz gelmeye başladı (Evet, Google Analytics’in filtre özelliğini kullanmaktan çok daha kolay ve çoğunlukla üşeniyorum). Sanırım program güncellenme almadığı için engellendiğim bazı botların tekrardan siteme kaçak yollarla giriş yaptığını fark ettim. Bu noktada çözüm olarak WordPress’te kullandığım iThemes Security güvenlik eklentisi ile IP bazlı engelleme yapmaya karar verdim. Tek sorun; elimde spam sitelerin web adresleri/DNS’leri olmasına rağmen (Örn.: 100dollars-seo.com) bu sitelerin IP adresleri olmamasıydı. İşte ben de tüm bu sitelerin IP adreslerini tek seferde bulabilmek için işte bu programı yazdım. Hatta yazmakla yetinmedim, Tekil olarak girilen sitenin çeşitli bilgilerini sunan bir seçeneği de programıma ekledim. Valla tasarımı bir kenara koyarsak, program gayet güzel oldu. Basit özelliklere gelecek olursak;
 
-- Adresi girilen web sitesine dair çeşitli bilgiler sunma (Web ve Excel'den),
+- Adresi girilen web sitesine dair çeşitli bilgiler sunma,
 - Birden fazla web sitesinin adresini, ip adresine dönüştürme.
 
 {:.tablo-ortali}
