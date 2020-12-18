@@ -13,17 +13,19 @@ Son olarak; *hiçbir sosyal medya hesabım (Facebook, Twitter, Instagram vb.) yo
 <div id="form">
 <form action="https://formspree.io/f/mrgoozbq" method="POST">
   <label>
+  <p><strong>Adınız</strong> (hitap edebilmem için gerekli):</p>
+<input type="text" name="ad">
+</label>
+<label>
       <p><strong>E-postanız</strong> (geri dönmem için gerekli):</p>
-    <input type="text" name="_replyto">
+    <input type="text" name="eposta">
   </label>
   <label>
       <p><strong>Mesajınız:</strong></p>
-    <textarea name="message"></textarea>
+    <textarea name="mesaj"></textarea>
   </label>
-<label>
-  <p><strong>Adınız</strong> (hitap edebilmem için gerekli):</p>
-<input type="text" name="name">
-</label>
+  <label>
+  <input type="checkbox" name="cisimKontrol" required name="kontrol"> Vazo, Godzilla veya tanımlanamayan bir cisim olmadığımı onaylarım.<br> </label>
   <button type="submit">Gönder</button>
 </form>
 </div>
