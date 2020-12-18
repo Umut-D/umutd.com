@@ -11,14 +11,19 @@ Yoğun olsam dahi, mesajınıza er ya da geç cevap vereceğimden şüpheniz olm
 Son olarak; *hiçbir sosyal medya hesabım (Facebook, Twitter, Instagram vb.) yok*. Valla yok. Ha billahi yok. Hiç de olmadı. Zaten şu sosyal medya denen zımbırtıyı bir türlü sevemedim ben. Onun yerine bilgisayarlar, yazılımlar, bilim kurgu filmleri, kitaplar, uçaklar ve havaalanları daha çok ilgimi çekiyor. Hem mutluyum ki ben böyle.
 
 <div id="form">
-<form method="POST" action="https://formspree.io/batu2k@gmail.com">
+<form action="https://formspree.io/f/mrgoozbq" method="POST">
+  <label>
+      <p><strong>E-postanız</strong> (geri dönmem için gerekli):</p>
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+      <p><strong>Mesajınız:</strong></p>
+    <textarea name="message"></textarea>
+  </label>
+<label>
   <p><strong>Adınız</strong> (hitap edebilmem için gerekli):</p>
-  <input type="text" name="ad" required name="ad">
-  <p><strong>E-postanız</strong> (geri dönmem için gerekli):</p>
-  <input type="email" name="email" required name="email">
-  <p><strong>Mesajınız:</strong></p>
-  <textarea name="message" required name="message"></textarea><br>
-  <input type="checkbox" name="cisimKontrol" required name="kontrol"> Vazo, Godzilla veya tanımlanamayan bir cisim olmadığımı onaylarım.<br>
-  <button type="submit">Gönder</button><br>
+<input type="text" name="name">
+</label>
+  <button type="submit">Gönder</button>
 </form>
 </div>
