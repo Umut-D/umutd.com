@@ -17,15 +17,16 @@ Son olarak; *hiçbir sosyal medya hesabım (Facebook, Twitter, Instagram vb.) yo
 <input type="text" name="ad">
 </label>
 <label>
-      <p><strong>E-postanız</strong> (geri dönmem için gerekli):</p>
+    <p><strong>E-postanız</strong> (geri dönmem için gerekli):</p>
     <input type="text" name="eposta">
   </label>
   <label>
       <p><strong>Mesajınız:</strong></p>
     <textarea name="mesaj"></textarea>
-  </label>
+  </label><br>
   <label>
-  <input type="checkbox" name="cisimKontrol" required name="kontrol"> Vazo, Godzilla veya tanımlanamayan bir cisim olmadığımı onaylarım.<br> </label>
+  <input type="checkbox" name="cisimKontrol" required name="kontrol"> Vazo, Godzilla veya tanımlanamayan bir cisim olmadığımı onaylarım.
+  </label>
   <button type="submit">Gönder</button>
 </form>
 </div>
