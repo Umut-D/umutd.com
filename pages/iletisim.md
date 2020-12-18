@@ -11,22 +11,22 @@ Yoğun olsam dahi, mesajınıza er ya da geç cevap vereceğimden şüpheniz olm
 Son olarak; *hiçbir sosyal medya hesabım (Facebook, Twitter, Instagram vb.) yok*. Valla yok. Ha billahi yok. Hiç de olmadı. Zaten şu sosyal medya denen zımbırtıyı bir türlü sevemedim ben. Onun yerine bilgisayarlar, yazılımlar, bilim kurgu filmleri, kitaplar, uçaklar ve havaalanları daha çok ilgimi çekiyor. Hem mutluyum ki ben böyle.
 
 <div id="form">
-<form action="https://formspree.io/f/mrgoozbq" method="POST">
-  <label>
-  <p><strong>Adınız</strong> (hitap edebilmem için gerekli):</p>
-<input type="text" name="ad">
-</label>
-<label>
-    <p><strong>E-postanız</strong> (geri dönmem için gerekli):</p>
-    <input type="text" name="eposta">
-  </label>
-  <label>
+  <form action="https://formspree.io/f/mrgoozbq" method="POST">
+    <label>
+      <p><strong>Adınız</strong> (hitap edebilmem için gerekli):</p>
+      <input type="text" name="ad" />
+    </label>
+    <label>
+      <p><strong>E-postanız</strong> (geri dönmem için gerekli):</p>
+      <input type="text" name="eposta" />
+    </label>
+    <label>
       <p><strong>Mesajınız:</strong></p>
-    <textarea name="mesaj"></textarea>
-  </label><br>
-  <label>
-  <input type="checkbox" name="cisimKontrol" required name="kontrol"> Vazo, Godzilla veya tanımlanamayan bir cisim olmadığımı onaylarım.
-  </label>
-  <button type="submit">Gönder</button>
-</form>
+      <textarea name="mesaj"></textarea>
+    </label>
+    <br />
+    <label> <input type="checkbox" name="cisimKontrol" required name="kontrol" /> Vazo, Godzilla veya tanımlanamayan bir cisim olmadığımı onaylarım. </label>
+    <br />
+    <button type="submit">Gönder</button>
+  </form>
 </div>
