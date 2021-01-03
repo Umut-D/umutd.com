@@ -14,7 +14,7 @@ Programın, basit ve kompakt (yalnız kanal adı, grup ve link alanları alanlar
 
 Her şey bir yana, program SOLID'deki **"Open/Closed felsefesi"**ne müsait. Çünkü nesneye yönelik programlama mantığıyla yazdım. Üşenmedim; kavramsal çerçeve oluşturdum, sınıf diyagramları çizdim. Kaynak kodlarını Github'dan görebilir. Programın gelişimine katkıda bulunabilirsiniz. Eğer bu olmazsa, mesaj göndererek eklenmesini istediğiniz özellikleri söyleyebilirsiniz.
 
-Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen gelişmiş kullanıcılara hitap etmese de, ben gibi düz ve sadece işine gelen kanalları IPTV listesinde görmek isteyen kullanıcılar için olduğuna eminim. Geleyim programın lüzumsuz ve **oldukça performanslı** özelliklerine;
+Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen gelişmiş kullanıcılara hitap etmese de, ben gibi düz ve sadece işine gelen kanalları IPTV listesinde görmek isteyen kullanıcılar için olduğuna eminim. Gelelim **oldukça performanslı** özelliklere;
 
 - M3U uzantısına sahip dosyalardaki IPTV kanal ve videolarını yükleme ve silme***,
 - İstenen kanalları (ad ve gruba göre) arama ve bulma,
