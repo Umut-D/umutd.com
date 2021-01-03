@@ -22,9 +22,8 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 - (Eğer sisteminizde yüklüyse) İstenen kanalı VLC Player'la açma,
 - Hi-DPI ekranları destekleme.
 
-**Not 1:** Program *45.000~ adet kanal/videoyu 1 saniyeden daha az sürede* açabiliyor.
-**Not 2:** IPTV listelerinde yer alan bazı kanal logolarının linkleri satırlarca uzunluğa sahip. Bu ise, çok fazla kanala sahip olan IP TV listelerinde, başta VLC player olmak üzere pek çok uygulamanın çok yavaş açılmasına neden olmakta. Bu nedenle logo alanına programda hiçbir şekilde yer vermedim.
-**Not 3:** Kanalları silme işleminde, yani 3000 üstünde bir sayıda kanal seçilip silmek istendiğinde programda bir yavaşlama ister istemez oluyor. Üstelik sorgulamayı **Linq sınıfı**nı kullanarak yapmama rağmen! Programı 6. nesil i7 (6700HQ) işlemci bilgisayarımda çalıştırdığımda *3.000 adet kanalı silinmesi *12~ saniye alıyor. Ancak piyasadaki diğer editörlerde bu sürenin 1 dakikayı bulduğunu veya geçtiğini belirteyim.
+**Not 1:** Program *45.000~ adet kanal/videoyu 1 saniyeden daha az sürede* açabiliyor.<br>
+**Not 2:** IPTV listelerinde yer alan bazı kanal logolarının linkleri satırlarca uzunluğa sahip. Bu ise, çok fazla kanala sahip olan IP TV listelerinde, başta VLC player olmak üzere pek çok uygulamanın çok yavaş açılmasına neden olmakta. Bu nedenle logo alanına programda hiçbir şekilde yer vermedim.<br>**Not 3:** Kanalları silme işleminde, yani 3000 üstünde bir sayıda kanal seçilip silmek istendiğinde programda bir yavaşlama ister istemez oluyor. Üstelik sorgulamayı **Linq sınıfı**nı kullanarak yapmama rağmen! Programı 6. nesil i7 (6700HQ) işlemci bilgisayarımda çalıştırdığımda *3.000 adet kanalı silinmesi *12~ saniye alıyor. Ancak piyasadaki diğer editörlerde bu sürenin 1 dakikayı bulduğunu veya geçtiğini belirteyim.
 
 {:.tablo-ortali}
 | IPTV Editor <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  IPTV Editor (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
