@@ -6,7 +6,7 @@ categories: Programlar
 tags: IPTV, IP TV, Online Tv, Editor, Kanal, Kanal Düzenleme
 excerpt: Yaklaşık 2.5 yıldır IP TV kullanıyorum ve böyle bir hizmete sahip olmaktan baya memnunum. Bu programı, IP TV'de işime yaramayan bazı kanal ve videoları silmek için kullandığım birkaç programın çok ama çok yavaş olması yüzünden yazdım. Daha doğrusu yazmak zorunda kaldım. Zaten piyasada da çok fazla IP TV kanal editörü bulunmuyor. Bulunsa bile hiçbirine güven olmuyor...
 ---
-![iptv-editor](/images/programlar/iptv-editor.png){: width="49%"}
+![iptv-editor](/images/programlar/iptv-editor.png){: width="55%"}
 
 Yaklaşık 2.5 yıldır IP TV kullanıyorum ve böyle bir hizmete sahip olmaktan baya memnunum. Bu programı, IP TV'de işime yaramayan bazı kanal ve videoları silmek için kullandığım birkaç programın çok ama çok yavaş olması yüzünden yazdım. Daha doğrusu yazmak zorunda kaldım. Zaten piyasada da çok fazla IP TV kanal editörü bulunmuyor. Bulunsa bile hiçbirine güven olmuyor.
 
@@ -23,7 +23,9 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 - Hi-DPI ekranları destekleme.
 
 **Not 1:**: Program **45.000~ adet kanal/videoyu 1 saniyeden daha az sürede** açabiliyor.
+
 **Not 2:** IPTV listelerinde yer alan bazı kanal logolarının linkleri satırlarca uzunluğa sahip. Bu ise, çok fazla kanala sahip olan IP TV listelerinde, başta VLC player olmak üzere pek çok uygulamanın çok yavaş açılmasına neden olmakta. Bu nedenle logo alanına programda hiçbir şekilde yer vermedim.
+
 **Not 3:** Kanalları silme işleminde, yani 3000 üstünde bir sayıda kanal seçilip silmek istendiğinde programda bir yavaşlama ister istemez oluyor. Üstelik sorgulamayı **Linq sınıfı**nı kullanarak yapmama rağmen! Programı 6. nesil i7 (6700HQ) işlemci bilgisayarımda çalıştırdığımda 3.000 adet kanalı silinmesi *12~ saniye* alıyor. Ancak piyasadaki diğer editörlerde bu sürenin 1 dakikayı bulduğunu veya geçtiğini belirteyim.
 
 {:.tablo-ortali}
