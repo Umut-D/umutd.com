@@ -26,7 +26,7 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 **\*\*** IPTV listelerinde yer alan bazı kanal logolarının linkleri satırlarca uzunluğa sahip. Bu da, çok fazla kanallı IP TV listelerinde, başta VLC player olmak üzere pek çok uygulamanın yavaş açılmasına neden oluyor. Bu nedenle logo alanına programda hiçbir şekilde yer vermedim.<br>**\*\*\*** Kanalları silme işleminde, yani 3.000 üstünde bir sayıda kanal silerken programda bir yavaşlama ister istemez oluyor. Üstelik sorgulamayı **Linq** kullanarak yapmama rağmen! Programı 6. nesil i7 (6700HQ) işlemci bilgisayarımda çalıştırdığımda *3.000 adet kanalı silinmesi 12~ saniye* alıyor. Ancak piyasadaki diğer editörlerde bu sürenin 1 dakikayı bulduğunu veya geçtiğini belirteyim.
 
 {:.tablo-ortali}
-| IPTV Editor <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  IPTV Editor (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| IPTV Editor <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  IPTV Editor (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 8bba0a3c90d6760e6f07fb5924a47da0 | **MD5**: b53c4f80dbfec28f1cf15ab878b0a832 | 
 | **Boyut**:  53.2 KB                       | **Boyut**:  282 KB                         |
