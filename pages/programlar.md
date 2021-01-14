@@ -8,6 +8,8 @@ image: pages/programlar.jpeg
 
 Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları da unutmuyorum. Bazılarını, "eeee, bunla mı uğraşacağım be!" deyip fişini çekiyor, bazılarının ise kaynak kodlarını gözden geçirip yeni özellikler ekliyorum. Ayrıca, program sayfalarında görülen **Arşiv** ibaresi, programın sorunsuz çalıştığını, kodlarının nesneye yönelik programlama temelli yazıldığını ve (çok büyük ihtimalle) artık geliştirilmeyeceğini ifade etmekte. Çok hüzünlü değil mi :/ 
 
+Ve son olarak, ben bu arayüz tasarımı işini sahiden beceremiyorum. Estetik sıfır. Sanırım bu nedenle tüm program arayüzleri düz ve 90'lar esintili. 
+
 {:.program-baslik}
 ### Finans
 * ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Türkiye Cumhuriyeti Merkez Bankası (TCMB) Kurları](/programlar/tcmb-kurlari)
@@ -32,7 +34,7 @@ Yeni programlar peşinde koşarken, seneler önce yazdığım eski programları 
 ### Üretim
 * [Mors Alfabesi Dönüştürücü](/programlar/mors-alfabesi-donusturucu)
 * [Rastgele Ad Soyad Oluşturucu](/programlar/rastgele-ad-soyad-olusturucu)
-* [Rastgele Şifre Oluşturucu](/programlar/rastgele-sifre-olusturucu)
+* [Rastgele Şifre Oluştur](/programlar/rastgele-sifre-olustur)
 * [Rastgele (Lorem Ipsum) Yazı Oluşturucu](/programlar/rastgele-yazi-olusturucu)
 * [Rastgele Sayı Üretici](/programlar/rastgele-sayi-uretici)
 * ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [TC Kimlik No](/programlar/tc-kimlik-no)
