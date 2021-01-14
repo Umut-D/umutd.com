@@ -11,7 +11,7 @@ redirect_from:
 ---
 ![rastgele-sifre-olusturucu](/images/programlar/rastgele-sifre-olusturucu.png){: width="40%"}
 
-Windows'un yanı sıra bazen Mac OS kullanan biri olarak Mac OS'un en sevdiğim özelliklerinden birisi dahili şifre üreticisi. Kullanıcılar ve Gruplar alanından hesabınıza veya diğer hesaplara şifre atamak için kullanabileceğiniz şifre oluşturma özelliği maalesef Windows'a dahil gelmiyor. Hal böyle olunca Windows'ta veya internette lazım olur ayağına basit bir şifre oluşturucu yazdım. Ortaya basit ve kullanışlı bir şifre oluşturucu çıktı. 7 Tane de Unit Test yazınca işler ve kod kontrolü daha kolaya geldi. Programın özelliklerine gelecek olursak;
+Windows'un yanı sıra bazen Mac OS kullanan biri olarak Mac OS'un en sevdiğim özelliklerinden birisi dahili şifre üreticisi. Kullanıcılar ve Gruplar alanından hesabınıza veya diğer hesaplara şifre atamak için kullanabileceğiniz şifre oluşturma özelliği maalesef Windows'a dahil gelmiyor. Hal böyle olunca Windows'ta veya internette lazım olur ayağına basit bir şifre oluşturucu yazdım. Ortaya basit ve kullanışlı bir şifre oluşturucu çıktı. Üretim doğru yapılıyor mu diye Unit Test yazınca işler ve kod kontrolü daha kolaya geldi. Programın özelliklerine gelecek olursak;
 
 - Tekil veya farklı türlerde (Küçük Harf, Büyük Harf, Rakam, Sembol) sorunsuz şifre oluşturma,
 - En az 4, en fazla 48 karakter uzunluğunda şifre oluşturma,
