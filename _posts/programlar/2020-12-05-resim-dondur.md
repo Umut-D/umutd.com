@@ -23,8 +23,8 @@ Kimse korkmasın, bu sefer "acayip ihtiyacım oldu da yapma gereği duydum" deme
 {:.tablo-ortali}
 | Resim Döndür <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Resim Döndür (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 6756cb3eb9d72aa0ca0f2af059643192 | **MD5**: 8d30db90d5d8f6d02ff35c5dcafdf37f| 
-| **Boyut**: 115 KB                       | **Boyut**: 520 KB                         |
+| **MD5**: 6756cb3eb9d72aa0ca0f2af059643192 | **MD5**: f8fe3e6cbbbfd7336718a3ad8974d87d| 
+| **Boyut**: 115 KB                       | **Boyut**: 507 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 4      |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/fpnvcgzue41d06f/resim-dondur.zip?dl=1)         | **İndir**: [Link](https://www.dropbox.com/s/hg0po67f0rgn3kr/resim-dondur-proje.zip?dl=1) |
