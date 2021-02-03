@@ -18,7 +18,7 @@ Programın elimden geldiğince sade halde olması için çaba sarfettim ve sonu�
 * Kaza namazlarının dağılımını grafik olarak verme.
 
 {:.tablo-ortali}
-| Kaza Namazı Çetelesi<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Kaza Namazı Çetelesi (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Kaza Namazı Çetelesi<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.2-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Kaza Namazı Çetelesi (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 1b0833d46dd5f9d882ababae4ea70e7d | **MD5**: 98dc72ad841f2e95e4e8703772354ff5 | 
 | **Boyut**: 195 KB                       | **Boyut**: 1.01 MB                         |
