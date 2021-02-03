@@ -4,6 +4,7 @@ title: Kaza Namazı Çetelesi
 date: 2021-02-03 14:16 +0300
 categories: Programlar
 tags: Namaz, Çetele, Kaza Namazı
+excerpt: Necip Fazıl Kısakürek; "Namaz camiden çıkınca, Hac Mekke'den dönünce, Ramazan Oruç bitince başlar" der. Ramazan sona erdiğinde, mübarek ramazan ayında namaz kılmaya başlayanlar, kıldıkları namaz sayısını arttırıp kılamadıklarının hesabını tutmaya çalışanlar için böyle bir program yazmak aklıma geldi...
 redirect_from:
   - /programlar/kaza-namazi-cetelesi/
   - /etiket/cetele/
