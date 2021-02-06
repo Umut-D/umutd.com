@@ -4,12 +4,13 @@ title: Rastgele Ad Soyad Oluşturucu
 date: 2021-02-06 12:43 +0300
 categories: Programlar
 tags: Ad Soyad Oluşturucu, Random Name Generator, Rastgele, Rastgele Ad Soyad Oluşturucu, Rasgele
+excerpt: İşte gene ihtiyaçtan yazdığım bir program daha. Excel'de tablolar üzerinde çalıştığım ve farklı konulara dair pratik yaptığım zaman rastgele sayı üretimini ilgili fonksiyondan kolayca yaparken aynı işlemi maalesef rastgele ad soyadlarda yapamıyordum. Haliyle sütunlarda ad soyad eksikliği göze çarpıyordu...
 redirect_from:
   - /programlar/rastgele-ad-soyad-olusturucu/
   - /programlar/rastgele-ad-soyad-olusturucu/attachment/rastgele-ad-soyad-olusturucu-2/
   - /etiket/rastgele-ad-soyad-olusturucu/
 ---
-![rastgele-ad-soyad-olusturucu](/images/programlar/rastgele-ad-soyad-olusturucu.png){: width="33%"} İşte gene ihtiyaçtan yazdığım bir program daha. Excel’de tablolar üzerinde çalıştığım ve farklı konulara dair pratik yaptığım zaman rastgele sayı üretimini ilgili fonksiyondan kolayca yaparken aynı işlemi maalesef rastgele ad soyadlarda yapamıyordum. Haliyle sütunlarda ad soyad eksikliği göze çarpıyordu. Böyle durumlarda sallama isimler girmek hem canımı sıkıyor hem de internette isimler/markalar içeren hazır seçenekleri bulmaya beni yönlendiriyordu. En sonunda illallah deyip internette hazır isimlere dair kısa bir veritabanı araştırması yaparken anonim halde 14.115 ismin yer aldığı bir liste buldum (evet, bazı isimler çok tırt!) ve böyle bir programa ihtiyaç duyduğum için vakit kaybetmeden aksiyona geçtim.
+![rastgele-ad-soyad-olusturucu](/images/programlar/rastgele-ad-soyad-olusturucu.png){: width="33%"} İşte gene ihtiyaçtan yazdığım bir program daha. Excel'de tablolar üzerinde çalıştığım ve farklı konulara dair pratik yaptığım zaman rastgele sayı üretimini ilgili fonksiyondan kolayca yaparken aynı işlemi maalesef rastgele ad soyadlarda yapamıyordum. Haliyle sütunlarda ad soyad eksikliği göze çarpıyordu. Böyle durumlarda sallama isimler girmek hem canımı sıkıyor hem de internette isimler/markalar içeren hazır seçenekleri bulmaya beni yönlendiriyordu. En sonunda illallah deyip internette hazır isimlere dair kısa bir veritabanı araştırması yaparken anonim halde 14.115 ismin yer aldığı bir liste buldum (evet, bazı isimler çok tırt!) ve böyle bir programa ihtiyaç duyduğum için vakit kaybetmeden aksiyona geçtim.
 
 Programı ilk yazdığım zaman sadece rastgele isim üretmekteydi. Bunun yetersiz olduğunu farkına varınca kah internetteki bazı sitelerden kah da son dönem milletvekillerinin soyadlarını alarak 1.447 bunları aynı veritabanına ekledim. Finaldeyse ortaya bu ilginç program çıktı. Veritabanını genişleterek çok daha geniş çaplı bir program elde edebilirsiniz diye düşünmekteyim. Bu arada tuhaf olan şey ise bu konuda yazılmış türkçe ad soyad üretimi programının yazılmamış olmamasıydı. Ya da en azından ben bulamadım. Olanlar ise genelde sunucu tabanlıydı. Programın özelliklerine gelecek olursak;
 
