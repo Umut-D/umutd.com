@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ekşi Sözlük DEBE (Dünün En Beğenilen Entry’leri)
-date: 2020-11-17 18:43 +0300
+date: 2021-02-15 18:43 +0300
 categories: Programlar
 tags: DBE, DEBE, Dünün En Beğenilen Entry'leri, Ekşi Sözlük, Debe Oku
 excerpt: Debe, yani Dünün En Beğenilen Entry’leri... Ek$i Sözlük’te yazılan ve yine sözlükçüler tarafından gün boyu oylanarak en çok oyu alan entry’lerin oluşturduğu bir liste. Bu liste sayesinde Ek$i Sözlük’te çok konuşulan, yorumlanan, fikir beyan edilirken ilgi çeken konu ve başlıkları görebilirsiniz. 
@@ -20,10 +20,10 @@ Programı her gün, bir önceki günün 50 popüler entry’sini okuyarak keyifl
 - Hi-DPI ekranlara destek.
 
 {:.tablo-ortali}
-| Ekşi Sözlük DEBE<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.25-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-green.svg?style=flat) | Ekşi Sözlük DEBE (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Ekşi Sözlük DEBE<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.26-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-green.svg?style=flat) | Ekşi Sözlük DEBE (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: ec1f5e0d4452f2940045a248265eb3c0 | **MD5**: 698ec7780d2540cb2cfd507699444394 | 
-| **Boyut**: 72.9 KB                       | **Boyut**: 2.49 MB                         |
+| **MD5**: afbec728b9b16beaefdc189963ceb44b | **MD5**: f5d568a1aa83811fc4e1621d0e8c65f1 | 
+| **Boyut**: 73 KB                       | **Boyut**: 2.49 MB                         |
 | **Gereksinimler**: .Net Framework 4.5     | **Gereksinimler**: .Net Framework 4.5    |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#  |
 | **İndir**: [Link](https://www.dropbox.com/s/n5ql86sxb767yu8/eksi-sozluk-debe.zip?dl=1) | **Proje**: [Link](https://www.dropbox.com/s/87c7ev9d4nllnn2/eksi-sozluk-debe-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Eksi-Sozluk-Debe) |
