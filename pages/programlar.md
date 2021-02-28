@@ -44,5 +44,5 @@ Ve son olarak, ben bu arayüz tasarımı işini sahiden beceremiyorum. Estetik s
 * [Çoklu Karekod (QR Kodu) Oluştur](/programlar/coklu-karekod-olustur)
 * ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [IPTV Editor](/programlar/iptv-editor)
 * [Kaza Namazı Çetelesi](/programlar/kaza-namazi-cetelesi)
-* ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Pomodoro Zamanlayıcı](/programlar/pomodoro-zamanlayici)
+* [Pomodoro Zamanlayıcı](/programlar/pomodoro-zamanlayici)
 * [Resim Döndür](/programlar/resim-dondur)
