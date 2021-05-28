@@ -45,15 +45,15 @@ image: pages/video-dersler.png
 - [Adobe Dreamweaver CS6 ile Hazır JavaScript Kodları Eklemek](https://www.youtube.com/watch?v=3430elbe5wg)
 - [Adobe Dreamweaver CS6'da Şablonlar - I](https://www.youtube.com/watch?v=0mQ3HH9_Vsk)
 - [Adobe Dreamweaver CS6'da Şablonlar - II](https://www.youtube.com/watch?v=Nfj0KiGR5iw)
-- [Adobe Dreamweaver CS6'da Kütüphane)](https://www.youtube.com/watch?v=DGA43Y3fpPQ)
+- [Adobe Dreamweaver CS6'da Kütüphane](https://www.youtube.com/watch?v=DGA43Y3fpPQ)
 - [Adobe Dreamweaver CS6'da Kod Ekranı](https://www.youtube.com/watch?v=meYOmP9RVi0)
 5. **Ver CSS'i, ver CSS'i**
 - [Adobe Dreamweaver CS6'da CSS - I](https://www.youtube.com/watch?v=dgjZBuVX3Ow)
 - [Adobe Dreamweaver CS6'da CSS - II](https://www.youtube.com/watch?v=_7k0eXJYsdg)
-- [Adobe Dreamweaver CS6'da CSS - III](https://www.youtube.com/watch?v=SJyVajrpYm4) >
-- [Adobe Dreamweaver CS6'da CSS - IV](httpss://www.youtube.com/watch?v=kQpjsIMdMHs)
-- [Adobe Dreamweaver CS6'da CSS Türlerini Anlamak](httpss://www.youtube.com/watch?v=GtxVs46rx_I)
-- [Adobe Dreamweaver CS6'da CSS Kuralı Oluşturma Ekranı - I](httpss://www.youtube.com/watch?v=PGC1B632cow)
+- [Adobe Dreamweaver CS6'da CSS - III](https://www.youtube.com/watch?v=SJyVajrpYm4)
+- [Adobe Dreamweaver CS6'da CSS - IV](https://www.youtube.com/watch?v=kQpjsIMdMHs)
+- [Adobe Dreamweaver CS6'da CSS Türlerini Anlamak](https://www.youtube.com/watch?v=GtxVs46rx_I)
+- [Adobe Dreamweaver CS6'da CSS Kuralı Oluşturma Ekranı - I](https://www.youtube.com/watch?v=PGC1B632cow)
 - [Adobe Dreamweaver CS6'da CSS Kuralı Oluşturma Ekranı - II](https://www.youtube.com/watch?v=wo4DVu5WGds)
 - [Adobe Dreamweaver CS6'da CSS Kuralı Oluşturma Ekranı - III](https://www.youtube.com/watch?v=Fpf2bWwWLMM)
 - [Adobe Dreamweaver CS6'da Canlı ve Denetle Görünümleri](https://www.youtube.com/watch?v=GrC7g9QqLh8)
@@ -138,7 +138,7 @@ image: pages/video-dersler.png
 - [Proxy Kullanarak Yasaklı Sitelere Girmek](https://www.youtube.com/watch?v=Cr9sbhUyxcs)
 - [Youtube Videolarını Download Etmek](https://www.youtube.com/watch?v=mRJgh1vmKUU)
 3. **Microsoft Office**
-- [Microsoft Word 2007 ve 2010 İçin Bazı Püf Noktaları](httpss://www.youtube.com/watch?v=bT6U5FHfj-A)
+- [Microsoft Word 2007 ve 2010 İçin Bazı Püf Noktaları](https://www.youtube.com/watch?v=bT6U5FHfj-A)
 4. **Microsoft Windows**
 - [Windows 7'de Ekran Alıntısı Aracı](https://www.youtube.com/watch?v=pxJbz-ZT1aw)
 - [Windows 7'de Resim Yazdırma](https://www.youtube.com/watch?v=jy9LJVZLVDI)
