@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IPTV Editör
-date: 2021-01-03 12:01 +0300
+date: 2021-07-24 12:01 +0300
 categories: Programlar
 tags: IPTV, IP TV, Online Tv, Editor, Kanal, Kanal Düzenleme
 excerpt: Yaklaşık 2.5 yıldır IP TV kullanıyorum ve böyle bir hizmete sahip olmaktan baya memnunum. Bu programı, IP TV'de işime yaramayan bazı kanal ve videoları silmek için kullandığım programların çok yavaş olması yüzünden yazdım. Daha doğrusu yazmak zorunda kaldım. Zaten piyasada da çok fazla IP TV kanal editörü bulunmuyor. Bulunsa bile çoğuna güven olmuyor...
@@ -26,10 +26,10 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 **\*\*** IPTV listelerinde yer alan bazı kanal logolarının linkleri satırlarca uzunluğa sahip. Bu da, çok fazla kanallı IP TV listelerinde, başta VLC player olmak üzere pek çok uygulamanın yavaş açılmasına neden oluyor. Bu nedenle logo alanına programda hiçbir şekilde yer vermedim.<br>**\*\*\*** Kanalları silme işleminde, yani 3.000 üstünde bir sayıda kanal silerken programda bir yavaşlama ister istemez oluyor. Üstelik sorgulamayı **Linq** kullanarak yapmama rağmen! Programı 6. nesil i7 (6700HQ) işlemci bilgisayarımda çalıştırdığımda *3.000 adet kanalı silmesi 12~ saniye* alıyor. Ancak piyasadaki diğer editörlerde bu sürenin 1 dakikayı bulduğunu veya geçtiğini belirteyim.
 
 {:.tablo-ortali}
-| IPTV Editor <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.01-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  IPTV Editor (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
+| IPTV Editor <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  IPTV Editor (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 4a9342a4121d2cd32262fe14bb6f12ba | **MD5**: 07b30e6c3d6966b4ebb63454c2c2c94f | 
-| **Boyut**:  53.3 KB                       | **Boyut**:  283 KB                         |
+| **MD5**: 10b7f13c8789491b8fa6fd1002d639f7 | **MD5**: 8e689db7e8133f6c84612f4c94924b97 | 
+| **Boyut**:  73.8 KB                       | **Boyut**:  53.3 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0 |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C# |
 | **İndir**: [Link](https://www.dropbox.com/s/fu5kpcpkpqucwud/iptv-editor.zip?dl=1) | **Proje**: [Link](https://www.dropbox.com/s/l85bdeahf0f73xd/iptv-editor-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/iptv-editor)|
