@@ -24,7 +24,7 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 
 **\*** Program *10~ MB boyutlu, 45.000~ adet kanalı 1~ saniyede* açabiliyor.<br>
 **\*\*** IPTV listelerinde yer alan bazı kanal logolarının linkleri satırlarca uzunluğa sahip. Bu da, çok fazla kanallı IP TV listelerinde, başta VLC player olmak üzere pek çok uygulamanın yavaş açılmasına neden oluyor. Bu nedenle logo alanına programda hiçbir şekilde yer vermedim.<br>
-**\*\*\*** Kanalları silme işleminde, yani 3.000 üstünde bir sayıda kanal silerken programda bir yavaşlama ister istemez oluyor. Silmeyi 6. nesil i7 (6700HQ) işlemci bilgisayarımda yaptığımda *3.000 adet kanalı silmesi 8.5~ saniye* alıyor. Önceki versiyonda bu süre 12~ saniyeydi. Birkaç kod değişikliği performansa %30'luk katkı yaptı. Nitekim piyasadaki diğer editörlerde aynı silme işleminin 1 dakikayı bulduğunu veya geçtiğini ekleyeyim.
+**\*\*\*** Kanalları silme işleminde, yani 3.000 üstünde bir sayıda kanal silerken programda bir yavaşlama ister istemez oluyor. Silmeyi 6. nesil i7 (6700HQ) işlemci bilgisayarımda yaptığımda *3.000 adet kanalı silmesi 8.5~ saniye* alıyor. Önceki versiyonda bu süre 12~ saniyeydi. Birkaç kod değişikliği performansa %30'luk katkı yaptı. Nitekim piyasadaki diğer editörlerde aynı silme işleminin 1 dakikayı bulduğunu veya geçtiğini ekleyeyim.<br>
 **Not:** Çok fazla kanal silerken donmuş gibi duran program için *Threading veya async/await* kullanmadım. Çünkü her iki seçenek de programa ciddi anlamda performans kaybı yaşattı.
 
 {:.tablo-ortali}
