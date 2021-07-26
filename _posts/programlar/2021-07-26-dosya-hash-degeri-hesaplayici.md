@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Dosya Hash Değeri Hesaplayıcı
-date: 2020-12-13 16:43 +0300
+date: 2021-07-26 11:43 +0300
 categories: Programlar
-tags: Hash Değeri, Sha-1, MD5, Kontrol Kodu
+tags: Hash Değeri, Sha-1, MD5, Kontrol Kodu, Hash Hesapla
 excerpt: Bundan yaklaşık bir hafta önce (programı ilk yazdığım 2017 yılında), programlarımdan birine dair eleştiri geldi. Eleştiriyi yapan kişi temel olarak programın virüs ve casus program barındırdığını söylemekte, kendince çeşitli nedenler sıralamaktaydı. Kendisine verdiğim cevaplarda programın kaynak kodlarına göz gezdirmesini ve VirusTotal sonuçlarına bakmasını istedim...
 redirect_from:
   - /programlar/dosya-hash-degeri-hesaplayici/
@@ -33,7 +33,7 @@ Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim: Bu progr
 * Dosya hash eşleştirmesi yapabilme.
 
 {:.tablo-ortali}
-| Dosya Hash Değeri Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Hash Değeri Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Dosya Hash Değeri Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.11-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Hash Değeri Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
 | **MD5**: 108deaee52db879160493371e44cb465 | **MD5**: 015b36ee9b9e08537674338cf6483cf1 | 
 | **Boyut**: 139 KB                       | **Boyut**: 829 KB                         |
@@ -50,14 +50,14 @@ namespace HashHesaplayici.Islem
 {
     public abstract class Hash
     {
-        protected Stream DosyaOku { get; set; }
+        public Stream DosyaOku { get; }
         protected byte[] HashHesapla { get; set; }
         private string _sonuc;
 
         public string Sonuc
         {
             get => _sonuc.Replace("-", "");
-            protected set => _sonuc = value;
+            set => _sonuc = value;
         }
 
         protected Hash(string dosyaAdi)
@@ -65,7 +65,7 @@ namespace HashHesaplayici.Islem
             DosyaOku = new FileStream(dosyaAdi, FileMode.Open, FileAccess.Read);
         }
 
-        protected abstract void Hesapla();
+        public abstract string Hesapla();
     }
 }
 ```
@@ -79,19 +79,16 @@ namespace HashHesaplayici.Islem
 {
     public sealed class Sha1 : Hash
     {
-        private readonly SHA1 _sha1;
-
         public Sha1(string dosyaAdi) : base(dosyaAdi)
         {
-            _sha1 = SHA1.Create();
-
-            Hesapla();
         }
 
-        protected override void Hesapla()
+        public override string Hesapla()
         {
-            HashHesapla = _sha1.ComputeHash(DosyaOku);
+            HashHesapla = SHA1.Create().ComputeHash(DosyaOku);
             Sonuc = BitConverter.ToString(HashHesapla);
+
+            return Sonuc;
         }
     }
 }
@@ -106,19 +103,16 @@ namespace HashHesaplayici.Islem
 {
     public sealed class Md5 : Hash
     {
-        private readonly MD5 _md5;
-
         public Md5(string dosyaAdi) : base(dosyaAdi)
         {
-            _md5 = MD5.Create();
-
-            Hesapla();
         }
 
-        protected override void Hesapla()
+        public override string Hesapla()
         {
-            HashHesapla = _md5.ComputeHash(DosyaOku);
+            HashHesapla = MD5.Create().ComputeHash(DosyaOku);
             Sonuc = BitConverter.ToString(HashHesapla);
+
+            return Sonuc;
         }
     }
 }
