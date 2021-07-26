@@ -35,8 +35,8 @@ Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim: Bu progr
 {:.tablo-ortali}
 | Dosya Hash Değeri Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.11-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Hash Değeri Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 108deaee52db879160493371e44cb465 | **MD5**: 015b36ee9b9e08537674338cf6483cf1 | 
-| **Boyut**: 139 KB                       | **Boyut**: 829 KB                         |
+| **MD5**: f56dfb345036cdaf87ec0db9ee7f8477 | **MD5**: 66a467f34f8e0c2170128dd62c798b2e | 
+| **Boyut**: 139 KB                       | **Boyut**: 837 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1)  |
