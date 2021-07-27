@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dosya Hash Değeri Hesaplayıcı
-date: 2021-07-26 11:43 +0300
+date: 2021-07-27 11:43 +0300
 categories: Programlar
 tags: Hash Değeri, Sha-1, MD5, Kontrol Kodu, Hash Hesapla
 excerpt: Bundan yaklaşık bir hafta önce (programı ilk yazdığım 2017 yılında), programlarımdan birine dair eleştiri geldi. Eleştiriyi yapan kişi temel olarak programın virüs ve casus program barındırdığını söylemekte, kendince çeşitli nedenler sıralamaktaydı. Kendisine verdiğim cevaplarda programın kaynak kodlarına göz gezdirmesini ve VirusTotal sonuçlarına bakmasını istedim...
@@ -25,7 +25,7 @@ Burada bazı faydalar dikkatinizi çekecektir:
 - Hash sayesinde dosyaların düzgün indirilip indirilmediği öğrenilebilirsiniz.
 - Hash sayesinde dosyalarda değişiklik yapılıp yapılmadığı öğrenilebilirsiniz.
 
-Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim: Bu program ile indirdiğiniz dosyaların çeşitli (MD5 ve SHA-1) hash değerlerini görebilir ve indirdiğiniz sitedeki hash değerleri ile karşılaştırabilirsiniz. Değerler karşı taraf ile bire bir uyuyorsa dosyada hiçbir sorun yoktur ve dosyaya dokunulmamıştır. Fakat değilse o dosyadan hayır yoktur, başkaları ya da 3. sahışlar tarafından değiştirilmiştir. Mümkünse dosyaya temkinli yaklaşın. Hatta dosyasınızı VirusTotal’e yükleyerek tarama yapmanıza salık veririm. Eğer İşinize gelmezse de silin gitsin. Programın özelliklerine gelecek olursak;
+Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim; bu programla dosyaların MD5 ve SHA-1 değerlerini görebilir ve bunları indirdiğiniz sitedeki hash değerleri ile karşılaştırabilirsiniz. Değerler karşı taraf ile bire bir uyuyorsa dosyada hiçbir sorun yoktur ve dosyaya dokunulmamıştır. Fakat değerler aynı değilse o dosyadan hayır yoktur. Dosya başkaları veya 3. şahıslarca değiştirilmiştir. Mümkünse dosyaya temkinli yaklaşın. Hatta dosyayı VirusTotal'e yükleyerek tarama yapın. Programın özelliklerine gelecek olursak;
 
 * Dosyaları ilgili alanın üzerine sürükleyerek bırakarak açma,
 * MD5 değerini bulma,
@@ -33,10 +33,10 @@ Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim: Bu progr
 * Dosya hash eşleştirmesi yapabilme.
 
 {:.tablo-ortali}
-| Dosya Hash Değeri Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.11-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Hash Değeri Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Dosya Hash Değeri Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.12-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Hash Değeri Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: f56dfb345036cdaf87ec0db9ee7f8477 | **MD5**: 66a467f34f8e0c2170128dd62c798b2e | 
-| **Boyut**: 139 KB                       | **Boyut**: 837 KB                         |
+| **MD5**: 8a1e5eb1dae6cbac72a37d553cd193ad | **MD5**: 42147781c1efa1866346b7485ec071aa | 
+| **Boyut**: 140 KB                       | **Boyut**: 838 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1)  |
@@ -65,7 +65,7 @@ namespace HashHesaplayici.Islem
             DosyaOku = new FileStream(dosyaAdi, FileMode.Open, FileAccess.Read);
         }
 
-        public abstract string Hesapla();
+        public abstract void Hesapla();
     }
 }
 ```
@@ -83,12 +83,10 @@ namespace HashHesaplayici.Islem
         {
         }
 
-        public override string Hesapla()
+        public override void Hesapla()
         {
             HashHesapla = SHA1.Create().ComputeHash(DosyaOku);
             Sonuc = BitConverter.ToString(HashHesapla);
-
-            return Sonuc;
         }
     }
 }
@@ -107,12 +105,10 @@ namespace HashHesaplayici.Islem
         {
         }
 
-        public override string Hesapla()
+        public override void Hesapla()
         {
             HashHesapla = MD5.Create().ComputeHash(DosyaOku);
             Sonuc = BitConverter.ToString(HashHesapla);
-
-            return Sonuc;
         }
     }
 }
