@@ -17,7 +17,7 @@ Ve son olarak, ben bu arayüz tasarımı işini sahiden beceremiyorum. Estetik s
 {:.program-baslik}
 ### Hesap
 * [Alan Çevre Hesaplayıcı](/programlar/alan-cevre-hesaplayici)
-* [Dosya Hash Değeri Hesaplayıcı](/programlar/dosya-hash-degeri-hesaplayici)
+* ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Dosya Hash Değeri Hesaplayıcı](/programlar/dosya-hash-degeri-hesaplayici)
 * [Faktöriyel, Kombinasyon, Permütasyon Hesaplayıcı](/programlar/fkp-hesaplayici)
 * [Fibonacci Sayıları](/programlar/fibonacci-sayilari)
 * [Uyku Saati Hesaplayıcı](/programlar/uyku-saati-hesaplayici)
