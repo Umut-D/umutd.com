@@ -39,7 +39,7 @@ Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim; bu progr
 | **Boyut**: 140 KB                       | **Boyut**: 838 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1 <br> **GitHub**: [Link](https://github.com/Umut-D/Dosya-Hash-Hesaplayici)  |
+| **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Dosya-Hash-Hesaplayici)  |
 
 **Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **Hash.cs**, **Sha1.cs** ve **Md5.cs** sınıflarındaki kodlar:
 
