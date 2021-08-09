@@ -22,7 +22,7 @@ Programın mantığı gayet basit. Bing’in farklı internet sitelerine bağlan
 {:.tablo-ortali}
 | Bing Duvar Kağıdı Değiştirici <br>![Versiyon](https://img.shields.io/badge/Versiyon-2.42-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **Boyut**: 121.0 KB                       | **Boyut**:  1.99 MB                         |
+| **Boyut**: 123 KB                       | **Boyut**:  166 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0    |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
 | **İndir**: [Link](https://www.dropbox.com/s/74blhl4c1l5u7p0/bing-duvar-kagidi-degistirici.zip?dl=1) | **Proje**: [Link](https://www.dropbox.com/s/etwozjzf35s2xju/bing-duvar-kagidi-degistirici-proje.zip?dl=1) <br> **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici){:target="_blank"} |
