@@ -20,9 +20,8 @@ Programın mantığı gayet basit. Bing’in farklı internet sitelerine bağlan
 - Ekran çözünürlüğünü otomatik olarak algılayıp o boyutta duvar kağıdı indirme.
 
 {:.tablo-ortali}
-| Bing Duvar Kağıdı Değiştirici <br>![Versiyon](https://img.shields.io/badge/Versiyon-2.4-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Bing Duvar Kağıdı Değiştirici <br>![Versiyon](https://img.shields.io/badge/Versiyon-2.42-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 845f045a59a45e66a702fd80ff96f3cf | **MD5**: 9e6e8f2ae03fd72f9b8f63d86acccca2 | 
 | **Boyut**: 121.0 KB                       | **Boyut**:  1.99 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0    |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
