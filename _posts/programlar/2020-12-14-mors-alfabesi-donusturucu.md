@@ -22,7 +22,6 @@ Yukarıdaki biçimde Vikipedia'da açıklanan mors alfabesine ve bunun dönüş�
 {:.tablo-ortali}
 | Mors Alfabesi Dönüştürücü <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Mors Alfabesi Dönüştürücü (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 3ce7d74a90ef847cd9ac459dc5113800 | **MD5**: a9f39743c054ecc233df7c211ba35e47 | 
 | **Boyut**: 169 KB                       | **Boyut**: 979 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |

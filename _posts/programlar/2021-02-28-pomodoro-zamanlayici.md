@@ -23,7 +23,6 @@ Verimli çalışma teknikleri arasında gösterilen bu tekniğini bilmeyen yoktu
 {:.tablo-ortali}
 | Pomodoro Zamanlayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Pomodoro Zamanlayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: d7089e5fe33adb2626ae1bb269863258 | **MD5**: 75d7fcb22240edb391b159decd2980c5 | 
 | **Boyut**: 160 KB                       | **Boyut**: 180 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |

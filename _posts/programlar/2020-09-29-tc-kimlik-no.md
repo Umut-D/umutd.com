@@ -32,7 +32,6 @@ Eğer programın ürettiği numaralara güvenmediyseniz sorun değil. Üretilen 
 {:.tablo-ortali}
 | TC Kimlik No<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.22-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | TC Kimlik No (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 766b8f81bd4f483f1078be690d79b997 | **MD5**: 93a86570dc6fe69afcf1268fb596f111 | 
 | **Boyut**: 91.5 KB                       | **Boyut**: 556 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |

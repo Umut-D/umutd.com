@@ -22,7 +22,6 @@ Aslında günlük hayatta faktöriyel, kombinasyon, permütasyon hesaplarını i
 {:.tablo-ortali}
 | Faktöriyel, Kombinasyon, Permütasyon<br> Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.03-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Faktöriyel, Kombinasyon, Permütasyon<br>Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: cce3c35143b205a011225df6fe52cba7 | **MD5**: cce36559bc84b063a127d0f087b41e8c | 
 | **Boyut**:  112 KB                       | **Boyut**:  850 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4    |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |

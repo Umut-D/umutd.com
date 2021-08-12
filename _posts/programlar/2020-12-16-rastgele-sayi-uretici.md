@@ -22,7 +22,6 @@ Vakit geçirmeden programı yazdım ve kendisine yolladım. İşte böyle tuhaf 
 {:.tablo-ortali}
 | Rastgele Sayı Üretici<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.21-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Rastgele Sayı Üretici (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: d2a7ab340bbe5e69d6fbe81cd6464760 | **MD5**: 91d7f3fa4d40573e3112d35b63e2174c | 
 | **Boyut**: 10.8 KB                       | **Boyut**:  101 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |

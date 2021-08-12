@@ -23,7 +23,6 @@ Fakat son zamanlarda Semalt Redirect Manager yetersiz gelmeye başladı (Evet, G
 {:.tablo-ortali}
 | Site IP Sorgula<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.2-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Site IP Sorgula (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: e434dd3581c92a6c6867c3c945c7486b | **MD5**: 62c3555f4307037d30d8c431466180d1 | 
 | **Boyut**:  30,7 KB                       | **Boyut**: 221 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |

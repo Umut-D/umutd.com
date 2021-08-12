@@ -20,7 +20,6 @@ Windows'un yanı sıra bazen Mac OS kullanan biri olarak Mac OS'un en sevdiğim 
 {:.tablo-ortali}
 | Rastgele Şifre Oluşturucu<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Rastgele Şifre Oluşturucu (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: 5a824c2eef1ec16a15dc45c18753a88f | **MD5**: a67967770584e4a3a0420e455e333beb | 
 | **Boyut**: 97.3 KB                       | **Boyut**: 476 KB                         |
 | **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |

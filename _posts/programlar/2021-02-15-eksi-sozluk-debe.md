@@ -22,7 +22,6 @@ Programı her gün, bir önceki günün 50 popüler entry’sini okuyarak keyifl
 {:.tablo-ortali}
 | Ekşi Sözlük DEBE<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.26-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-green.svg?style=flat) | Ekşi Sözlük DEBE (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **MD5**: afbec728b9b16beaefdc189963ceb44b | **MD5**: f5d568a1aa83811fc4e1621d0e8c65f1 | 
 | **Boyut**: 73 KB                       | **Boyut**: 2.49 MB                         |
 | **Gereksinimler**: .Net Framework 4.5     | **Gereksinimler**: .Net Framework 4.5    |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#  |
