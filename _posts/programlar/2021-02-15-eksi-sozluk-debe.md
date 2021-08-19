@@ -20,9 +20,9 @@ Programı her gün, bir önceki günün 50 popüler entry’sini okuyarak keyifl
 - Hi-DPI ekranlara destek.
 
 {:.tablo-ortali}
-| Ekşi Sözlük DEBE<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.26-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-green.svg?style=flat) | Ekşi Sözlük DEBE (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Ekşi Sözlük DEBE<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.27-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-green.svg?style=flat) | Ekşi Sözlük DEBE (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **Boyut**: 73 KB                       | **Boyut**: 2.49 MB                         |
+| **Boyut**: 73.5 KB                       | **Boyut**: 2.41 MB                         |
 | **Gereksinimler**: .Net Framework 4.5     | **Gereksinimler**: .Net Framework 4.5    |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#  |
 | **İndir**: [Link](https://www.dropbox.com/s/n5ql86sxb767yu8/eksi-sozluk-debe.zip?dl=1) | **Proje**: [Link](https://www.dropbox.com/s/87c7ev9d4nllnn2/eksi-sozluk-debe-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Eksi-Sozluk-Debe) |
