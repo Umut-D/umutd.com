@@ -21,9 +21,9 @@ Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne
 **Not:** Deprem yerini haritada aktif etme ve gösterme özelliğinin Windows Form üzerinde yapmak çok istedim. Fakat **Google** ve **Bing Haritalar**'ın kişie özel API anahtarı istemelerinden dolayı bu özellikten vazgeçtim. API anahtarı paralı bir şey değil biliyorum. Ama bu anahtarın her yerde veya açık kaynak kodlu bir projede paylaşılması da hoş olmazdı diye düşünüyorum. 
 
 {:.tablo-ortali}
-| Son Depremler <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.2-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Son Depremler <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.21-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **Boyut**:  158 KB                       | **Boyut**:  2.6 MB                         |
+| **Boyut**:  161 KB                       | **Boyut**:  2.41 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0 |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C# |
 | **İndir**: [Link](https://www.dropbox.com/s/gyuteqtx81jq2s9/son-depremler.zip?dl=1) | **Proje**: [Link](https://www.dropbox.com/s/fqhaq1r85gmqjvs/son-depremler-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Son-Depremler)|
