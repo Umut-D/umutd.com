@@ -14,7 +14,7 @@ Programın adı, özelliğinin teminatı. Ama izah edeyim. Gerek fotoğraf makin
 
 > **EXIF (Exchangeable image file format)**, Türkçesiyle "Değişebilir görüntü dosyası biçimi", sayısal fotoğraf makineleri tarafından çekilen görüntülerin içine enstantane, diyafram, pozlama, fotoğraf makinesi markası, modeli gibi teknik bilgilerin gömülmesini sağlayan, bir veri tanımlama standardıdır. 
 
-İşte EXIF bilgisindeki künyelerden birisi ise, fotoğrafın çekildiği gerçek tarihtir. Ancak pek çok kişi fotoğraflarına yüzeysel, yani sadece fotoğraf adlarına baktığında **DSC...** ile başlayan, belli bir stardartta adlar görür. İşte bu program ise, (eğer varsa) EXIF bilgisindeki fotoğrafın gerçek çekim tarihiyle, fotoğrafın mevcut adını otomatik değiştiriyor. Hepsi bu. Bundan başka bir işlev sunmayan, sadece hedefe yönelik program yazmış bulundum.
+İşte EXIF bilgisindeki künyelerden birisi ise, fotoğrafın çekildiği gerçek tarihtir. Ancak pek çok kişi fotoğraflarına yüzeysel, yani sadece fotoğraf adlarına baktığında **DSC...** ile başlayan belli bir stardarta sahip adlar görür. İşte bu programsa (eğer varsa) EXIF bilgisindeki fotoğrafın gerçek çekim tarihiyle, fotoğrafın mevcut adını otomatik değiştiriyor. Hepsi bu. Bundan başka bir işlev sunmayan, sadece hedefe yönelik program yazmış bulundum.
 
 {:.tablo-ortali}
 | Fotoğraf Adlarını Tarihle Değiştir <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Fotoğraf Adlarını Tarihle Değiştir (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
