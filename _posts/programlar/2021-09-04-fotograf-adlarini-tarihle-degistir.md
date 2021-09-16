@@ -6,7 +6,7 @@ categories: Programlar
 tags: Fotoğraf, Ad, İsim, Tarih, Değiştirme, Dosya Adı Değiştirme, Fotoğraf Adı Değiştirme, Exif
 excerpt: Tasarım işinden zerre anlamadığım bir program daha. Böyle durumlarda "tasarımı bırak, işleve odaklan" fikri veya "Zarfa değil, mazrufa bakınız" atasözü aklıma geliyor. Tabi bunlar tasarım ve görselliğin günümüzdeki önemini gölgeleyemiyor. Görselliğin, çok fazla öne çıktığı bir çağda aksini iddia etmek yanlış olur zaten...
 ---
-![fotograf-adi-degistir](/images/programlar/fotograf-adi-degistir.png){: width="46%"}
+![fotograf-adi-degistir](/images/programlar/fotograf-adi-degistir.png){: width="44%"}
 
 Tasarım işinden zerre anlamadığım bir program daha. Böyle durumlarda "tasarımı bırak, işleve odaklan" fikri veya "Zarfa değil, mazrufa bakınız" atasözü aklıma geliyor. Tabi bunlar tasarım ve görselliğin günümüzdeki önemini gölgeleyemiyor. Görselliğin, çok fazla öne çıktığı bir çağda aksini iddia etmek yanlış olur zaten.
 
