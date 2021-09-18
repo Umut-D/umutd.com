@@ -1,14 +1,14 @@
 ---
 layout: post
 title: IPTV Editör
-date: 2021-07-30 12:01 +0300
+date: 2021-09-18 12:01 +0300
 categories: Programlar
 tags: IPTV, IP TV, Online Tv, Editor, Kanal, Kanal Düzenleme, Kanal Editör, IpTV Editör
-excerpt: Yaklaşık 2.5 yıldır IP TV kullanıyorum ve böyle bir hizmete sahip olmaktan baya memnunum. Bu programı, IP TV'de işime yaramayan bazı kanal ve videoları silmek için kullandığım programların çok yavaş olması yüzünden yazdım. Daha doğrusu yazmak zorunda kaldım. Zaten piyasada da çok fazla IP TV kanal editörü bulunmuyor. Bulunsa bile çoğuna güven olmuyor...
+excerpt: Yaklaşık 3 yıldır IP TV kullanıyorum ve böyle bir hizmete sahip olmaktan baya memnunum. Bu programı, IP TV'de işime yaramayan bazı kanal ve videoları silmek için kullandığım programların çok yavaş olması yüzünden yazdım. Daha doğrusu yazmak zorunda kaldım. Zaten piyasada da çok fazla IP TV kanal editörü bulunmuyor. Bulunsa bile çoğuna güven olmuyor...
 ---
 ![iptv-editor](/images/programlar/iptv-editor.png){: width="55%"}
 
-Yaklaşık 2.5 yıldır IP TV kullanıyorum ve böyle bir hizmete sahip olmaktan baya memnunum. Bu programı, IP TV'de işime yaramayan bazı kanal ve videoları silmek için kullandığım programların çok yavaş olması yüzünden yazdım. Daha doğrusu yazmak zorunda kaldım. Zaten piyasada da çok fazla IP TV kanal editörü bulunmuyor. Bulunsa bile çoğuna güven olmuyor.
+Yaklaşık 3 yıldır IP TV kullanıyorum ve böyle bir hizmete sahip olmaktan baya memnunum. Bu programı, IP TV'de işime yaramayan bazı kanal ve videoları silmek için kullandığım programların çok yavaş olması yüzünden yazdım. Daha doğrusu yazmak zorunda kaldım. Zaten piyasada da çok fazla IP TV kanal editörü bulunmuyor. Bulunsa bile çoğuna güven olmuyor.
 
 Programın, basit ve kompakt (yalnız kanal adı, grup ve link alanları alanlarına sahip) olması ana hedefim olduğundan, diğer editörlere nazaran çok daha hızlı çalıştığını belirtmek isterim*. Gereksiz özellikleri kaldırıp sadece kanalları açma, izleme ve silme özelliklerine yer verdim. Ayrıca, yüksek bellek tüketen kanal logo linklerini programda kullanmadım**. 
 
@@ -29,7 +29,7 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 **Not:** Çok fazla kanal silerken donmuş gibi duran program için *Threading veya async/await* kullanmadım. Çünkü her iki seçenek de programa ciddi anlamda performans kaybı yaşattı.
 
 {:.tablo-ortali}
-| IPTV Editor <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.04-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  IPTV Editor (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
+| IPTV Editor <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.05-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  IPTV Editor (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
 | **Boyut**:  53.6 KB                       | **Boyut**:  74.2 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0 |
