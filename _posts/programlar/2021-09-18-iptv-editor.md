@@ -31,7 +31,7 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 {:.tablo-ortali}
 | IPTV Editor <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.05-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  IPTV Editor (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
-| **Boyut**:  53.6 KB                       | **Boyut**:  74.2 KB                         |
+| **Boyut**:  53.5 KB                       | **Boyut**:  109 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0 |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C# |
 | **İndir**: [Link](https://www.dropbox.com/s/fu5kpcpkpqucwud/iptv-editor.zip?dl=1) | **Proje**: [Link](https://www.dropbox.com/s/satbnnctycjbo4f/iptv-editor-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/iptv-editor)|
