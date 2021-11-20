@@ -6,7 +6,7 @@ categories: Programlar
 tags: COVID19, COVID-19, COVID-19 Türkiye, COVID-19 Verileri
 excerpt: İlk defa Çin'in Wuhan bölgesinde, 2019'un Aralık ayında görülen bu musibet tüm dünyayı değiştirdi. Sadece değiştirdiği yetmiyormuş gibi ekonomi, sağlık vb. pek çok yapının ne kadar kırılgan ve iskambil kulesine benzediğini ortaya çıkardı. Çok canımızı sıktığı ve tüm dünyayı üzdüğü kadar hayatımızı da tümüyle etkiledi...
 ---
-![rss-takip](/images/programlar/covid-19-turkiye-verileri.png){: width="60%"}
+![rss-takip](/images/programlar/covid-19-turkiye-verileri.png){: width="62%"}
 
 İlk defa Çin'in Wuhan bölgesinde, 2019'un Aralık ayında görülen bu musibet tüm dünyayı değiştirdi. Sadece değiştirdiği yetmiyormuş gibi ekonomi, sağlık vb. pek çok yapının ne kadar kırılgan ve iskambil kulesine benzediğini ortaya çıkardı. Çok canımızı sıktığı ve tüm dünyayı üzdüğü kadar hayatımızı da tümüyle etkiledi. Hala da etkilemeye devam etmekte. Bereket elimizde aşı kozumuz var da, kendimizi bir nebze daha güvende hissediyoruz. Geçen sene bu vakitler elde bu da yoktu. İnsanlar gölgelerinden korkar gibi, sokakta öksüren bir kişi anında tedirginlik yaşıyordu.
 
