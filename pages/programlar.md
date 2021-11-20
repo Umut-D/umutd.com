@@ -24,6 +24,7 @@ Ve son olarak, ben bu arayüz tasarımı işini sahiden beceremiyorum. Estetik s
 
 {:.program-baslik}
 ### İnternet
+* ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [COVID-19 Türkiye Verileri](/programlar/covid-19-turkiye-verileri)
 * ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [İlk Sayfalar](/programlar/ilk-sayfalar)
 * ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Bing Duvar Kağıdı Değiştirici](/programlar/bing-duvar-kagidi-degistirici) 
 * ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Ekşi Sözlük Debe (Dünün En Beğenilen Entry’leri)](/programlar/eksi-sozluk-debe)
