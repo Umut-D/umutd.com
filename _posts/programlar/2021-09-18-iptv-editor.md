@@ -19,6 +19,7 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 - M3U uzantısına sahip dosyalardaki IPTV kanal ve videolarını yükleme ve silme***,
 - İstenen kanalları (ad ve gruba göre) arama ve bulma,
 - Silme sonrası oluşturulan kanal listesini kaydetme,
+- Gruba göre yapılan arama sonuçlarını kaydetme,
 - (Eğer sisteminizde yüklüyse) İstenen kanalı VLC Player'la açma,
 - Hi-DPI ekranları destekleme,
 - (İstek) Görme engelli kullanıcılar için erişilebilirlik seçenekleri,
@@ -29,7 +30,7 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 **Not:** Çok fazla kanal silerken donmuş gibi duran program için *Threading veya async/await* kullanmadım. Çünkü her iki seçenek de programa ciddi anlamda performans kaybı yaşattı.
 
 {:.tablo-ortali}
-| IPTV Editor <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.05-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  IPTV Editor (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
+| IPTV Editor <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.06-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  IPTV Editor (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
 | **Boyut**:  53.5 KB                       | **Boyut**:  109 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0 |
