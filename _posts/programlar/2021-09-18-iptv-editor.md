@@ -19,10 +19,10 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 - M3U uzantısına sahip dosyalardaki IPTV kanal ve videolarını yükleme ve silme***,
 - İstenen kanalları (ad ve gruba göre) arama ve bulma,
 - Silme sonrası oluşturulan kanal listesini kaydetme,
-- Gruba göre yapılan arama sonuçlarını kaydetme,
 - (Eğer sisteminizde yüklüyse) İstenen kanalı VLC Player'la açma,
 - Hi-DPI ekranları destekleme,
 - (İstek) Görme engelli kullanıcılar için erişilebilirlik seçenekleri,
+- (İstek) Gruba göre yapılan arama sonuçlarını kaydetme,
 
 **\*** Program *10~ MB boyutlu, 45.000~ adet kanalı 1~ saniyede* açabiliyor.<br>
 **\*\*** IPTV listelerinde yer alan bazı kanal logolarının linkleri satırlarca uzunluğa sahip. Bu da, çok fazla kanallı IP TV listelerinde, başta VLC player olmak üzere pek çok uygulamanın yavaş açılmasına neden oluyor. Bu nedenle logo alanına programda hiçbir şekilde yer vermedim.<br>
