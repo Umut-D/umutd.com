@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IPTV Editör
-date: 2021-09-18 12:01 +0300
+date: 2022-02-03 12:01 +0300
 categories: Programlar
 tags: IPTV, IP TV, Online Tv, Editor, Kanal, Kanal Düzenleme, Kanal Editör, IpTV Editör
 excerpt: Yaklaşık 3 yıldır IP TV kullanıyorum ve böyle bir hizmete sahip olmaktan baya memnunum. Bu programı, IP TV'de işime yaramayan bazı kanal ve videoları silmek için kullandığım programların çok yavaş olması yüzünden yazdım. Daha doğrusu yazmak zorunda kaldım. Zaten piyasada da çok fazla IP TV kanal editörü bulunmuyor. Bulunsa bile çoğuna güven olmuyor...
@@ -19,10 +19,11 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 - M3U uzantısına sahip dosyalardaki IPTV kanal ve videolarını yükleme ve silme***,
 - İstenen kanalları (ad ve gruba göre) arama ve bulma,
 - Silme sonrası oluşturulan kanal listesini kaydetme,
-- (Eğer sisteminizde yüklüyse) İstenen kanalı VLC Player'la açma,
 - Hi-DPI ekranları destekleme,
+- (Eğer sisteminizde yüklüyse) İstenen kanalı VLC Player'la açma,
 - (İstek) Görme engelli kullanıcılar için erişilebilirlik seçenekleri,
 - (İstek) Gruba göre yapılan arama sonuçlarını kaydetme,
+- (İstek) Kanal linkini kopyalama.
 
 **\*** Program *10~ MB boyutlu, 45.000~ adet kanalı 1~ saniyede* açabiliyor.<br>
 **\*\*** IPTV listelerinde yer alan bazı kanal logolarının linkleri satırlarca uzunluğa sahip. Bu da, çok fazla kanallı IP TV listelerinde, başta VLC player olmak üzere pek çok uygulamanın yavaş açılmasına neden oluyor. Bu nedenle logo alanına programda hiçbir şekilde yer vermedim.<br>
