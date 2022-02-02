@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IPTV Editör
-date: 2022-02-03 12:01 +0300
+date: 2022-02-02 00:01 +0300
 categories: Programlar
 tags: IPTV, IP TV, Online Tv, Editor, Kanal, Kanal Düzenleme, Kanal Editör, IpTV Editör
 excerpt: Yaklaşık 3 yıldır IP TV kullanıyorum ve böyle bir hizmete sahip olmaktan baya memnunum. Bu programı, IP TV'de işime yaramayan bazı kanal ve videoları silmek için kullandığım programların çok yavaş olması yüzünden yazdım. Daha doğrusu yazmak zorunda kaldım. Zaten piyasada da çok fazla IP TV kanal editörü bulunmuyor. Bulunsa bile çoğuna güven olmuyor...
