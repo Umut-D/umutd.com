@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IPTV Editör
-date: 2022-02-02 00:01 +0300
+date: 2022-02-03 15:01 +0300
 categories: Programlar
 tags: IPTV, IP TV, Online Tv, Editor, Kanal, Kanal Düzenleme, Kanal Editör, IpTV Editör
 excerpt: Yaklaşık 3 yıldır IP TV kullanıyorum ve böyle bir hizmete sahip olmaktan baya memnunum. Bu programı, IP TV'de işime yaramayan bazı kanal ve videoları silmek için kullandığım programların çok yavaş olması yüzünden yazdım. Daha doğrusu yazmak zorunda kaldım. Zaten piyasada da çok fazla IP TV kanal editörü bulunmuyor. Bulunsa bile çoğuna güven olmuyor...
@@ -12,7 +12,7 @@ Yaklaşık 3 yıldır IP TV kullanıyorum ve böyle bir hizmete sahip olmaktan b
 
 Programın, basit ve kompakt (yalnız kanal adı, grup ve link alanları alanlarına sahip) olması ana hedefim olduğundan, diğer editörlere nazaran çok daha hızlı çalıştığını belirtmek isterim*. Gereksiz özellikleri kaldırıp sadece kanalları açma, izleme ve silme özelliklerine yer verdim. Ayrıca, yüksek bellek tüketen kanal logo linklerini programda kullanmadım**. 
 
-Her şey bir yana, program SOLID'deki **"Open/Closed felsefesi"**ne müsait. Çünkü nesneye yönelik programlama mantığıyla yazdım. Üşenmedim; kavramsal çerçeve oluşturdum, sınıf diyagramları çizdim. Kaynak kodlarını Github'dan görebilir. Programın gelişimine katkıda bulunabilirsiniz. Eğer bu olmazsa, mesaj göndererek eklenmesini istediğiniz özellikleri söyleyebilirsiniz. (Ek: Çok mesaj ve istek geldi. Zaman içinde hepsini gerçekleştireceğim. Şüpheniz olmasın)
+Her şey bir yana, program SOLID'deki **"Open/Closed felsefesi"**ne müsait. Çünkü nesneye yönelik programlama mantığıyla yazdım. Üşenmedim; kavramsal çerçeve oluşturdum, sınıf diyagramları çizdim. Kaynak kodlarını Github'dan görebilir, programın gelişimine katkıda bulunabilirsiniz. Eğer bu olmazsa, mesaj göndererek eklenmesini istediğiniz özellikleri söyleyebilirsiniz. (Ek: Çok mesaj ve istek geldi. Zaman içinde hepsini gerçekleştireceğim. Şüpheniz olmasın)
 
 Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen gelişmiş kullanıcılara hitap etmese de, ben gibi düz ve sadece işine gelen kanalları IPTV listesinde görmek isteyen kullanıcılar için olduğuna eminim. Gelelim özelliklere;
 
