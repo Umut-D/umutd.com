@@ -13,6 +13,8 @@ Programcıya, herhangi bir kelime **(girilenYazi)** veriliyor. Programcıdansa, 
 
 **Not**: Büyük ve küçük harflerin de aynı olarak kabul edilmekte ve sonuç ekranında bire bir (karakter büyük ise büyük, küçük ise küçük) yazılması gerekmekte.
 
+**Not 2**: Java kodundaki hata bilgilendirmesi için <b>Beyza B.</b>'ye teşekkürler.
+
 ### Örnek
 
 | Girdi                      | Çıktı                                                           |
