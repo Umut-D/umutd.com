@@ -17,8 +17,9 @@ Programcıya, herhangi bir kelime **(girilenYazi)** veriliyor. Programcıdansa, 
 
 | Girdi                      | Çıktı                                                           |
 |----------------------------|-----------------------------------------------------------------|
-| **girilenKelime**: taassup | **Sonuç**:  t (Bir kere tekrar ediyor ve ilk defa kullanılıyor) |
+| **girilenKelime**: taassup | **Sonuç**:  t (Bir kere var ve en başta)                        |
 | **girilenKelime**: sTreSS  | **Sonuç**:  T                                                   |
+| **girilenKelime**: Genelge  | **Sonuç**:  n                                                  |
 
 ### Çözüm - C#
 ```csharp
@@ -68,20 +69,20 @@ class Program
 ### Çözüm - Java
 ```java
 import java.util.ArrayList;
- 
-public class Main {
- 
-    public static void main(String[] args) {
- 
-        String girilenYazi = "sTreSS";
+
+public class Main
+{
+    public static void main(String[] args)
+    {
+        String girilenYazi = "Genelge";
         String yazininIlkHali = girilenYazi;
- 
+
         // Tüm harfleri önce küçük harflere, sonra tek tek karaktere dönüştür
         girilenYazi = girilenYazi.toLowerCase();
         char[] harfler = girilenYazi.toCharArray();
- 
+
         ArrayList<Character> harf = new ArrayList<>();
- 
+
         // Harfleri karakter olarak alıp, ayrı ayrı koleksiyona ekle
         for (char karakter : harfler)
         {
@@ -93,17 +94,16 @@ public class Main {
             // Daha önce eklenen varsa diziden kaldır (Ekleme yapma)
             else
             {
-                harf.remove(karakter);
+                harf.remove(Character.valueOf(karakter));
             }
         }
- 
+
         if (harf.size() > 0)
         {
             // Dizide ilk tekrar etmeyen karakteri al
-            int yer = girilenYazi.indexOf(harf.indexOf(0));
-            System.out.println(yazininIlkHali.indexOf(yer));
+            Character yer = harf.get(0);
+            System.out.println(yer);
         }
- 
     }
 }
 ```
