@@ -26,9 +26,9 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a bay�
 3. **Web sitesine dair haber ve yorumlara;**
 - [PCnet dergisinin (Mayıs 2015) Ayın Siteleri](/images/bahsedenler/pcnet.jpg), 
 - [WebMasto Ayın Web Siteleri (Mart 2015)](http://www.webmasto.com/webmasto-ayin-web-siteleri-mart-2015){:target="_blank"} sayfasından erişilebilmekte.
-4. **Web sitesinin (1 Nisan 22 itibariyle);**
-- 292.993 sayfa görüntülenme,
-- 147.890 ziyaretçi,
-- 119.464 benzersiz ziyaretçi,
-- 808.147 Youtube izlenme,
-- 504.193 SanalKurs izlenme istatistikleri ise bundan ibaret.
+4. **Web sitesinin (1 Mayıs 22 itibariyle);**
+- 294.883 sayfa görüntülenme,
+- 149.162 ziyaretçi,
+- 120.616 benzersiz ziyaretçi,
+- 810.956 Youtube izlenme,
+- 505.285 SanalKurs izlenme istatistikleri ise bundan ibaret.
