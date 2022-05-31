@@ -8,7 +8,7 @@ image: pages/ben.jpg
 
 Tek başına dünyayı değiştirmek için yeterli güce sahip olduğu zamanlarda güç ve enerjisini üniversite eğitimlerine verdi. Daha doğrusu vermeye çalıştı. Nesneye yönelik programlama dersinde görüp tanıdığı C# programlama diline aşık olsa da, grafik tasarım derslerinden kaçtığı için hala hayıflanmakta. Her gün batımında ufka bakıp uzaklara dalmakta. Lakin eğitim hayatını devam ettirirken, o günlerde ektiklerini şimdilerde biçmekte. Şimdilerde bir devlet üniversitesinde öğretim görevlisi olarak çalışıyor. Zamanla daha bir aklıselim olduğu için, gelecekte dünyayı tek başına değiştirmekten ziyade, güzel bir dünya turu yapacağına can-ı gönülden inanıyor. Bahaneyle, ekrandaki tüm gezi programları tekrar tekrar izlemekten kurtulacağını düşünmekte.
 
-Behzat Ç., İşler Güçler ve Kardeş Payı'nın son yılların en kaliteli dizileri olduğunu, Game Of Thrones'in tırt ve ötesi bir şekilde bittiğini düşünenlerden. J.R.R. Tolkien'in Yüzüklerin Efendisi ve J.K. Rowling'in Harry Potter serilerini, Gregory S. Petrov'un Beyaz Zambaklar Ülkesinde eserini başucu kitapları olarak görüyor. Özel insanların biyografi kitaplarını okumaya ise bayılıyor. Artık üç ayda bir yayınlanan Chip ve sevdiği çeşitli dergileri pas geçmeden okumaya çalışıyor. Çizgi romanlarını okuyarak büyüdüğü Superman içinse "gerçek bir erdem timsali" demekte. Yaklaşık 14 yıldan fazladır yazarlık yaptığı -ki birinci nesil yazarlığı da var- ve kendisine çok şey kattığını her fırsatta dile getirdiği Ekşi Sözlük, her daim ana uğrak noktası.
+Behzat Ç., İşler Güçler ve Kardeş Payı'nın son yılların en kaliteli dizileri olduğunu, Game Of Thrones'in tırt ve ötesi bir şekilde bittiğini düşünenlerden. J.R.R. Tolkien'in Yüzüklerin Efendisi ve J.K. Rowling'in Harry Potter serilerini, Gregory S. Petrov'un Beyaz Zambaklar Ülkesinde eserini başucu kitapları olarak görüyor. Özel insanların biyografi kitaplarını okumaya ise bayılıyor. Artık üç ayda bir yayınlanan Chip ve sevdiği çeşitli dergileri pas geçmeden okumaya çalışıyor. Çizgi romanlarını okuyarak büyüdüğü Superman içinse "gerçek bir erdem timsali" demekte. Yaklaşık 16 yıldan fazladır yazarlık yaptığı -ki birinci nesil yazarlığı da var- ve kendisine çok şey kattığını her fırsatta dile getirdiği Ekşi Sözlük, her daim ana uğrak noktası.
 
 Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a bayılan, Java ile dostluğu IntelliJ IDEA sayesinde güzelleşen, C++ ile arası limoni olan, en iyi içerik yönetim sistemleri olan WordPress ve Drupal ile flört ederken hayran kaldığı Jekyll'da karar kılan, HTML5 ve CSS3'e teknolojileriyle bir şeyler oluşturmaktan büyük keyif alan, SQL Server ile onbinlerce kayıt arasında veritabanı sorgusu yaptığında "adamlar valla yapmış be" deyip takdirini esirgemeyen, canı sıkıldığında lüzumsuz program, uygulama ve otomasyonlar yazmaya çalışan, Microsoft Office ailesiyle her daim barışık olup, her yeni özelliğini öğrendiğinde aşık olduğu Adobe Photoshop'ta 62′den tavşan çizebilen, PES ve Fifa serilerinde, taraftarı olmaktan mutluluk duyduğu Arsenal'i seçen bu epik kahraman, içindeki yurtdışına gitme isteğine gem vurduğu sürece işine devam etmeye kararlı. Gelecekte, deniz ile karanın birleştiği uzak, yabancı bir diyarda küçük ve mütevazi bir bilgisayar dükkanı açıp işyerini istediği vakitte açıp kapayan minimal bir esnaf olma hayalini her daim canlı tutmaya çalışmakta.
 
@@ -26,9 +26,9 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a bay�
 3. **Web sitesine dair haber ve yorumlara;**
 - [PCnet dergisinin (Mayıs 2015) Ayın Siteleri](/images/bahsedenler/pcnet.jpg), 
 - [WebMasto Ayın Web Siteleri (Mart 2015)](http://www.webmasto.com/webmasto-ayin-web-siteleri-mart-2015){:target="_blank"} sayfasından erişilebilmekte.
-4. **Web sitesinin (1 Mayıs 22 itibariyle);**
-- 294.883 sayfa görüntülenme,
-- 149.162 ziyaretçi,
-- 120.616 benzersiz ziyaretçi,
-- 810.956 Youtube izlenme,
-- 505.285 SanalKurs izlenme istatistikleri ise bundan ibaret.
+4. **Web sitesinin (1 Haziran 22 itibariyle);**
+- 297.267 sayfa görüntülenme,
+- 150.830 ziyaretçi,
+- 121.945 benzersiz ziyaretçi,
+- 813.004 Youtube izlenme,
+- 506.981 SanalKurs izlenme istatistikleri ise bundan ibaret.
