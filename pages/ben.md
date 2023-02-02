@@ -31,4 +31,4 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a bay�
 - 157.289 ziyaretçi,
 - 127.528 benzersiz ziyaretçi,
 - 823.137 Youtube izlenme,
-- 512.316 SanalKurs izlenme istatistikleri ise bundan ibaret.
+- 512.316 SanalKurs izlenme istatikleriyse bundan ibaret.

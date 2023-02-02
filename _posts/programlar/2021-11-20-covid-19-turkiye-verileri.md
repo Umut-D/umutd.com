@@ -10,7 +10,7 @@ excerpt: İlk defa Çin'in Wuhan bölgesinde, 2019'un Aralık ayında görülen 
 
 İlk defa Çin'in Wuhan bölgesinde, 2019'un Aralık ayında görülen bu musibet tüm dünyayı değiştirdi. Sadece değiştirdiği yetmiyormuş gibi ekonomi, sağlık vb. pek çok yapının ne kadar kırılgan ve iskambil kulesine benzediğini ortaya çıkardı. Çok canımızı sıktığı ve tüm dünyayı üzdüğü kadar hayatımızı da tümüyle etkiledi. Hala da etkilemeye devam etmekte. Bereket elimizde aşı kozumuz var da, kendimizi bir nebze daha güvende hissediyoruz. Geçen sene bu vakitler elde bu da yoktu. İnsanlar gölgelerinden korkar gibi, sokakta öksüren bir kişi anında tedirginlik yaşıyordu.
 
-Lafı çok uzatmayım. Bu programın çok daha önceden yazılması lazımdı. Muhtemelen tembelliğime geldi. Türkiye'nin COVID-19 verilerini gösteren bu programla, T.C. Sağlık Bakanlığı Korona Tablosu'nun günlük ve ilk günden itibaren (11 Mart 2020) kayda geçen istatistiksel verilerini görebilirsiniz. Ayrıca, istenen kritere göre arama yapabilirsiniz.
+Lafı çok uzatmayım. Bu programın çok daha önceden yazılması lazımdı. Muhtemelen tembelliğime geldi. Türkiye'nin COVID-19 verilerini gösteren bu programla, T.C. Sağlık Bakanlığı Korona Tablosu'nun günlük ve ilk günden itibaren (11 Mart 2020) kayda geçen istatiksel verilerini görebilirsiniz. Ayrıca, istenen kritere göre arama yapabilirsiniz.
 
 Tüm veriler (kaynak kodlarında da belirttiğim üzere) **[Ozan Ertürk'ün hazırladığı COVID19-Turkey-API](https://github.com/ozanerturk/covid19-turkey-api)**'si kullanılarak indirilmektedir. Kendisine, böyle güzel bir hizmeti hazırladığı için kucak kucak, öbek öbek, galon galon teşekkürlerimi sunuyorum.
 
