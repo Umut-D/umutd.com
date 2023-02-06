@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Son Depremler
-date: 2023-02-06 18:20 +0300
+date: 2023-06-02 00:20 +0300
 categories: Programlar
 tags: Deprem, Son Depremler, Kandilli Rasathanesi, Depremler
 excerpt: Geçen gün arşivimde, bundan 2 yıl önce yarısına kadar yazdığım, ama ne hikmetse tamamlamayı unuttuğum bu programı buldum. İşlerini pek yarıda bırakmayı sevmeyen biri olarak, "programı neden yarıda bıraktım" demeyi bırakıp işimi tamamlamaya koyuldum...
