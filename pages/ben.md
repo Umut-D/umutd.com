@@ -25,11 +25,9 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a bay�
 - ~~[Gümüşhane Üniversitesi Eğitim Teknolojileri Uygulama ve Araştırma Merkezi](http://gunetem.gumushane.edu.tr/tr/sayfa/videolar/dreamweaver-umut-d%C3%B6kel/){:target="\_blank"}~~,
 - ~~[Erzincan Binali Yıldırım Üniversitesi Bilgi İşlem Daire Başkanlığı](https://bidb.ebyu.edu.tr/wordpress-egitimi-videolari/){:target="\_blank"}~~,
 - [Milli Eğitim Bakanlığı (MEB'de Öğren)](http://mebdeogren.meb.gov.tr/kategori.php?ID=72){:target="\_blank"} üzerinden ulaşılabilmekte.
-
 3. **Web sitesine dair haber ve yorumlara;**
 - [PCnet dergisinin (Mayıs 2015) Ayın Siteleri](/images/bahsedenler/pcnet.jpg),
 - [WebMasto Ayın Web Siteleri (Mart 2015)](http://www.webmasto.com/webmasto-ayin-web-siteleri-mart-2015){:target="\_blank"} sayfasından erişilebilmekte.
-
 4. **Web sitesinin (1 Mart 23 itibariyle);**
 - 308.023 sayfa görüntülenme,
 - 158.763 ziyaretçi,
