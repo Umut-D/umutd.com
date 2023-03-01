@@ -16,7 +16,6 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a bay�
 #### Ayrıca, bu Lüzumsuz İşler Müdürü'nün;
 
 1. **Yazdığı abidik gubidik programlara çeşitli indirme sitesi ve forumlarda rastlanabilmekte.**
-
 2. **Video derslerine;**
 - Tabi ki [Youtube](https://www.youtube.com/user/UmutDokel/about){:target="\_blank"},
 - [Sanalkurs](https://sanalkurs.net/batu2k){:target="\_blank"},
