@@ -1,54 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	{%- include head.html -%}
-</head>
-{% seo %}
-<body>
-	<main class="container">
-		<section class="about">
-			<img src="{{ "/assets/portfolio.png" | relative_url }}" alt="{{ site.plainwhite.name }}">
-			<h2>{{ site.plainwhite.name }}</h2>
-			<ul id="menu">
-				<li><a href="/">Ana Sayfa</a></li>
-				<li><a href="/coding-challenges">Coding Challenges</a></li>
-				<li><a href="/programlar">Programlar</a></li>
-				<li><a href="#">Algoritmalar</a></li>
-				<li><a href="/ben">Ben</a></li>
-				<li><a href="/iletisim">İletişim</a></li>
-			</ul>
-			<ul class="social">
-				<a href="https://stackoverflow.com/users/2914860/{{ site.plainwhite.social_links.stack_overflow }}">
-					<li><i class="icon-stackoverflow"></i></li>
-				</a>
-				<a href="https://github.com/{{ site.plainwhite.social_links.github }}">
-					<li><i class="icon-github-circled"></i></li>
-				</a>
-				<a href="https://www.codewars.com/users/{{ site.plainwhite.social_links.codewars }}">
-					<li><i class="icon-code"></i></li>
-				</a>
-				<a href="https://www.youtube.com/user/{{ site.plainwhite.social_links.youtube }}">
-					<li><i class="icon-youtube-play"></i></li>
-				</a>
-			</ul>
-			<p class="altbilgi">Powered by <strong>Jekyll</strong> & <strong>Github</strong></p>
-		</section>
-		<section class="content">
-			{{ content }}
-		</section>
-	</main>
-	{%- if site.plainwhite.analytics_id -%}
-	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
+  <head>
+    {%- include head.html -%}
+  </head>
+  {% seo %}
+  <body>
+    <main class="container">
+      <section class="about">
+        <img src="{{ "/assets/portfolio.png" | relative_url }}" alt="{{
+        site.plainwhite.name }}">
+        <h2>{{ site.plainwhite.name }}</h2>
+        <ul id="menu">
+          <li><a href="/">Ana Sayfa</a></li>
+          <li><a href="/coding-challenges">Coding Challenges</a></li>
+          <li><a href="/programlar">Programlar</a></li>
+          <li><a href="#">Tasarım Desenleri</a></li>
+          <li><a href="/ben">Ben</a></li>
+          <li><a href="/iletisim">İletişim</a></li>
+        </ul>
+        <ul class="social">
+          <a
+            href="https://stackoverflow.com/users/2914860/{{ site.plainwhite.social_links.stack_overflow }}"
+          >
+            <li><i class="icon-stackoverflow"></i></li>
+          </a>
+          <a
+            href="https://github.com/{{ site.plainwhite.social_links.github }}"
+          >
+            <li><i class="icon-github-circled"></i></li>
+          </a>
+          <a
+            href="https://www.codewars.com/users/{{ site.plainwhite.social_links.codewars }}"
+          >
+            <li><i class="icon-code"></i></li>
+          </a>
+          <a
+            href="https://www.youtube.com/user/{{ site.plainwhite.social_links.youtube }}"
+          >
+            <li><i class="icon-youtube-play"></i></li>
+          </a>
+        </ul>
+        <p class="altbilgi">
+          Powered by <strong>Jekyll</strong> & <strong>Github</strong>
+        </p>
+      </section>
+      <section class="content">{{ content }}</section>
+    </main>
+    {%- if site.plainwhite.analytics_id -%}
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-		gtag('config', '{{ site.plainwhite.analytics_id }}');
-	</script>
-	{%- endif -%}
-	
-	<script src="/assets/js/jquery-slim.min.js"></script>
-	{% include lightbox.html %}
-</body>
+      gtag("config", "{{ site.plainwhite.analytics_id }}");
+    </script>
+    {%- endif -%}
+
+    <script src="/assets/js/jquery-slim.min.js"></script>
+    {% include lightbox.html %}
+  </body>
 </html>
