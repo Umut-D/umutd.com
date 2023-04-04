@@ -3,7 +3,7 @@ layout: post
 title: Dosya Hash Değeri Hesaplayıcı
 date: 2023-04-04 11:43 +0300
 categories: Programlar
-tags: Hash Değeri, Sha-1, Sha-256, MD5, Kontrol Kodu, Hash Hesapla
+tags: Hash Değeri, MD5, Sha-1, Kontrol Kodu, Hash Hesapla
 excerpt: Bundan yaklaşık bir hafta önce (programı ilk yazdığım 2017 yılında), programlarımdan birine dair eleştiri geldi. Eleştiriyi yapan kişi temel olarak programın virüs ve casus program barındırdığını söylemekte, kendince çeşitli nedenler sıralamaktaydı. Kendisine verdiğim cevaplarda programın kaynak kodlarına göz gezdirmesini ve VirusTotal sonuçlarına bakmasını istedim...
 redirect_from:
   - /programlar/dosya-hash-degeri-hesaplayici/
@@ -27,23 +27,22 @@ Burada bazı faydalar dikkatinizi çekecektir:
 - Hash sayesinde dosyaların düzgün indirilip indirilmediği öğrenilebilirsiniz.
 - Hash sayesinde dosyalarda değişiklik yapılıp yapılmadığı öğrenilebilirsiniz.
 
-Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim; bu programla dosyaların MD5 ve SHA-1, SHA-256 değerlerini görebilir ve bunları indirdiğiniz sitedeki hash değerleri ile karşılaştırabilirsiniz. Değerler karşı taraf ile bire bir uyuyorsa dosyada hiçbir sorun yoktur ve dosyaya dokunulmamıştır. Fakat değerler aynı değilse o dosyadan hayır yoktur. Dosya başkaları veya 3. şahıslarca değiştirilmiştir. Mümkünse dosyaya temkinli yaklaşın. Hatta dosyayı VirusTotal'e yükleyerek tarama yapın. Programın özelliklerine gelecek olursak;
+Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim; bu programla dosyaların MD5 ve SHA-1 değerlerini görebilir ve bunları indirdiğiniz sitedeki hash değerleri ile karşılaştırabilirsiniz. Değerler karşı taraf ile bire bir uyuyorsa dosyada hiçbir sorun yoktur ve dosyaya dokunulmamıştır. Fakat değerler aynı değilse o dosyadan hayır yoktur. Dosya başkaları veya 3. şahıslarca değiştirilmiştir. Mümkünse dosyaya temkinli yaklaşın. Hatta dosyayı VirusTotal'e yükleyerek tarama yapın. Programın özelliklerine gelecek olursak;
 
 - Dosyaları ilgili alanın üzerine sürükleyerek bırakarak açma,
 - MD5 değerini bulma,
 - SHA-1 değerini bulma,
-- SHA-256 değerini bulma,
 - Dosya hash eşleştirmesi yapabilme.
 
 {:.tablo-ortali}
 | Dosya Hash Değeri Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.14-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Hash Değeri Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **Boyut**: 143 KB | **Boyut**: 400 KB |
+| **Boyut**: 143 KB | **Boyut**: 629 KB |
 | **Gereksinimler**: .Net Framework 4.8 | **Gereksinimler**: .Net Framework 4.8 |
 | **Platform**: Microsoft Windows | **Programlama Dili**: C# |
 | **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Dosya-Hash-Hesaplayici) |
 
-**Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **IHashable.cs**, **Md5.cs**, **Sha256.cs** ve **Sha1.cs** sınıflarındaki kodlar:
+**Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **IHashable.cs**, **Md5.cs** ve **Sha1.cs** sınıflarındaki kodlar:
 
 ```csharp
 namespace HashLibrary.Hash
@@ -89,32 +88,6 @@ namespace HashLibrary.Hash
             var sha1 = SHA1.Create().ComputeHash(dosya.Oku());
             return BitConverter.ToString(sha1).TiresizVeKucukHarfliYaz();
 
-        }
-    }
-}
-```
-
-<div id="ara"></div>
-
-```csharp
-using System;
-using System.IO;
-using System.Security.Cryptography;
-using System.Text;
-
-namespace HashLibrary.Hash
-{
-    public class Sha256 : IHashable
-    {
-        public string Hesapla(Dosya dosya)
-        {
-            using (var sha256 = new SHA256Managed())
-            {
-                string okunanAkis = new StreamReader(dosya.Oku()).ReadToEnd();
-                byte[] encoding = Encoding.UTF8.GetBytes(okunanAkis);
-                return BitConverter.ToString(sha256.ComputeHash(encoding))
-                .TiresizVeKucukHarfliYaz();
-            }
         }
     }
 }
