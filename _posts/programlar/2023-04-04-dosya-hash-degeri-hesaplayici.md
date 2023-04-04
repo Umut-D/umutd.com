@@ -112,7 +112,8 @@ namespace HashLibrary.Hash
             {
                 string okunanAkis = new StreamReader(dosya.Oku()).ReadToEnd();
                 byte[] encoding = Encoding.UTF8.GetBytes(okunanAkis);
-                return BitConverter.ToString(sha256.ComputeHash(encoding)).TiresizVeKucukHarfliYaz();
+                return BitConverter.ToString(sha256.ComputeHash(encoding))
+                .TiresizVeKucukHarfliYaz();
             }
         }
     }
