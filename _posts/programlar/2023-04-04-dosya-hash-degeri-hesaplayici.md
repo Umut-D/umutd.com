@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Dosya Hash Değeri Hesaplayıcı
-date: 2021-07-27 11:43 +0300
+date: 2023-04-04 11:43 +0300
 categories: Programlar
-tags: Hash Değeri, Sha-1, MD5, Kontrol Kodu, Hash Hesapla
+tags: Hash Değeri, Sha-1, Sha-256, MD5, Kontrol Kodu, Hash Hesapla
 excerpt: Bundan yaklaşık bir hafta önce (programı ilk yazdığım 2017 yılında), programlarımdan birine dair eleştiri geldi. Eleştiriyi yapan kişi temel olarak programın virüs ve casus program barındırdığını söylemekte, kendince çeşitli nedenler sıralamaktaydı. Kendisine verdiğim cevaplarda programın kaynak kodlarına göz gezdirmesini ve VirusTotal sonuçlarına bakmasını istedim...
 redirect_from:
   - /programlar/dosya-hash-degeri-hesaplayici/
@@ -11,6 +11,7 @@ redirect_from:
   - /etiket/md5/
   - /etiket/sha1/
 ---
+
 ![dosya-hash-hesaplayici](/images/programlar/dosya-hash-hesaplayici.png){: width="44%"}
 
 Bundan yaklaşık bir hafta önce (programı ilk yazdığım 2017 yılında), programlarımdan birine dair eleştiri geldi. Eleştiriyi yapan kişi temel olarak programın virüs ve casus program barındırdığını söylemekte, kendince çeşitli nedenler sıralamaktaydı. Kendisine verdiğim cevaplarda programın kaynak kodlarına göz gezdirmesini ve VirusTotal sonuçlarına bakmasını istedim. Çünkü kaynak kodları apaçık ortadayken, VirusTotal sonuçlarına göre 57 ayrı virüs tarama servisinde yapılan taramaya göre de programda herhangi bir anormallik olmadığı gözükmekteydi. Nitekim VirusTotal’in virus/casus/zararlı yazılım tespit ekranında 0 / 57 yazmaktaydı.
@@ -22,92 +23,97 @@ Peki Hash nedir, yenilir mi içilir mi, gaz yapar mı? Technopat forumlarında *
 > MD5 veya SHA1 olarak sıklıkla gördüğümüz hash değeri, dosyaların parmak izi gibidir. Dosyalar, MD5 ve SHA gibi karmaşık algoritmalarla taranır ve dosyanın benzersiz bir parmak izi, yığını çıkartılır. İşte bu parmak izi aşağıdaki gibi bir şeydir: <br><br> **SHA-1 Karma Değeri**: 748AEF5EA5DC09144560F1F41649418955A83740 <br><br> Örneğin bu kod, **64 Bit Windows 10 teknik önizleme sürümünün (Windows 10 Build 9926)** ISO dosyasının SHA-1 hash değeri, yani bir nevi parmak izidir. ISO dosyasını indirdikten sonra hash kontrolü yapılır. Eğer kontrol sonunda birebir yukarıdaki değerler çıkıyorsa, indirdiğiniz dosyada herhangi bir bozukluk ya da değişiklik yok demektir. Dosyada en ufak bir değişiklik olsa dahi bu değer değişecektir.
 
 Burada bazı faydalar dikkatinizi çekecektir:
+
 - Hash sayesinde dosyaların düzgün indirilip indirilmediği öğrenilebilirsiniz.
 - Hash sayesinde dosyalarda değişiklik yapılıp yapılmadığı öğrenilebilirsiniz.
 
-Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim; bu programla dosyaların MD5 ve SHA-1 değerlerini görebilir ve bunları indirdiğiniz sitedeki hash değerleri ile karşılaştırabilirsiniz. Değerler karşı taraf ile bire bir uyuyorsa dosyada hiçbir sorun yoktur ve dosyaya dokunulmamıştır. Fakat değerler aynı değilse o dosyadan hayır yoktur. Dosya başkaları veya 3. şahıslarca değiştirilmiştir. Mümkünse dosyaya temkinli yaklaşın. Hatta dosyayı VirusTotal'e yükleyerek tarama yapın. Programın özelliklerine gelecek olursak;
+Girizgah fazla uzadı nedense. Çok mu dolmuşum ne?!?! Özet geçeyim; bu programla dosyaların MD5 ve SHA-1, SHA-256 değerlerini görebilir ve bunları indirdiğiniz sitedeki hash değerleri ile karşılaştırabilirsiniz. Değerler karşı taraf ile bire bir uyuyorsa dosyada hiçbir sorun yoktur ve dosyaya dokunulmamıştır. Fakat değerler aynı değilse o dosyadan hayır yoktur. Dosya başkaları veya 3. şahıslarca değiştirilmiştir. Mümkünse dosyaya temkinli yaklaşın. Hatta dosyayı VirusTotal'e yükleyerek tarama yapın. Programın özelliklerine gelecek olursak;
 
-* Dosyaları ilgili alanın üzerine sürükleyerek bırakarak açma,
-* MD5 değerini bulma,
-* SHA-1 değerini bulma,
-* Dosya hash eşleştirmesi yapabilme.
+- Dosyaları ilgili alanın üzerine sürükleyerek bırakarak açma,
+- MD5 değerini bulma,
+- SHA-1 değerini bulma,
+- SHA-256 değerini bulma,
+- Dosya hash eşleştirmesi yapabilme.
 
 {:.tablo-ortali}
-| Dosya Hash Değeri Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.13-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Hash Değeri Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Dosya Hash Değeri Hesaplayıcı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.14-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Dosya Hash Değeri Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
 |----------------------------------------- -|-------------------------------------------|
-| **Boyut**: 142 KB                       | **Boyut**: 165 KB                         |
-| **Gereksinimler**: .Net Framework 4     | **Gereksinimler**: .Net Framework 4     |
-| **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |
-| **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Dosya-Hash-Hesaplayici)  |
+| **Boyut**: 143 KB | **Boyut**: 400 KB |
+| **Gereksinimler**: .Net Framework 4.8 | **Gereksinimler**: .Net Framework 4.8 |
+| **Platform**: Microsoft Windows | **Programlama Dili**: C# |
+| **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Dosya-Hash-Hesaplayici) |
 
-**Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **Hash.cs**, **Sha1.cs** ve **Md5.cs** sınıflarındaki kodlar:
+**Ek** : Hash kodlarının nasıl hesaplandığını görmeye gelenler için **IHashable.cs**, **Md5.cs**, **Sha256.cs** ve **Sha1.cs** sınıflarındaki kodlar:
 
 ```csharp
+namespace HashLibrary.Hash
+{
+    public interface IHashable
+    {
+        string Hesapla(Dosya dosya);
+    }
+}
+```
+
+<div id="ara"></div>
+
+```csharp
+using System;
+using System.Security.Cryptography;
+
+namespace HashLibrary.Hash
+{
+    public class Md5 : IHashable
+    {
+        public string Hesapla(Dosya dosya)
+        {
+            var md5 = MD5.Create().ComputeHash(dosya.Oku());
+            return BitConverter.ToString(md5).TiresizVeKucukHarfliYaz();
+        }
+    }
+}
+```
+
+<div id="ara"></div>
+
+```csharp
+using System;
+using System.Security.Cryptography;
+
+namespace HashLibrary.Hash
+{
+    public class Sha1 : IHashable
+    {
+        public string Hesapla(Dosya dosya)
+        {
+            var sha1 = SHA1.Create().ComputeHash(dosya.Oku());
+            return BitConverter.ToString(sha1).TiresizVeKucukHarfliYaz();
+
+        }
+    }
+}
+```
+
+<div id="ara"></div>
+
+```csharp
+using System;
 using System.IO;
-
-namespace HashHesaplayici.Islem
-{
-    public abstract class Hash
-    {
-        public Stream DosyaOku { get; }
-        protected byte[] HashHesapla { get; set; }
-        private string _sonuc;
-
-        public string Sonuc
-        {
-            get => _sonuc.Replace("-", "");
-            set => _sonuc = value;
-        }
-
-        protected Hash(string dosyaAdi)
-        {
-            DosyaOku = new FileStream(dosyaAdi, FileMode.Open, FileAccess.Read);
-        }
-
-        public abstract void Hesapla();
-    }
-}
-```
-<div id="ara"></div>
-
-```csharp
-using System;
 using System.Security.Cryptography;
+using System.Text;
 
-namespace HashHesaplayici.Islem
+namespace HashLibrary.Hash
 {
-    public sealed class Sha1 : Hash
+    public class Sha256 : IHashable
     {
-        public Sha1(string dosyaAdi) : base(dosyaAdi)
+        public string Hesapla(Dosya dosya)
         {
-        }
-
-        public override void Hesapla()
-        {
-            HashHesapla = SHA1.Create().ComputeHash(DosyaOku);
-            Sonuc = BitConverter.ToString(HashHesapla);
-        }
-    }
-}
-```
-<div id="ara"></div>
-
-```csharp
-using System;
-using System.Security.Cryptography;
-
-namespace HashHesaplayici.Islem
-{
-    public sealed class Md5 : Hash
-    {
-        public Md5(string dosyaAdi) : base(dosyaAdi)
-        {
-        }
-
-        public override void Hesapla()
-        {
-            HashHesapla = MD5.Create().ComputeHash(DosyaOku);
-            Sonuc = BitConverter.ToString(HashHesapla);
+            using (var sha256 = new SHA256Managed())
+            {
+                string okunanAkis = new StreamReader(dosya.Oku()).ReadToEnd();
+                byte[] encoding = Encoding.UTF8.GetBytes(okunanAkis);
+                return BitConverter.ToString(sha256.ComputeHash(encoding)).TiresizVeKucukHarfliYaz();
+            }
         }
     }
 }
