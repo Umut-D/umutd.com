@@ -19,4 +19,4 @@ Başka zaman olsa "programın özelliklerine gelecek olursak" derdim. Fakat prog
 | **Boyut**: 819 KB | **Boyut**: 1.51 MB |
 | **Gereksinimler**: .Net Core 6 | **Gereksinimler**: .Net Core 6 |
 | **Platform**: Microsoft Windows | **Programlama Dili**: C# |
-| **İndir**: [Link](https://www.dropbox.com/s/qm72jn7xtsd2hxw/dosya-hash-degeri-hesaplayici.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/ycsfp8q8ad20ind/dosya-hash-degeri-hesaplayici-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Dosya-Hash-Hesaplayici) |
+| **İndir**: [Link](https://www.dropbox.com/s/6kihueomrgh1n88/hava-durumu.zip?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/rlnkcof6x0hi8yh/hava-durumu-proje.zip?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/Dosya-Hash-Hesaplayici) |
