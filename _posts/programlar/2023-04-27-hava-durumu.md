@@ -7,7 +7,7 @@ tags: Hava Durumu, Hava, OpenWeatherMap, Open Weather Map, API
 excerpt: Aslında bu programı yazmamda hiçbir anlam, gerek, ihtiyaç yoktu. "Acaba SOLID prensiplerini hatırlayabilecek miyim" deyip, bir şeyler yazayım derken OpenWeatherMap API'si kullanarak hava durumunu gösteren program yazmak aklıma geldi...
 ---
 
-![hava-durumu](/images/programlar/hava-durumu.png){: width="24%"}
+![hava-durumu](/images/programlar/hava-durumu.png){: width="25%"}
 
 Aslında bu programı yazmamda hiçbir anlam, gerek, ihtiyaç yoktu. "Acaba SOLID prensiplerini hatırlayabilecek miyim" deyip, bir şeyler yazayım derken ortaya çıktı. Hangi API'yı kullansam diye düşünürken, OpenWeatherMap API'si kullanarak hava durumunu gösteren program yazmak aklıma geldi. Programın sac ayaklarını nesneye yönelik programlama (NYP) ile de destekleyince kodlar fena gözükmemeye başladı. Sonuçta ise 1 günde yazılan basit bir cisim çıktı.
 
