@@ -14,7 +14,7 @@ Aslında bu programı yazmamda hiçbir anlam, gerek, ihtiyaç yoktu. "Acaba SOLI
 Başka zaman olsa "programın özelliklerine gelecek olursak" derdim. Fakat programın öyle ahım şahım bir özelliği yok. Tüm alameti farikası SOLID ve NYP destekli olması. Temiz kod yazmaya ayrıca özen gösterdim. Yoksa koca program sadece ve sadece JSON ile çekilen verileri dönüştürüyor ve ana ekrana yansıtıyor.
 
 {:.tablo-ortali}
-| Hava Durumu <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Hava Durumu (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
+| Hava Durumu <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Hava Durumu (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
 | **Boyut**: 819 KB | **Boyut**: 1.51 MB |
 | **Gereksinimler**: .Net Core 6 | **Gereksinimler**: .Net Core 6 |
