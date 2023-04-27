@@ -45,7 +45,7 @@ class Program
 }
 ```
 
-### Çözüm - Java
+### Çözüm - Python
 
 ```python
 import itertools
