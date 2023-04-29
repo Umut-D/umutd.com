@@ -1,7 +1,7 @@
 ---
 layout: post
 title: En Büyük İki Yaş
-date: 2023-04-29 16:02 +0300
+date: 2023-04-29 03:02 +0300
 categories: Coding-Challenges
 tags: Yaş, En Büyük Yaş, Sıralama
 excerpt: Programcıya dağınık bir şekilde verilen yaş dizisi veriliyor. Sonrasında ise dizi içindeki en yüksek iki sayıyı döndürülmesi gerektiği belirtiliyor...
