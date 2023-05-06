@@ -21,6 +21,8 @@ Programcıya bir veri akışı veriliyor. Programcıdan ise bunu tersine çevril
 
 ```csharp
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 class Program
 {
