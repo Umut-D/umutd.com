@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Veriyi Ters Çevir
+title: Sezar Şifrelemesi II
 date: 2023-05-15 03:02 +0300
 categories: Coding-Challenges
 tags: Sezar, Sezar Şifrelemesi, Şifreleme, Kriptografi
