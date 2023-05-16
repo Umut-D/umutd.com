@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Veriyi Ters Çevir
-date: 2023-04-29 03:02 +0300
+date: 2023-05-06 03:02 +0300
 categories: Coding-Challenges
 tags: Veri, Bit, Ters, Ters Sıralama
 excerpt: Programcıya bir veri akışı veriliyor. Programcıdan ise bunu tersine çevrilmesi isteniyor. Her segmentin 8 bit uzunluğunda olduğu belirtiliyor ve bu segmentlerin sırasının tersine çevrilmesi gerektiği söyleniyor...
