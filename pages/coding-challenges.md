@@ -9,7 +9,7 @@ redirect_from:
 
 Uzun zamandır aklımda olan bir şeydi Coding Challenges'a (nam-ı değer Kodlama Mücadeleleri) dair bir bölüm oluşturmak. Bahsi geçen kodlama mücadeleleri kah aklıma gelen, kah yabancı sitelerde (Talentbuddy, Codewars vb.) görüp çözdüğüm sorulardan oluşuyor. Yani çözümler tamamen bana ait ve kafama göre. En nihayetinde programcılıkta da her yiğidin kod yazış şekli, tercih ettiği metot, sistem, tasarım desenleri vs. farklı. İşin Complexity (karmaşıklık) durumlarına hiç girmeden, dağlara taşlara kod izolasyonu yapmadan üretilen çözümler bunlar. Gerçi ilgili sitelerde karmaşıklık, kod tutarlılığı gibi başlıklara bakılarak çözümler kabul ediliyor ya neyse.
 
-Ben bu soruların cevaplarımda **C#**, **Java** ve **Python** dilleriyle çözüm bulmayı tercih ediyorum. Eğer ilginiz varsa mevcut soruları sizler de kendi bildiğiniz bir programlama dilinde yapabilirsiniz. Hatta bahsi geçen [Codewars](http://www.codewars.com) ve benzeri sitelere üye olup aksiyona katılabilirsiniz. Talentbuddy ise maalesef kapandı. Çok da güzel siteydi. Neyse, aşağıda **95 tane** Coding Challenges var. Seçin beğenin alın. "Neden, Zor Seviye'den bir tane var" derseniz, zor seviye Coding Challenges'ların ingilizce ayrıntısının çok ama çok fazla olduğu belirteyim.
+Ben bu soruların cevaplarımda **C#**, **Java** ve **Python** dilleriyle çözüm bulmayı tercih ediyorum. Eğer ilginiz varsa mevcut soruları sizler de kendi bildiğiniz bir programlama dilinde yapabilirsiniz. Hatta bahsi geçen [Codewars](http://www.codewars.com) ve benzeri sitelere üye olup aksiyona katılabilirsiniz. Talentbuddy ise maalesef kapandı. Çok da güzel siteydi. Neyse, aşağıda **96 tane** Coding Challenges var. Seçin beğenin alın. "Neden, Zor Seviye'den bir tane var" derseniz, zor seviye Coding Challenges'ların ingilizce ayrıntısının çok ama çok fazla olduğu belirteyim.
 
 ### Zor Seviye
 
@@ -87,6 +87,7 @@ Ben bu soruların cevaplarımda **C#**, **Java** ve **Python** dilleriyle çöz�
 - [En Küçük Sayıyı Elde Et](/coding-challenges/en-kucuk-sayiyi-elde-et)
 - [Girilen Sayıyı Yazıya Çevir](/coding-challenges/girilen-sayiyi-yaziya-cevir)
 - [Güçlü Sayı](/coding-challenges/guclu-sayi)
+- [Günü Almanca Döndür](/coding-challenges/gunu-almanca-dondur)
 - [Haberin Özetini Göster](/coding-challenges/haberin-ozetini-goster)
 - [Harfleri Düzelt](/coding-challenges/harfleri-duzelt)
 - [Harflerin Tekrar Sayısını Yıldızla Belirt](/coding-challenges/harflerin-tekrar-sayisini-yildizla-belirt)
