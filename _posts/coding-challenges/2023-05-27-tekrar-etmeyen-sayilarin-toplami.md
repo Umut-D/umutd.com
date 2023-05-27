@@ -38,7 +38,7 @@ namespace CodingChallenges
                 .Where(s => s.Count() < 2);
 
             // Dönen gruplandırma değerinde, anahtar değerleri topla
-            Console.WriteLine(gruplandir.Sum(s => s.Key);
+            Console.WriteLine(gruplandir.Sum(s => s.Key));
 
             Console.Read();
         }
