@@ -24,13 +24,13 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a aş�
 - ~~[Fatih Belediyesi E-Hizmetler](http://www.fatih.bel.tr/icerik/10240/toplam-14000-saat-ve-16872-video/){:target="\_blank"}~~,
 - ~~[Gümüşhane Üniversitesi Eğitim Teknolojileri Uygulama ve Araştırma Merkezi](http://gunetem.gumushane.edu.tr/tr/sayfa/videolar/dreamweaver-umut-d%C3%B6kel/){:target="\_blank"}~~,
 - ~~[Erzincan Binali Yıldırım Üniversitesi Bilgi İşlem Daire Başkanlığı](https://bidb.ebyu.edu.tr/wordpress-egitimi-videolari/){:target="\_blank"}~~,
-- [Milli Eğitim Bakanlığı (MEB'de Öğren)](http://mebdeogren.meb.gov.tr/kategori.php?ID=72){:target="\_blank"} üzerinden ulaşılabilmekte.
+- ~~[Milli Eğitim Bakanlığı (MEB'de Öğren)](http://mebdeogren.meb.gov.tr/kategori.php?ID=72){:target="\_blank"} üzerinden ulaşılabilmekte.~~
 3. **Web sitesine dair haber ve yorumlara;**
 - [PCnet dergisinin (Mayıs 2015) Ayın Siteleri](/images/bahsedenler/pcnet.jpg),
 - [WebMasto Ayın Web Siteleri (Mart 2015)](http://www.webmasto.com/webmasto-ayin-web-siteleri-mart-2015){:target="\_blank"} sayfasından erişilebilmekte.
-4. **Web sitesinin (1 Mayıs 23 itibariyle);**
-- 309.817 sayfa görüntülenme,
-- 160.063 ziyaretçi,
-- 129.954 benzersiz ziyaretçi,
-- 826.942 Youtube izlenme,
-- 514.033 SanalKurs izlenme istatikleriyse bundan ibaret.
+4. **Web sitesinin (1 Haziran 23 itibariyle);**
+- 310.578 sayfa görüntülenme,
+- 160.606 ziyaretçi,
+- 130.406 benzersiz ziyaretçi,
+- 828.483 Youtube izlenme,
+- 514.733 SanalKurs izlenme istatikleriyse bundan ibaret.
