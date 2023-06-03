@@ -31,7 +31,7 @@ namespace CodingChallenges
     {
         static void Main()
         {
-            int[] sayiListesi = new[] { 1, 1, 2, 3, 1, 2, 3, 4 };
+            int[] sayiListesi = new int[] { 1, 1, 2, 3, 1, 2, 3, 4 };
             int[] silinecekSayiListesi = new int[] { 1, 3 };
 
             // Liste, silinecek sayı listesindeki içermiyorsa bu sayıları al
