@@ -57,5 +57,5 @@ for sayi in silinecek_sayi_listesi:
     while sayi in sayi_listesi:
         sayi_listesi.remove(sayi)
 
-print(sayi_listesi)
+print(sayi_listesi, sep=",")
 ```
