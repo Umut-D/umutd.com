@@ -36,7 +36,6 @@ namespace Test
             // Her bir ismin baş harfini büyük yapıp diziye dönüştür
             string[] dizi = isim.Split(' ');
 
-
             List<string> deger = new List<string>();
             // Her bir dizi değerini tek tek al
             foreach (string ad in dizi)
