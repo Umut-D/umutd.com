@@ -14,17 +14,12 @@ Tek başına dünyayı değiştirmek için yeterli güce sahip olduğunu hissett
 Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a aşık, Java ile dostluğu IntelliJ IDEA sayesinde güzelleşen, Python'un bu kadar kolay ve geniş kapsamlı olmasına hala şaşıran, C++ ile arası limoni olan, en iyi içerik yönetim sistemleri olan WordPress ve Drupal ile flört ederken hayran kaldığı Jekyll'da karar kılan, HTML5 ve CSS3'e teknolojileriyle bir şeyler oluşturmaktan büyük keyif alan, SQL Server ile onbinlerce kayıt arasında veritabanı sorgusu yaptığında "adamlar valla yapmış be" deyip takdirini esirgemeyen, canı sıkıldığında lüzumsuz programlar yazmaya çalışan, Microsoft Office ailesiyle her daim barışık olup, her yeni özelliğini öğrendiğinde aşık olduğu Adobe Photoshop'ta 62′den tavşan çizebilen, çilekeş Arsenal'i tutan bu epik kahraman, içindeki yurtdışına gitme isteğine gem vurduğu sürece işine devam etmeye kararlı Gelecekte, deniz ile karanın birleştiği uzak, yabancı bir diyarda (yazar burada Portekiz'i kastediyor) küçük ve mütevazi bir ev açıp okyanusu seyretme hayalini her daim canlı tutmaya çalışıyor.
 
 #### Ayrıca, bu Lüzumsuz İşler Müdürü'nün;
-
 1. **Yazdığı abidik gubidik programlara çeşitli indirme sitesi ve forumlarda rastlanabilmekte.**
 2. **Video derslerine;**
 - Tabi ki [Youtube](https://www.youtube.com/user/UmutDokel/about){:target="\_blank"},
 - [Sanalkurs](https://sanalkurs.net/batu2k){:target="\_blank"},
 - [Çizgi-Tagem](https://www.cizgi-tagem.org/e-kampus-egitim/){:target="\_blank"} (2 adet eğitim DVD'si var. Torrent, FTP ve Web'den indirilebilir)
-- ~~TÜBİTAK ULAKBİM sunucuları~~,
-- ~~[Fatih Belediyesi E-Hizmetler](http://www.fatih.bel.tr/icerik/10240/toplam-14000-saat-ve-16872-video/){:target="\_blank"}~~,
-- ~~[Gümüşhane Üniversitesi Eğitim Teknolojileri Uygulama ve Araştırma Merkezi](http://gunetem.gumushane.edu.tr/tr/sayfa/videolar/dreamweaver-umut-d%C3%B6kel/){:target="\_blank"}~~,
-- ~~[Erzincan Binali Yıldırım Üniversitesi Bilgi İşlem Daire Başkanlığı](https://bidb.ebyu.edu.tr/wordpress-egitimi-videolari/){:target="\_blank"}~~,
-- ~~[Milli Eğitim Bakanlığı (MEB'de Öğren)](http://mebdeogren.meb.gov.tr/kategori.php?ID=72){:target="\_blank"} üzerinden ulaşılabilmekte.~~
+- Diğer videoları ise bir zamanlar; **TÜBİTAK ULAKBİM** sunucularında, **Fatih Belediyesi** E-Hizmetler, **Gümüşhane Üniversitesi** Eğitim Teknolojileri Uygulama ve Araştırma Merkezi, **Erzincan Binali Yıldırım Üniversitesi** Bilgi İşlem Daire Başkanlığı, **Milli Eğitim Bakanlığı** (MEB'de Öğren) sayfalarında mevcuttu.
 3. **Web sitesine dair haber ve yorumlara;**
 - [PCnet dergisinin (Mayıs 2015) Ayın Siteleri](/images/bahsedenler/pcnet.jpg),
 - [WebMasto Ayın Web Siteleri (Mart 2015)](http://www.webmasto.com/webmasto-ayin-web-siteleri-mart-2015){:target="\_blank"} sayfasından erişilebilmekte.
