@@ -17,7 +17,7 @@ Programcıya ad ve soyaddan oluşan bir değer **(isim)** veriliyor. Bu noktadan
 | ------------------------ | ------------------------------ |
 | **isim**: Ali ufuk cakir | **sonuc**: A** U\*** C\*\*\*\* |
 | **isim**: Ece kalır      | **sonuc**: E** K\*\***         |
-| **isim**: ahmet Bul      | **sonuc**: A\***\* B**         |
+| **isim**: ahmet Bulduk   | **sonuc**: A\***\* B\*\*\*\*** |
 
 ### Çözüm - C#
 
