@@ -19,7 +19,7 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a aş�
 - Tabi ki [Youtube](https://www.youtube.com/user/UmutDokel/about){:target="\_blank"},
 - [Sanalkurs](https://sanalkurs.net/batu2k){:target="\_blank"},
 - [Çizgi-Tagem](https://www.cizgi-tagem.org/e-kampus-egitim/){:target="\_blank"} (2 adet eğitim DVD'si var. Torrent, FTP ve Web'den indirilebilir)
-- Diğer videoları ise bir zamanlar; **TÜBİTAK ULAKBİM** sunucularında, **Fatih Belediyesi** E-Hizmetler, **Gümüşhane Üniversitesi** Eğitim Teknolojileri Uygulama ve Araştırma Merkezi, **Erzincan Binali Yıldırım Üniversitesi** Bilgi İşlem Daire Başkanlığı, **Milli Eğitim Bakanlığı** (MEB'de Öğren) sayfalarında mevcuttu.
+- Diğer videoları ise bir zamanlar; **TÜBİTAK ULAKBİM** sunucularında, **Fatih Belediyesi** E-Hizmetler, **Gümüşhane Üniversitesi** Eğitim Teknolojileri Uygulama ve Araştırma Merkezi, **Erzincan Binali Yıldırım Üniversitesi** Bilgi İşlem Daire Başkanlığı, **Milli Eğitim Bakanlığı** (MEB'de Öğren) ve Sanalkurs (500.000'den fazla gösterim vardı en son) sayfalarında mevcuttu.
 3. **Web sitesine dair haber ve yorumlara;**
 - [PCnet dergisinin (Mayıs 2015) Ayın Siteleri](/images/bahsedenler/pcnet.jpg),
 - [WebMasto Ayın Web Siteleri (Mart 2015)](http://www.webmasto.com/webmasto-ayin-web-siteleri-mart-2015){:target="\_blank"} sayfasından erişilebilmekte.
@@ -27,5 +27,4 @@ Bilişimi, işini ve tüm hayvanatı çok seven, Microsoft'un gözdesi C#'a aş�
 - 310.578 sayfa görüntülenme,
 - 160.606 ziyaretçi,
 - 130.406 benzersiz ziyaretçi,
-- 828.483 Youtube izlenme,
-- 514.733 SanalKurs izlenme istatikleriyse bundan ibaret.
+- 828.483 Youtube izlenme istatikleriyse bundan ibaret.
