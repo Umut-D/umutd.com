@@ -9,7 +9,7 @@ excerpt: Programcıya bir sayı veriliyor ve o sayının asal sayı olup olmadı
 
 ### Soru
 
-Programcıya bir sayı (**sayi**) veriliyor ve o sayının asal sayı olup olmadığını bulması isteniyor. Ayrıca asal olmayan sayının tüm bölenlerinin de ek olarak yazdırılması gerektiği belirtiliyor.
+Programcıya bir sayı (**sayi**) veriliyor ve o sayının asal sayı olup olmadığını bulması isteniyor. Ayrıca, asal olmayan sayının tüm bölenlerinin de ek olarak yazdırılması gerektiği belirtiliyor.
 
 ### Örnek
 
