@@ -13,10 +13,10 @@ Programcıya bir sayı (**sayi**) veriliyor ve o sayının asal sayı olup olmad
 
 ### Örnek
 
-| Girdi        | Çıktı                                               |
-| ------------ | --------------------------------------------------- |
-| **sayi**: 17 | **sonuc**: Asal sayıdır                             |
-| **isim**: 18 | **sonuc**: Asal sayı değil. Bölenler: 1, 2, 3, 6, 9 |
+| Girdi        | Çıktı                                                   |
+| ------------ | ------------------------------------------------------- |
+| **sayi**: 17 | **sonuc**: Asal sayıdır                                 |
+| **isim**: 18 | **sonuc**: Asal sayı değil. Tam bölenler: 1, 2, 3, 6, 9 |
 
 ### Çözüm - C#
 
