@@ -18,7 +18,7 @@ C#'la birlikte gelen FileSystemWatcher sınıfı işimi bir hayli kolaylaştırd
 {:.tablo-ortali}
 | İndirilenleri Otomatik Taşı <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | İndirilenleri Otomatik Taşı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
-| **Boyut**: 819 KB | **Boyut**: 1.51 MB |
+| **Boyut**: 67.3 KB | **Boyut**: 370 KB |
 | **Gereksinimler**: .Net Core 6 | **Gereksinimler**: .Net Core 6 |
 | **Platform**: Microsoft Windows | **Programlama Dili**: C# |
 | **İndir**: [Link](https://www.dropbox.com/s/tjutt58yjxsh6b9/indirilenleri-otomatik-tasi.rar?dl=1) | **İndir**: [Link](https://www.dropbox.com/s/sh1j8dpottlfst3/indirilenleri-otomatik-tasi-proje.rar?dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/IndirilenleriOtomatikTasi) |
