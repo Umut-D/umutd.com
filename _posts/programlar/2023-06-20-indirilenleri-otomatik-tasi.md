@@ -7,7 +7,7 @@ tags: Indirilen, Downloads, File Watcher, Dosya Hareketi, Dosya Hareketleri İzl
 excerpt: Bir iş için lazım diyerek yazdığım bir başka program. Hep derim, programlama ile yeni şeyler üretmek ve yeri geldiğinde işlerinizi otomatikleştirmeniz gerek. Böylelikle kod pratiği yapabilir ve öğrendiklerinizi pekiştirebilirsiniz...
 ---
 
-![indirilenleri-otomatik-tasi](/images/programlar/indirilenleri-otomatik-tasi.png){: width="45%"}
+![indirilenleri-otomatik-tasi](/images/programlar/indirilenleri-otomatik-tasi.png){: width="32%"}
 
 Bir iş için lazım diyerek yazdığım bir başka program. Hep derim, programlama ile yeni şeyler üretmek ve yeri geldiğinde işlerinizi otomatikleştirmeniz gerek. Böylelikle kod pratiği yapabilir ve öğrendiklerinizi pekiştirebilirsiniz.
 
