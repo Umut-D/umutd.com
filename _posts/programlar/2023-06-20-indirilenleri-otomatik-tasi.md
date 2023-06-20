@@ -1,6 +1,6 @@
 ---
 layout: post
-title: İndirilenleri Otomatik Taşı
+title: Indirilenleri Otomatik Taşı
 date: 2023-06-20 14:43 +0300
 categories: Programlar
 tags: Indirilen, Downloads, File Watcher, Dosya Hareketi, Dosya Hareketleri İzleme
