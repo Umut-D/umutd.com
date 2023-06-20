@@ -58,7 +58,7 @@ Ve son olarak, ben bu arayüz tasarımı işini sahiden beceremiyorum. Estetik s
 - [Çoklu Karekod (QR Kodu) Oluştur](/programlar/coklu-karekod-olustur)
 - [Fotoğraf Adlarını Tarihle Değiştir](/programlar/fotograf-adlarini-tarihle-degistir)
 - ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [IPTV Editor](/programlar/iptv-editor)
-- ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [IPTV Editor](/programlar/indirilenleri-otomatik-tasi)
+- ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [İndirilenleri Otomatik Taşı](/programlar/indirilenleri-otomatik-tasi)
 - [Kaza Namazı Çetelesi](/programlar/kaza-namazi-cetelesi)
 - [Pomodoro Zamanlayıcı](/programlar/pomodoro-zamanlayici)
 - [Resim Döndür](/programlar/resim-dondur)
