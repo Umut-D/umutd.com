@@ -4,7 +4,7 @@ title: Indirilenleri Otomatik Taşı
 date: 2023-06-20 14:43 +0300
 categories: Programlar
 tags: Indirilen, Downloads, File Watcher, Dosya Hareketi, Dosya Hareketleri İzleme
-excerpt: "Bir iş için lazım" diyerek yazdığım bir başka program. Hep derim, programlama ile yeni şeyler üretmek ve yeri geldiğinde işlerinizi otomatikleştirmeniz gerek. Böylelikle kod pratiği yapabilir ve öğrendiklerinizi pekiştirebilirsiniz...
+excerpt: Bir iş için lazım diyerek yazdığım bir başka program. Hep derim, programlama ile yeni şeyler üretmek ve yeri geldiğinde işlerinizi otomatikleştirmeniz gerek. Böylelikle kod pratiği yapabilir ve öğrendiklerinizi pekiştirebilirsiniz...
 ---
 
 ![indirilenleri-otomatik-tasi](/images/programlar/indirilenleri-otomatik-tasi.png){: width="25%"}
