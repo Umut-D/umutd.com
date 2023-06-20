@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bana Şifre Oluştur
-date: 2023-06-20 18:02 +0300
+date: 2023-06-24 00:02 +0300
 categories: Coding-Challenges
 tags: Rastgele, Random, Şifre
 excerpt: Programcıya; büyük ve küçük harflerden, rakamlardan ve özel karakterlerden oluşan bir şifre oluşturucu yazma görevi veriliyor. Buna ek olarak ise; kullanıcının girdiği adetlere göre hazırlanan bu şifrenin dağınık sırada olması isteniyor...
@@ -13,9 +13,9 @@ Programcıya; büyük ve küçük harflerden, rakamlardan ve özel karakterlerde
 
 ### Örnek
 
-| Girdi                                                                                                  | Çıktı           |
-| ------------------------------------------------------------------------------------------------------ | --------------- |
-| **kucukHarfAdedi**: 1 <br> **buyukHarfAdedi**: 1 <br> **rakamAdedi**: 1 <br> **ozelKarakterAdedi**: 1, | **sonuc**: ?a2P |
+| Girdi                                                                                                 | Çıktı           |
+| ----------------------------------------------------------------------------------------------------- | --------------- |
+| **kucukHarfAdedi**: 1 <br> **buyukHarfAdedi**: 1 <br> **rakamAdedi**: 1 <br> **ozelKarakterAdedi**: 1 | **sonuc**: ?a2P |
 
 ### Çözüm - C#
 
