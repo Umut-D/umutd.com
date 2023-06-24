@@ -4,12 +4,12 @@ title: Bana Şifre Oluştur
 date: 2023-06-24 00:02 +0300
 categories: Coding-Challenges
 tags: Rastgele, Random, Şifre
-excerpt: Programcıya; büyük ve küçük harflerden, rakamlardan ve özel karakterlerden oluşan bir şifre oluşturucu yazma görevi veriliyor. Buna ek olarak ise; kullanıcının girdiği adetlere göre hazırlanan bu şifrenin dağınık sırada olması isteniyor...
+excerpt: Programcıya; büyük ve küçük harflerden, rakamlardan ve özel karakterlerden oluşan bir şifre oluşturucu yazma görevi veriliyor. Buna ek olaraksa; kullanıcının girdiği adetlere göre hazırlanan bu şifrenin dağınık sırada olması isteniyor...
 ---
 
 ### Soru
 
-Programcıya; büyük ve küçük harflerden, rakamlardan ve özel karakterlerden oluşan bir şifre oluşturucu yazma görevi veriliyor. Buna ek olarak ise; kullanıcının girdiği adetlere göre hazırlanan bu şifrenin dağınık sırada olması isteniyor.
+Programcıya; büyük ve küçük harflerden, rakamlardan ve özel karakterlerden oluşan bir şifre oluşturucu yazma görevi veriliyor. Buna ek olaraksa; kullanıcının girdiği adetlere göre hazırlanan bu şifrenin dağınık sırada olması isteniyor.
 
 ### Örnek
 
