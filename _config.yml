@@ -40,7 +40,7 @@ plainwhite:
 
 # Build settings
 markdown: kramdown
-remote_theme: samarsault/plainwhite-jekyll
+remote_theme: plainwhite-jekyll
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
