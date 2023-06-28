@@ -21,7 +21,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://umutd.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title
 lang: tr_TR
-theme: plainwhite
 
 # Plainwite ayarları
 plainwhite:
