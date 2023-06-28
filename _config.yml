@@ -30,6 +30,7 @@ plainwhite:
   analytics_id: "UA-39578410-1"
   sitemap: true
   show_excerpts: true
+  dark_mode: true
 
   social_links:
     stack_overflow: umut-d
