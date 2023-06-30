@@ -61,7 +61,6 @@ namespace Test
 
 ```python
 girilenIp = "1.1.1.1"
-
 ip_dizisi = girilenIp.split('.')
 
 # Dizideki tüm değerleri parça parça sayıya dönüştür
