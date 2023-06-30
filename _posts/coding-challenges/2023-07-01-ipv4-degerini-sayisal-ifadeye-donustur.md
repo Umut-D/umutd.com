@@ -62,23 +62,23 @@ namespace Test
 ```python
 girilenIp = "1.1.1.1"
 
-ipDizisi = girilenIp.split('.')
-uzunluk = len(ipDizisi)
+ip_dizisi = girilenIp.split('.')
+uzunluk = len(ip_dizisi)
 
 # Dizideki tüm değerleri parça parça sayıya dönüştür
 octetler = []
-for ip in ipDizisi:
+for ip in ip_dizisi:
     octetler.append(int(ip))
 
 # Dönüştürülen değerleri tek tek binary koduna dönüştür
-donusturulenDegerler = []
+donusturulen_degerler = []
 for deger in octetler:
-    donusturulenDegerler.append(f'{deger:08b}')
+    donusturulen_degerler.append(f'{deger:08b}')
 
 # Dört dilim olan octetlerin hepsini tek parça haline getir
-tumOctetler = str.join("", donusturulenDegerler)
+tum_octetler = str.join("", donusturulen_degerler)
 
 # Octetleri sayısal ifadeye dönüştürerek binary olarak topla
-toplam = int(tumOctetler, 2)
+toplam = int(tum_octetler, 2)
 print(f"Toplam: {toplam}")
 ```
