@@ -63,7 +63,6 @@ namespace Test
 girilenIp = "1.1.1.1"
 
 ip_dizisi = girilenIp.split('.')
-uzunluk = len(ip_dizisi)
 
 # Dizideki tüm değerleri parça parça sayıya dönüştür
 octetler = []
