@@ -60,7 +60,7 @@ namespace Test
 ### Çözüm - Python
 
 ```python
-girilenIp = "1.1.1.1"
+girilenIp = "128.32.10.1"
 ip_dizisi = girilenIp.split('.')
 
 # Dizideki tüm değerleri parça parça sayıya dönüştür
