@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IPv4 Değerini Sayısal İfadeye Dönüştür
-date: 2023-07-01 00:02 +0300
+date: 2023-07-01 01:02 +0300
 categories: Coding-Challenges
 tags: Dönüşüm, IPv4, Octet
 excerpt: Programcıya; bir IPv4 değeri veriliyor. Bu IP değerinin, 4 ayrı oktetten ve byte değerlerden oluştuğu biliniyor. Bu noktada ise programdan; her bir oktet değerinin binary gösterimini (Örn. 128 ifadesi binary olarak 10000000, 1 ifadesi ise 00000001'dir gibi) elde ederek 4 ayrı oktetin sayısal (int olarak) toplamını elde etmesi isteniyor...
