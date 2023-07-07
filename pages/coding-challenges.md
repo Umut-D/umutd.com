@@ -98,6 +98,7 @@ Ben bu soruların cevaplarımda **C#**, **Java** ve **Python** dilleriyle çöz�
 - [İki Metini Tek Metin Haline Getir](/coding-challenges/iki-metini-tek-metin-haline-getir)
 - [İsimleri Yıldızlı Yaz](/coding-challenges/isimleri-yildizli-yaz)
 - [İstenen Öğeleri Listeden Kaldır](/coding-challenges/istenen-ogeleri-listeden-kaldir)
+- [Kartezyen Komşular](/coding-challenges/kartezyen-komsular)
 - [Kelime Bir İzogram Mı?](/coding-challenges/kelime-bir-izogram-mi)
 - [Kelimeleri Uzunluklarına Göre Sırala](/coding-challenges/kelimeleri-uzunluklarina-gore-sirala)
 - [Kredi Kartı Numarasını Maskele](/coding-challenges/kredi-karti-numarasini-maskele)
