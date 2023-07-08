@@ -48,8 +48,7 @@ namespace CodingChallenges
             foreach (int[] ints in koordinatlar)
             {
                 // İki koleksiyonu karşılaştırarak tüm elemanların aynı dizilimde olduğuna bak
-                var sekans = new[] { x, y }
-            .SequenceEqual(new[] { ints[0], ints[1] });
+                var sekans = new[] { x, y }.SequenceEqual(new[] { ints[0], ints[1] });
                 if (sekans)
                     continue;
 
