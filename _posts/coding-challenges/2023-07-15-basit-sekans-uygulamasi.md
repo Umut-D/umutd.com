@@ -64,6 +64,8 @@ namespace CodingChallenges
 }
 ```
 
+### Çözüm - Python
+
 ```python
 import math
 
