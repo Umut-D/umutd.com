@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basit Sekans Uygulaması
-date: 2023-07-08 03:02 +0300
+date: 2023-07-15 03:02 +0300
 categories: Coding-Challenges
 tags: Sekans, Dizi, İlerleme
 excerpt: Programcıdan n'inci terim de dahil olmak üzere, 0'dan n'ye kadar olan sayıların toplamını diziye aktaran bir uygulama yazması isteniyor. Negatif sayının negatif, pozitif sayınınsa pozitif bir dizide olması gerektiği not düşülüyor...
