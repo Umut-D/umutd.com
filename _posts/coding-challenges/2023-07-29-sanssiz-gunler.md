@@ -15,10 +15,10 @@ Programcıdan, belirli bir yılda kaç tane şanssız gün (13. Cuma) olduğunu 
 
 ### Örnek
 
-| Girdi                    | Çıktı        |
-| ------------------------ | ------------ |
-| **girilenSayi**: 2015    | **sonuc**: 3 |
-| **girilenSayi**: 1986 -> | **sonuc**: 1 |
+| Girdi                 | Çıktı        |
+| --------------------- | ------------ |
+| **girilenSayi**: 2015 | **sonuc**: 3 |
+| **girilenSayi**: 1986 | **sonuc**: 1 |
 
 ### Çözüm - C#
 
