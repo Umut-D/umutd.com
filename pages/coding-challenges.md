@@ -122,6 +122,7 @@ Ben bu soruların cevaplarımda **C#**, **Java** ve **Python** dilleriyle çöz�
 - [Tekrar Etmeyen Sayıların Toplamı](/coding-challenges/tekrar-etmeyen-sayilarin-toplami)
 - [Toplam ve Ortalamayı Sınıf Oluşturarak Bul](/coding-challenges/toplam-ve-ortalamayı-sınıf-oluşturarak-bul)
 - [Tuz Buz](/coding-challenges/tuz-buz)
+- [Türkiye'nin 81 İlindeki Harf Adedi](/coding-challenges/turkiyenin-81-ilindeki-harf-adedi)
 - [Uğursuz Günler](/coding-challenges/sanssiz-gunler)
 - [Ziyaretçi Sayıları](/coding-challenges/ziyaretci-siralamasi)
 - [Ziyaretçi Sayısı Tahmini](/coding-challenges/ziyaretci-sayisi-tahmini)
