@@ -7,7 +7,7 @@ tags: Borsa, Hisse Senetleri, Hisse, BIST, Menkul Kıymet, Canli Borsa
 excerpt: En sürüncemede kalan programım. Tatildir, iştir, lüzumsuz şeylerdir araya girince neredeyse 2.5 ayda yazabildim. Sahi niye böyle oldu. Yazdım, kodları unuttum. Yazdım, programı yazdığımı unuttum. Yazdım, "hemen her bir şey nesneye yönelik programlamaya yönelik olsun" diyerek uzattıkça uzattım. Ve yazdım, Unit Test de ekleyeyim dedim...
 ---
 
-![hisse-senetlerim](/images/programlar/hisse-senetlerim.png){: width="32%"}
+![hisse-senetlerim](/images/programlar/hisse-senetlerim.png){: width="65%"}
 
 En sürüncemede kalan programım. Tatildir, iştir, lüzumsuz şeylerdir araya girince neredeyse 2.5 ayda yazabildim. Sahi niye böyle oldu. Yazdım, kodları unuttum. Yazdım, programı yazdığımı unuttum. Yazdım, "hemen her bir şey nesneye yönelik programlamaya yönelik olsun" diyerek uzattıkça uzattım. Ve yazdım, Unit Test de ekleyeyim dedim.
 
