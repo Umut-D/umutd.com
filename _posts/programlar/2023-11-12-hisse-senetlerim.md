@@ -20,7 +20,7 @@ Program, telefonda uygulamasını kullandığım (gerçi stop-loss özelliği ol
 {:.tablo-ortali}
 | Hisse Senetlerim <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Hisse Senetlerim (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
-| **Boyut**: 67.3 KB | **Boyut**: 370 KB |
+| **Boyut**: 755 KB | **Boyut**: 4.58 MB |
 | **Gereksinimler**: .Net Core 6 | **Gereksinimler**: .Net Core 6 |
 | **Platform**: Microsoft Windows | **Programlama Dili**: C# |
 | **İndir**: [Link](https://www.dropbox.com/scl/fi/q1s1vnhy33n4tsz748fo4/hisse-senetlerim.zip?rlkey=0706vacy48t1p14ta2oa1ou2f&dl=1) | **İndir**: [Link](https://www.dropbox.com/scl/fi/iol097mg2jmz4pr7yw8cq/hisse-senetlerim-proje.zip?rlkey=vcavr4cnlwokuepqigjbjtqey&dl=1) <br> **GitHub**: [Link](https://github.com/Umut-D/HisseSenetlerim) |
