@@ -15,13 +15,13 @@ Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kü
 
 Paketi kurduktan sonra aşağıdaki import işlemini yapınız: <br>
 
-**from app.dosya.depremler import Depremler**<br>
+from app.dosya.depremler import Depremler<br>
 
 Ardından aşağıdaki komutları kullanınız:<br>
 
 (Tarih ve Saat, Konum, Şiddet, Enlem, Boylam, Derinlik) şeklinde olan verileri;<br>
 
-\_dizi olarak göstermek için -> [['2024-02-25 08:56:38', 'Serik (Antalya)', '2.6', '37.24139', '30.95028', '21.78']]...<br>
+dizi olarak göstermek için -> [['2024-02-25 08:56:38', 'Serik (Antalya)', '2.6', '37.24139', '30.95028', '21.78']]...<br>
 
 ```python
 depremler = Depremler()
