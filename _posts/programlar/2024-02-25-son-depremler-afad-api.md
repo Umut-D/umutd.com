@@ -41,4 +41,4 @@ depremler.duzenli_veriler()
 | Son Depremler AFAD API (Github) <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Son Depremler AFAD API (PyPI.org)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
 | **Platform**: Tüm platformlar | **Programlama Dili**: Python |
-| **Link**: [Link]() | **Link**: [Link]() |
+| **Link**: [Link](https://github.com/umut-d/son-depremler-afad-api) | **Link**: [Link](https://pypi.org/project/son-depremler-afad-api/1.0.0/) |
