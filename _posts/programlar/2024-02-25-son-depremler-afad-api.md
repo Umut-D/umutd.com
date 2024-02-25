@@ -11,27 +11,26 @@ excerpt: Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin mod
 
 Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kütüphanesi olması. Sağolsun PyPI.org da bu altyapıyı çok güzel oluşturmuş. Kodunu yazıyorsun, karşıya yüklüyorsun. Sonrasında API, istenilen projede kullanıma hazır. Ben de bu gazla AFAD'ın resmi web sayfasında JSON olarak paylaştığı son depremleri çeken bir API oluşturmak istedim. Son 24 saatte Türkiye'de olan depremleri gösteriyor. Fazladan içine Unit Testler de ekledim. Temiz kodla yazmaya dikkat ederken böyle bir şey çıktı.
 
-Nasıl kullanılır:
+<b>Nasıl kullanılır:</b>
 
-- Paketi kurduktan sonra aşağıdaki import işlemini yapınız: <br>
+Paketi kurduktan sonra aşağıdaki import işlemini yapınız: <br>
 
 ```python
-from app.dosya.depremler import Depremler<br>
+from app.dosya.depremler import Depremler
 ```
 
-<br>
-- Ardından aşağıdaki komutları kullanınız:<br>
+Ardından aşağıdaki komutları kullanınız:<br>
 
 (Tarih ve Saat, Konum, Şiddet, Enlem, Boylam, Derinlik) şeklinde olan verileri;<br>
 
-dizi olarak göstermek için -> [['2024-02-25 08:56:38', 'Serik (Antalya)', '2.6', '37.24139', '30.95028', '21.78']]...<br>
+- dizi olarak göstermek için -> [['2024-02-25 08:56:38', 'Serik (Antalya)', '2.6', '37.24139', '30.95028', '21.78']]...<br>
 
 ```python
 depremler = Depremler()
 json_veriler = depremler.json_veriler()
 ```
 
-satır satır yazdırmak için -> 2024-02-25 08:56:38 - Serik (Antalya) - 2.6 - 37.24139 - 30.95028 - 21.78<br>
+- satır satır yazdırmak için -> 2024-02-25 08:56:38 - Serik (Antalya) - 2.6 - 37.24139 - 30.95028 - 21.78<br>
 
 ```python
 depremler = Depremler()
