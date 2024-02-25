@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Son Depremler AFAD API
+title: Son Depremler AFAD (API)
 date: 2024-02-25 03:43 +0300
 categories: Programlar
 tags: AFAD, Son Depremler, Deprem
