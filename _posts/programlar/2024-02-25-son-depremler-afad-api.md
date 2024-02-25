@@ -9,7 +9,7 @@ excerpt: Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin mod
 
 ![son-depremler-afad-api](/images/programlar/son-depremler-afad-api.png){: width="65%"}
 
-Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kütüphanesi olması. Sağolsun PyPI.org da bu altyapıyı çok güzel oluşturmuş. Kodunu yazıyorsun, karşıya yüklüyorsun. Sonrasında API, istenilen projede kullanıma hazır. Ben de bu gazla AFAD'ın resmi web sayfasında JSON olarak paylaştığı son depremleri çeken bir API oluşturmak istedim. Son 24 saatte Türkiye'de olan depremleri gösteriyor. Fazladan içine Unit Testler de ekledim. Temiz kodla yazmaya dikkat ederken böyle bir şey çıktı.
+Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kütüphanesi olması. Sağolsun PyPI.org da bu altyapıyı çok güzel oluşturmuş. Kodunu yazıyorsun, karşıya yüklüyorsun. Sonrasında API, istenilen projede kullanıma hazır. Ben de bu gazla AFAD'ın resmi web sayfasında JSON olarak paylaştığı son depremleri çeken bir API oluşturmak istedim. Son 24 saatte Türkiye'de olan depremleri hem liste hem de sıralı düz yazı olarak gösteriyor. Fazladan içine Unit Testler de ekledim.
 
 <b>Nasıl kullanılır:</b>
 
@@ -25,7 +25,7 @@ from app.dosya.depremler import Depremler
 
 ```python
 depremler = Depremler()
-json_veriler = depremler.json_veriler()
+json_veriler = depremler.veriler()
 ```
 
 - satır satır yazdırmak için -> 2024-02-25 08:56:38 - Serik (Antalya) - 2.6 - 37.24139 - 30.95028 - 21.78<br>
