@@ -13,11 +13,14 @@ Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kü
 
 Nasıl kullanılır:
 
-Paketi kurduktan sonra aşağıdaki import işlemini yapınız: <br>
+- Paketi kurduktan sonra aşağıdaki import işlemini yapınız: <br>
 
+```python
 from app.dosya.depremler import Depremler<br>
+```
 
-Ardından aşağıdaki komutları kullanınız:<br>
+<br>
+- Ardından aşağıdaki komutları kullanınız:<br>
 
 (Tarih ve Saat, Konum, Şiddet, Enlem, Boylam, Derinlik) şeklinde olan verileri;<br>
 
