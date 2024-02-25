@@ -4,7 +4,7 @@ title: Son Depremler AFAD API
 date: 2024-02-25 03:43 +0300
 categories: Programlar
 tags: AFAD, Son Depremler, Deprem
-excerpt: ...
+excerpt: Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kütüphanesi olması. Sağolsun PyPI.org da bu altyapıyı çok güzel oluşturmuş. Kodunu yazıyorsun, karşıya yüklüyorsu...
 ---
 
 ![son-depremler-afad-api](/images/programlar/son-depremler-afad-api.png){: width="65%"}
