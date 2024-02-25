@@ -19,9 +19,7 @@ Paketi kurduktan sonra aşağıdaki import işlemini yapınız: <br>
 from app.dosya.depremler import Depremler
 ```
 
-Ardından aşağıdaki komutları kullanınız:<br>
-
-(Tarih ve Saat, Konum, Şiddet, Enlem, Boylam, Derinlik) şeklinde olan verileri;<br>
+"Tarih ve Saat, Konum, Şiddet, Enlem, Boylam, Derinlik" şeklinde olan verileri;<br>
 
 - dizi olarak göstermek için -> [['2024-02-25 08:56:38', 'Serik (Antalya)', '2.6', '37.24139', '30.95028', '21.78']]...<br>
 
