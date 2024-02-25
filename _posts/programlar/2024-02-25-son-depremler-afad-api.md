@@ -36,6 +36,7 @@ depremler.duzenli_veriler()
 ```
 
 <br>
+
 {:.tablo-ortali}
 | Son Depremler AFAD (API) (Github) <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Son Depremler AFAD (API) (PyPI.org)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
 |----------------------------------------- -|-------------------------------------------|
