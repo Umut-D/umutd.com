@@ -13,27 +13,29 @@ Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kü
 
 ### Nasıl kullanılır:
 
-_Paketi kurduktan sonra aşağıdaki import işlemini yapınız:_ <br>
+Paketi kurduktan sonra aşağıdaki import işlemini yapınız: <br>
 
 **from app.dosya.depremler import Depremler**<br>
 
-_Ardından aşağıdaki komutları kullanınız:_<br>
+Ardından aşağıdaki komutları kullanınız:<br>
 
-_(Tarih ve Saat, Konum, Şiddet, Enlem, Boylam, Derinlik) şeklinde olan verileri;_<br>
+(Tarih ve Saat, Konum, Şiddet, Enlem, Boylam, Derinlik) şeklinde olan verileri;<br>
 
-_dizi olarak göstermek için -> [['2024-02-25 08:56:38', 'Serik (Antalya)', '2.6', '37.24139', '30.95028', '21.78']]..._<br>
+\_dizi olarak göstermek için -> [['2024-02-25 08:56:38', 'Serik (Antalya)', '2.6', '37.24139', '30.95028', '21.78']]...<br>
 
 ```python
 depremler = Depremler()
 json_veriler = depremler.json_veriler()
 ```
 
-_satır satır yazdırmak için -> 2024-02-25 08:56:38 - Serik (Antalya) - 2.6 - 37.24139 - 30.95028 - 21.78_<br>
+satır satır yazdırmak için -> 2024-02-25 08:56:38 - Serik (Antalya) - 2.6 - 37.24139 - 30.95028 - 21.78<br>
 
 ```python
 depremler = Depremler()
 depremler.duzenli_veriler()
 ```
+
+<br>
 
 {:.tablo-ortali}
 | Son Depremler AFAD API (Github) <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Son Depremler AFAD API (PyPI.org)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
