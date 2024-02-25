@@ -11,7 +11,7 @@ excerpt: Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin mod
 
 Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kütüphanesi olması. Sağolsun PyPI.org da bu altyapıyı çok güzel oluşturmuş. Kodunu yazıyorsun, karşıya yüklüyorsun. Sonrasında API, istenilen projede kullanıma hazır. Ben de bu gazla AFAD'ın resmi web sayfasında JSON olarak paylaştığı son depremleri çeken bir API oluşturmak istedim. Son 24 saatte Türkiye'de olan depremleri gösteriyor. Fazladan içine Unit Testler de ekledim. Temiz kodla yazmaya dikkat ederken böyle bir şey çıktı.
 
-### Nasıl kullanılır:
+Nasıl kullanılır:
 
 Paketi kurduktan sonra aşağıdaki import işlemini yapınız: <br>
 
