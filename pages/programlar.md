@@ -40,6 +40,7 @@ Ve son olarak, ben bu arayüz tasarımı işini sahiden beceremiyorum. Estetik s
 - ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [RSS Takip](/programlar/rss-takip)
 - [Site IP Sorgula](/programlar/site-ip-sorgula)
 - ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Son Depremler](/programlar/son-depremler)
+- ![API](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Son Depremler AFAD API](/programlar/son-depremler-afad-api)
 
 {:.program-baslik}
 
