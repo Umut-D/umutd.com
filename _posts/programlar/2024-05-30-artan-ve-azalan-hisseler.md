@@ -13,7 +13,7 @@ Az kodla çok iş yapılan Python'da basit bir kod parçasıyla web scraping ve 
 
 Aslında okuduğum bir yatırım kitabında "en çok yükselen ve düşen hisselerin olduğu alana bakmayın. Hatta o alan ekranınızdan kaldırın" yazıyordu. Oldum olası bu alanlara bakmasam, hatta bakmayı sevmesem de, buna bakan kişiler olduğunu tahmin ediyorum. Bu nedenle de Borsa İstanbul'da (BIST) en çok yükselen ve alçalan hisseleri, istenen değere göre gösteren bir program yazmak istedim.
 
-Kodları çalıştırmak için https://replit.com sitesini öneririm. Buradaki veya Github'a eklediğim kodu kopyalarak kodları yürütebilirsiniz. Ayrıyetten, tüm bilgileri Midas'ın web sitesinden çektiğimi ve verilerin (seans vaktinde) 15 dakika gecikmeli olduğunu belirtmek isterim.
+Kodları çalıştırmak için [Repl.it](https://https://replit.com) sitesini öneririm. Buradaki veya Github'a eklediğim kodu kopyalarak kodları yürütebilirsiniz. Ayrıyetten, tüm bilgileri Midas'ın web sitesinden çektiğimi ve verilerin (seans vaktinde) 15 dakika gecikmeli olduğunu belirtmek isterim.
 
 ```python
 import datetime
