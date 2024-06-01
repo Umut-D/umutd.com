@@ -93,5 +93,5 @@ def hisseleri_yazdir(oran: float):
 
 
 if __name__ == "__main__":
-    hisseleri_yazdir(-8)
+    hisseleri_yazdir(-7)
 ```
