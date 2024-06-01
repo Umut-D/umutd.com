@@ -16,8 +16,11 @@ Aslında okuduğum bir yatırım kitabında "en çok yükselen ve düşen hissel
 Kodları çalıştırmak için [Repl.it](https://https://replit.com) sitesini öneririm. Buradaki veya Github'a eklediğim kodu kopyalarak kodları yürütebilirsiniz. Ayrıyetten, tüm bilgileri Midas'ın web sitesinden çektiğimi ve verilerin (seans vaktinde) 15 dakika gecikmeli olduğunu belirtmek isterim.
 
 ```python
+# pylint: disable=missing-module-docstring
+# pylint: disable=missing-function-docstring
 import datetime
 import locale
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -65,7 +68,15 @@ def _verileri_indeksle(oran: float):
 
 
 def _bugun():
-    return datetime.date.today().strftime("%d.%m.%Y %A")
+    mevcut_gun = datetime.date.today()
+    gun = ""
+
+    if mevcut_gun.weekday() == 5:
+        gun = mevcut_gun - datetime.timedelta(days=1)
+    elif mevcut_gun.weekday() == 6:
+        gun = mevcut_gun - datetime.timedelta(days=2)
+
+    return gun.strftime("%d.%m.%Y %A")
 
 
 def hisseleri_yazdir(oran: float):
@@ -82,5 +93,5 @@ def hisseleri_yazdir(oran: float):
 
 
 if __name__ == "__main__":
-    hisseleri_yazdir(-7.5)
+    hisseleri_yazdir(-8)
 ```
