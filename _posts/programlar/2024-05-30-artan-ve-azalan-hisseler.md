@@ -16,11 +16,6 @@ Aslında okuduğum bir yatırım kitabında "en çok yükselen ve düşen hissel
 Kodları çalıştırmak için [Repl.it](https://replit.com) sitesini öneririm. Buradaki veya Github'a eklediğim kodu kopyalarak kodları yürütebilirsiniz. Ayrıyetten, tüm bilgileri Midas'ın web sitesinden çektiğimi ve verilerin (seans vaktinde) 15 dakika gecikmeli olduğunu belirtmek isterim.
 
 ```python
-# pylint: disable=missing-module-docstring
-# pylint: disable=missing-class-docstring
-# pylint: disable=missing-function-docstring
-# pylint: disable=line-too-long
-# pylint: disable=invalid-name
 import datetime
 import locale
 import bs4
