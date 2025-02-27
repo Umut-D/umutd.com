@@ -15,6 +15,8 @@ Aslında okuduğum bir yatırım kitabında "en çok yükselen ve düşen hissel
 
 Kodları çalıştırmak için [Repl.it](https://replit.com) sitesini öneririm. Buradaki veya Github'a eklediğim kodu kopyalarak kodları yürütebilirsiniz. Ayrıyetten, tüm bilgileri Midas'ın web sitesinden çektiğimi ve verilerin (seans vaktinde) 15 dakika gecikmeli olduğunu belirtmek isterim.
 
+**\*** İlk versiyonda Python'daki Request modülüyle veri çekiyordu. Ancak Midas web sitesi bu modüle engelleme getirdiği için kodlar çalışmamaya başlamıştı. Cloudflare'in anti-bot sayfasını atlamak için cloudscraper'a geçtim. Kodlar yine çalışmaya başladı.<br>
+
 ```python
 import datetime
 import locale
