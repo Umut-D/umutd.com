@@ -16,25 +16,32 @@ Aslında okuduğum bir yatırım kitabında "en çok yükselen ve düşen hissel
 Kodları çalıştırmak için [Repl.it](https://replit.com) sitesini öneririm. Buradaki veya Github'a eklediğim kodu kopyalarak kodları yürütebilirsiniz. Ayrıyetten, tüm bilgileri Midas'ın web sitesinden çektiğimi ve verilerin (seans vaktinde) 15 dakika gecikmeli olduğunu belirtmek isterim.
 
 ```python
+# pylint: disable=missing-module-docstring
+# pylint: disable=missing-class-docstring
+# pylint: disable=missing-function-docstring
+# pylint: disable=line-too-long
+# pylint: disable=invalid-name
 import datetime
 import locale
-import requests
-from bs4 import BeautifulSoup
+import bs4
+import cloudscraper
 
 locale.setlocale(locale.LC_ALL, 'TR-tr.UTF-8')
-BUTUN_HISSELER = "https://www.getmidas.com/canli-borsa/en-cok-artan-hisseler"
+URL = "https://www.getmidas.com/canli-borsa/en-cok-artan-hisseler"
 
 
 def _web_sayfasini_indir() -> str:
-    with requests.get(BUTUN_HISSELER, timeout=5) as web_sayfasi:
-        if web_sayfasi.status_code != 200:
-            raise requests.RequestException("Web sayfası indirilemedi! İnternetiniz var mı?")
-
-    return web_sayfasi.text
+    try:
+        with (cloudscraper.create_scraper() as scraper):
+            response = scraper.get(URL)
+            response.raise_for_status()
+            return response.text
+    except cloudscraper.exceptions.CloudflareChallengeError:
+        return "Web sayfası indirilemedi! İnternetiniz var mı?"
 
 
 def _verileri_duzenle() -> zip:
-    beautiful_soup = BeautifulSoup(_web_sayfasini_indir(), "html.parser")
+    beautiful_soup = bs4.BeautifulSoup(_web_sayfasini_indir(), "html.parser")
     tum_hisseler = beautiful_soup.select("a.title.stock-code")
     gunluk_degisim_orani = beautiful_soup.select("td.dailyChangePercent")
 
@@ -90,5 +97,5 @@ def hisseleri_yazdir(oran: float):
 
 
 if __name__ == "__main__":
-    hisseleri_yazdir(-5)
+    hisseleri_yazdir(-2)
 ```
