@@ -15,7 +15,7 @@ Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kü
 
 Paketi kurduktan sonra aşağıdaki import işlemini yapınız: <br>
 
-_Paketi kurduktan sonra aşağıdaki import işlemini yapınız:_ <br>
+Paketi kurduktan sonra aşağıdaki import işlemini yapınız: <br>
 
 ```python
 from app.dosya.depremler import Depremler
@@ -23,21 +23,21 @@ from app.dosya.depremler import Depremler
 
 **"Tarih ve Saat, Konum, Şiddet, Enlem, Boylam, Derinlik"** şeklinde olan verileri;<br>
 
-_dizi olarak göstermek için -> [['2025-03-02 01:35:45', 'Dulkadiroğlu (Kahramanmaraş)', '1.8', '37.44472', '37.1425', '7']]..._<br>
+dizi olarak göstermek için -> [['2025-03-02 01:35:45', 'Dulkadiroğlu (Kahramanmaraş)', '1.8', '37.44472', '37.1425', '7']]...<br>
 
 ```python
 depremler = Depremler()
 print(depremler.tum_veriler())
 ```
 
-_satır satır ve istenen sayıda yazdırmak için -> 2025-03-02 01:35:45 - Dulkadiroğlu (Kahramanmaraş) - 1.8 - 37.44472 - 37.1425 - 7_<br>
+satır satır ve istenen sayıda yazdırmak için -> 2025-03-02 01:35:45 - Dulkadiroğlu (Kahramanmaraş) - 1.8 - 37.44472 - 37.1425 - 7<br>
 
 ```python
 depremler = Depremler()
 print(depremler.duzenli_veriler()())
 ```
 
-\_tablo halinde ve istenen sayıda yazdırmak için (Tablo hali buradan çok daha güzel görünüyor) ->
+tablo halinde ve istenen sayıda yazdırmak için (Tablo hali buradan çok daha güzel görünüyor) ->
 +---------------------+---------------------------+--------+--------+---------+-----------+
 | Tarih ve Saat | Konum | Şiddet | Enlem | Boylam | Derinlik |
 +=====================+===========================+========+========+=========+===========+
