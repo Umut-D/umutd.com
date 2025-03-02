@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Artan ve Azalan Hisseler
-date: 2024-05-30 03:43 +0300
+date: 2025-03-02 03:43 +0300
 categories: Programlar
 tags: Borsa, BIST, Borsa İstanbul, Midas, Hisse, Hisse Senedi
 excerpt: Az kodla çok iş yapılan Python'da basit bir kod parçasıyla web scraping ve BeatifulSoup'la verileri ayrıştırma paha biçilemez. C# veya Java'da ekstra efor sarf edip yapılacak pek çok şey Python'da sahiden çok daha kolay yapılabiliyor...
@@ -15,7 +15,7 @@ Aslında okuduğum bir yatırım kitabında "en çok yükselen ve düşen hissel
 
 Kodları çalıştırmak için [Repl.it](https://replit.com) sitesini öneririm. Buradaki veya Github'a eklediğim kodu kopyalarak kodları yürütebilirsiniz. Ayrıyetten, tüm bilgileri Midas'ın web sitesinden çektiğimi ve verilerin (seans vaktinde) 15 dakika gecikmeli olduğunu belirtmek isterim.
 
-**\*** İlk versiyonda Python'daki Request modülüyle veri çekiyordu. Ancak Midas web sitesi bu modüle engelleme getirdiği için kodlar çalışmamaya başlamıştı. Cloudflare'in anti-bot sayfasını atlamak için cloudscraper'a geçtim. Kodlar yine çalışmaya başladı.<br>
+**\*** Uygulama, ilk versiyonda Python'daki Request modülüyle veri çekiyordu. Ancak Midas web sitesi bu modüle engelleme getirdiği için kodlar çalışmamaya başladı. Cloudflare'in anti-bot sayfasını atlamak için cloudscraper modülüne geçtim. Sayfa istemini sorunsuz yapabildim ve kodlar yeniden çalışmaya başladı.<br>
 
 ```python
 import datetime
