@@ -28,7 +28,7 @@ Her ne kadar IP TV kanallarını ayrıntılı biçimde düzenlemek isteyen geli�
 
 **\*** Program _15~ MB boyutlu, 85.000~ adet kanalı 1~ saniyede_ açabiliyor.<br>
 **\*\*** IPTV listelerinde yer alan bazı kanal logolarının linkleri satırlarca uzunluğa sahip. Bu da, çok fazla kanallı IP TV listelerinde, başta VLC player olmak üzere pek çok uygulamanın yavaş açılmasına neden oluyor. Bu nedenle logo alanına programda hiçbir şekilde yer vermedim.<br>
-**\*\*\*** Kanalları silme işleminde _Threading veya async/await_ kullandım ve çok ciddi bir performans artışı sağlamayı başardım. 80.000'in üstünde kanalı 1 saniye içinde silindi :)
+**\*\*\*** Kanalları silme işleminde _Threading ve async/await_ kullandım ve çok ciddi bir performans artışı sağlamayı başardım. _80.000'in üstünde kanal 1~ saniye içinde_ silindi :)
 
 {:.tablo-ortali}
 | IPTV Editor <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.08-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | IPTV Editor (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
