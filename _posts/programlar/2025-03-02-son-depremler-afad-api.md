@@ -9,6 +9,8 @@ excerpt: Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin mod
 
 ![son-depremler-afad-api](/images/programlar/son-depremler-afad-api.png){: width="65%"}
 
+> **Teşekkür:** Son Depremler AFAD (API), yayınlandığı günden beri [4.000'e yakın indirilmiş](https://clickpy.clickhouse.com/dashboard/son-depremler-afad-api). İndiren ve kodları kullanan herkese teşekkürler. Bu basit API, faydalı olabildiyse ne mutlu.
+
 Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kütüphanesi olması. Sağolsun PyPI.org da bu altyapıyı çok güzel oluşturmuş. Kodunu yazıyorsun, karşıya yüklüyorsun. Sonrasında API, istenilen projede kullanıma hazır. Ben de bu gazla AFAD'ın resmi web sayfasında JSON olarak paylaştığı son depremleri çeken bir API oluşturmak istedim. Son 24 saatte Türkiye'de olan depremleri hem liste hem sıralı düz yazı hem de tablo olarak gösteriyor. Fazladan içine Unit Testler de ekledim.
 
 <b>Nasıl kullanılır:</b>
