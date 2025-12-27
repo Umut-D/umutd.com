@@ -37,8 +37,7 @@ depremler = Depremler()
 print(depremler.duzenli_veriler()())
 ```
 
-tablo halinde ve istenen sayıda yazdırmak için (Tablo hali buradan çok daha güzel görünüyor):
-
+tablo halinde ve istenen sayıda yazdırmak için:
 <div style="overflow-x: auto; margin: 20px 0;">
 <pre style="background-color: #f6f8fa; padding: 16px; border-radius: 6px; border: 1px solid #d0d7de;">
 +---------------------+------------------------------+--------+----------+-----------+-----------+
