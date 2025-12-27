@@ -38,10 +38,11 @@ print(depremler.duzenli_veriler()())
 ```
 
 tablo halinde ve istenen sayıda yazdırmak için (Tablo hali buradan çok daha güzel görünüyor) ->
-+---------------------+---------------------------+--------+--------+---------+-----------+
-| Tarih ve Saat | Konum | Şiddet | Enlem | Boylam | Derinlik |
-+=====================+===========================+========+========+=========+===========+
-| 2025-03-02 01:35:45 | Dulkadiroğlu (Kahramanmaraş) | 1.8 | 37.4447 | 37.1425 | 7 |
+
+{:.tablo-ortali}
+| Tarih ve Saat        | Konum                          | Şiddet | Enlem    | Boylam   | Derinlik |
+|:--------------------:|:------------------------------:|:------:|:--------:|:--------:|:--------:|
+| 2025-03-02 01:35:45  | Dulkadiroğlu (Kahramanmaraş)   | 1.8    | 37.4447  | 37.1425  | 7        |
 <br>
 
 ```python
