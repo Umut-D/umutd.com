@@ -1,7 +1,14 @@
 ---
 layout: page
-title: Programlar
-permalink: programlar
+title: Programlar- - ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Bing Duvar Kağıdı Değiştirici](/programlar/bing-duvar-kagidi-degistirici)
+- ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Ekşi Sözlük Debe (Dünün En Beğenilen Entry'leri)](/programlar/eksi-sozluk-debe)
+- ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Hava Durumu](/programlar/hava-durumu)
+- ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Hisse Senetlerim](/programlar/hisse-senetlerim)
+- ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [RSS Takip](/programlar/rss-takip)
+- [Site IP Sorgula](/programlar/site-ip-sorgula)ub](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Ekşi Sözlük Debe (Dünün En Beğenilen Entry'leri)](/programlar/eksi-sozluk-debe)
+- ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Hava Durumu](/programlar/hava-durumu)
+- ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Hisse Senetlerim](/programlar/hisse-senetlerim)
+- ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [RSS Takip](/programlar/rss-takip)malink: programlar
 image: pages/programlar.jpeg
 ---
 
@@ -37,7 +44,7 @@ Ve son olarak, ben bu arayüz tasarımı işini sahiden beceremiyorum. Estetik s
 - ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Bing Duvar Kağıdı Değiştirici](/programlar/bing-duvar-kagidi-degistirici)
 - ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Ekşi Sözlük Debe (Dünün En Beğenilen Entry’leri)](/programlar/eksi-sozluk-debe)
 - ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Hava Durumu](/programlar/hava-durumu)
-- - ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Hisse Senetlerim](/programlar/hisse-senetlerim)
+- ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Hisse Senetlerim](/programlar/hisse-senetlerim)
 - ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [RSS Takip](/programlar/rss-takip)
 - [Site IP Sorgula](/programlar/site-ip-sorgula)
 - ![Github](https://img.shields.io/badge/GitHub-gray.svg?style=flat) [Son Depremler](/programlar/son-depremler)
