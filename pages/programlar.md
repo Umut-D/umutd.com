@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programlar
-permalink: programlar
+permalink: /programlar
 image: pages/programlar.jpeg
 ---
 
