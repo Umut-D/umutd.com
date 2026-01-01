@@ -45,7 +45,7 @@ Ben bu soruların cevaplarımda **C#**, **Java** ve **Python** dilleriyle çöz�
 - [İlk Tekrar Etmeyen Karakter](/coding-challenges/ilk-tekrar-etmeyen-karakter)
 - [İstenen Sıradaki Fibonacci Sayısını Bul](/coding-challenges/istenen-siradaki-fibonacci-sayisini-bul)
 - [Karmaşık Harfler Kelime İçinde Var Mı?](/coding-challenges/karmasik-harfler-kelime-icinde-var-mi)
-- [Kelimelerin Tersini Cümledeki Yerinde Yaz](/coding-challenges/kelimelerin-tersini-cümledeki-yerinde-yaz)
+- [Kelimelerin Tersini Cümledeki Yerinde Yaz](/coding-challenges/kelimelerin-tersini-cumledeki-yerinde-yaz)
 - [Kelime Sonlarına "Ay" Ekle](/coding-challenges/kelime-sonlarina-ay-ekle)
 - [Kimler Beğenmiş?](/coding-challenges/kimler-begenmis)
 - [Kombinasyon Hesapla](/coding-challenges/kombinasyon-hesapla)

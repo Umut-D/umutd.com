@@ -22,7 +22,7 @@ Programın özelliklerine gelecek olursam;
 
 {:.tablo-ortali}
 | COVID-19 Türkiye Verileri <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | COVID-19 Türkiye Verileri (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
-|----------------------------------------- -|-------------------------------------------|
+|---------------------------------------------|-------------------------------------------|
 | **Boyut**: 92.9 KB                       | **Boyut**: 117 KB                         |
 | **Gereksinimler**: .Net Framework 4.5     | **Gereksinimler**: .Net Framework 4.5 |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C# |

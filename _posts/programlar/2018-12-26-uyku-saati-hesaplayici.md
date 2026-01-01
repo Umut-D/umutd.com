@@ -20,7 +20,7 @@ Mevcut süre ve evrelere göre uyuyup uyanmanız faydalı olur ya da olmaz bilmi
 
 {:.tablo-ortali}
 | Uyku Saati Hesaplayıcı<br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Uyku Saati Hesaplayıcı (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
-|----------------------------------------- -|-------------------------------------------|
+|---------------------------------------------|-------------------------------------------|
 | **Boyut**: 10.2 KB                       | **Boyut**:  122.3 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |

@@ -23,7 +23,7 @@ Bilgisayarla ilgili bir bölüm okuyup Fibonacci Sayılarına, Iterative (Döng�
 
 {:.tablo-ortali}
 | Fibonacci Sayıları <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.04-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Fibonacci Sayıları (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
-|----------------------------------------- -|-------------------------------------------|
+|---------------------------------------------|-------------------------------------------|
 | **Boyut**:  131 KB                       | **Boyut**:  642 KB                         |
 | **Gereksinimler**: .Net Framework 4.0      | **Gereksinimler**: .Net Framework 4.0     |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |

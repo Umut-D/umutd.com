@@ -19,7 +19,7 @@ Programın **Veri(ler)** alanındaki her satıra, Karekoda (QR Koduna) eklenmesi
 
 {:.tablo-ortali}
 | Çoklu Karekodu (QR Kodu) Oluştur <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Çoklu Karekodu (QR Kodu) Oluştur (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
-|----------------------------------------- -|-------------------------------------------|
+|---------------------------------------------|-------------------------------------------|
 | **Boyut**:  5.27 MB                       | **Boyut**:  5.61 MB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0 |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C# |

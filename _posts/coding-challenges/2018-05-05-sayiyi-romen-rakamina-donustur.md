@@ -9,7 +9,7 @@ redirect_from:
   - /etiket/romen-rakami/
 ---
 ### Soru
-Programcıya, rastgele bir sayı **(girilenSayi)** veriliyor ve mevcut sayiyi romen rakamına dönüştürmesi isteniyor.
+Programcıya, rastgele bir sayı **(girilenSayi)** veriliyor ve mevcut sayıyı romen rakamına dönüştürmesi isteniyor.
 
 **Not**: Girilen sayının en fazla 3999’a kadar olması isteniyor.
 
@@ -40,7 +40,7 @@ namespace ConsoleApp1
             string[] birlerBasamagi = {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
 
             // Girilen sayının basamak durumuna göre (Örn. 17) 10'a böl, kalan sayısı belirle.
-            // Elde edilen sayıyı ilgili diziden alarak değişkene ekle  
+            // Elde edilen sayıyı ilgili diziden alarak değişkene ekle
             romenRakami += binlerBasamagi[(girilenSayi / 1000) % 10];
             romenRakami += yuzlerBasamagi[(girilenSayi / 100) % 10];
             romenRakami += onlarBasamagi[(girilenSayi / 10) % 10];
@@ -58,23 +58,23 @@ namespace ConsoleApp1
 ```java
 public class Main {
     public static void main(String[] args) {
- 
+
         int girilenSayi = 8;
         String romenRakami = "";
- 
+
         // Romen rakamlarını dizi olarak belirt
         String[] binlerBasamagi = {"", "M", "MM", "MMM"};
         String[] yuzlerBasamagi = {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"};
         String[] onlarBasamagi = {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
         String[] birlerBasamagi = {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
- 
+
         // Girilen sayının basamak durumuna göre (Örn. 17) 10'a böl, kalan sayısı belirle.
         // Elde edilen sayıyı ilgili diziden alarak değişkene ekle
         romenRakami += binlerBasamagi[(girilenSayi / 1000) % 10];
         romenRakami += yuzlerBasamagi[(girilenSayi / 100) % 10];
         romenRakami += onlarBasamagi[(girilenSayi / 10) % 10];
         romenRakami += birlerBasamagi[girilenSayi % 10];
- 
+
         System.out.println("Sonuç: " + romenRakami);
     }
 }

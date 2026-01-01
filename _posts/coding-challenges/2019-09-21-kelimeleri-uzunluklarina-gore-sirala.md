@@ -7,7 +7,7 @@ tags: Sıralama, Kelime, Uzunluk
 excerpt: Programcıya, çeşitli kelimelerden oluşan bir dizi (girilenDizi) veriliyor. Sonrasında ise, dizideki kelimeleri baş harflerine göre değil, uzunluklarına göre sıralaması isteniyor.
 ---
 ### Soru
-Programcıya, çeşitli kelimelerden oluşan bir dizi **girilenDizi)** veriliyor. Sonrasında ise, dizideki kelimeleri baş harflerine göre değil, uzunluklarına göre sıralaması isteniyor.
+Programcıya, çeşitli kelimelerden oluşan bir dizi **(girilenDizi)** veriliyor. Sonrasında ise, dizideki kelimeleri baş harflerine göre değil, uzunluklarına göre sıralaması isteniyor.
 
 ### Örnek
 
@@ -27,7 +27,7 @@ internal class Program
     {
         string[] girilenDizi = {"Gözlük", "Ev", "Anahtar", "Kapı"};
 
-        // Diziyi sıralı olarak saklamak için Sorted List kullanmak en kolayı 
+        // Diziyi sıralı olarak saklamak için Sorted List kullanmak en kolayı
         SortedList<int, string> siraliListe = new SortedList<int, string>();
 
         // Her bir kelimenin uzunluğunu ve kelimeyi sıralı listeye ekle ve anahtar değere göre sırala

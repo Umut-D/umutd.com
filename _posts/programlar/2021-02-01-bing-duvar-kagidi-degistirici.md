@@ -21,7 +21,7 @@ Programın mantığı gayet basit. Bing’in farklı internet sitelerine bağlan
 
 {:.tablo-ortali}
 | Bing Duvar Kağıdı Değiştirici <br>![Versiyon](https://img.shields.io/badge/Versiyon-2.43-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |  Son Depremler (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
-|----------------------------------------- -|-------------------------------------------|
+|---------------------------------------------|-------------------------------------------|
 | **Boyut**: 123 KB                       | **Boyut**:  165 KB                         |
 | **Gereksinimler**: .Net Framework 4.0     | **Gereksinimler**: .Net Framework 4.0    |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |

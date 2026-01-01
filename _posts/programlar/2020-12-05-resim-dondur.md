@@ -22,7 +22,7 @@ Kimse korkmasın, bu sefer "acayip ihtiyacım oldu da yapma gereği duydum" deme
 
 {:.tablo-ortali}
 | Resim Döndür <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.02-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Resim Döndür (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Arşiv](https://img.shields.io/badge/Arşiv-orange.svg?style=flat)|
-|----------------------------------------- -|-------------------------------------------|
+|---------------------------------------------|-------------------------------------------|
 | **Boyut**: 115 KB                       | **Boyut**: 507 KB                         |
 | **Gereksinimler**: .Net Framework 3.5     | **Gereksinimler**: .Net Framework 4      |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C#                  |

@@ -19,7 +19,7 @@ Program, telefonda uygulamasını kullandığım (gerçi stop-loss özelliği ol
 
 {:.tablo-ortali}
 | Hisse Senetlerim <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Hisse Senetlerim (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
-|----------------------------------------- -|-------------------------------------------|
+|---------------------------------------------|-------------------------------------------|
 | **Boyut**: 755 KB | **Boyut**: 4.58 MB |
 | **Gereksinimler**: .Net Core 6 | **Gereksinimler**: .Net Core 6 |
 | **Platform**: Microsoft Windows | **Programlama Dili**: C# |

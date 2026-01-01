@@ -15,7 +15,7 @@ Başka zaman olsa "programın özelliklerine gelecek olursak" derdim. Fakat prog
 
 {:.tablo-ortali}
 | Hava Durumu <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Hava Durumu (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
-|----------------------------------------- -|-------------------------------------------|
+|---------------------------------------------|-------------------------------------------|
 | **Boyut**: 819 KB | **Boyut**: 1.51 MB |
 | **Gereksinimler**: .Net Core 6 | **Gereksinimler**: .Net Core 6 |
 | **Platform**: Microsoft Windows | **Programlama Dili**: C# |

@@ -18,7 +18,7 @@ Programın adı, özelliğinin teminatı. Ama izah edeyim. Gerek fotoğraf makin
 
 {:.tablo-ortali}
 | Fotoğraf Adlarını Tarihle Değiştir <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.00-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Fotoğraf Adlarını Tarihle Değiştir (Proje)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
-|----------------------------------------- -|-------------------------------------------|
+|---------------------------------------------|-------------------------------------------|
 | **Boyut**:  235 KB                       | **Boyut**:  431 KB                         |
 | **Gereksinimler**: .Net Framework 4.5     | **Gereksinimler**: .Net Framework 4.5 |
 | **Platform**: Microsoft Windows           | **Programlama Dili**: C# |

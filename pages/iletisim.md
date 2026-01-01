@@ -4,7 +4,7 @@ title: İletişim
 permalink: iletisim
 image: pages/iletisim.jpg
 ---
-Benle iletişime geçmek, bana soru sormak, lüzumsuz işlere dair fikir almak için aşağıdaki formu doldurmanız ve sadece Gönder'e basmanız yeterli. Özenle yazıp yolladığınız mesajınız dönüp dolaşıp bana bir şekilde ulaşacaktır. Yeter ki inanın...
+Benimle iletişime geçmek, bana soru sormak, lüzumsuz işlere dair fikir almak için aşağıdaki formu doldurmanız ve sadece Gönder'e basmanız yeterli. Özenle yazıp yolladığınız mesajınız dönüp dolaşıp bana bir şekilde ulaşacaktır. Yeter ki inanın...
 
 Yoğun olsam dahi, mesajınıza er ya da geç cevap vereceğimden şüpheniz olmasın. Olur ya cevap veremem, dalgınlığıma gelir, "Müdür niye cevap vermiyorsun? Ayıp ediyorsun" deyip çemkirdiğiniz ikinci bir mesajı göndermekten asla çekinmeyin. Sorun olmayacaktır.
 
