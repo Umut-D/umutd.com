@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Son Depremler AFAD (API)
-date: 2025-03-02 03:43 +0300
+date: 2025-11-11 07:43 +0300
 categories: Programlar
 tags: AFAD, Son Depremler, Deprem
 excerpt: Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kütüphanesi olması. Sağolsun PyPI.org da bu altyapıyı çok güzel oluşturmuş. Kodunu yazıyorsun, karşıya yüklüyorsun...
@@ -11,7 +11,15 @@ excerpt: Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin mod
 
 Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kütüphanesi olması. Sağolsun PyPI.org da bu altyapıyı çok güzel oluşturmuş. Kodunu yazıyorsun, karşıya yüklüyorsun. Sonrasında API, istenilen projede kullanıma hazır. Ben de bu gazla AFAD'ın resmi web sayfasında JSON olarak paylaştığı son depremleri çeken bir API oluşturmak istedim. Son 24 saatte Türkiye'de olan depremleri hem liste hem sıralı düz yazı hem de tablo olarak gösteriyor. Fazladan içine Unit Testler de ekledim.
 
-> **Teşekkür:** Son Depremler AFAD (API), yayınlandığı günden beri [4.000'e yakın indirilmiş](https://clickpy.clickhouse.com/dashboard/son-depremler-afad-api). İndiren ve kodları kullanan herkese teşekkürler. Bu basit API, faydalı olabildiyse ne mutlu.
+> **Teşekkür:** Son Depremler AFAD (API), yayınlandığı günden beri [5.200'e yakın indirilmiş](https://clickpy.clickhouse.com/dashboard/son-depremler-afad-api). İndiren ve kodları kullanan herkese teşekkürler. Bu basit API, faydalı olabildiyse ne mutlu.
+
+Bu paketle AFAD'ın son depremlerini, kendi Python projenizden tek satırla çekebiliyorsunuz. Tarihi, saati, yeri, büyüklüğü ve derinliği geliyor. İsterseniz son birkaç depremi alıp, belli bir büyüklüğün üstündekileri de süzebiliyorsunuz.
+
+Kurmak için terminale şunu yazmanız yeterli:
+
+```bash
+python -m pip install son-depremler-afad-api
+```
 
 <b>Nasıl kullanılır:</b>
 
@@ -43,7 +51,7 @@ tablo halinde ve istenen sayıda yazdırmak için:
 +---------------------+------------------------------+--------+----------+-----------+-----------+
 | Tarih ve Saat       | Konum                        | Şiddet | Enlem    | Boylam    | Derinlik  |
 +=====================+==============================+========+==========+===========+===========+
-| 2025-03-02 01:35:45 | Dulkadiroğlu (Kahramanmaraş) | 1.8    | 37.4447  | 37.1425   | 7         |
+| 2025-03-02 01:35:45 | Dulkadiroğlu (Kahramanmaraş) | 1.8    | 37.44472 | 37.1425   | 7         |
 +---------------------+------------------------------+--------+----------+-----------+-----------+
 </pre>
 </div>
@@ -53,10 +61,12 @@ depremler = Depremler()
 print(depremler.tablo_veriler())
 ```
 
+\* AFAD saatleri UTC olarak veriyor. Ben bunları Türkiye saatine çevirdim, o yüzden çıktıdaki saatler bizim saatle aynı görünüyor.
+
 <br>
 
 {:.tablo-ortali}
-| Son Depremler AFAD (API) (Github) <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.1-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Son Depremler AFAD (API) (PyPI.org)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
+| Son Depremler AFAD (API) (Github) <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.3-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Son Depremler AFAD (API) (PyPI.org)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
 |---------------------------------------------|-------------------------------------------|
 | **Platform**: Tüm platformlar | **Programlama Dili**: Python |
-| **Link**: [Link](https://github.com/umut-d/son-depremler-afad-api) | **Link**: [Link](https://pypi.org/project/son-depremler-afad-api/1.1.0/) |
+| **Link**: [Link](https://github.com/umut-d/son-depremler-afad-api) | **Link**: [Link](https://pypi.org/project/son-depremler-afad-api/1.3.0/) |
