@@ -9,7 +9,7 @@ excerpt: Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin mod
 
 ![son-depremler-afad-api](/images/programlar/son-depremler-afad-api.png){: width="65%"}
 
-Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kütüphanesi olması. Sağolsun PyPI.org da bu altyapıyı çok güzel oluşturmuş. Kodunu yazıyorsun, karşıya yüklüyorsun. Sonrasında API, istenilen projede kullanıma hazır. Ben de bu gazla AFAD'ın resmi web sayfasında JSON olarak paylaştığı son depremleri çeken bir API oluşturmak istedim. Son 24 saatte Türkiye'de olan depremleri hem liste hem sıralı düz yazı hem de tablo olarak gösteriyor. Fazladan içine Unit Testler de ekledim.
+Python'da kod yazmanın en keyifli yanlarından biri her bir şeyin modülü/kütüphanesi olması. Sağolsun PyPI.org da bu altyapıyı çok güzel oluşturmuş. Kodunu yazıyorsun, karşıya yüklüyorsun. Sonrasında API, istenilen projede kullanıma hazır. Ben de bu gazla AFAD'ın resmi web sayfasında JSON olarak paylaştığı son depremleri çeken bir API oluşturmak istedim. Son 24 saatte Türkiye'de olan depremleri hem liste hem sıralı düz yazı hem de tablo olarak gösteriyor. İçerise fazladan Unit Testler de ekledim.
 
 > **Teşekkür:** Son Depremler AFAD (API), yayınlandığı günden beri [5.200'e yakın indirilmiş](https://clickpy.clickhouse.com/dashboard/son-depremler-afad-api). İndiren ve kodları kullanan herkese teşekkürler. Bu basit API, faydalı olabildiyse ne mutlu.
 
@@ -62,8 +62,6 @@ print(depremler.tablo_veriler())
 ```
 
 \* AFAD saatleri UTC olarak veriyor. Ben bunları Türkiye saatine çevirdim, o yüzden çıktıdaki saatler bizim saatle aynı görünüyor.
-
-<br>
 
 {:.tablo-ortali}
 | Son Depremler AFAD (API) (Github) <br>![Versiyon](https://img.shields.io/badge/Versiyon-1.3-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Son Depremler AFAD (API) (PyPI.org)<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |
