@@ -36,4 +36,4 @@ Windows 10 veya 11 (64 bit) bilgisayarınızda ek bir kurulum gerektirmeden çal
 |---------------------------------------------|-------------------------------------------|
 | **Gereksinimler**: Windows 10 (17763) veya üzeri, internet bağlantısı | **Programlama Dili**: C# (.NET 10) |
 | **Platform**: Microsoft Windows (64 bit) | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici){:target="_blank"} |
-| **İndir**: [Link](https://www.dropbox.com/s/74blhl4c1l5u7p0/bing-duvar-kagidi-degistirici.zip?dl=1) | **Proje**: [Link](https://github.com/Umut-D/BingDuvarKagidiDegistirici/releases/download/v3.0.0/BingDuvarKagidiDegistirici-v3.0.0.zip) |
+| **İndir**: [Link](https://github.com/Umut-D/BingDuvarKagidiDegistirici/archive/refs/tags/v3.0.0.zip) | **Proje**: [Link](https://github.com/Umut-D/BingDuvarKagidiDegistirici/releases/download/v3.0.0/BingDuvarKagidiDegistirici-v3.0.0.zip) |
