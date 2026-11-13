@@ -32,7 +32,7 @@ Cep telefonumda her gün belirli bir saatte duvar kağıdını değiştiren bir 
 Windows 10 veya 11 (64 bit) bilgisayarınızda ek bir kurulum gerektirmeden çalışır. Bu proje artık geliştirilmiyor; yine de çalışmaya devam ediyor.
 
 {:.tablo-ortali}
-| Bing Duvar Kağıdı Değiştirici <br>![Versiyon](https://img.shields.io/badge/Versiyon-3.0.0-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) |[Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) |  Proje ve Kaynak Kod<br>![Dil](https://img.shields.io/badge/Dil-C%23-purple.svg?style=flat) |
+| Bing Duvar Kağıdı Değiştirici <br>![Versiyon](https://img.shields.io/badge/Versiyon-3.0.0-blueviolet.svg?style=flat) ![Durum](https://img.shields.io/badge/Durum-Çalışıyor-success.svg?style=flat) | Proje ve Kaynak Kod<br>![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg?style=flat) ![Dil](https://img.shields.io/badge/Dil-C%23-purple.svg?style=flat) |
 |---------------------------------------------|-------------------------------------------|
 | **Gereksinimler**: Windows 10 veya üzeri | **Programlama Dili**: C# (.NET 10) |
 | **Platform**: Microsoft Windows (64 bit) | **GitHub Sayfası**: [Link](https://github.com/Umut-D/Bing-Duvar-Kagidi-Degistirici){:target="_blank"} |
